@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <title>Healthy School Buildings</title>
   <script src="https://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+  <!--<![endif]-->
   <style type="text/css">
 
     .neighborhoods path {
@@ -27,6 +34,11 @@
       stroke: #fff;
     }
 
+    circle.school.active {
+      fill: #fbcc3c;
+      stroke-width: 2px;
+    }
+
     svg {
       border: solid 1px #eee;
       border-bottom: solid 1px #ccc;
@@ -45,6 +57,31 @@
       font-size: 18px;
     }
 
+    .hide {
+      display: none;
+    }
+
+    #details {
+      padding-top: 20px;
+    }
+
+    #details label {
+      font-weight: bold;
+    }
+
+    #details span {
+      color: #737373;
+    }
+
+    #details div.field {
+      padding-top: 10px;
+
+    }
+
+    legend.school {
+      font-size: 36px;
+    }
+
   </style>
 </head>
 <body>
@@ -54,12 +91,99 @@
       * Click on a bubble for school details.
     </div>
 
-    <div id="details">
+    <form id="details" class="hide pure-form pure-form-stacked">
+      <fieldset>
+        <legend class="school"></legend>
 
-    </div>
+        <div class="pure-g">
+          <div class="pure-u-1 pure-u-md-2-3">
+            <fieldset>
+              <div class="address field">
+                <label>Address</label>
+                <span id="street"></span><br/>
+                <span id="location"></span>
+              </div>
+
+              <div class="pure-control-group field">
+                <label for="year">Year Built</label>
+                <span id="year"></span>
+              </div>
+
+              <div class="pure-control-group field">
+                <label for="councilmanic">Councilmanic District &amp; Rep</label>
+                <span id="councilmanic"></span>
+              </div>
+            </fieldset>
+          </div>
+
+          <div class="pure-u-1 pure-u-md-1-3">
+            <div class="pure-form pure-form-aligned">
+              <fieldset>
+                <div class="pure-control-group field">
+                  <label for="ulcs">ULCS Code</label>
+                  <span id="ulcs"></span>
+                </div>
+
+                <div class="pure-control-group field">
+                  <label for="total-students">Total # of Students</label>
+                  <span id="total-students"></span>
+                </div>
+
+                <div class="pure-control-group field">
+                  <label for="fci">Facility Condition Index (FCI) %</label>
+                  <span id="fci"></span>
+                </div>
+
+                <div class="pure-control-group field">
+                  <label for="cac">Condition Assessment Cost (CAC) in Millions</label>
+                  <span id="cac"></span>
+                </div>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+      </fieldset>
+    </form>
   </div>
 </body>
 <script>
+
+  function details (selection) {
+    selection.each(function (data) {
+      var d = d3.select(this)
+                .classed('hide', false)
+
+      d.select('legend')
+       .text(function (d) {
+        return d.schoolnameulcs + ' (' + d.schooltype + ')'
+      })
+
+      d.select('.address #street')
+       .text(function (d) { return d.streetaddress })
+
+      d.select('.address #location')
+       .text(function (d) { return d.city + ', ' + d.state  + ' ' + d.zipcode })
+
+      d.select('#year')
+       .text(function (d) { return d.yearbuilt })
+
+      d.select('#councilmanic')
+       .text(function (d) { return d.councilmanicdistrictrep })
+
+      d.select('#ulcs')
+       .text(function (d) { return d.ulcscode })
+
+      d.select('#total-students')
+       .text(function (d) { return d.totalofstudents })
+
+      d.select('#fci')
+       .text(function (d) { return d3.format('%')(d['facilityconditionindexfci-']) })
+
+      d.select('#cac')
+       .text(function (d) { return d3.format('$')(d['conditionassessmentcostcac-inmillionsof']) })
+
+    })
+  }
 
   function fetch (next) {
     var url = 'https://spreadsheets.google.com/feeds/list/13lKZiT0nbnswab36cBlV37_Wb6ppikbHwzcx14Rvkog/default/public/values?alt=json'
@@ -141,11 +265,20 @@
       schools.enter()
              .append('circle')
                .attr('class', 'school')
-               .attr('r', 10)
+               .attr('r', function (d) {
+                 return d.totalofstudents / 100
+               })
                .attr('transform', centroid)
                .on('click', function (d) {
-                 d3.select('#details').html(JSON.stringify(d))
+                 schools.classed('active', false)
+                 d3.select(this)
+                   .classed('active', true)
+
+                 d3.select('#details')
+                   .datum(d)
+                   .call(details)
                })
+               .append('title').text(function (d) { return d.schoolnameulcs})
     })
   })
 
