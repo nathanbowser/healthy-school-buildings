@@ -36,7 +36,7 @@
 
     circle.school.active {
       fill: #fbcc3c;
-      stroke-width: 2px;
+      stroke-width: 1px;
     }
 
     svg {
@@ -75,7 +75,6 @@
 
     #details div.field {
       padding-top: 10px;
-
     }
 
     legend.school {
@@ -261,12 +260,19 @@
              .attr('d', path)
 
     fetch(function (err, _schools) {
+      var heatmap = d3.scale.threshold()
+                            .domain([.2, .4, .6])
+                            .range(['green', 'yellow', 'red', 'red'])
+
       schools = schools.data(_schools)
       schools.enter()
              .append('circle')
                .attr('class', 'school')
                .attr('r', function (d) {
                  return d.totalofstudents / 100
+               })
+               .style('fill', function (d) {
+                 return heatmap(d['facilityconditionindexfci-'])
                })
                .attr('transform', centroid)
                .on('click', function (d) {
