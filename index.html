@@ -87,6 +87,10 @@
       top: 10px;
     }
 
+    .help div {
+      padding: 2px;
+    }
+
   </style>
 </head>
 <body>
@@ -97,7 +101,17 @@
     </div>
     <div id="map"></div>
     <div class="help">
-      * Click on a bubble for school details.
+      <div>
+        * Click on a bubble for school details.
+      </div>
+      <div>
+        ** Bubble size reflects school student population as of the 2015-2016 school year.
+      </div>
+      <div>
+        *** The bubble color is related to the <em>“Facility Condition Index” [FCI]</em> which is a measure of school building
+            condition by relating the school’s <em>“Condition Assessment Cost” [CAC]</em>, the amount in millions of $$
+            required to adequately fix the school in relationship to the amount of $$ that would be required to replace the school.  FCI values &gt; than 40% are in Red; between 20% and 40% Yellow and &lt; 20% are in Green
+      </div>
     </div>
 
     <form id="details" class="hide pure-form pure-form-stacked">
