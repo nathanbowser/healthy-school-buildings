@@ -30,7 +30,6 @@
 
     circle.school {
       fill: #ff6600;
-      fill-opacity: .6;
       stroke: #fff;
     }
 
@@ -110,7 +109,8 @@
       <div>
         *** The bubble color is related to the <em>“Facility Condition Index” [FCI]</em> which is a measure of school building
             condition by relating the school’s <em>“Condition Assessment Cost” [CAC]</em>, the amount in millions of $$
-            required to adequately fix the school in relationship to the amount of $$ that would be required to replace the school.  FCI values &gt; than 40% are in Red; between 20% and 40% Yellow and &lt; 20% are in Green
+            required to adequately fix the school in relationship to the amount of $$ that would be required to replace the school.   <br />
+
       </div>
     </div>
 
@@ -317,13 +317,13 @@
 
     fetch(function (err, _schools) {
       var heatmap = d3.scale.threshold()
-                            .domain([.2, .4, .6])
-                            .range(['green', 'yellow', 'red', 'red'])
+                            .domain([.2, .4, .6, .8])
+                            .range(['#7dc61e', '#a9a10a', '#d17813', '#e85434', '#e73a62'])
         , size = d3.scale.linear()
                          .domain(d3.extent(_schools, function (d) {
                            return parseInt(d.totalofstudents, 10)
                          }))
-                         .range([3, 15])
+                         .range([5, 15])
       schools = schools.data(_schools)
       schools.enter()
              .append('circle')
