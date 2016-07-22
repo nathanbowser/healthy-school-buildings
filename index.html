@@ -5,14 +5,6 @@
   <title>Healthy School Buildings</title>
   <script src="//d3js.org/d3.v3.min.js"></script>
   <script src="d3-tip.js"></script>
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
-  <!--[if lte IE 8]>
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-old-ie-min.css">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
-  <!--<![endif]-->
-
   <style type="text/css">
 
     /* Tooltip Style */
@@ -79,7 +71,7 @@
       fill: #81abce;
     }
 
-    .column {
+    .container {
       max-width: 960px;
       position: relative;
       display: block;
@@ -111,28 +103,28 @@
       text-align: right;
     }
 
-    label, span {
-      font-size: 18px;
+    div.column {
+      width: 50%;
+    }
+
+    div.column.left {
+      float: left;
+    }
+
+    div.column.right {
+      float: right;
+    }
+
+    div.column .field {
+      padding-top: 10px;
+    }
+
+    div.column.right .field span {
+      float: right;
     }
 
     .hide {
       display: none;
-    }
-
-    .details {
-      padding-top: 20px;
-    }
-
-    .details label {
-      font-weight: bold;
-    }
-
-    .details span {
-      color: #737373;
-    }
-
-    .details div.field {
-      padding-top: 10px;
     }
 
     .buttons {
@@ -159,7 +151,7 @@
   </style>
 </head>
 <body>
-  <div class="column">
+  <div class="container">
     <div class="buttons">
       <button data-zoom="+1">Zoom In</button>
       <button data-zoom="-1">Zoom Out</button>
@@ -190,55 +182,48 @@
       </div>
     </div>
 
-    <form id="details" class="hide pure-form pure-form-stacked details">
+    <form id="details" class="hide details">
       <fieldset>
         <legend class="school"></legend>
-
-        <div class="pure-g">
-          <div class="pure-u-1 pure-u-md-2-3">
-            <div class="address field">
-              <label>Address</label><br />
-              <span id="street"></span><br/>
-              <span id="location"></span>
-            </div>
-
-            <div class="pure-control-group field">
-              <label for="year">Year Built</label>
-              <span id="year"></span>
-            </div>
-
-            <div class="pure-control-group field">
-              <label for="councilmanic">Councilmanic District &amp; Rep</label>
-              <span id="councilmanic"></span>
-            </div>
+        <div class="column left">
+          <div class="address field">
+            <label>Address</label><br />
+            <span id="street"></span><br/>
+            <span id="location"></span>
           </div>
 
-          <div class="pure-u-1 pure-u-md-1-3">
-            <div class="pure-form pure-form-aligned">
-              <fieldset>
-                <div class="pure-control-group field">
-                  <label for="ulcs">ULCS Code</label>
-                  <span id="ulcs"></span>
-                </div>
+          <div class="field">
+            <label for="year">Year Built</label>
+            <span id="year"></span>
+          </div>
 
-                <div class="pure-control-group field">
-                  <label for="total-students">Total # of Students</label>
-                  <span id="total-students"></span>
-                </div>
-
-                <div class="pure-control-group field">
-                  <label for="fci">Facility Condition Index (FCI) %</label>
-                  <span id="fci"></span>
-                </div>
-
-                <div class="pure-control-group field">
-                  <label for="cac">Condition Assessment Cost (CAC) in Millions</label>
-                  <span id="cac"></span>
-                </div>
-              </fieldset>
-            </div>
+          <div class="field">
+            <span id="councilmanic"></span>
           </div>
         </div>
+
+        <div class="column right">
+          <div class="field">
+            <label for="ulcs">ULCS Code</label>
+            <span id="ulcs"></span>
+          </div>
+
+          <div class="field">
+            <label for="total-students">Total # of Students</label>
+            <span id="total-students"></span>
+          </div>
+
+          <div class="field">
+            <label for="fci">Facility Condition Index (FCI) %</label>
+            <span id="fci"></span>
+          </div>
+
+          <div class="field">
+            <label for="cac">CAC (in Millions)</label>
+            <span id="cac"></span>
+          </div>
+        </div>
+
       </fieldset>
     </form>
   </div>
@@ -461,7 +446,6 @@
                  return tip.show.apply(this, arguments)
                })
                .on('mouseout', tip.hide)
-
     })
   })
 
