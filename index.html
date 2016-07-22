@@ -256,7 +256,6 @@
                           map.selectAll('path').attr('d', path)
                           schools.attr('transform', centroid)
                         })
-
   // draw philly
   d3.json('data/philly.geo.json', function (json) {
     var b = path.bounds(json)
@@ -320,13 +319,17 @@
       var heatmap = d3.scale.threshold()
                             .domain([.2, .4, .6])
                             .range(['green', 'yellow', 'red', 'red'])
-
+        , size = d3.scale.linear()
+                         .domain(d3.extent(_schools, function (d) {
+                           return parseInt(d.totalofstudents, 10)
+                         }))
+                         .range([3, 15])
       schools = schools.data(_schools)
       schools.enter()
              .append('circle')
                .attr('class', 'school')
                .attr('r', function (d) {
-                 return d.totalofstudents / 100
+                 return size(d.totalofstudents)
                })
                .style('fill', function (d) {
                  return heatmap(d['facilityconditionindexfci-'])
