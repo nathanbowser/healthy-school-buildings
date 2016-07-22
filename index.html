@@ -141,6 +141,17 @@
       top: 10px;
     }
 
+    .slider {
+      position: absolute;
+      right: 0;
+      margin-right: 10px;
+      top: 10px;
+    }
+
+    .slider label {
+      display: block;
+    }
+
     .help div {
       padding: 2px;
     }
@@ -152,6 +163,16 @@
     <div class="buttons">
       <button data-zoom="+1">Zoom In</button>
       <button data-zoom="-1">Zoom Out</button>
+    </div>
+    <div class="slider">
+      <div class="min">
+        <label>Min FCI (<span id="min-fci-output">0%</span>)</label>
+        <input type="range" id="min-fci" min="0" max="100" value="0">
+      </div>
+      <div class="max">
+        <label>Max FCI (<span id="max-fci-output">100%</span>)</label>
+        <input type="range" id="max-fci" min="0" max="100" value="100">
+      </div>
     </div>
     <div id="map"></div>
     <div class="help">
@@ -252,7 +273,13 @@
      .text(function (d) { return d.totalofstudents })
 
     d.select('#fci')
-     .text(function (d) { return d3.format('%')(d['facilityconditionindexfci-']) })
+     .text(function (d) {
+      var fci = d['facilityconditionindexfci-']
+      if (fci === 'UNKNOWN') {
+        return fci
+      }
+      return d3.format('%')(fci)
+    })
 
     d.select('#cac')
      .text(function (d) { return d3.format('$')(d['conditionassessmentcostcac-inmillionsof']) })
@@ -277,6 +304,18 @@
     })
   }
 
+  function filterFCI () {
+    var min = document.querySelector('#min-fci').value / 100
+      , max = document.querySelector('#max-fci').value / 100
+
+    schools.style('display', '')
+           .filter(function (d) {
+             var fci = d['facilityconditionindexfci-']
+             return fci < min || fci >= max //|| fci == 'UNKNOWN'
+           })
+           .style('display', 'none')
+  }
+
   function centroid (d) {
     return path.centroid({
       type: 'Feature',
@@ -290,6 +329,18 @@
   function transform (d) {
     return 'translate(' + centroid(d) + ')'
   }
+
+  // Handle the slider
+  d3.select('#min-fci')
+    .on('input', function () {
+      d3.select('#min-fci-output').text(this.value + '%')
+      filterFCI()
+    })
+  d3.select('#max-fci')
+    .on('input', function () {
+      d3.select('#max-fci-output').text(this.value + '%')
+      filterFCI()
+    })
 
   var width = 960
     , height = 600
