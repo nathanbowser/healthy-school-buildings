@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Healthy School Buildings</title>
   <script src="//d3js.org/d3.v3.min.js"></script>
+  <script src="d3-tip.js"></script>
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
   <!--[if lte IE 8]>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-old-ie-min.css">
@@ -11,7 +12,65 @@
   <!--[if gt IE 8]><!-->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
   <!--<![endif]-->
+
   <style type="text/css">
+
+    /* Tooltip Style */
+    .d3-tip {
+      line-height: 1;
+      font-weight: bold;
+      padding: 12px;
+      background: rgba(0, 0, 0, 0.6);
+      color: #fff;
+      border-radius: 2px;
+      pointer-events: none;
+    }
+
+    /* Creates a small triangle extender for the tooltip */
+    .d3-tip:after {
+      box-sizing: border-box;
+      display: inline;
+      font-size: 10px;
+      width: 100%;
+      line-height: 1;
+      color: rgba(0, 0, 0, 0.8);
+      position: absolute;
+      pointer-events: none;
+    }
+
+    /* Northward tooltips */
+    .d3-tip.n:after {
+      content: "\25BC";
+      margin: -1px 0 0 0;
+      top: 100%;
+      left: 0;
+      text-align: center;
+    }
+
+    /* Eastward tooltips */
+    .d3-tip.e:after {
+      content: "\25C0";
+      margin: -4px 0 0 0;
+      top: 50%;
+      left: -8px;
+    }
+
+    /* Southward tooltips */
+    .d3-tip.s:after {
+      content: "\25B2";
+      margin: 0 0 1px 0;
+      top: -8px;
+      left: 0;
+      text-align: center;
+    }
+
+    /* Westward tooltips */
+    .d3-tip.w:after {
+      content: "\25B6";
+      margin: -4px 0 0 -1px;
+      top: 50%;
+      left: 100%;
+    }
 
     .neighborhoods path {
       stroke: #fff;
@@ -60,24 +119,20 @@
       display: none;
     }
 
-    #details {
+    .details {
       padding-top: 20px;
     }
 
-    #details label {
+    .details label {
       font-weight: bold;
     }
 
-    #details span {
+    .details span {
       color: #737373;
     }
 
-    #details div.field {
+    .details div.field {
       padding-top: 10px;
-    }
-
-    legend.school {
-      font-size: 36px;
     }
 
     .buttons {
@@ -114,29 +169,27 @@
       </div>
     </div>
 
-    <form id="details" class="hide pure-form pure-form-stacked">
+    <form id="details" class="hide pure-form pure-form-stacked details">
       <fieldset>
         <legend class="school"></legend>
 
         <div class="pure-g">
           <div class="pure-u-1 pure-u-md-2-3">
-            <fieldset>
-              <div class="address field">
-                <label>Address</label>
-                <span id="street"></span><br/>
-                <span id="location"></span>
-              </div>
+            <div class="address field">
+              <label>Address</label><br />
+              <span id="street"></span><br/>
+              <span id="location"></span>
+            </div>
 
-              <div class="pure-control-group field">
-                <label for="year">Year Built</label>
-                <span id="year"></span>
-              </div>
+            <div class="pure-control-group field">
+              <label for="year">Year Built</label>
+              <span id="year"></span>
+            </div>
 
-              <div class="pure-control-group field">
-                <label for="councilmanic">Councilmanic District &amp; Rep</label>
-                <span id="councilmanic"></span>
-              </div>
-            </fieldset>
+            <div class="pure-control-group field">
+              <label for="councilmanic">Councilmanic District &amp; Rep</label>
+              <span id="councilmanic"></span>
+            </div>
           </div>
 
           <div class="pure-u-1 pure-u-md-1-3">
@@ -171,41 +224,40 @@
 </body>
 <script>
 
-  function details (selection) {
-    selection.each(function (data) {
-      var d = d3.select(this)
-                .classed('hide', false)
+  function details (data) {
+    var d = d3.select('#details')
+              .datum(data)
 
-      d.select('legend')
-       .text(function (d) {
-        return d.schoolnameulcs + ' (' + d.schooltype + ')'
-      })
-
-      d.select('.address #street')
-       .text(function (d) { return d.streetaddress })
-
-      d.select('.address #location')
-       .text(function (d) { return d.city + ', ' + d.state  + ' ' + d.zipcode })
-
-      d.select('#year')
-       .text(function (d) { return d.yearbuilt })
-
-      d.select('#councilmanic')
-       .text(function (d) { return d.councilmanicdistrictrep })
-
-      d.select('#ulcs')
-       .text(function (d) { return d.ulcscode })
-
-      d.select('#total-students')
-       .text(function (d) { return d.totalofstudents })
-
-      d.select('#fci')
-       .text(function (d) { return d3.format('%')(d['facilityconditionindexfci-']) })
-
-      d.select('#cac')
-       .text(function (d) { return d3.format('$')(d['conditionassessmentcostcac-inmillionsof']) })
-
+    d.select('legend')
+     .text(function (d) {
+      return d.schoolnameulcs + ' (' + d.schooltype + ')'
     })
+
+    d.select('.address #street')
+     .text(function (d) { return d.streetaddress })
+
+    d.select('.address #location')
+     .text(function (d) { return d.city + ', ' + d.state  + ' ' + d.zipcode })
+
+    d.select('#year')
+     .text(function (d) { return d.yearbuilt })
+
+    d.select('#councilmanic')
+     .text(function (d) { return d.councilmanicdistrictrep })
+
+    d.select('#ulcs')
+     .text(function (d) { return d.ulcscode })
+
+    d.select('#total-students')
+     .text(function (d) { return d.totalofstudents })
+
+    d.select('#fci')
+     .text(function (d) { return d3.format('%')(d['facilityconditionindexfci-']) })
+
+    d.select('#cac')
+     .text(function (d) { return d3.format('$')(d['conditionassessmentcostcac-inmillionsof']) })
+
+    return d.html()
   }
 
   function fetch (next) {
@@ -226,17 +278,26 @@
   }
 
   function centroid (d) {
-    return 'translate(' + path.centroid({
+    return path.centroid({
       type: 'Feature',
       geometry: {
         coordinates: d.coordinates.split(','),
         type: 'Point'
       }
-    }) + ')'
+    })
+  }
+
+  function transform (d) {
+    return 'translate(' + centroid(d) + ')'
   }
 
   var width = 960
     , height = 600
+    , tip = d3.tip()
+              .attr('class', 'd3-tip')
+              .html(function (d) {
+                return details(d)
+              })
     , map = d3.select('#map')
                 .append('svg')
                   .style('width', width)
@@ -254,8 +315,10 @@
                                     .scale(d3.event.scale)
 
                           map.selectAll('path').attr('d', path)
-                          schools.attr('transform', centroid)
+                          schools.attr('transform', transform)
                         })
+  map.call(tip)
+
   // draw philly
   d3.json('data/philly.geo.json', function (json) {
     var b = path.bounds(json)
@@ -324,6 +387,7 @@
                            return parseInt(d.totalofstudents, 10)
                          }))
                          .range([5, 15])
+
       schools = schools.data(_schools)
       schools.enter()
              .append('circle')
@@ -334,17 +398,19 @@
                .style('fill', function (d) {
                  return heatmap(d['facilityconditionindexfci-'])
                })
-               .attr('transform', centroid)
-               .on('click', function (d) {
-                 schools.classed('active', false)
-                 d3.select(this)
-                   .classed('active', true)
-
-                 d3.select('#details')
-                   .datum(d)
-                   .call(details)
+               .attr('transform', transform)
+               .on('mouseover', function (d) {
+                 tip.direction('s')
+                 // var c = centroid(d)
+                 // if (c[1] < height / 2) {
+                 //   tip.direction('s')
+                 // } else {
+                 //   tip.direction(c[0] < width / 2 ? 'e' : 'w')
+                 // }
+                 return tip.show.apply(this, arguments)
                })
-               .append('title').text(function (d) { return d.schoolnameulcs})
+               .on('mouseout', tip.hide)
+
     })
   })
 
