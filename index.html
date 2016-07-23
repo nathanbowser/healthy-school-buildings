@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Healthy School Buildings</title>
   <script src="//d3js.org/d3.v3.min.js"></script>
-  <script src="d3-tip.js"></script>
+  <script src="js/d3-tip.js"></script>
   <style type="text/css">
 
     /* Tooltip Style */
@@ -447,7 +447,7 @@
                })
                .on('mouseout', tip.hide)
                .on('click', function (d) {
-                 window.open('ulcs/' + d.ulcscode + '.pdf', '_self', false)
+                 window.open('school/index.html?ulcs=' + d.ulcscode + '', '_self', false)
                })
     })
   })

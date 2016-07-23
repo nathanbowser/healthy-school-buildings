@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Healthy School Buildings</title>
+  <script src="//d3js.org/d3.v3.min.js"></script>
+  <script src="../js/pdf.js"></script>
+  <style type="text/css">
+
+    .container {
+      max-width: 960px;
+      position: relative;
+      display: block;
+      margin: 0 auto;
+      padding: 0 10px;
+    }
+
+    .school-image {
+      width: 242px;
+      height: 200px;
+      padding: 10px;
+      margin: 10px;
+      border: 1px solid black;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>School Profile</h1>
+    <canvas id="profile" style="border:1px solid black;"></canvas>
+
+    <h1>Images</h1>
+    <div class="images-container"></div>
+
+    <hr />
+
+    <h1>Reports</h1>
+    <div class="report-container"></div>
+
+  </div>
+</body>
+<script>
+  var url = window.location.href
+    , regex = /[?&]ulcs(=([^&#]*)|&|#|$)/
+    , results = regex.exec(url)
+
+  function profile (ulcs) {
+    PDFJS.getDocument('../data/pdf/profile/' + ulcs + '.pdf').then(function (pdf) {
+      pdf.getPage(1).then(function (page) {
+        var scale = 1.5
+          , viewport = page.getViewport(scale)
+          , canvas = document.getElementById('profile')
+          , context = canvas.getContext('2d')
+
+        canvas.height = viewport.height
+        canvas.width = viewport.width
+
+        var renderContext = {
+          canvasContext: context,
+          viewport: viewport
+        }
+
+        page.render(renderContext)
+      })
+    })
+  }
+
+  function images (ulcs) {
+    d3.json('../data/image/' + ulcs + '/images.json', function (err, images) {
+      if (images) {
+        images.forEach(function (img) {
+          d3.select('.images-container')
+            .append('a')
+              .attr('href', '../data/image/' + ulcs + '/' + img)
+              .append('img')
+                .attr('class', 'school-image')
+                .attr('src', '../data/image/' + ulcs + '/' + img)
+        })
+      } else {
+        d3.select('.images-container').html('No Images Found')
+      }
+    })
+  }
+
+  function reports (ulcs) {
+    PDFJS.getDocument('../data/pdf/report/' + ulcs + '.pdf').then(function (pdf) {
+      var cur = 1
+
+      var handlePage = function (page) {
+        var viewport = page.getViewport(1.5)
+          , canvas = document.createElement('canvas')
+          , context = canvas.getContext('2d')
+
+        canvas.style.display = 'block'
+        canvas.height = viewport.height
+        canvas.width = viewport.width
+
+        //Draw it on the canvas
+        page.render({canvasContext: context, viewport: viewport})
+
+        //Add it to the web page
+        document.querySelector('.report-container')
+                .appendChild(canvas)
+
+        //Move to next page
+        cur++
+        if (pdf !== null && cur <= pdf.numPages) {
+          pdf.getPage(cur).then(handlePage)
+        }
+      }
+
+      pdf.getPage(cur).then(handlePage)
+    }, function (err) {
+      d3.select('.report-container').html('No Reports Found')
+    })
+  }
+
+  if (!results || !results[2]) {
+    document.querySelector('.container').innerHTML = 'No School Data Found'
+  } else {
+    var ulcs = decodeURIComponent(results[2].replace(/\+/g, ' '))
+    profile(ulcs)
+    reports(ulcs)
+    images(ulcs)
+  }
+
+</script>
