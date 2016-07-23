@@ -446,6 +446,9 @@
                  return tip.show.apply(this, arguments)
                })
                .on('mouseout', tip.hide)
+               .on('click', function (d) {
+                 window.open('ulcs/' + d.ulcscode + '.pdf', '_self', false)
+               })
     })
   })
 
