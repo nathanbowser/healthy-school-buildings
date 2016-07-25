@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Healthy School Buildings</title>
   <script src="//d3js.org/d3.v3.min.js"></script>
+  <script src="js/sifter.min.js"></script>
   <script src="js/d3-tip.js"></script>
   <style type="text/css">
 
@@ -243,12 +244,6 @@
 </body>
 <script>
 
-  var matchOperatorsRe = /[|\\{}()[\]^$+*?.]/g
-
-  function regexEscape (str) {
-    return str.replace(matchOperatorsRe, '\\$&')
-  }
-
   function details (data) {
     var d = d3.select('#details')
               .datum(data)
@@ -312,10 +307,16 @@
     var min = document.querySelector('#min-fci').value / 100
       , max = document.querySelector('#max-fci').value / 100
       , term = document.querySelector('#search').value.trim()
-      , re = new RegExp(regexEscape(term), 'ig')
+      , sifted = sifter.search(term, {
+                         fields: ['schoolnameulcs', '_schoolnameulcs', 'ulcs', 'streetaddress', 'zipcode']
+                       })
+                       .items
+                       .map(function (r) {
+                         return r.id
+                       })
 
     schools.style('display', '')
-           .filter(function (d) {
+           .filter(function (d, i) {
              var fci = d['facilityconditionindexfci-']
                , hidden = fci < min || fci >= max //|| fci == 'UNKNOWN'
 
@@ -323,12 +324,7 @@
                return true
              }
 
-             re.lastIndex = 0
-
-             if (term) {
-               hidden = !re.test(d.schoolnameulcs)
-             }
-             return hidden
+             return sifted.indexOf(i) === -1
            })
            .style('display', 'none')
   }
@@ -391,6 +387,8 @@
                           map.selectAll('path').attr('d', path)
                           schools.attr('transform', transform)
                         })
+    , sifter
+
   map.call(tip)
 
   // draw philly
@@ -461,6 +459,11 @@
                            return parseInt(d.totalofstudents, 10)
                          }))
                          .range([5, 15])
+
+      sifter = new Sifter(_schools.map(function (_school) {
+        _school._schoolnameulcs = _school.schoolnameulcs.replace(/\s/g, '')
+        return _school
+      }))
 
       schools = schools.data(_schools)
       schools.enter()
