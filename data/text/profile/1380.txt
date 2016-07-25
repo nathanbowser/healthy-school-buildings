@@ -1,0 +1,61 @@
+School Profile
+Southwest
+   Morton (1380)
+   2501 S 63rd St, Philadelphia, PA  19142
+General Information                                                           Inventory
+Status:                Open                                                   S.F. (Building):                  87,000      Capacity:                     795
+Start Date:            7/1/1971                                               S.F. (Footprint):                 27,966      Year Built:                  1971
+Level:                 Elementary School                                      S.F. (Site):        49,129        1.1 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Zena Sacks
+
+Geographic Information                                                        Facilities Condition Index (FCI)**
+Councilmanic              District 2 (Kenyatta Johnson)                        Condition Assessment Cost:                 $15,957,835
+Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                          $28,884,000
+Legislative               PA Rep 185 (Maria Donatucci)                         Facilities Condition Index:                   0.4711
+Senatorial                Senate Rep 8 (Anthony H. Williams)
+FMS Region                Sharer                                               ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Southwest
+Police District           12th District
+
+Enrollment History
+    Year      Grades PreK K   01 02 03 04 05                                  06    07       08    09      10      11       12    UG           Total
+  2012/13       K‐5   0   139 139 154 111 128 120                              0     0       0     0       0        0        0     0                      791
+  2011/12       K‐5   0   138 175 114 114 144 115                              0     0       0     0       0        0        0     0                      800
+  2010/11       K‐5   0   152 123 135 128 123 104                              0     0       0     0       0        0        0     0                      765
+  2009/10       K‐5   0   122 144 131 148 124 116                              0     0       0     0       0        0        0     0                      785
+  2008/09       K‐5   0   139 140 141 129 120 118                              0     0       0     0       0        0        0     0                      787
+  2007/08       K‐5   0   132 134 139 138 141 148                              0     0       0     0       0        0        0     0                      832
+  2006/07       K‐5   0   126 155 144 159 145 100                              0     0       0     0       0        0        0     0                      829
+Current Enrollment Details
+In / Out Boundary                     Special Education       Racial Breakdown                                    Transportation
+IN Boundary            748 95%        AS-             12      American Indian / Alaska Nativ        1 0%          Bus-Hazardous                            13
+OUT of Boundary         42 5%         ES-             17      Asian                                34 4%          Bus-Overcrowding                          1
+                                                      29      Black / African American            681 86%         Bus-Special Ed                           33
+                                                              Hispanic / Latino                    26 3%          Trans Pass                                1
+                                                              Multi Racial / Other                 38 5%                                                   48
+                                                              White                                11 1%
+
+Academic Measures                   Climate Measures                    AYP                                              Students Live In Boundary
+Reading K-3 or Better:    34%       Avg Daily Attendance:      93%     2011/12      Corrective Action II                 Neighborhood (SDP) In:          730
+AGI Math:                  -3       10+ Absences:              43%     2010/11      Making Progress CA I                 Neighborhood (SDP) Out:         88
+AGI Reading:              -2.7      At Least 1 OSS:            10%     2009/10      Corrective Action I                  Neighborhood (Ren):             12
+Adv/Prof Math (E-M):    41          VI Per 100:                0.63    2008/09      Making Progress SI II                Neighborhood (Charter):          1
+Adv/Prof Reading (E-M): 33          Persistently Dangerous:     No     2007/08      School Improvement II                Charter:                        241
+Adv/Prof Math (HS):                                                    2006/07      School Improvement I                 CTE:                             0
+                                                                       2005/06      Warning
+Adv/Prof Reading (HS):                                                                                                   Special Admission:               5
+                                                                       2004/05      Made AYP
+On-Track/Time Grad:                                                                                                      Citywide Admission:              0
+                                                                       2003/04      Made AYP
+Graduation Rate:                                                                                                         Military Academy:                0
+Grad College (yr 1):                                                                                                     Other:                          6
+                                                                                                                                                       1083
+
+
+
+
+                                                                                                                                                   12/13/2012
+

@@ -1,0 +1,59 @@
+School Profile
+North‐Central
+   Blaine (4220)
+   3001 W Berks St, Philadelphia, PA  19121
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):                   88,317      Capacity:                     775
+Start Date:            7/1/1966                                                S.F. (Footprint):                  36,616      Year Built:                  1966
+Level:                 Elementary School                                       S.F. (Site):        116,092        2.7 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Gianeen Powell-Wali
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 5 (Darrell Clarke)                           Condition Assessment Cost:                  $16,053,538
+Congressional             Congressional District 2 (Chaka Fattah)               Replacement Cost:                           $29,321,244
+Legislative               PA Rep 190 (Vanessa Lowery Brown)                     Facilities Condition Index:                    0.5251
+Senatorial                Senate Rep 7 (Vincent J. Hughes)
+FMS Region                Britt                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           22nd District
+
+Enrollment History
+    Year      Grades PreK             K      01   02      03     04     05     06    07       08     09      10      11       12      UG         Total
+  2012/13       K‐8   0               44     28   43      48     22     25     39    28       24     0       0        0        0       0                    301
+  2011/12       K‐8   0               24     49   41      25     20     43     28    24       29     0       0        0        0       0                    283
+  2010/11       K‐8   0               41     37   26      24     43     23     19    27       27     0       0        0        0       0                    267
+  2009/10       K‐8   0               41     33   25      41     32     25     23    28       40     0       0        0        0       0                    288
+  2008/09       K‐8   0               42     31   43      28     29     30     29    36       46     0       0        0        0       0                    314
+  2007/08       K‐8   0               36     45   38      33     42     31     34    41       48     0       0        0        0       0                    348
+  2006/07       K‐8   0               49     39   41      42     44     35     41    57       58     0       0        0        0       0                    406
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown                                     Transportation
+IN Boundary            230 77%        AS-            22        Black / African American            285 95%          Bus-Special Ed                           36
+OUT of Boundary         69 23%        ES-             2        Hispanic / Latino                     9 3%           Trans Pass-Trans Pass Eligible            4
+                                      LSS-           16        Multi Racial / Other                  6 2%                                                    40
+                                                     40        White                                 1 0%
+
+Academic Measures                  Climate Measures                      AYP                                               Students Live In Boundary
+Reading K-3 or Better:    52%      Avg Daily Attendance:        92%     2011/12      Warning                               Neighborhood (SDP) In:          224
+AGI Math:                 1.7      10+ Absences:                49%     2010/11      Made AYP                              Neighborhood (SDP) Out:         76
+AGI Reading:              -1.6     At Least 1 OSS:              15%     2009/10      Making Progress CA II3                Neighborhood (Ren):             11
+Adv/Prof Math (E-M):    63         VI Per 100:                  1.10    2008/09      Corrective Action II3                 Neighborhood (Charter):          1
+Adv/Prof Reading (E-M): 49         Persistently Dangerous:      No      2007/08      Making Progress CA II2                Charter:                        76
+Adv/Prof Math (HS):                                                     2006/07      Corrective Action II2                 CTE:                             0
+                                                                        2005/06      Making Progress
+Adv/Prof Reading (HS):                                                                                                     Special Admission:               7
+                                                                        2004/05      Corrective Action II2
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                        2003/04      Corrective Action II2
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           1
+                                                                                                                                                           396
+
+
+
+
+                                                                                                                                                     12/13/2012
+

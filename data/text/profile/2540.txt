@@ -1,0 +1,61 @@
+School Profile
+South‐Central
+   Key (2540)
+   2230 S 08th St, Philadelphia, PA  19148
+General Information                                                           Inventory
+Status:                Open                                                   S.F. (Building):                  49,000      Capacity:                     556
+Start Date:            7/1/1889                                               S.F. (Footprint):                 16,612      Year Built:                  1889
+Level:                 Elementary School                                      S.F. (Site):        33,458        0.8 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Norris Eldridge
+
+Geographic Information                                                        Facilities Condition Index (FCI)**
+Councilmanic              District 1 (Mark Squilla)                            Condition Assessment Cost:                  $7,402,063
+Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                          $16,268,000
+Legislative               PA Rep 184 (William F. Keller)                       Facilities Condition Index:                   0.4341
+Senatorial                Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region                DiOrio                                               ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             South-Central
+Police District           3rd District
+
+Enrollment History
+    Year      Grades PreK             K    01     02     03     04     05     06    07       08    09      10      11       12    UG           Total
+  2012/13       K‐6   0               80   89     70     82     63     84     55     0       0     0       0        0        0     0                      523
+  2011/12       K‐6   0               87   68     79     70     81     50     60     0       0     0       0        0        0     0                      495
+  2010/11       K‐6   0               66   72     67     73     60     51     45     0       0     0       0        0        0     0                      434
+  2009/10       K‐6   0               77   63     77     56     53     44     51     0       0     0       0        0        0     0                      421
+  2008/09       K‐6   0               60   72     55     54     41     53     72     0       0     0       0        0        0     0                      407
+  2007/08       K‐6   0               62   61     60     39     60     76     41     0       0     0       0        0        0     0                      399
+  2006/07       K‐5   0               58   59     38     62     69     49      0     0       0     0       0        0        0     0                      335
+Current Enrollment Details
+In / Out Boundary                                             Racial Breakdown                                    Transportation
+IN Boundary            435 83%                                Asian                               264 50%         Bus Rider                                   1
+OUT of Boundary         88 17%                                Black / African American             72 14%                                                     1
+                                                              Hispanic / Latino                   122 23%
+                                                              Multi Racial / Other                 20 4%
+                                                              Native Hawaiian / Other Pacifi        1 0%
+                                                              White                                44 8%
+
+Academic Measures                   Climate Measures                    AYP                                              Students Live In Boundary
+Reading K-3 or Better:    46%       Avg Daily Attendance:      95%      2011/12     Warning                              Neighborhood (SDP) In:          432
+AGI Math:                  1.4      10+ Absences:              28%      2010/11     Made AYP                             Neighborhood (SDP) Out:         118
+AGI Reading:               -3.7     At Least 1 OSS:            3%       2009/10     Made AYP                             Neighborhood (Ren):              1
+Adv/Prof Math (E-M):    67          VI Per 100:                0.20     2008/09     Made AYP                             Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 57          Persistently Dangerous:     No      2007/08     Warning                              Charter:                        70
+Adv/Prof Math (HS):                                                     2006/07     Made AYP                             CTE:                             0
+                                                                        2005/06     Made AYP
+Adv/Prof Reading (HS):                                                                                                   Special Admission:               6
+                                                                        2004/05     Made AYP
+On-Track/Time Grad:                                                                                                      Citywide Admission:              0
+                                                                        2003/04     Making Progress
+Graduation Rate:                                                                                                         Military Academy:                0
+Grad College (yr 1):                                                                                                     Other:                           0
+                                                                                                                                                         627
+
+
+
+
+                                                                                                                                                   12/13/2012
+

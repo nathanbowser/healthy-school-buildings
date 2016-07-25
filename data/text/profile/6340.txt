@@ -1,0 +1,60 @@
+School Profile
+Northwest
+   Pennell (6340)
+   1800 Nedro Ave, Philadelphia, PA  19141
+General Information                                                              Inventory
+Status:                Open                                                      S.F. (Building):                  70,498      Capacity:                     517
+Start Date:            7/1/1927                                                  S.F. (Footprint):                 24,309      Year Built:                  1927
+Level:                 Elementary School                                         S.F. (Site):        88,855        2.0 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Jason Harris
+
+Geographic Information                                                           Facilities Condition Index (FCI)**
+Councilmanic              District 8 (Cindy Bass)                                 Condition Assessment Cost:                 $12,854,222
+Congressional             Congressional District 1 (Robert A. Brady)              Replacement Cost:                          $23,405,336
+Legislative               PA Rep 202 (Mark B. Cohen)                              Facilities Condition Index:                   0.5286
+Senatorial                Senate Rep 4 (LeAnna Washington)
+FMS Region                Holman                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northwest
+Police District           35th District
+
+Enrollment History
+    Year      Grades PreK             K       01    02      03     04     05     06    07       08    09      10      11       12      UG         Total
+  2012/13       K‐6   0               62      66    52      52     61     59     43     0       0     0       0        0        0       0                    395
+  2011/12       K‐6   0               69      66    63      65     74     42     52     0       0     0       0        0        0       0                    431
+  2010/11       K‐6   0               74      66    59      79     51     47     64     0       0     0       0        0        0       0                    440
+  2009/10       K‐6   0               65      68    79      53     45     56     54     0       0     0       0        0        0       0                    420
+  2008/09       K‐6   0               55      73    60      53     51     54     55     0       0     0       0        0        0       0                    401
+  2007/08       K‐6   0               70      72    55      62     62     58     67     0       0     0       0        0        0       0                    446
+  2006/07       K‐6   0               78      58    72      59     64     57     70     0       0     0       0        0        0       0                    458
+Current Enrollment Details
+In / Out Boundary                      Special Education         Racial Breakdown
+IN Boundary            366 93%         ES-              1        American Indian / Alaska Nativ        1 0%
+OUT of Boundary         28 7%          LSS-             1        Black / African American            378 96%
+                                                        2        Hispanic / Latino                     3 1%
+                                                                 Multi Racial / Other                  6 2%
+                                                                 White                                 7 2%
+
+Academic Measures                     Climate Measures                     AYP                                              Students Live In Boundary
+Reading K-3 or Better:    46%         Avg Daily Attendance:       92%     2011/12      Corrective Action II5                Neighborhood (SDP) In:          357
+AGI Math:                 -2.6        10+ Absences:               46%     2010/11      Corrective Action II4                Neighborhood (SDP) Out:         62
+AGI Reading:              -2.8        At Least 1 OSS:             17%     2009/10      Corrective Action II4                Neighborhood (Ren):             10
+Adv/Prof Math (E-M):       36         VI Per 100:                 5.08    2008/09      Making Progress CA II4               Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 30            Persistently Dangerous:     No      2007/08      Corrective Action II4                Charter:                        115
+Adv/Prof Math (HS):                                                       2006/07      Corrective Action II3                CTE:                             0
+                                                                          2005/06      Making Progress
+Adv/Prof Reading (HS):                                                                                                      Special Admission:               9
+                                                                          2004/05      Corrective Action II2
+On-Track/Time Grad:                                                                                                         Citywide Admission:              0
+                                                                          2003/04      Making Progress
+Graduation Rate:                                                                                                            Military Academy:                0
+Grad College (yr 1):                                                                                                        Other:                           3
+                                                                                                                                                            556
+
+
+
+
+                                                                                                                                                      12/13/2012
+

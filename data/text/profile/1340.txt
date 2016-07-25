@@ -1,0 +1,61 @@
+School Profile
+Southwest
+   Lea (1340)
+   4700 Locust St, Philadelphia, PA  19139
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):                  70,000      Capacity:                     716
+Start Date:            7/1/1914                                                 S.F. (Footprint):                 22,546      Year Built:                  1914
+Level:                 Elementary School                                        S.F. (Site):        87,310        2.0 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Lisa Bell Chiles
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 3 (Jannie Blackwell)                          Condition Assessment Cost:                 $17,754,231
+Congressional             Congressional District 2 (Chaka Fattah)                Replacement Cost:                          $23,240,000
+Legislative               PA Rep 188 (James R. Roebuck Jr.)                      Facilities Condition Index:                   0.7206
+Senatorial                Senate Rep 7 (Vincent J. Hughes)
+FMS Region                Loftus                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Southwest
+Police District           18th District
+
+Enrollment History
+    Year      Grades PreK             K      01   02       03     04     05     06    07       08    09      10      11       12    UG           Total
+  2012/13       K‐8   0               59     65   54       52     45     32     27    29       38    0       0        0        0     0                      401
+  2011/12       K‐8   0               54     51   48       42     36     28     21    40       41    0       0        0        0     0                      361
+  2010/11       K‐8   0               44     62   46       47     41     25     38    47       47    0       0        0        0     0                      397
+  2009/10       K‐8   0               70     48   49       46     29     45     48    55       44    0       0        0        0     0                      434
+  2008/09       K‐8   0               52     55   59       27     44     49     52    50       43    0       0        0        0     0                      431
+  2007/08       K‐8   0               51     61   31       44     43     42     46    40       52    0       0        0        0     0                      410
+  2006/07       K‐8   0               54     33   47       44     38     34     38    55       56    0       0        0        0     0                      399
+Current Enrollment Details
+In / Out Boundary                     Special Education         Racial Breakdown                                    Transportation
+IN Boundary            206 53%        AS-             15        American Indian / Alaska Nativ        1 0%          Bus-Emergency                             7
+OUT of Boundary        184 47%        ES-              2        Asian                                36 9%          Bus-Overcrowding                         13
+                                      LSS-             1        Black / African American            324 81%         Bus-Special Ed                           14
+                                                      18        Hispanic / Latino                     5 1%          Trans Pass                                2
+                                                                Multi Racial / Other                 28 7%          Trans Pass-Trans Pass Eligible            9
+                                                                White                                 7 2%                                                   45
+
+Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
+Reading K-3 or Better:    40%       Avg Daily Attendance:        93%     2011/12      Corrective Action II6                Neighborhood (SDP) In:          203
+AGI Math:                  4.8      10+ Absences:                42%     2010/11      Corrective Action II5                Neighborhood (SDP) Out:         59
+AGI Reading:               2.5      At Least 1 OSS:              7%      2009/10      Making Progress CA II4               Neighborhood (Ren):              5
+Adv/Prof Math (E-M):    42          VI Per 100:                  1.68    2008/09      Corrective Action II4                Neighborhood (Charter):          3
+Adv/Prof Reading (E-M): 42          Persistently Dangerous:       No     2007/08      Corrective Action II3                Charter:                        59
+Adv/Prof Math (HS):                                                      2006/07      Making Progress                      CTE:                             0
+                                                                         2005/06      Corrective Action II2
+Adv/Prof Reading (HS):                                                                                                     Special Admission:               6
+                                                                         2004/05      Making Progress
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                         2003/04      Corrective Action II2
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           4
+                                                                                                                                                           339
+
+
+
+
+                                                                                                                                                     12/13/2012
+

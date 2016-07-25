@@ -1,0 +1,60 @@
+School Profile
+North‐Central
+   Feltonville Intermediate (7310)
+   238 E Wyoming Ave, Philadelphia, PA  19120
+General Information                                                        Inventory
+Status:           Open                                                     S.F. (Building):                  84,000      Capacity:                     696
+Start Date:       7/1/1908                                                 S.F. (Footprint):                 41,692      Year Built:                  1936
+Level:            Elementary School                                        S.F. (Site):        77,353        1.8 acs     No. of Floors:           3
+Type:             Neighborhood
+Admit Type:       Neighborhood
+Managed:          District
+Principal:        Lisa Matthews
+
+Geographic Information                                                     Facilities Condition Index (FCI)**
+Councilmanic          District 7 (Maria D. Quiñones-Sánchez)                Condition Assessment Cost:                           $0
+Congressional         Congressional District 1 (Robert A. Brady)            Replacement Cost:                          $27,888,000
+Legislative           PA Rep 180 (Angel Cruz)                               Facilities Condition Index:                   0.6475
+Senatorial            Senate Rep 2 (Christine M. Tartaglione)
+FMS Region            Sharer                                                ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area         North-Central
+Police District       25th District
+
+Enrollment History
+    Year      Grades PreK         K      01   02      03     04    05      06    07       08    09      10      11       12      UG         Total
+  2012/13       3‐5   0           0       0    0     213    217    198      0     0       0     0       0        0        0       0                    628
+  2011/12       3‐5   0           0       0    0     241    218    224      0     0       0     0       0        0        0       0                    683
+  2010/11       3‐5   0           0       0    0     212    226    228      0     0       0     0       0        0        0       0                    666
+  2009/10       3‐5   0           0       0    0     224    239    239      0     0       0     0       0        0        0       0                    702
+  2008/09       3‐5   0           0       0    0     249    249    239      0     0       0     0       0        0        0       0                    737
+  2007/08       3‐5   0           0       0    0     250    263    237      0     0       0     0       0        0        0       0                    750
+  2006/07       3‐5   0           0       0    0     254    243    249      0     0       0     0       0        0        0       0                    746
+Current Enrollment Details
+In / Out Boundary                 Special Education        Racial Breakdown                                    Transportation
+IN Boundary         598 95%       AS-            6         Asian                                44 7%          Bus-Special Ed                              6
+OUT of Boundary      30 5%        ES-            2         Black / African American            143 23%         Trans Pass                                  2
+                                  LSS-           1         Hispanic / Latino                   396 63%                                                     8
+                                                 9         Multi Racial / Other                 34 5%
+                                                           White                                11 2%
+
+                                                                     AYP                                              Students Live In Boundary
+                                                                    2011/12      Warning                              Neighborhood (SDP) In:          586
+                                                                    2010/11      Made AYP                             Neighborhood (SDP) Out:         21
+                                                                    2009/10      Making Progress CA II                Neighborhood (Ren):              6
+                                                                    2008/09      Corrective Action II                 Neighborhood (Charter):          0
+                                                                    2007/08      Corrective Action I                  Charter:                        111
+                                                                    2006/07      School Improvement II                CTE:                             0
+                                                                    2005/06      School Improvement I
+                                                                                                                      Special Admission:               6
+                                                                    2004/05      Warning
+                                                                                                                      Citywide Admission:              0
+                                                                    2003/04      Made AYP
+                                                                                                                      Military Academy:                0
+                                                                                                                      Other:                           2
+                                                                                                                                                      732
+
+
+
+
+                                                                                                                                                12/13/2012
+

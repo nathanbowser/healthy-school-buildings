@@ -1,0 +1,61 @@
+School Profile
+North‐Central
+   Munoz Marin (5680)
+   3300 N 03rd St, Philadelphia, PA  19140
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):               119,250         Capacity:                    934
+Start Date:            7/1/1997                                                 S.F. (Footprint):                  58,819      Year Built:                 1997
+Level:                 Elementary School                                        S.F. (Site):        113,457        2.6 acs     No. of Floors:          3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Abigail Jimenez-Padron
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 7 (Maria D. Quiñones-Sánchez)                 Condition Assessment Cost:                   $1,659,417
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                           $39,591,000
+Legislative               PA Rep 180 (Angel Cruz)                                Facilities Condition Index:                    0.0405
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)
+FMS Region                Britt                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           25th District
+
+Enrollment History
+    Year      Grades PreK             K      01    02      03     04 05 06            07        08    09      10      11       12    UG          Total
+  2012/13       K‐8   0               80     105   87      76     91 70 107           64        58    0       0        0        0     0                     738
+  2011/12       K‐8   0               77     76    84      79     63 82 76            63        74    0       0        0        0     0                     674
+  2010/11       K‐8   0               70     83    89      68     78 67 69            82       100    0       0        0        0     0                     706
+  2009/10       K‐8   0               81     99    76      82     64 71 68            92        81    0       0        0        0     0                     714
+  2008/09       K‐8   0               98     91    82      82     70 82 109           90        95    0       0        0        0     0                     799
+  2007/08       K‐8   0               79     87    87      81     85 105 96           83        82    0       0        0        0     0                     785
+  2006/07       K‐8   0               84     92    94      84    104 92 103           67       122    0       0        0        0     0                     842
+Current Enrollment Details
+In / Out Boundary                     Special Education         Racial Breakdown                                     Transportation
+IN Boundary            602 82%        LSS-            40        Black / African American              88 12%         Bus-Overcrowding                         5
+OUT of Boundary        135 18%                        40        Hispanic / Latino                    619 84%         Bus-Special Ed                          51
+                                                                Multi Racial / Other                  19 3%          Trans Pass-Emergency                     3
+                                                                White                                 12 2%          Trans Pass-Mileage                       2
+                                                                                                                     Trans Pass-Trans Pass Eligible           3
+                                                                                                                                                             64
+
+Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
+Reading K-3 or Better: 38%          Avg Daily Attendance:        92%     2011/12      School Improvement I                 Neighborhood (SDP) In:          593
+AGI Math:              -13.8        10+ Absences:                55%     2010/11      Warning                              Neighborhood (SDP) Out:         33
+AGI Reading:           -12.5        At Least 1 OSS:              14%     2009/10      Made AYP                             Neighborhood (Ren):              1
+Adv/Prof Math (E-M):    48          VI Per 100:                  2.84    2008/09      Making Progress CA II6               Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 37          Persistently Dangerous:       No     2007/08      Corrective Action II6                Charter:                        41
+Adv/Prof Math (HS):                                                      2006/07      Corrective Action II5                CTE:                             0
+                                                                         2005/06      Corrective Action II4
+Adv/Prof Reading (HS):                                                                                                     Special Admission:               3
+                                                                         2004/05      Corrective Action II3
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                         2003/04      Corrective Action II2
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           2
+                                                                                                                                                           673
+
+
+
+
+                                                                                                                                                     12/13/2012
+

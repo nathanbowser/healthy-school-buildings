@@ -1,0 +1,59 @@
+School Profile
+West
+   Sayre (1100)
+   5800 Walnut St, Philadelphia, PA  19139
+General Information                                                              Inventory
+Status:                Open                                                      S.F. (Building):               200,000      Capacity:                  1,631
+Start Date:            7/1/1950                                                  S.F. (Footprint):              115,687      Year Built:                  1950
+Level:                 High School                                               S.F. (Site):        352,282     8.1 acs     No. of Floors:           2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Charles Ireland
+
+Geographic Information                                                           Facilities Condition Index (FCI)**
+Councilmanic              District 3 (Jannie Blackwell)                           Condition Assessment Cost:               $16,451,615
+Congressional             Congressional District 2 (Chaka Fattah)                 Replacement Cost:                        $71,000,000
+Legislative               PA Rep 190 (Vanessa Lowery Brown)                       Facilities Condition Index:                 0.2044
+Senatorial                Senate Rep 8 (Anthony H. Williams)
+FMS Region                Wilson                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             West
+Police District           18th District
+
+Enrollment History
+    Year      Grades PreK             K     01     02       03     04     05     06    07       08      09      10   11      12 UG              Total
+  2012/13      9‐12   0               0      0      0       0      0      0       0     0       0      158     156   116     80  0                         510
+  2011/12      9‐12   0               0      0      0       0      0      0       0     0       0      191     152   143     116 0                         602
+  2010/11      9‐12   0               0      0      0       0      0      0       0     0       0      165     165   165     141 0                         636
+  2009/10      9‐12   0               0      0      0       0      0      0       0     0       0      166     174   145     130 0                         615
+  2008/09      9‐12   0               0      0      0       0      0      0       0     0       0      196     160   116     126 0                         598
+  2007/08      9‐12   0               0      0      0       0      0      0       0     0       0      220     136   146     82  0                         584
+  2006/07      9‐12   0               0      0      0       0      0      0       0     0       0      192     233   79      80  0                         584
+Current Enrollment Details
+In / Out Boundary                     Special Education          Racial Breakdown                                    Transportation
+IN Boundary            386 77%        AS-               8        Black / African American            496 97%         Bus-Special Ed                         22
+OUT of Boundary        118 23%        ES-              21        Hispanic / Latino                     6 1%          Trans Pass-Trans Pass Eligible         59
+                                                       29        Multi Racial / Other                  2 0%                                                 81
+                                                                 White                                 6 1%
+
+Academic Measures                    Climate Measures                      AYP                                            Students Live In Boundary
+Reading K-3 or Better:               Avg Daily Attendance:        79%     2011/12      Corrective Action II8              Neighborhood (SDP) In:          375
+AGI Math:                 -4.6       10+ Absences:                76%     2010/11      Corrective Action II7              Neighborhood (SDP) Out:         148
+AGI Reading:              -2.2       At Least 1 OSS:              10%     2009/10      Corrective Action II6              Neighborhood (Ren):              30
+Adv/Prof Math (E-M):                 VI Per 100:                  4.20    2008/09      Corrective Action II5              Neighborhood (Charter):          0
+Adv/Prof Reading (E-M):              Persistently Dangerous:      No      2007/08      Corrective Action II4              Charter:                        331
+Adv/Prof Math (HS):         8                                             2006/07      Making Progress                    CTE:                             84
+                                                                          2005/06      Corrective Action II3
+Adv/Prof Reading (HS):     25                                                                                             Special Admission:              196
+                                                                          2004/05      Corrective Action II2
+On-Track/Time Grad:       46%                                                                                             Citywide Admission:             90
+                                                                          2003/04      Making Progress
+Graduation Rate:          57%                                                                                             Military Academy:               6
+Grad College (yr 1):      21%                                                                                             Other:                         90
+                                                                                                                                                        1350
+
+
+
+
+                                                                                                                                                    12/13/2012
+

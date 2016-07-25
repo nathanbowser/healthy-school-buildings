@@ -1,0 +1,59 @@
+School Profile
+North‐Central
+   Cramp (5470)
+   3449 N Mascher St, Philadelphia, PA  19140
+General Information                                                           Inventory
+Status:                Open                                                   S.F. (Building):                   80,088      Capacity:                     755
+Start Date:            7/1/1969                                               S.F. (Footprint):                  43,664      Year Built:                  1969
+Level:                 Elementary School                                      S.F. (Site):        108,132        2.5 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Deanda Logan
+
+Geographic Information                                                        Facilities Condition Index (FCI)**
+Councilmanic              District 7 (Maria D. Quiñones-Sánchez)               Condition Assessment Cost:                   $6,165,610
+Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                           $26,589,216
+Legislative               PA Rep 180 (Angel Cruz)                              Facilities Condition Index:                    0.2243
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)
+FMS Region                Britt                                                ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           25th District
+
+Enrollment History
+    Year      Grades PreK K   01 02 03 04 05 06                                     07       08     09      10      11       12      UG         Total
+  2012/13       K‐6   0   92 112 99 96 102 95 82                                     0       0      0       0        0        0       0                    678
+  2011/12       K‐6   0   92 117 107 104 108 84 73                                   0       0      0       0        0        0       0                    685
+  2010/11       K‐6   0   106 118 105 115 89 82 73                                   0       0      0       0        0        0       0                    688
+  2009/10       K‐6   0   98 111 107 90 87 95 72                                     0       0      0       0        0        0       0                    660
+  2008/09       K‐6   0   98 107 86 86 92 80 83                                      0       0      0       0        0        0       0                    632
+  2007/08       K‐6   0   87 107 89 103 87 98 75                                     0       0      0       0        0        0       0                    646
+  2006/07       K‐6   0   95 107 102 98 105 101 102                                  0       0      0       0        0        0       0                    710
+Current Enrollment Details
+In / Out Boundary                     Special Education       Racial Breakdown                                     Transportation
+IN Boundary            640 94%        AS-              9      Black / African American             95 14%          Bus Rider                                 1
+OUT of Boundary         38 6%         ES-              1      Hispanic / Latino                   546 81%          Bus-Special Ed                            8
+                                                      10      Multi Racial / Other                 24 4%           Trans Pass                                1
+                                                              White                                13 2%                                                    10
+
+Academic Measures                   Climate Measures                    AYP                                               Students Live In Boundary
+Reading K-3 or Better:    31%       Avg Daily Attendance:      93%     2011/12      School Improvement I                  Neighborhood (SDP) In:          631
+AGI Math:                  -9.9     10+ Absences:              49%     2010/11      Warning                               Neighborhood (SDP) Out:         58
+AGI Reading:              -10.3     At Least 1 OSS:            6%      2009/10      Made AYP                              Neighborhood (Ren):             21
+Adv/Prof Math (E-M):    41          VI Per 100:                1.31    2008/09      Made AYP                              Neighborhood (Charter):          3
+Adv/Prof Reading (E-M): 37          Persistently Dangerous:    No      2007/08      Making Progress CA II3                Charter:                        99
+Adv/Prof Math (HS):                                                    2006/07      Corrective Action II3                 CTE:                             0
+                                                                       2005/06      Corrective Action II3
+Adv/Prof Reading (HS):                                                                                                    Special Admission:               0
+                                                                       2004/05      Making Progress
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+                                                                       2003/04      Corrective Action II2
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                           2
+                                                                                                                                                          814
+
+
+
+
+                                                                                                                                                    12/13/2012
+

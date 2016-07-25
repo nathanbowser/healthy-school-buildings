@@ -1,0 +1,58 @@
+School Profile
+West
+   Lamberton HS (4330)
+   7501 Woodbine Ave, Philadelphia, PA  19151
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):               110,193         Capacity:                 1,084
+Start Date:            7/1/1949                                                 S.F. (Footprint):                  48,845      Year Built:                 1949
+Level:                 High School                                              S.F. (Site):        242,371        5.6 acs     No. of Floors:          2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 4 (Curtis Jones Jr.)                          Condition Assessment Cost:                  $22,051,212
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                           $36,584,076
+Legislative               PA Rep 192 (Louise Williams Bishop)                    Facilities Condition Index:                    0.4589
+Senatorial                Senate Rep 7 (Vincent J. Hughes)
+FMS Region                Wilson                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             West
+Police District           19th District
+
+Enrollment History
+    Year      Grades PreK             K     01     02      03     04     05     06    07       08      09     10      11       12     UG         Total
+  2012/13      9‐12   0               0      0      0      0      0      0       0     0       0       42     47      56       49      0                    194
+  2011/12      9‐12   0               0      0      0      0      0      0       0     0       0       57     65      56       53      0                    231
+  2010/11      9‐12   0               0      0      0      0      0      0       0     0       0       76     48      57       69      0                    250
+  2009/10      9‐12   0               0      0      0      0      0      0       0     0       0       50     70      71       56      0                    247
+  2008/09      9‐12   0               0      0      0      0      0      0       0     0       0       81     78      64       75      0                    298
+  2007/08      9‐12   0               0      0      0      0      0      0       0     0       0      106     85      76       93      0                    360
+  2006/07      9‐12   0               0      0      0      0      0      0       0     0       0      109     76      98       91      0                    374
+Current Enrollment Details
+In / Out Boundary                     Special Education         Racial Breakdown                                     Transportation
+IN Boundary             155 80%       ES-              1        Black / African American            186 96%          Bus-Overcrowding                         1
+OUT of Boundary          39 20%                        1        Hispanic / Latino                     3 2%           Trans Pass-Trans Pass Eligible          27
+                                                                Multi Racial / Other                  3 2%                                                   28
+                                                                White                                 2 1%
+
+Academic Measures                    Climate Measures                     AYP                                              Students Live In Boundary
+Reading K-3 or Better:               Avg Daily Attendance:       87%     2011/12      Corrective Action I                  Neighborhood (SDP) In:          151
+AGI Math:                  -0.1      10+ Absences:               69%     2010/11      School Improvement II                Neighborhood (SDP) Out:         13
+AGI Reading:               -2.9      At Least 1 OSS:             18%     2009/10      Making Progress SI I                 Neighborhood (Ren):              5
+Adv/Prof Math (E-M):                 VI Per 100:                 5.88    2008/09      School Improvement I                 Neighborhood (Charter):          0
+Adv/Prof Reading (E-M):              Persistently Dangerous:     No      2007/08      Warning                              Charter:                        90
+Adv/Prof Math (HS):         12                                           2006/07      Made AYP                             CTE:                            18
+                                                                         2005/06      Made AYP
+Adv/Prof Reading (HS):      18                                                                                             Special Admission:              97
+                                                                         2004/05      Warning
+On-Track/Time Grad:        81%                                                                                             Citywide Admission:             21
+Graduation Rate:           70%                                                                                             Military Academy:                 1
+Grad College (yr 1):       44%                                                                                             Other:                           14
+                                                                                                                                                           410
+
+
+
+
+                                                                                                                                                     12/13/2012
+

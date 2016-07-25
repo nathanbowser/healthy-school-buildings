@@ -1,0 +1,61 @@
+School Profile
+North‐Central
+   Bethune (7510)
+   3301 Old York Rd, Philadelphia, PA  19140
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):                   99,420      Capacity:                     855
+Start Date:            7/1/1970                                                 S.F. (Footprint):                  59,332      Year Built:                  1970
+Level:                 Elementary School                                        S.F. (Site):        168,669        3.9 acs     No. of Floors:           2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Arvel D.Wells
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 5 (Darrell Clarke)                            Condition Assessment Cost:                   $7,264,030
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                           $33,007,440
+Legislative               PA Rep 179 (James Clay Jr.)                            Facilities Condition Index:                    0.2065
+Senatorial                Senate Rep 3 (Shirley M. Kitchen)
+FMS Region                Britt                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           25th District
+
+Enrollment History
+    Year      Grades PreK K                  01   02       03     04     05     06    07       08     09      10      11       12    UG           Total
+  2012/13       K‐8   0   104                90   82       75     84     72     62    61       77     0       0        0        0     0                      707
+  2011/12       K‐8   0   85                 90   66       83     68     59     58    84       58     0       0        0        0     0                      651
+  2010/11       K‐8   0   91                 74   86       71     66     71     71    60       63     0       0        0        0     0                      653
+  2009/10       K‐8   0   73                 93   64       68     76     73     64    67       61     0       0        0        0     0                      639
+  2008/09       K‐8   0   91                 74   67       73     69     73     74    69       58     0       0        0        0     0                      648
+  2007/08       K‐8   0   79                 74   77       87     77     87     78    62       62     0       0        0        0     0                      683
+  2006/07       K‐7   0   73                 90   78       77     83     79     77    76       0      0       0        0        0     0                      633
+Current Enrollment Details
+In / Out Boundary                      Special Education        Racial Breakdown                                     Transportation
+IN Boundary            604 86%         ES-            15        Asian                                 2 0%           Bus-Emergency                             2
+OUT of Boundary        102 14%                        15        Black / African American            523 74%          Bus-Special Ed                           16
+                                                                Hispanic / Latino                   157 22%          Trans Pass                                2
+                                                                Multi Racial / Other                 20 3%           Trans Pass-Trans Pass Eligible            7
+                                                                Native Hawaiian / Other Pacifi        1 0%                                                    27
+                                                                White                                 4 1%
+
+Academic Measures                   Climate Measures                      AYP                                               Students Live In Boundary
+Reading K-3 or Better:    41%       Avg Daily Attendance:        92%      2011/12     Warning                               Neighborhood (SDP) In:          590
+AGI Math:                 -1.6      10+ Absences:                54%      2010/11     Corrective Action II7                 Neighborhood (SDP) Out:         68
+AGI Reading:              -2.1      At Least 1 OSS:              4%       2009/10     Corrective Action II6                 Neighborhood (Ren):             24
+Adv/Prof Math (E-M):    46          VI Per 100:                  1.54     2008/09     Corrective Action II6                 Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 36          Persistently Dangerous:       No      2007/08     Corrective Action II5                 Charter:                        117
+Adv/Prof Math (HS):                                                       2006/07     Corrective Action II4                 CTE:                             0
+                                                                          2005/06     Corrective Action II3
+Adv/Prof Reading (HS):                                                                                                      Special Admission:               7
+                                                                          2004/05     Making Progress
+On-Track/Time Grad:                                                                                                         Citywide Admission:              0
+                                                                          2003/04     Corrective Action II2
+Graduation Rate:                                                                                                            Military Academy:                0
+Grad College (yr 1):                                                                                                        Other:                           7
+                                                                                                                                                            813
+
+
+
+
+                                                                                                                                                      12/13/2012
+

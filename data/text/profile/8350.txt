@@ -1,0 +1,61 @@
+School Profile
+Northeast
+   Spruance (8350)
+   6401 Horrocks St, Philadelphia, PA  19149
+General Information                                                           Inventory
+Status:                Open                                                   S.F. (Building):                 102,143       Capacity:                    835
+Start Date:            7/1/1949                                               S.F. (Footprint):                  63,441      Year Built:                 1949
+Level:                 Elementary School                                      S.F. (Site):        280,857        6.4 acs     No. of Floors:          2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Betty G. Klear
+
+Geographic Information                                                        Facilities Condition Index (FCI)**
+Councilmanic              District 6 (Bobby Henon)                             Condition Assessment Cost:                  $23,253,382
+Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                           $33,911,476
+Legislative               PA Rep 174 (John P. Sabatina Jr.)                    Facilities Condition Index:                    0.6228
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)
+FMS Region                Ovington                                             ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northeast
+Police District           2nd District
+
+Enrollment History
+    Year      Grades PreK K   01 02 03 04 05 06                                    07         08    09      10      11       12    UG          Total
+  2012/13       K‐8   0   155 177 150 125 162 149 138                              141       142    0       0        0        0     0                  1,339
+  2011/12       K‐8   0   140 161 126 160 156 143 143                              136       144    0       0        0        0     0                  1,309
+  2010/11       K‐8   0   152 137 148 161 157 149 132                              156       130    0       0        0        0     0                  1,322
+  2009/10       K‐8   0   127 150 157 156 150 140 152                              134       154    0       0        0        0     0                  1,320
+  2008/09       K‐8   0   120 139 138 150 139 148 128                              148       179    0       0        0        0     0                  1,289
+  2007/08       K‐8   0   134 147 158 138 150 140 147                              167       173    0       0        0        0     0                  1,354
+  2006/07       K‐8   0   120 152 134 139 129 152 163                              161       153    0       0        0        0     0                  1,303
+Current Enrollment Details
+In / Out Boundary                       Special Education     Racial Breakdown                                     Transportation
+IN Boundary            1,277 96%        LSS-          22      American Indian / Alaska Nativ         2   0%        Bus-Special Ed                          36
+OUT of Boundary           58 4%                       22      Asian                                217   16%       Trans Pass-Trans Pass Eligible           2
+                                                              Black / African American             545   41%                                               38
+                                                              Hispanic / Latino                    316   24%
+                                                              Multi Racial / Other                 104   8%
+                                                              White                                155   12%
+
+Academic Measures                   Climate Measures                    AYP                                              Students Live In Boundary
+Reading K-3 or Better:    55%       Avg Daily Attendance:      95%     2011/12      Warning                              Neighborhood (SDP) In:        1257
+AGI Math:                 -2.7      10+ Absences:              33%     2010/11      Made AYP                             Neighborhood (SDP) Out:         90
+AGI Reading:               2.4      At Least 1 OSS:            5%      2009/10      Making Progress CA II                Neighborhood (Ren):              7
+Adv/Prof Math (E-M):    60          VI Per 100:                0.84    2008/09      Corrective Action II                 Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 55          Persistently Dangerous:     No     2007/08      Corrective Action I                  Charter:                        194
+Adv/Prof Math (HS):                                                    2006/07      School Improvement II                CTE:                             0
+                                                                       2005/06      School Improvement I
+Adv/Prof Reading (HS):                                                                                                   Special Admission:              15
+                                                                       2004/05      Warning
+On-Track/Time Grad:                                                                                                      Citywide Admission:              0
+                                                                       2003/04      Made AYP
+Graduation Rate:                                                                                                         Military Academy:                0
+Grad College (yr 1):                                                                                                     Other:                          4
+                                                                                                                                                       1567
+
+
+
+
+                                                                                                                                                   12/13/2012
+

@@ -1,0 +1,61 @@
+School Profile
+Northeast
+   Fels HS (7120)
+   5500 Langdon St, Philadelphia, PA  19124
+General Information                                                              Inventory
+Status:                Open                                                      S.F. (Building):               249,787      Capacity:                  1,418
+Start Date:            7/1/1954                                                  S.F. (Footprint):              179,946      Year Built:                2009
+Level:                 High School                                               S.F. (Site):     1,004,241     23.1 acs     No. of Floors:
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Shawn McGuigan
+
+Geographic Information                                                           Facilities Condition Index (FCI)**
+Councilmanic              District 9 (Marian B. Tasco)                            Condition Assessment Cost:                        $0
+Congressional             Congressional District 13 (Allyson Y. Schwartz)         Replacement Cost:                        $88,674,385
+Legislative               PA Rep 203 (Dwight Evans)                               Facilities Condition Index:              0
+Senatorial                Senate Rep 3 (Shirley M. Kitchen)                                                       New Construction
+FMS Region                Parker                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northeast
+Police District           2nd District
+
+Enrollment History
+    Year      Grades PreK             K      01   02        03     04     05     06    07       08     09      10   11       12 UG              Total
+  2012/13      9‐12   0               0       0    0        0      0      0       0     0       0     415     339   342      267 0                      1,363
+  2011/12      9‐12   0               0       0    0        0      0      0       0     0       0     380     379   323      266 0                      1,348
+  2010/11      9‐12   0               0       0    0        0      0      0       0     0       0     521     392   328      300 0                      1,541
+  2009/10      9‐12   0               0       0    0        0      0      0       0     0       0     498     357   317      311 0                      1,483
+  2008/09      9‐12   0               0       0    0        0      0      0       0     0       0     414     389   279      259 0                      1,341
+  2007/08      9‐12   0               0       0    0        0      0      0       0     0       0     528     405   253      295 0                      1,481
+  2006/07      9‐12   0               0       0    0        0      0      0       0     0       0     543     337   259      228 0                      1,367
+Current Enrollment Details
+In / Out Boundary                     Special Education          Racial Breakdown                                   Transportation
+IN Boundary            1,162 86%      ES-              33        American Indian / Alaska Nativ        2 0%         Bus-Special Ed                        40
+OUT of Boundary          194 14%      LSS-             33        Asian                               126 9%         Trans Pass-Disciplinary                2
+                                                       66        Black / African American            881 65%        Trans Pass-Overcrowding                1
+                                                                 Hispanic / Latino                   299 22%        Trans Pass-Special Ed                 14
+                                                                 Multi Racial / Other                 19 1%         Trans Pass-Trans Pass Eligible       779
+                                                                 White                                36 3%                                              836
+
+Academic Measures                    Climate Measures                      AYP                                            Students Live In Boundary
+Reading K-3 or Better:               Avg Daily Attendance:        84%     2011/12      Corrective Action II7              Neighborhood (SDP) In:        1131
+AGI Math:                 -7.2       10+ Absences:                65%     2010/11      Corrective Action II6              Neighborhood (SDP) Out:       404
+AGI Reading:              -4.3       At Least 1 OSS:              19%     2009/10      Corrective Action II5              Neighborhood (Ren):           125
+Adv/Prof Math (E-M):                 VI Per 100:                  3.18    2008/09      Corrective Action II4              Neighborhood (Charter):        0
+Adv/Prof Reading (E-M):              Persistently Dangerous:       No     2007/08      Corrective Action II3              Charter:                      728
+Adv/Prof Math (HS):        14                                             2006/07      Corrective Action II2              CTE:                          245
+                                                                          2005/06      Corrective Action II
+Adv/Prof Reading (HS):     24                                                                                             Special Admission:            588
+                                                                          2004/05      Corrective Action I
+On-Track/Time Grad:       70%                                                                                             Citywide Admission:            46
+                                                                          2003/04      School Improvement II
+Graduation Rate:          51%                                                                                             Military Academy:              32
+Grad College (yr 1):      33%                                                                                             Other:                        209
+                                                                                                                                                        3508
+
+
+
+
+                                                                                                                                                    12/13/2012
+

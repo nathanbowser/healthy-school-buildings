@@ -1,0 +1,60 @@
+School Profile
+North‐Central
+   Sheppard (5410)
+   120 W Cambria St, Philadelphia, PA  19133
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):                  34,000      Capacity:                     378
+Start Date:            7/1/1898                                                S.F. (Footprint):                 10,984      Year Built:                  1898
+Level:                 Elementary School                                       S.F. (Site):        23,098        0.5 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             James Otto
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 7 (Maria D. Quiñones-Sánchez)                Condition Assessment Cost:                  $3,573,438
+Congressional             Congressional District 1 (Robert A. Brady)            Replacement Cost:                          $11,288,000
+Legislative               PA Rep 180 (Angel Cruz)                               Facilities Condition Index:                   0.3014
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)
+FMS Region                Britt                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           25th District
+
+Enrollment History
+    Year      Grades PreK             K     01    02      03     04     05     06    07       08    09      10      11       12      UG         Total
+  2012/13       K‐4   0               65    68    54      47     43     0       0     0       0     0       0        0        0       0                    277
+  2011/12       K‐4   0               68    64    57      56     43     0       0     0       0     0       0        0        0       0                    288
+  2010/11       K‐4   0               66    65    54      51     56     0       0     0       0     0       0        0        0       0                    292
+  2009/10       K‐4   0               51    56    59      53     46     0       0     0       0     0       0        0        0       0                    265
+  2008/09       K‐4   0               60    69    54      46     56     0       0     0       0     0       0        0        0       0                    285
+  2007/08       K‐4   0               51    70    50      56     65     0       0     0       0     0       0        0        0       0                    292
+  2006/07       K‐4   0               62    55    54      68     77     0       0     0       0     0       0        0        0       0                    316
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown
+IN Boundary            247 90%        AS-             1        Asian                                 1 0%
+OUT of Boundary         27 10%        ES-             1        Black / African American             21 8%
+                                                      2        Hispanic / Latino                   234 84%
+                                                               Multi Racial / Other                  9 3%
+                                                               White                                12 4%
+
+Academic Measures                   Climate Measures                     AYP                                              Students Live In Boundary
+Reading K-3 or Better:    35%       Avg Daily Attendance:       92%     2011/12      Warning                              Neighborhood (SDP) In:          245
+AGI Math:                 -1.5      10+ Absences:               60%     2010/11      Made AYP                             Neighborhood (SDP) Out:         28
+AGI Reading:               -2       At Least 1 OSS:             16%     2009/10      Making Progress SI II                Neighborhood (Ren):              1
+Adv/Prof Math (E-M):       47       VI Per 100:                         2008/09      School Improvement II                Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 26          Persistently Dangerous:     No      2007/08      Making Progress SI I                 Charter:                        26
+Adv/Prof Math (HS):                                                     2006/07      School Improvement I                 CTE:                             0
+                                                                        2005/06      Warning
+Adv/Prof Reading (HS):                                                                                                    Special Admission:               0
+                                                                        2004/05      Made AYP
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+                                                                        2003/04      Warning
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                           3
+                                                                                                                                                          303
+
+
+
+
+                                                                                                                                                    12/13/2012
+

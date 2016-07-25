@@ -1,0 +1,60 @@
+School Profile
+Northwest
+   Rowen (7530)
+   6841 N 19th St, Philadelphia, PA  19126
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):                   56,400      Capacity:                     517
+Start Date:            7/1/1938                                                 S.F. (Footprint):                  25,586      Year Built:                  1938
+Level:                 Elementary School                                        S.F. (Site):        115,684        2.7 acs     No. of Floors:           2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             James Murray
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 9 (Marian B. Tasco)                           Condition Assessment Cost:                  $10,278,146
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                           $18,724,800
+Legislative               PA Rep 203 (Dwight Evans)                              Facilities Condition Index:                    0.5293
+Senatorial                Senate Rep 4 (LeAnna Washington)
+FMS Region                Holman                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northwest
+Police District           14th District
+
+Enrollment History
+    Year      Grades PreK             K     01    02       03     04     05     06    07       08     09      10      11       12      UG         Total
+  2012/13       K‐5   0               88    85    75       74     76     59      0     0       0      0       0        0        0       0                    457
+  2011/12       K‐5   0               56    75    76       77     59     79      0     0       0      0       0        0        0       0                    422
+  2010/11       K‐5   0               60    78    87       57     83     82      0     0       0      0       0        0        0       0                    447
+  2009/10       K‐5   0               64    97    67       75     83     78      0     0       0      0       0        0        0       0                    464
+  2008/09       K‐5   0               87    78    85       76     86     80      0     0       0      0       0        0        0       0                    492
+  2007/08       K‐5   0               73    78    92       88     84     96      0     0       0      0       0        0        0       0                    511
+  2006/07       K‐5   0               63    87    78       80     97     94      0     0       0      0       0        0        0       0                    499
+Current Enrollment Details
+In / Out Boundary                     Special Education         Racial Breakdown                                     Transportation
+IN Boundary            412 91%        AS-              1        American Indian / Alaska Nativ        1 0%           Bus Rider                                 4
+OUT of Boundary         40 9%         ES-             11        Black / African American            429 94%          Bus-Special Ed                            7
+                                                      12        Hispanic / Latino                     6 1%                                                    11
+                                                                Multi Racial / Other                 10 2%
+                                                                White                                11 2%
+
+Academic Measures                   Climate Measures                      AYP                                               Students Live In Boundary
+Reading K-3 or Better:    44%       Avg Daily Attendance:        95%     2011/12      Warning                               Neighborhood (SDP) In:          407
+AGI Math:                 -14.8     10+ Absences:                37%     2010/11      Made AYP                              Neighborhood (SDP) Out:         36
+AGI Reading:              -11.4     At Least 1 OSS:              7%      2009/10      Made AYP                              Neighborhood (Ren):              4
+Adv/Prof Math (E-M):       61       VI Per 100:                  0.94    2008/09      Warning                               Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 39          Persistently Dangerous:      No      2007/08      Made AYP                              Charter:                        108
+Adv/Prof Math (HS):                                                      2006/07      Made AYP                              CTE:                             0
+                                                                         2005/06      Making Progress
+Adv/Prof Reading (HS):                                                                                                      Special Admission:               1
+                                                                         2004/05      Corrective Action II2
+On-Track/Time Grad:                                                                                                         Citywide Admission:              0
+                                                                         2003/04      Making Progress
+Graduation Rate:                                                                                                            Military Academy:                0
+Grad College (yr 1):                                                                                                        Other:                           3
+                                                                                                                                                            559
+
+
+
+
+                                                                                                                                                      12/13/2012
+
