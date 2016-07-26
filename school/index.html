@@ -120,7 +120,7 @@
         document.querySelector('.container').innerHTML = 'No School Data Found'
       } else {
         var ulcs = decodeURIComponent(results[2].replace(/\+/g, ' '))
-        d3.json('/data/json/profile/' + ulcs + '.json', function (obj) {
+        d3.json('../data/json/profile/' + ulcs + '.json', function (obj) {
           console.log(obj)
           d3.select('.school-name').text(obj.name)
           d3.select('.region').text(obj.region)
