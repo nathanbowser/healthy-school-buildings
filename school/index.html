@@ -51,7 +51,7 @@
         }
         pdf.getPage(1).then(handlePage)
       }, function (err) {
-         // d3.select('.report-container').html('No Reports Found')
+        // No reports
       })
     }
     function demographics (data) {
@@ -67,7 +67,6 @@
         , labelArc = d3.svg.arc()
                            .outerRadius(radius - 40)
                            .innerRadius(radius - 40)
-
 
       var pie = d3.layout.pie()
                          .sort(null)
@@ -160,10 +159,10 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
           <li>
-            <a href="/general.html">General</a>
+            <a href="../general.html">General</a>
           </li>
           <li>
-            <a href="/">Map</a>
+            <a href="../">Map</a>
           </li>
         </ul>
       </div>
