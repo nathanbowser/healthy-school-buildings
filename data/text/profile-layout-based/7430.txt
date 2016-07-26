@@ -1,0 +1,61 @@
+School Profile
+Northeast
+   Sullivan (7430)
+   5300 Ditman St, Philadelphia, PA  19124
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):                   65,000      Capacity:                     636
+Start Date:            7/1/1930                                                 S.F. (Footprint):                  21,293      Year Built:                  1930
+Level:                 Elementary School                                        S.F. (Site):        106,474        2.4 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Beth Shapiro
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 6 (Bobby Henon)                               Condition Assessment Cost:                  $18,757,182
+Congressional             Congressional District 13 (Allyson Y. Schwartz)        Replacement Cost:                           $21,580,000
+Legislative               PA Rep 173 (Michael P. McGeehan)                       Facilities Condition Index:                    0.8406
+Senatorial                Senate Rep 5 (Michael J. Stack)
+FMS Region                Walker                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northeast
+Police District           15th District
+
+Enrollment History
+    Year      Grades PreK K   01 02 03 04 05                                    06    07       08     09      10      11       12    UG           Total
+  2012/13       K‐5   0   124 114 107 109 107 112                                0     0       0      0       0        0        0     0                      673
+  2011/12       K‐5   0   113 103 107 130 110 90                                 0     0       0      0       0        0        0     0                      653
+  2010/11       K‐5   0   103 99 135 105 95 97                                   0     0       0      0       0        0        0     0                      634
+  2009/10       K‐5   0   115 147 109 108 97 114                                 0     0       0      0       0        0        0     0                      690
+  2008/09       K‐5   0   118 131 125 110 116 107                                0     0       0      0       0        0        0     0                      707
+  2007/08       K‐5   0   114 124 120 113 117 102                                0     0       0      0       0        0        0     0                      690
+  2006/07       K‐5   0   121 133 116 113 122 99                                 0     0       0      0       0        0        0     0                      704
+Current Enrollment Details
+In / Out Boundary                      Special Education        Racial Breakdown                                     Transportation
+IN Boundary            582 87%         ES-               1      American Indian / Alaska Nativ        4    1%        Bus-Emergency                           28
+OUT of Boundary         90 13%         LSS-             24      Asian                                10    1%        Bus-Hazardous                          112
+                                                        25      Black / African American            310    46%       Bus-Overcrowding                         1
+                                                                Hispanic / Latino                   178    26%       Bus-Special Ed                          31
+                                                                Multi Racial / Other                 70    10%       Trans Pass                               3
+                                                                White                               101    15%                                              175
+
+Academic Measures                     Climate Measures                    AYP                                               Students Live In Boundary
+Reading K-3 or Better:    32%         Avg Daily Attendance:      92%     2011/12      Corrective Action II7                 Neighborhood (SDP) In:          577
+AGI Math:                  -8         10+ Absences:              55%     2010/11      Corrective Action II6                 Neighborhood (SDP) Out:         47
+AGI Reading:              -4.6        At Least 1 OSS:            4%      2009/10      Making Progress CA II5                Neighborhood (Ren):             17
+Adv/Prof Math (E-M):    41            VI Per 100:                3.73    2008/09      Corrective Action II5                 Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 37            Persistently Dangerous:     No     2007/08      Corrective Action II4                 Charter:                        180
+Adv/Prof Math (HS):                                                      2006/07      Making Progress                       CTE:                             0
+                                                                         2005/06      Corrective Action II3
+Adv/Prof Reading (HS):                                                                                                      Special Admission:               1
+                                                                         2004/05      Corrective Action II2
+On-Track/Time Grad:                                                                                                         Citywide Admission:              0
+                                                                         2003/04      Corrective Action II2
+Graduation Rate:                                                                                                            Military Academy:                0
+Grad College (yr 1):                                                                                                        Other:                           4
+                                                                                                                                                            826
+
+
+
+
+                                                                                                                                                      12/13/2012
+

@@ -1,0 +1,61 @@
+School Profile
+Northwest
+   Roxborough HS (6030)
+   6498 Ridge Ave, Philadelphia, PA  19128
+General Information                                                              Inventory
+Status:                Open                                                      S.F. (Building):               240,000      Capacity:                  1,603
+Start Date:            7/1/1924                                                  S.F. (Footprint):              104,024      Year Built:                  1924
+Level:                 High School                                               S.F. (Site):        223,741     5.1 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Stephen Brandt
+
+Geographic Information                                                           Facilities Condition Index (FCI)**
+Councilmanic              District 4 (Curtis Jones Jr.)                           Condition Assessment Cost:               $42,813,423
+Congressional             Congressional District 2 (Chaka Fattah)                 Replacement Cost:                        $85,200,000
+Legislative               PA Rep 194 (Pamela A. DeLissio)                         Facilities Condition Index:                 0.1379
+Senatorial                Senate Rep 7 (Vincent J. Hughes)
+FMS Region                Melady                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northwest
+Police District           5th District
+
+Enrollment History
+    Year      Grades PreK             K      01   02        03     04     05     06    07       08      09      10   11      12 UG              Total
+  2012/13      9‐12   0               0       0    0        0      0      0       0     0       0      107     121   134     114 0                         476
+  2011/12      9‐12   0               0       0    0        0      0      0       0     0       0      140     151   92      155 0                         538
+  2010/11      9‐12   0               0       0    0        0      0      0       0     0       0      191     140   162     156 0                         649
+  2009/10      9‐12   0               0       0    0        0      0      0       0     0       0      200     201   132     224 0                         757
+  2008/09      9‐12   0               0       0    0        0      0      0       0     0       0      265     168   195     182 0                         810
+  2007/08      9‐12   0               0       0    0        0      0      0       0     0       0      203     267   160     252 0                         882
+  2006/07      9‐12   0               0       0    0        0      0      0       0     0       0      286     215   215     265 0                         981
+Current Enrollment Details
+In / Out Boundary                     Special Education          Racial Breakdown                                    Transportation
+IN Boundary            162 34%        AS-              12        Asian                                 7 1%          Bus-Overcrowding                        1
+OUT of Boundary        309 66%        ES-              13        Black / African American            360 76%         Bus-Special Ed                         42
+                                      LSS-             16        Hispanic / Latino                    17 4%          Cab-Special Ed                          1
+                                                       41        Multi Racial / Other                  4 1%          Trans Pass-Special Ed                   2
+                                                                 White                                88 18%         Trans Pass-Trans Pass Eligible        348
+                                                                                                                                                           394
+
+Academic Measures                    Climate Measures                      AYP                                            Students Live In Boundary
+Reading K-3 or Better:               Avg Daily Attendance:        87%     2011/12      Corrective Action II4              Neighborhood (SDP) In:          159
+AGI Math:                 -3.5       10+ Absences:                65%     2010/11      Corrective Action II4              Neighborhood (SDP) Out:          5
+AGI Reading:              -2.3       At Least 1 OSS:              34%     2009/10      Corrective Action II4              Neighborhood (Ren):              4
+Adv/Prof Math (E-M):                 VI Per 100:                  5.25    2008/09      Corrective Action II3              Neighborhood (Charter):          0
+Adv/Prof Reading (E-M):              Persistently Dangerous:       No     2007/08      Corrective Action II2              Charter:                        45
+Adv/Prof Math (HS):        18                                             2006/07      Corrective Action II               CTE:                            80
+                                                                          2005/06      Corrective Action I
+Adv/Prof Reading (HS):     33                                                                                             Special Admission:              247
+                                                                          2004/05      School Improvement II
+On-Track/Time Grad:       75%                                                                                             Citywide Admission:              8
+                                                                          2003/04      Making Progress
+Graduation Rate:          58%                                                                                             Military Academy:                4
+Grad College (yr 1):      27%                                                                                             Other:                           17
+                                                                                                                                                          569
+
+
+
+
+                                                                                                                                                    12/13/2012
+

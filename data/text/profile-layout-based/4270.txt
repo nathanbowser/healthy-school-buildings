@@ -1,0 +1,58 @@
+School Profile
+North‐Central
+   Dick (4270)
+   2498 W Diamond St, Philadelphia, PA  19121
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):                   71,000      Capacity:                     596
+Start Date:            7/1/1954                                                S.F. (Footprint):                  29,386      Year Built:                  1954
+Level:                 Elementary School                                       S.F. (Site):        136,688        3.1 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Amy Hannah Agree-Williams
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 5 (Darrell Clarke)                           Condition Assessment Cost:                  $12,779,191
+Congressional             Congressional District 2 (Chaka Fattah)               Replacement Cost:                           $23,572,000
+Legislative               PA Rep 195 (Michelle F. Brownlee)                     Facilities Condition Index:                    0.5229
+Senatorial                Senate Rep 7 (Vincent J. Hughes)
+FMS Region                Toohey                                                ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           22nd District
+
+Enrollment History
+    Year      Grades PreK             K     01    02      03     04     05     06    07       08     09      10      11       12    UG           Total
+  2012/13       K‐8   0               40    46    52      41     25     35     28    28       40     0       0        0        0     0                      335
+  2011/12       K‐8   0               38    43    36      25     35     22     30    42       34     0       0        0        0     0                      305
+  2010/11       K‐8   0               32    34    27      33     23     31     38    33       42     0       0        0        0     0                      293
+  2009/10       K‐8   0               30    21    33      29     30     43     27    43       29     0       0        0        0     0                      285
+  2008/09       K‐8   0               20    32    31      35     44     25     43    26       34     0       0        0        0     0                      290
+  2007/08       K‐8   0               24    34    31      43     25     39     30    28       40     0       0        0        0     0                      294
+  2006/07       K‐8   0               27    40    43      31     37     33     29    46       39     0       0        0        0     0                      325
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown                                     Transportation
+IN Boundary            213 66%        ES-            11        Black / African American            315 94%          Bus-Special Ed                           11
+OUT of Boundary        110 34%                       11        Hispanic / Latino                     6 2%           Trans Pass-Trans Pass Eligible            4
+                                                               Multi Racial / Other                 14 4%                                                    15
+
+Academic Measures                  Climate Measures                      AYP                                               Students Live In Boundary
+Reading K-3 or Better:    48%      Avg Daily Attendance:        94%     2011/12      Warning                               Neighborhood (SDP) In:          209
+AGI Math:                 -3.6     10+ Absences:                35%     2010/11      Made AYP                              Neighborhood (SDP) Out:         45
+AGI Reading:              -2.1     At Least 1 OSS:              15%     2009/10      Making Progress CA II                 Neighborhood (Ren):             52
+Adv/Prof Math (E-M):       53      VI Per 100:                  1.00    2008/09      Corrective Action II                  Neighborhood (Charter):         0
+Adv/Prof Reading (E-M): 35         Persistently Dangerous:      No      2007/08      Corrective Action I                   Charter:                        38
+Adv/Prof Math (HS):                                                     2006/07      School Improvement II                 CTE:                             0
+                                                                        2005/06      School Improvement I
+Adv/Prof Reading (HS):                                                                                                     Special Admission:               1
+                                                                        2004/05      Warning
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                        2003/04      Made AYP
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           1
+                                                                                                                                                           346
+
+
+
+
+                                                                                                                                                     12/13/2012
+

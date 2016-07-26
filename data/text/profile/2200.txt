@@ -1,62 +1,104 @@
-School Profile
+School Profile
 South‐Central
-   Alcorn (2200)
-   3200 Dickinson St, Philadelphia, PA  19146
-General Information                                                            Inventory
-Status:                Open                                                    S.F. (Building):                  63,000      Capacity:                     775
-Start Date:            7/1/1932                                                S.F. (Footprint):                 19,652      Year Built:                  1932
-Level:                 Elementary School                                       S.F. (Site):        90,042        2.1 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Reginald Johnson
-
-Geographic Information                                                         Facilities Condition Index (FCI)**
-Councilmanic              District 2 (Kenyatta Johnson)                         Condition Assessment Cost:                 $13,290,957
-Congressional             Congressional District 2 (Chaka Fattah)               Replacement Cost:                          $20,916,000
-Legislative               PA Rep 186 (Jordan A. Harris)                         Facilities Condition Index:                   0.4322
-Senatorial                Senate Rep 8 (Anthony H. Williams)
-FMS Region                DiOrio                                                ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             South-Central
-Police District           17th District
-
-Enrollment History
-    Year      Grades PreK             K     01    02      03     04     05     06    07       08    09      10      11       12      UG         Total
-  2012/13       K‐8   0               55    75    64      61     50     47     53    41       60    0       0        0        0       0                    506
-  2011/12       K‐8   0               87    78    70      64     70     63     55    62       51    0       0        0        0       0                    600
-  2010/11       K‐8   0               67    67    63      72     66     52     65    56       52    0       0        0        0       0                    560
-  2009/10       K‐8   0               71    56    65      63     60     72     52    53       36    0       0        0        0       0                    528
-  2008/09       K‐8   0               69    68    64      64     68     61     61    40       81    0       0        0        0       0                    576
-  2007/08       K‐8   0               69    70    67      62     54     63     53    67       61    0       0        0        0       0                    566
-  2006/07       K‐8   0               80    62    71      65     67     59     78    51       92    0       0        0        0       0                    625
-Current Enrollment Details
-In / Out Boundary                     Special Education        Racial Breakdown                                    Transportation
-IN Boundary            456 91%        AS-             1        American Indian / Alaska Nativ        1 0%          Bus-Emergency                          116
-OUT of Boundary         43 9%         ES-             9        Asian                                15 3%          Bus-Hazardous                           13
-                                                     10        Black / African American            459 91%         Bus-Overcrowding                         1
-                                                               Hispanic / Latino                     8 2%          Bus-Special Ed                           5
-                                                               Multi Racial / Other                 15 3%          Trans Pass                              10
-                                                               White                                 8 2%          Trans Pass-Trans Pass Eligible           4
-                                                                                                                                                          149
-
-Academic Measures                  Climate Measures                      AYP                                              Students Live In Boundary
-Reading K-3 or Better:    36%      Avg Daily Attendance:        89%     2011/12      Corrective Action II3                Neighborhood (SDP) In:          447
-AGI Math:                 -2.7     10+ Absences:                64%     2010/11      Corrective Action II2                Neighborhood (SDP) Out:         224
-AGI Reading:               -1      At Least 1 OSS:              37%     2009/10      Corrective Action II                 Neighborhood (Ren):             27
-Adv/Prof Math (E-M):       21      VI Per 100:                  7.61    2008/09      Corrective Action I                  Neighborhood (Charter):          1
-Adv/Prof Reading (E-M): 25         Persistently Dangerous:      No      2007/08      School Improvement II                Charter:                        275
-Adv/Prof Math (HS):                                                     2006/07      School Improvement I                 CTE:                             0
-                                                                        2005/06      Warning
-Adv/Prof Reading (HS):                                                                                                    Special Admission:              10
-                                                                        2004/05      Made AYP
-On-Track/Time Grad:                                                                                                       Citywide Admission:              0
-                                                                        2003/04      Making Progress
-Graduation Rate:                                                                                                          Military Academy:                0
-Grad College (yr 1):                                                                                                      Other:                           13
-                                                                                                                                                          997
-
-
-
-
-                                                                                                                                                    12/13/2012
-
+Alcorn (2200)
+3200 Dickinson St, Philadelphia, PA  19146
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 55 75 64 61 50 47 53 41 60 0 0 0 0 0 506
+2011/12 K‐8 0 87 78 70 64 70 63 55 62 51 0 0 0 0 0 600
+2010/11 K‐8 0 67 67 63 72 66 52 65 56 52 0 0 0 0 0 560
+2009/10 K‐8 0 71 56 65 63 60 72 52 53 36 0 0 0 0 0 528
+2008/09 K‐8 0 69 68 64 64 68 61 61 40 81 0 0 0 0 0 576
+2007/08 K‐8 0 69 70 67 62 54 63 53 67 61 0 0 0 0 0 566
+2006/07 K‐8 0 80 62 71 65 67 59 78 51 92 0 0 0 0 0 625
+Geographic Information
+Councilmanic District 2 (Kenyatta Johnson)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 186 (Jordan A. Harris)
+Senatorial Senate Rep 8 (Anthony H. Williams)
+FMS Region DiOrio
+Planning Area South-Central
+Police District 17th District
+General Information
+Status: Open
+Start Date: 7/1/1932
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Reginald Johnson
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Asian 15 3%
+Black / African American 459 91%
+Hispanic / Latino 8 2%
+Multi Racial / Other 15 3%
+White 8 2%
+Transportation
+Bus-Emergency 116
+Bus-Hazardous 13
+Bus-Overcrowding 1
+Bus-Special Ed 5
+Trans Pass 10
+Trans Pass-Trans Pass Eligible 4
+149
+Special Education
+AS- 1
+ES- 9
+10
+In / Out Boundary
+IN Boundary 456 91%
+OUT of Boundary 43 9%
+AYP
+2011/12 Corrective Action II3
+2010/11 Corrective Action II2
+2009/10 Corrective Action II
+2008/09 Corrective Action I
+2007/08 School Improvement II
+2006/07 School Improvement I
+2005/06 Warning
+2004/05 Made AYP
+2003/04 Making Progress
+Academic Measures
+Reading K-3 or Better: 36%
+Adv/Prof Math (E-M): 21
+Adv/Prof Reading (E-M): 25
+AGI Math: -2.7
+AGI Reading: -1
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 89%
+10+ Absences: 64%
+At Least 1 OSS: 37%
+VI Per 100: 7.61
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 447
+Neighborhood (SDP) Out: 224
+Neighborhood (Ren): 27
+Neighborhood (Charter): 1
+Charter: 275
+CTE: 0
+Special Admission: 10
+Citywide Admission: 0
+Military Academy: 0
+Other: 13
+997
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $13,290,957
+Replacement Cost: $20,916,000
+Facilities Condition Index: 0.4322
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 63,000
+S.F. (Site): 90,042 2.1 acs
+S.F. (Footprint): 19,652
+Capacity: 775
+Year Built: 1932
+Inventory
+12/13/2012

@@ -1,0 +1,62 @@
+School Profile
+Northeast
+   Ziegler (7460)
+   5935 Saul St, Philadelphia, PA  19149
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):                  59,025      Capacity:                     556
+Start Date:            7/1/1957                                                S.F. (Footprint):                 35,908      Year Built:                  1957
+Level:                 Elementary School                                       S.F. (Site):        65,808        1.5 acs     No. of Floors:           2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Paul Spina
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 6 (Bobby Henon)                              Condition Assessment Cost:                  $2,372,421
+Congressional             Congressional District 13 (Allyson Y. Schwartz)       Replacement Cost:                          $19,596,300
+Legislative               PA Rep 179 (James Clay Jr.)                           Facilities Condition Index:                        0
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)
+FMS Region                Leone                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northeast
+Police District           15th District
+
+Enrollment History
+    Year      Grades PreK             K     01    02      03     04     05     06    07       08    09      10      11       12        UG       Total
+  2012/13       K‐8   0               61    58    66      56     61     50     54    56       64    0       0        0        0         0                  526
+  2011/12       K‐8   0               62    68    60      58     49     66     56    65       50    0       0        0        0         0                  534
+  2010/11       K‐8   0               59    64    61      54     59     60     65    58       64    0       0        0        0         0                  544
+  2009/10       K‐8   0               77    59    54      61     56     62     56    66       47    0       0        0        0         0                  538
+  2008/09       K‐8   0               65    54    62      59     66     45     51    44       45    0       0        0        0         0                  491
+  2007/08       K‐8   0               54    52    46      68     50     46     41    37       54    0       0        0        0         0                  448
+  2006/07       K‐8   0               56    40    62      47     45     37     35    56       46    0       0        0        0         0                  424
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown                                    Transportation
+IN Boundary            375 71%        AS-             7        Asian                                25 5%          Bus-Emergency                             3
+OUT of Boundary        151 29%        ES-             1        Black / African American            289 55%         Bus-Overcrowding                          1
+                                                      8        Hispanic / Latino                   145 28%         Bus-Special Ed                           17
+                                                               Multi Racial / Other                 24 5%          Cab-Special Ed                            1
+                                                               White                                43 8%          Trans Pass                                7
+                                                                                                                   Trans Pass-Emergency                      1
+                                                                                                                   Trans Pass-Hazardous                      1
+                                                                                                                   Trans Pass-Mileage                        2
+                                                                                                                   Trans Pass-Trans Pass Eligible            4
+                                                                                                                                                            37
+
+Academic Measures                   Climate Measures                     AYP                                              Students Live In Boundary
+Reading K-3 or Better:    47%       Avg Daily Attendance:       93%     2011/12      Corrective Action II2                Neighborhood (SDP) In:          363
+AGI Math:                  2        10+ Absences:               43%     2010/11      Corrective Action II                 Neighborhood (SDP) Out:         16
+AGI Reading:              -2.5      At Least 1 OSS:             5%      2009/10      Corrective Action I                  Neighborhood (Ren):              2
+Adv/Prof Math (E-M):       58       VI Per 100:                 1.31    2008/09      Making Progress SI II                Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 44          Persistently Dangerous:     No      2007/08      School Improvement II                Charter:                        116
+Adv/Prof Math (HS):                                                     2006/07      School Improvement I                 CTE:                             0
+                                                                        2005/06      Warning
+Adv/Prof Reading (HS):                                                                                                    Special Admission:               1
+                                                                        2004/05      Made AYP
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+                                                                        2003/04      Making Progress
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                           2
+
+
+                                                                                                                                                    12/13/2012
+

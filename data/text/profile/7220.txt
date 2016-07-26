@@ -1,62 +1,106 @@
-School Profile
+School Profile
 Northeast
-   Carnell (7220)
-   1100 Devereaux Ave, Philadelphia, PA  19111
-General Information                                                           Inventory
-Status:                Open                                                   S.F. (Building):                   74,885      Capacity:                     874
-Start Date:            7/1/1931                                               S.F. (Footprint):                  25,902      Year Built:                  1931
-Level:                 Elementary School                                      S.F. (Site):        160,161        3.7 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Hilderbrand Pelzer
-
-Geographic Information                                                        Facilities Condition Index (FCI)**
-Councilmanic              District 7 (Maria D. Quiñones-Sánchez)               Condition Assessment Cost:                  $17,182,998
-Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                           $24,861,820
-Legislative               PA Rep 202 (Mark B. Cohen)                           Facilities Condition Index:                    0.4998
-Senatorial                Senate Rep 2 (Christine M. Tartaglione)
-FMS Region                Ovington                                             ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Northeast
-Police District           2nd District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04 05 06                                    07         08    09      10      11       12      UG         Total
-  2012/13       K‐8   0   180 203 201 180 168 183 173                              172       153    0       0        0        0       0                 1,613
-  2011/12       K‐8   0   192 213 192 183 182 181 183                              154       158    0       0        0        0       0                 1,638
-  2010/11       K‐8   0   195 177 206 189 188 194 187                              177       134    0       0        0        0       0                 1,647
-  2009/10       K‐8   0   185 201 194 182 202 187 158                              132       120    0       0        0        0       0                 1,561
-  2008/09       K‐8   0   182 201 182 197 180 148 132                              110        98    0       0        0        0       0                 1,430
-  2007/08       K‐8   0   180 181 182 178 143 160 103                              101        94    0       0        0        0       0                 1,322
-  2006/07       K‐8   0   189 187 183 144 144 127 111                              108       110    0       0        0        0       0                 1,303
-Current Enrollment Details
-In / Out Boundary                     Special Education       Racial Breakdown                                     Transportation
-IN Boundary            1,505 94%      AS-              9      American Indian / Alaska Nativ         6 0%          Bus-Emergency                             1
-OUT of Boundary          103 6%       ES-             11      Asian                                 92 6%          Bus-Overcrowding                          3
-                                      LSS-             1      Black / African American             917 57%         Bus-Special Ed                           18
-                                                      21      Hispanic / Latino                    413 26%         Trans Pass                                1
-                                                              Multi Racial / Other                  97 6%          Trans Pass-Overcrowding                   4
-                                                              Native Hawaiian / Other Pacifi         1 0%          Trans Pass-Trans Pass Eligible           11
-                                                              White                                 87 5%                                                   38
-
-Academic Measures                   Climate Measures                    AYP                                               Students Live In Boundary
-Reading K-3 or Better:    38%       Avg Daily Attendance:      93%     2011/12      Corrective Action II4                 Neighborhood (SDP) In:        1464
-AGI Math:                 -9.6      10+ Absences:              44%     2010/11      Corrective Action II3                 Neighborhood (SDP) Out:         185
-AGI Reading:              -5.6      At Least 1 OSS:            14%     2009/10      Corrective Action II2                 Neighborhood (Ren):             34
-Adv/Prof Math (E-M):       42       VI Per 100:                2.68    2008/09      Corrective Action II2                 Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 38          Persistently Dangerous:    No      2007/08      Corrective Action II                  Charter:                        622
-Adv/Prof Math (HS):                                                    2006/07      Corrective Action I                   CTE:                             0
-                                                                       2005/06      School Improvement II
-Adv/Prof Reading (HS):                                                                                                    Special Admission:              19
-                                                                       2004/05      Making Progress
-On-Track/Time Grad:                                                                                                       Citywide Admission:              0
-                                                                       2003/04      School Improvement I
-Graduation Rate:                                                                                                          Military Academy:                0
-Grad College (yr 1):                                                                                                      Other:                         11
-                                                                                                                                                        2335
-
-
-
-
-                                                                                                                                                    12/13/2012
-
+Carnell (7220)
+1100 Devereaux Ave, Philadelphia, PA  19111
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 180 203 201 180 168 183 173 172 153 0 0 0 0 0 1,613
+2011/12 K‐8 0 192 213 192 183 182 181 183 154 158 0 0 0 0 0 1,638
+2010/11 K‐8 0 195 177 206 189 188 194 187 177 134 0 0 0 0 0 1,647
+2009/10 K‐8 0 185 201 194 182 202 187 158 132 120 0 0 0 0 0 1,561
+2008/09 K‐8 0 182 201 182 197 180 148 132 110 98 0 0 0 0 0 1,430
+2007/08 K‐8 0 180 181 182 178 143 160 103 101 94 0 0 0 0 0 1,322
+2006/07 K‐8 0 189 187 183 144 144 127 111 108 110 0 0 0 0 0 1,303
+Geographic Information
+Councilmanic District 7 (Maria D. Quiñones-Sánchez)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 202 (Mark B. Cohen)
+Senatorial Senate Rep 2 (Christine M. Tartaglione)
+FMS Region Ovington
+Planning Area Northeast
+Police District 2nd District
+General Information
+Status: Open
+Start Date: 7/1/1931
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Hilderbrand Pelzer
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 6 0%
+Asian 92 6%
+Black / African American 917 57%
+Hispanic / Latino 413 26%
+Multi Racial / Other 97 6%
+Native Hawaiian / Other Pacifi 1 0%
+White 87 5%
+Transportation
+Bus-Emergency 1
+Bus-Overcrowding 3
+Bus-Special Ed 18
+Trans Pass 1
+Trans Pass-Overcrowding 4
+Trans Pass-Trans Pass Eligible 11
+38
+Special Education
+AS- 9
+ES- 11
+LSS- 1
+21
+In / Out Boundary
+IN Boundary 1,505 94%
+OUT of Boundary 103 6%
+AYP
+2011/12 Corrective Action II4
+2010/11 Corrective Action II3
+2009/10 Corrective Action II2
+2008/09 Corrective Action II2
+2007/08 Corrective Action II
+2006/07 Corrective Action I
+2005/06 School Improvement II
+2004/05 Making Progress
+2003/04 School Improvement I
+Academic Measures
+Reading K-3 or Better: 38%
+Adv/Prof Math (E-M): 42
+Adv/Prof Reading (E-M): 38
+AGI Math: -9.6
+AGI Reading: -5.6
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 93%
+10+ Absences: 44%
+At Least 1 OSS: 14%
+VI Per 100: 2.68
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 1464
+Neighborhood (SDP) Out: 185
+Neighborhood (Ren): 34
+Neighborhood (Charter): 0
+Charter: 622
+CTE: 0
+Special Admission: 19
+Citywide Admission: 0
+Military Academy: 0
+Other: 11
+2335
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $17,182,998
+Replacement Cost: $24,861,820
+Facilities Condition Index: 0.4998
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 74,885
+S.F. (Site): 160,161 3.7 acs
+S.F. (Footprint): 25,902
+Capacity: 874
+Year Built: 1931
+Inventory
+12/13/2012

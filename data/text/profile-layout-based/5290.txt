@@ -1,0 +1,60 @@
+School Profile
+North‐Central
+   Ferguson (5290)
+   2000 N 07th St, Philadelphia, PA  19122
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):                  99,864      Capacity:                     994
+Start Date:            7/1/1922                                                 S.F. (Footprint):                 27,442      Year Built:                  1922
+Level:                 Elementary School                                        S.F. (Site):        63,242        1.5 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Carol Williams
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 5 (Darrell Clarke)                            Condition Assessment Cost:                 $19,707,719
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                          $33,154,848
+Legislative               PA Rep 181 (W. Curtis Thomas)                          Facilities Condition Index:                   0.4466
+Senatorial                Senate Rep 3 (Shirley M. Kitchen)
+FMS Region                Neven                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           26th District
+
+Enrollment History
+    Year      Grades PreK             K       01   02      03     04     05     06    07       08    09      10      11       12      UG         Total
+  2012/13       K‐8   0               46      49   34      42     40     26     28    27       30    0       0        0        0       0                    322
+  2011/12       K‐8   0               44      31   48      45     37     32     26    30       25    0       0        0        0       0                    318
+  2010/11       K‐8   0               39      60   41      36     45     35     31    28       39    0       0        0        0       0                    354
+  2009/10       K‐8   0               67      55   53      51     40     47     30    40       33    0       0        0        0       0                    416
+  2008/09       K‐8   0               47      47   58      49     54     33     41    39       35    0       0        0        0       0                    403
+  2007/08       K‐8   0               58      60   48      66     43     51     43    43       37    0       0        0        0       0                    449
+  2006/07       K‐8   0               64      50   73      43     68     44     42    40       56    0       0        0        0       0                    480
+Current Enrollment Details
+In / Out Boundary                       Special Education       Racial Breakdown                                    Transportation
+IN Boundary            275 85%          AS-           18        Asian                                 5 2%          Bus-Special Ed                           19
+OUT of Boundary         47 15%          ES-            2        Black / African American            217 67%         Trans Pass-Special Ed                     2
+                                                      20        Hispanic / Latino                    71 22%         Trans Pass-Trans Pass Eligible            5
+                                                                Multi Racial / Other                 24 7%                                                   26
+                                                                White                                 5 2%
+
+Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
+Reading K-3 or Better:    49%       Avg Daily Attendance:        93%     2011/12      Corrective Action II7                Neighborhood (SDP) In:          271
+AGI Math:                 -2.6      10+ Absences:                45%     2010/11      Corrective Action II6                Neighborhood (SDP) Out:         92
+AGI Reading:              -0.5      At Least 1 OSS:              12%     2009/10      Corrective Action II5                Neighborhood (Ren):             11
+Adv/Prof Math (E-M):       44       VI Per 100:                  0.64    2008/09      Making Progress CA II4               Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 37          Persistently Dangerous:      No      2007/08      Corrective Action II4                Charter:                        106
+Adv/Prof Math (HS):                                                      2006/07      Making Progress                      CTE:                             0
+                                                                         2005/06      Corrective Action II3
+Adv/Prof Reading (HS):                                                                                                     Special Admission:               8
+                                                                         2004/05      Making Progress
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                         2003/04      Corrective Action II2
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           2
+                                                                                                                                                           490
+
+
+
+
+                                                                                                                                                     12/13/2012
+

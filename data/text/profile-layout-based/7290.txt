@@ -1,0 +1,61 @@
+School Profile
+Northeast
+   Stearne (7290)
+   1655 Unity St, Philadelphia, PA  19124
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):                  76,150      Capacity:                     537
+Start Date:            7/1/1968                                                 S.F. (Footprint):                 29,002      Year Built:                  1968
+Level:                 Elementary School                                        S.F. (Site):        73,105        1.7 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Darlene Vaughn
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 7 (Maria D. Quiñones-Sánchez)                 Condition Assessment Cost:                 $16,560,944
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                          $25,281,800
+Legislative               PA Rep 179 (James Clay Jr.)                            Facilities Condition Index:                   0.6286
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)
+FMS Region                Walker                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northeast
+Police District           15th District
+
+Enrollment History
+    Year      Grades PreK             K     01    02       03     04     05     06    07       08    09      10      11       12    UG           Total
+  2012/13       K‐6   0               62    77    77       69     58     62     47     0       0     0       0        0        0     0                      452
+  2011/12       K‐6   0               69    80    73       61     69     53     58     0       0     0       0        0        0     0                      463
+  2010/11       K‐6   0               80    67    77       82     55     56     61     0       0     0       0        0        0     0                      478
+  2009/10       K‐6   0               62    72    75       47     53     68     51     0       0     0       0        0        0     0                      428
+  2008/09       K‐6   0               62    68    58       61     65     56     39     0       0     0       0        0        0     0                      409
+  2007/08       K‐6   0               83    66    66       74     66     49     56     0       0     0       0        0        0     0                      460
+  2006/07       K‐6   0               77    75    81       77     61     83     68     0       0     0       0        0        0     0                      522
+Current Enrollment Details
+In / Out Boundary                     Special Education         Racial Breakdown                                    Transportation
+IN Boundary            351 78%        AS-             16        American Indian / Alaska Nativ        3 1%          Bus Rider                                 1
+OUT of Boundary        101 22%        ES-              2        Asian                                 2 0%          Bus-Emergency                            16
+                                                      18        Black / African American            222 49%         Bus-Special Ed                           16
+                                                                Hispanic / Latino                   165 37%         Trans Pass                                1
+                                                                Multi Racial / Other                 30 7%                                                   34
+                                                                White                                30 7%
+
+Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
+Reading K-3 or Better:    47%       Avg Daily Attendance:        92%     2011/12      Corrective Action II6                Neighborhood (SDP) In:          347
+AGI Math:                  -5       10+ Absences:                54%     2010/11      Corrective Action II5                Neighborhood (SDP) Out:         36
+AGI Reading:              -5.2      At Least 1 OSS:              13%     2009/10      Making Progress CA II4               Neighborhood (Ren):             18
+Adv/Prof Math (E-M):    30          VI Per 100:                  2.43    2008/09      Corrective Action II4                Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 27          Persistently Dangerous:       No     2007/08      Making Progress CA II3               Charter:                        150
+Adv/Prof Math (HS):                                                      2006/07      Corrective Action II3                CTE:                             0
+                                                                         2005/06      Making Progress
+Adv/Prof Reading (HS):                                                                                                     Special Admission:               5
+                                                                         2004/05      Corrective Action II2
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                         2003/04      Corrective Action II2
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           4
+                                                                                                                                                           560
+
+
+
+
+                                                                                                                                                     12/13/2012
+

@@ -1,0 +1,61 @@
+School Profile
+Southwest
+   Pepper (1150)
+   2901 S 84th St, Philadelphia, PA  19153
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):               200,000      Capacity:                  1,176
+Start Date:            7/1/1971                                                 S.F. (Footprint):               81,811      Year Built:                  1971
+Level:                 Middle School                                            S.F. (Site):        780,807    17.9 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Yolanda Armstrong
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 2 (Kenyatta Johnson)                          Condition Assessment Cost:               $33,109,781
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                        $68,400,000
+Legislative               PA Rep 185 (Maria Donatucci)                           Facilities Condition Index:                 0.2795
+Senatorial                Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region                Wilson                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Southwest
+Police District           12th District
+
+Enrollment History
+    Year      Grades PreK              K      01   02      03     04    05    06     07         08    09      10    11      12    UG           Total
+  2012/13       5‐8   0                0       0    0      0      0     57    106    122       128    0       0      0       0     0                      413
+  2011/12       5‐8   0                0       0    0      0      0     76    126    123       158    0       0      0       0     0                      483
+  2010/11       5‐8   0                0       0    0      0      0     72    122    170       183    0       0      0       0     0                      547
+  2009/10       5‐8   0                0       0    0      0      0     73    173    194       183    0       0      0       0     0                      623
+  2008/09       5‐8   0                0       0    0      0      0     94    180    168       200    0       0      0       0     0                      642
+  2007/08       5‐8   0                0       0    0      0      0     97    167    214       232    0       0      0       0     0                      710
+  2006/07       5‐8   0                0       0    0      0      0     101   221    219       257    0       0      0       0     0                      798
+Current Enrollment Details
+In / Out Boundary                      Special Education        Racial Breakdown                                   Transportation
+IN Boundary            345 85%         ES-             7        Asian                                 28 7%        Bus-Mileage                            141
+OUT of Boundary         63 15%         LSS-           10        Black / African American             356 86%       Bus-Overcrowding                         1
+                                                      17        Hispanic / Latino                      6 1%        Bus-Special Ed                          30
+                                                                Multi Racial / Other                   9 2%        Trans Pass-Special Ed                   17
+                                                                White                                 14 3%        Trans Pass-Trans Pass Eligible         206
+                                                                                                                                                          395
+
+Academic Measures                   Climate Measures                      AYP                                            Students Live In Boundary
+Reading K-3 or Better:              Avg Daily Attendance:        92%     2011/12      Corrective Action II8              Neighborhood (SDP) In:          339
+AGI Math:              -10.4        10+ Absences:                45%     2010/11      Corrective Action II7              Neighborhood (SDP) Out:         147
+AGI Reading:            -7.4        At Least 1 OSS:              28%     2009/10      Corrective Action II6              Neighborhood (Ren):             12
+Adv/Prof Math (E-M):    29          VI Per 100:                  5.45    2008/09      Corrective Action II5              Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 32          Persistently Dangerous:       No     2007/08      Making Progress CA II4             Charter:                        443
+Adv/Prof Math (HS):                                                      2006/07      Corrective Action II4              CTE:                             0
+                                                                         2005/06      Corrective Action II3
+Adv/Prof Reading (HS):                                                                                                   Special Admission:              84
+                                                                         2004/05      Corrective Action II2
+On-Track/Time Grad:                                                                                                      Citywide Admission:              0
+                                                                         2003/04      Making Progress
+Graduation Rate:                                                                                                         Military Academy:                0
+Grad College (yr 1):                                                                                                     Other:                          5
+                                                                                                                                                       1030
+
+
+
+
+                                                                                                                                                   12/13/2012
+

@@ -1,60 +1,101 @@
-School Profile
+School Profile
 North‐Central
-   Hartranft (5320)
-   720 W Cumberland St, Philadelphia, PA  19133
-General Information                                                               Inventory
-Status:                Open                                                       S.F. (Building):                   85,000      Capacity:                     676
-Start Date:            7/1/1968                                                   S.F. (Footprint):                  44,453      Year Built:                  1968
-Level:                 Elementary School                                          S.F. (Site):        100,969        2.3 acs     No. of Floors:           2
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Kelli Rosado
-
-Geographic Information                                                            Facilities Condition Index (FCI)**
-Councilmanic              District 5 (Darrell Clarke)                              Condition Assessment Cost:                   $7,730,537
-Congressional             Congressional District 1 (Robert A. Brady)               Replacement Cost:                           $28,220,000
-Legislative               PA Rep 181 (W. Curtis Thomas)                            Facilities Condition Index:                     0.16
-Senatorial                Senate Rep 3 (Shirley M. Kitchen)
-FMS Region                Britt                                                    ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           26th District
-
-Enrollment History
-    Year      Grades PreK             K      01     02       03     04     05     06    07       08     09      10      11       12       UG        Total
-  2012/13       K‐8   0               50     56     53       47     55     39     38    38       42     0       0        0        0        0                   418
-  2011/12       K‐8   0               47     55     54       49     44     40     40    47       43     0       0        0        0        0                   419
-  2010/11       K‐8   0               56     58     59       44     38     38     42    39       37     0       0        0        0        0                   411
-  2009/10       K‐8   0               51     53     42       41     48     51     46    41       34     0       0        0        0        0                   407
-  2008/09       K‐8   0               47     60     45       57     55     44     51    35       46     0       0        0        0        0                   440
-  2007/08       K‐8   0               49     52     60       60     42     45     42    38       37     0       0        0        0        0                   425
-  2006/07       K‐8   0               50     77     63       49     55     50     45    46       54     0       0        0        0        0                   489
-Current Enrollment Details
-In / Out Boundary                      Special Education          Racial Breakdown                                     Transportation
-IN Boundary            386 93%         AS-               3        American Indian / Alaska Nativ        2 0%           Bus-Special Ed                            8
-OUT of Boundary         31 7%          ES-               9        Black / African American            289 69%          Trans Pass                                1
-                                                        12        Hispanic / Latino                   109 26%          Trans Pass-Special Ed                     2
-                                                                  Multi Racial / Other                 17 4%           Trans Pass-Trans Pass Eligible            1
-                                                                  White                                 1 0%                                                    12
-
-Academic Measures                     Climate Measures                      AYP                                               Students Live In Boundary
-Reading K-3 or Better:    51%         Avg Daily Attendance:        92%     2011/12      Warning                               Neighborhood (SDP) In:          380
-AGI Math:                  1          10+ Absences:                51%     2010/11      Made AYP                              Neighborhood (SDP) Out:         77
-AGI Reading:                1         At Least 1 OSS:              19%     2009/10      Making Progress CA I                  Neighborhood (Ren):             24
-Adv/Prof Math (E-M):       42         VI Per 100:                  3.45    2008/09      Corrective Action I                   Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 33            Persistently Dangerous:      No      2007/08      School Improvement II                 Charter:                        86
-Adv/Prof Math (HS):                                                        2006/07      School Improvement I                  CTE:                             0
-                                                                           2005/06      Warning
-Adv/Prof Reading (HS):                                                                                                        Special Admission:               4
-                                                                           2004/05      Made AYP
-On-Track/Time Grad:                                                                                                           Citywide Admission:              0
-                                                                           2003/04      Making Progress
-Graduation Rate:                                                                                                              Military Academy:                0
-Grad College (yr 1):                                                                                                          Other:                           5
-                                                                                                                                                              576
-
-
-
-
-                                                                                                                                                        12/13/2012
-
+Hartranft (5320)
+720 W Cumberland St, Philadelphia, PA  19133
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 50 56 53 47 55 39 38 38 42 0 0 0 0 0 418
+2011/12 K‐8 0 47 55 54 49 44 40 40 47 43 0 0 0 0 0 419
+2010/11 K‐8 0 56 58 59 44 38 38 42 39 37 0 0 0 0 0 411
+2009/10 K‐8 0 51 53 42 41 48 51 46 41 34 0 0 0 0 0 407
+2008/09 K‐8 0 47 60 45 57 55 44 51 35 46 0 0 0 0 0 440
+2007/08 K‐8 0 49 52 60 60 42 45 42 38 37 0 0 0 0 0 425
+2006/07 K‐8 0 50 77 63 49 55 50 45 46 54 0 0 0 0 0 489
+Geographic Information
+Councilmanic District 5 (Darrell Clarke)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 181 (W. Curtis Thomas)
+Senatorial Senate Rep 3 (Shirley M. Kitchen)
+FMS Region Britt
+Planning Area North-Central
+Police District 26th District
+General Information
+Status: Open
+Start Date: 7/1/1968
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Kelli Rosado
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 2 0%
+Black / African American 289 69%
+Hispanic / Latino 109 26%
+Multi Racial / Other 17 4%
+White 1 0%
+Transportation
+Bus-Special Ed 8
+Trans Pass 1
+Trans Pass-Special Ed 2
+Trans Pass-Trans Pass Eligible 1
+12
+Special Education
+AS- 3
+ES- 9
+12
+In / Out Boundary
+IN Boundary 386 93%
+OUT of Boundary 31 7%
+AYP
+2011/12 Warning
+2010/11 Made AYP
+2009/10 Making Progress CA I
+2008/09 Corrective Action I
+2007/08 School Improvement II
+2006/07 School Improvement I
+2005/06 Warning
+2004/05 Made AYP
+2003/04 Making Progress
+Academic Measures
+Reading K-3 or Better: 51%
+Adv/Prof Math (E-M): 42
+Adv/Prof Reading (E-M): 33
+AGI Math: 1
+AGI Reading: 1
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 92%
+10+ Absences: 51%
+At Least 1 OSS: 19%
+VI Per 100: 3.45
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 380
+Neighborhood (SDP) Out: 77
+Neighborhood (Ren): 24
+Neighborhood (Charter): 0
+Charter: 86
+CTE: 0
+Special Admission: 4
+Citywide Admission: 0
+Military Academy: 0
+Other: 5
+576
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $7,730,537
+Replacement Cost: $28,220,000
+Facilities Condition Index: 0.16
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 2
+S.F. (Building): 85,000
+S.F. (Site): 100,969 2.3 acs
+S.F. (Footprint): 44,453
+Capacity: 676
+Year Built: 1968
+Inventory
+12/13/2012

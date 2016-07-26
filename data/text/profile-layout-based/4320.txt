@@ -1,0 +1,61 @@
+School Profile
+West
+   Lamberton ES (4320)
+   7501 Woodbine Ave, Philadelphia, PA  19151
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):               110,193         Capacity:                 1,084
+Start Date:            7/1/1949                                                 S.F. (Footprint):                  48,845      Year Built:                 1949
+Level:                 Elementary School                                        S.F. (Site):        242,371        5.6 acs     No. of Floors:          2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Marla Travis-Curtis
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 4 (Curtis Jones Jr.)                          Condition Assessment Cost:                  $22,051,212
+Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                           $36,584,076
+Legislative               PA Rep 192 (Louise Williams Bishop)                    Facilities Condition Index:                    0.4589
+Senatorial                Senate Rep 7 (Vincent J. Hughes)
+FMS Region                Wilson                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             West
+Police District           19th District
+
+Enrollment History
+    Year      Grades PreK             K      01   02       03     04     05     06    07        08    09      10      11       12    UG          Total
+  2012/13       K‐8   0               53     52   66       58     57     48     52    73        72    0       0        0        0     0                     531
+  2011/12       K‐8   0               52     57   66       56     46     52     69    73        66    0       0        0        0     0                     537
+  2010/11       K‐8   0               51     64   65       52     51     72     64    64        78    0       0        0        0     0                     561
+  2009/10       K‐8   0               67     66   51       61     76     60     62    76        91    0       0        0        0     0                     610
+  2008/09       K‐8   0               59     56   57       82     60     65     82    91        61    0       0        0        0     0                     613
+  2007/08       K‐8   0               55     58   85       67     70     84     90    65        98    0       0        0        0     0                     672
+  2006/07       K‐8   0               49     75   65       66     79     84     63    82       124    0       0        0        0     0                     687
+Current Enrollment Details
+In / Out Boundary                     Special Education         Racial Breakdown                                     Transportation
+IN Boundary            470 89%        ES-             10        Asian                                 10 2%          Bus Rider                                2
+OUT of Boundary         61 11%                        10        Black / African American             474 89%         Bus-Overcrowding                         7
+                                                                Hispanic / Latino                     22 4%          Bus-Special Ed                          11
+                                                                Multi Racial / Other                  22 4%          Trans Pass                               1
+                                                                White                                  3 1%          Trans Pass-Trans Pass Eligible           6
+                                                                                                                                                             27
+
+Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
+Reading K-3 or Better: 33%          Avg Daily Attendance:        96%     2011/12      Warning                              Neighborhood (SDP) In:          467
+AGI Math:              -19.2        10+ Absences:                25%     2010/11      Made AYP                             Neighborhood (SDP) Out:         45
+AGI Reading:           -18.7        At Least 1 OSS:              9%      2009/10      Making Progress CA II2               Neighborhood (Ren):              7
+Adv/Prof Math (E-M):    50          VI Per 100:                  3.19    2008/09      Corrective Action II2                Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 44          Persistently Dangerous:       No     2007/08      Corrective Action II                 Charter:                        225
+Adv/Prof Math (HS):                                                      2006/07      Corrective Action I                  CTE:                             0
+                                                                         2005/06      Making Progress
+Adv/Prof Reading (HS):                                                                                                     Special Admission:              62
+                                                                         2004/05      School Improvement II
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                         2003/04      Making Progress
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           8
+                                                                                                                                                           814
+
+
+
+
+                                                                                                                                                     12/13/2012
+

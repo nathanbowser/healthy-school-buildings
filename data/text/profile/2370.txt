@@ -1,60 +1,100 @@
-School Profile
+School Profile
 South‐Central
-   McDaniel (2370)
-   1801 S 22nd St, Philadelphia, PA  19145
-General Information                                                             Inventory
-Status:                Open                                                     S.F. (Building):                  61,000      Capacity:                     556
-Start Date:            7/1/1937                                                 S.F. (Footprint):                 20,736      Year Built:                  1937
-Level:                 Elementary School                                        S.F. (Site):        46,573        1.1 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Darlynn Gray
-
-Geographic Information                                                          Facilities Condition Index (FCI)**
-Councilmanic              District 2 (Kenyatta Johnson)                          Condition Assessment Cost:                 $15,071,892
-Congressional             Congressional District 2 (Chaka Fattah)                Replacement Cost:                          $20,252,000
-Legislative               PA Rep 186 (Jordan A. Harris)                          Facilities Condition Index:                   0.1552
-Senatorial                Senate Rep 8 (Anthony H. Williams)
-FMS Region                Neven                                                  ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             South-Central
-Police District           1st District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04 05                                    06    07       08    09      10      11       12      UG         Total
-  2012/13       K‐8   0   99 106 105 85 108 84                                  80    73       68    0       0        0        0       0                    808
-  2011/12       K‐8   0   119 115 103 121 104 104                               79    84       83    0       0        0        0       0                    912
-  2010/11       K‐7   0   105 116 130 108 111 95                                97    80       0     0       0        0        0       0                    842
-  2009/10       K‐6   0   113 140 107 112 96 99                                 83     0       0     0       0        0        0       0                    750
-  2008/09       K‐5   0   117 93 99 99 89 83                                     0     0       0     0       0        0        0       0                    580
-  2007/08       K‐4   0   85 79 97 87 82       0                                 0     0       0     0       0        0        0       0                    430
-  2006/07       K‐4   0   61 106 84 84 91      0                                 0     0       0     0       0        0        0       0                    426
-Current Enrollment Details
-In / Out Boundary                      Special Education        Racial Breakdown                                    Transportation
-IN Boundary            748 93%         AS-               1      Asian                                 9 1%          Bus-Special Ed                           10
-OUT of Boundary         57 7%          ES-              11      Black / African American            747 92%         Trans Pass                                9
-                                                        12      Hispanic / Latino                    18 2%          Trans Pass-Trans Pass Eligible            1
-                                                                Multi Racial / Other                 21 3%                                                   20
-                                                                White                                13 2%
-
-Academic Measures                     Climate Measures                    AYP                                              Students Live In Boundary
-Reading K-3 or Better:    39%         Avg Daily Attendance:      90%     2011/12      School Improvement I                 Neighborhood (SDP) In:          741
-AGI Math:                 -31.9       10+ Absences:              60%     2010/11      Warning                              Neighborhood (SDP) Out:         223
-AGI Reading:              -22.8       At Least 1 OSS:            16%     2009/10      Made AYP                             Neighborhood (Ren):             46
-Adv/Prof Math (E-M):       33         VI Per 100:                5.24    2008/09      Warning                              Neighborhood (Charter):          2
-Adv/Prof Reading (E-M): 33            Persistently Dangerous:    No      2007/08      Made AYP                             Charter:                        266
-Adv/Prof Math (HS):                                                      2006/07      Making Progress                      CTE:                             0
-                                                                         2005/06      School Improvement II
-Adv/Prof Reading (HS):                                                                                                     Special Admission:              10
-                                                                         2004/05      School Improvement I
-On-Track/Time Grad:                                                                                                        Citywide Admission:              0
-                                                                         2003/04      Warning
-Graduation Rate:                                                                                                           Military Academy:                0
-Grad College (yr 1):                                                                                                       Other:                          5
-                                                                                                                                                         1293
-
-
-
-
-                                                                                                                                                     12/13/2012
-
+McDaniel (2370)
+1801 S 22nd St, Philadelphia, PA  19145
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 99 106 105 85 108 84 80 73 68 0 0 0 0 0 808
+2011/12 K‐8 0 119 115 103 121 104 104 79 84 83 0 0 0 0 0 912
+2010/11 K‐7 0 105 116 130 108 111 95 97 80 0 0 0 0 0 0 842
+2009/10 K‐6 0 113 140 107 112 96 99 83 0 0 0 0 0 0 0 750
+2008/09 K‐5 0 117 93 99 99 89 83 0 0 0 0 0 0 0 0 580
+2007/08 K‐4 0 85 79 97 87 82 0 0 0 0 0 0 0 0 0 430
+2006/07 K‐4 0 61 106 84 84 91 0 0 0 0 0 0 0 0 0 426
+Geographic Information
+Councilmanic District 2 (Kenyatta Johnson)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 186 (Jordan A. Harris)
+Senatorial Senate Rep 8 (Anthony H. Williams)
+FMS Region Neven
+Planning Area South-Central
+Police District 1st District
+General Information
+Status: Open
+Start Date: 7/1/1937
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Darlynn Gray
+Current Enrollment Details
+Racial Breakdown
+Asian 9 1%
+Black / African American 747 92%
+Hispanic / Latino 18 2%
+Multi Racial / Other 21 3%
+White 13 2%
+Transportation
+Bus-Special Ed 10
+Trans Pass 9
+Trans Pass-Trans Pass Eligible 1
+20
+Special Education
+AS- 1
+ES- 11
+12
+In / Out Boundary
+IN Boundary 748 93%
+OUT of Boundary 57 7%
+AYP
+2011/12 School Improvement I
+2010/11 Warning
+2009/10 Made AYP
+2008/09 Warning
+2007/08 Made AYP
+2006/07 Making Progress
+2005/06 School Improvement II
+2004/05 School Improvement I
+2003/04 Warning
+Academic Measures
+Reading K-3 or Better: 39%
+Adv/Prof Math (E-M): 33
+Adv/Prof Reading (E-M): 33
+AGI Math: -31.9
+AGI Reading: -22.8
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 90%
+10+ Absences: 60%
+At Least 1 OSS: 16%
+VI Per 100: 5.24
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 741
+Neighborhood (SDP) Out: 223
+Neighborhood (Ren): 46
+Neighborhood (Charter): 2
+Charter: 266
+CTE: 0
+Special Admission: 10
+Citywide Admission: 0
+Military Academy: 0
+Other: 5
+1293
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $15,071,892
+Replacement Cost: $20,252,000
+Facilities Condition Index: 0.1552
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 61,000
+S.F. (Site): 46,573 1.1 acs
+S.F. (Footprint): 20,736
+Capacity: 556
+Year Built: 1937
+Inventory
+12/13/2012

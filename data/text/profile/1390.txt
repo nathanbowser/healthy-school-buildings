@@ -1,61 +1,78 @@
-School Profile
+School Profile
 Southwest
-   Powel (1390)
-   301 N 36th St, Philadelphia, PA  19104
-General Information                                                      Inventory
-Status:           Open                                                   S.F. (Building):                  18,000      Capacity:                     199
-Start Date:       7/1/1961                                               S.F. (Footprint):                  9,833      Year Built:                  1961
-Level:            Elementary School                                      S.F. (Site):        53,876        1.2 acs     No. of Floors:           2
-Type:             Neighborhood
-Admit Type:       Neighborhood
-Managed:          District
-Principal:        Kimberly Ellerbee
-
-Geographic Information                                                   Facilities Condition Index (FCI)**
-Councilmanic          District 3 (Jannie Blackwell)                       Condition Assessment Cost:                 $2,619,454
-Congressional         Congressional District 2 (Chaka Fattah)             Replacement Cost:                          $5,976,000
-Legislative           PA Rep 195 (Michelle F. Brownlee)                   Facilities Condition Index:                   0.424
-Senatorial            Senate Rep 7 (Vincent J. Hughes)
-FMS Region            Loftus                                              ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area         Southwest
-Police District       16th District
-
-Enrollment History
-    Year      Grades PreK        K     01     02    03     04     05     06    07       08    09      10      11       12    UG           Total
-  2012/13       K‐4   0          53    49     47    53     53     0       0     0       0     0       0        0        0     0                      255
-  2011/12       K‐4   0          42    43     48    44     46     0       0     0       0     0       0        0        0     0                      223
-  2010/11       K‐4   0          48    46     50    49     43     0       0     0       0     0       0        0        0     0                      236
-  2009/10       K‐4   0          46    47     54    44     53     0       0     0       0     0       0        0        0     0                      244
-  2008/09       K‐4   0          44    46     42    49     43     0       0     0       0     0       0        0        0     0                      224
-  2007/08       K‐4   0          47    45     47    47     52     0       0     0       0     0       0        0        0     0                      238
-  2006/07       K‐4   0          45    45     47    54     51     0       0     0       0     0       0        0        0     0                      242
-Current Enrollment Details
-In / Out Boundary                                        Racial Breakdown                                   Transportation
-IN Boundary          88 35%                              American Indian / Alaska Nativ        2 1%         Bus-Special Ed                               2
-OUT of Boundary     164 65%                              Asian                                12 5%                                                      2
-                                                         Black / African American            179 70%
-                                                         Hispanic / Latino                     5 2%
-                                                         Multi Racial / Other                 19 7%
-                                                         White                                38 15%
-
-                                                                   AYP                                              Students Live In Boundary
-                                                                  2011/12      Made AYP                             Neighborhood (SDP) In:          85
-                                                                  2010/11      Made AYP                             Neighborhood (SDP) Out:         46
-                                                                  2009/10      Warning                              Neighborhood (Ren):              2
-                                                                  2008/09      Warning                              Neighborhood (Charter):         17
-                                                                  2007/08      Made AYP                             Charter:                        13
-                                                                  2006/07      Made AYP                             CTE:                             0
-                                                                  2005/06      Made AYP
-                                                                                                                    Special Admission:               1
-                                                                  2004/05      Made AYP
-                                                                                                                    Citywide Admission:              0
-                                                                  2003/04      Made AYP
-                                                                                                                    Military Academy:                0
-                                                                                                                    Other:                           3
-                                                                                                                                                    167
-
-
-
-
-                                                                                                                                              12/13/2012
-
+Powel (1390)
+301 N 36th St, Philadelphia, PA  19104
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐4 0 53 49 47 53 53 0 0 0 0 0 0 0 0 0 255
+2011/12 K‐4 0 42 43 48 44 46 0 0 0 0 0 0 0 0 0 223
+2010/11 K‐4 0 48 46 50 49 43 0 0 0 0 0 0 0 0 0 236
+2009/10 K‐4 0 46 47 54 44 53 0 0 0 0 0 0 0 0 0 244
+2008/09 K‐4 0 44 46 42 49 43 0 0 0 0 0 0 0 0 0 224
+2007/08 K‐4 0 47 45 47 47 52 0 0 0 0 0 0 0 0 0 238
+2006/07 K‐4 0 45 45 47 54 51 0 0 0 0 0 0 0 0 0 242
+Geographic Information
+Councilmanic District 3 (Jannie Blackwell)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 195 (Michelle F. Brownlee)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Loftus
+Planning Area Southwest
+Police District 16th District
+General Information
+Status: Open
+Start Date: 7/1/1961
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Kimberly Ellerbee
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 2 1%
+Asian 12 5%
+Black / African American 179 70%
+Hispanic / Latino 5 2%
+Multi Racial / Other 19 7%
+White 38 15%
+Transportation
+Bus-Special Ed 2
+2
+In / Out Boundary
+IN Boundary 88 35%
+OUT of Boundary 164 65%
+AYP
+2011/12 Made AYP
+2010/11 Made AYP
+2009/10 Warning
+2008/09 Warning
+2007/08 Made AYP
+2006/07 Made AYP
+2005/06 Made AYP
+2004/05 Made AYP
+2003/04 Made AYP
+Students Live In Boundary
+Neighborhood (SDP) In: 85
+Neighborhood (SDP) Out: 46
+Neighborhood (Ren): 2
+Neighborhood (Charter): 17
+Charter: 13
+CTE: 0
+Special Admission: 1
+Citywide Admission: 0
+Military Academy: 0
+Other: 3
+167
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $2,619,454
+Replacement Cost: $5,976,000
+Facilities Condition Index: 0.424
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 2
+S.F. (Building): 18,000
+S.F. (Site): 53,876 1.2 acs
+S.F. (Footprint): 9,833
+Capacity: 199
+Year Built: 1961
+Inventory
+12/13/2012

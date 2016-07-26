@@ -1,61 +1,101 @@
-School Profile
+School Profile
 West
-   Overbrook HS (4020)
-   5898 Lancaster Ave, Philadelphia, PA  19131
-General Information                                                              Inventory
-Status:                Open                                                      S.F. (Building):               323,316      Capacity:                  2,446
-Start Date:            7/1/1926                                                  S.F. (Footprint):              102,101      Year Built:                  1926
-Level:                 High School                                               S.F. (Site):        199,742     4.6 acs     No. of Floors:           5
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Ethelyn Young
-
-Geographic Information                                                           Facilities Condition Index (FCI)**
-Councilmanic              District 4 (Curtis Jones Jr.)                           Condition Assessment Cost:               $37,909,495
-Congressional             Congressional District 1 (Robert A. Brady)              Replacement Cost:                     $114,777,180
-Legislative               PA Rep 192 (Louise Williams Bishop)                     Facilities Condition Index:                 0.2824
-Senatorial                Senate Rep 7 (Vincent J. Hughes)
-FMS Region                Wilson                                                  ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             West
-Police District           19th District
-
-Enrollment History
-    Year      Grades PreK              K      01   02       03     04     05     06    07       08      09      10   11      12 UG              Total
-  2012/13      9‐12   0                0       0    0       0      0      0       0     0       0      231     285   271     202 0                        989
-  2011/12      9‐12   0                0       0    0       0      0      0       0     0       0      223     372   268     332 0                      1,195
-  2010/11      9‐12   0                0       0    0       0      0      0       0     0       0      333     426   364     350 0                      1,473
-  2009/10      9‐12   0                0       0    0       0      0      0       0     0       0      364     468   342     305 0                      1,479
-  2008/09      9‐12   0                0       0    0       0      0      0       0     0       0      461     445   290     361 0                      1,557
-  2007/08      9‐12   0                0       0    0       0      0      0       0     0       0      496     457   283     376 0                      1,612
-  2006/07      9‐12   0                0       0    0       0      0      0       0     0       0      595     504   402     410 0                      1,911
-Current Enrollment Details
-In / Out Boundary                      Special Education         Racial Breakdown                                    Transportation
-IN Boundary            842 87%         ES-             33        American Indian / Alaska Nativ        2 0%          Bus-Special Ed                         34
-OUT of Boundary        131 13%         LSS-            26        Asian                                 2 0%          Trans Pass-Special Ed                   6
-                                                       59        Black / African American            956 97%         Trans Pass-Trans Pass Eligible        290
-                                                                 Hispanic / Latino                    22 2%                                                330
-                                                                 Multi Racial / Other                  3 0%
-                                                                 White                                 4 0%
-
-Academic Measures                    Climate Measures                      AYP                                            Students Live In Boundary
-Reading K-3 or Better:               Avg Daily Attendance:        80%     2011/12      Corrective Action II6              Neighborhood (SDP) In:          828
-AGI Math:                 -6.3       10+ Absences:                71%     2010/11      Corrective Action II5              Neighborhood (SDP) Out:         266
-AGI Reading:              -6.3       At Least 1 OSS:              30%     2009/10      Corrective Action II4              Neighborhood (Ren):             54
-Adv/Prof Math (E-M):                 VI Per 100:                  4.99    2008/09      Corrective Action II3              Neighborhood (Charter):          0
-Adv/Prof Reading (E-M):              Persistently Dangerous:       No     2007/08      Corrective Action II2              Charter:                        947
-Adv/Prof Math (HS):        11                                             2006/07      Corrective Action II               CTE:                            179
-                                                                          2005/06      Corrective Action I
-Adv/Prof Reading (HS):     17                                                                                             Special Admission:              522
-                                                                          2004/05      School Improvement II
-On-Track/Time Grad:       82%                                                                                             Citywide Admission:             192
-                                                                          2003/04      Making Progress
-Graduation Rate:          56%                                                                                             Military Academy:               17
-Grad College (yr 1):      28%                                                                                             Other:                        208
-                                                                                                                                                        3213
-
-
-
-
-                                                                                                                                                    12/13/2012
-
+Overbrook HS (4020)
+5898 Lancaster Ave, Philadelphia, PA  19131
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 9‐12 0 0 0 0 0 0 0 0 0 0 231 285 271 202 0 989
+2011/12 9‐12 0 0 0 0 0 0 0 0 0 0 223 372 268 332 0 1,195
+2010/11 9‐12 0 0 0 0 0 0 0 0 0 0 333 426 364 350 0 1,473
+2009/10 9‐12 0 0 0 0 0 0 0 0 0 0 364 468 342 305 0 1,479
+2008/09 9‐12 0 0 0 0 0 0 0 0 0 0 461 445 290 361 0 1,557
+2007/08 9‐12 0 0 0 0 0 0 0 0 0 0 496 457 283 376 0 1,612
+2006/07 9‐12 0 0 0 0 0 0 0 0 0 0 595 504 402 410 0 1,911
+Geographic Information
+Councilmanic District 4 (Curtis Jones Jr.)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 192 (Louise Williams Bishop)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Wilson
+Planning Area West
+Police District 19th District
+General Information
+Status: Open
+Start Date: 7/1/1926
+Level: High School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Ethelyn Young
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 2 0%
+Asian 2 0%
+Black / African American 956 97%
+Hispanic / Latino 22 2%
+Multi Racial / Other 3 0%
+White 4 0%
+Transportation
+Bus-Special Ed 34
+Trans Pass-Special Ed 6
+Trans Pass-Trans Pass Eligible 290
+330
+Special Education
+ES- 33
+LSS- 26
+59
+In / Out Boundary
+IN Boundary 842 87%
+OUT of Boundary 131 13%
+AYP
+2011/12 Corrective Action II6
+2010/11 Corrective Action II5
+2009/10 Corrective Action II4
+2008/09 Corrective Action II3
+2007/08 Corrective Action II2
+2006/07 Corrective Action II
+2005/06 Corrective Action I
+2004/05 School Improvement II
+2003/04 Making Progress
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M):
+Adv/Prof Reading (E-M):
+AGI Math: -6.3
+AGI Reading: -6.3
+On-Track/Time Grad: 82%
+Graduation Rate: 56%
+Grad College (yr 1): 28%
+Adv/Prof Math (HS): 11
+Adv/Prof Reading (HS): 17
+Climate Measures
+Avg Daily Attendance: 80%
+10+ Absences: 71%
+At Least 1 OSS: 30%
+VI Per 100: 4.99
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 828
+Neighborhood (SDP) Out: 266
+Neighborhood (Ren): 54
+Neighborhood (Charter): 0
+Charter: 947
+CTE: 179
+Special Admission: 522
+Citywide Admission: 192
+Military Academy: 17
+Other: 208
+3213
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $37,909,495
+Replacement Cost: $114,777,180
+Facilities Condition Index: 0.2824
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 5
+S.F. (Building): 323,316
+S.F. (Site): 199,742 4.6 acs
+S.F. (Footprint): 102,101
+Capacity: 2,446
+Year Built: 1926
+Inventory
+12/13/2012

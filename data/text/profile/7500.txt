@@ -1,61 +1,103 @@
-School Profile
+School Profile
 North‐Central
-   Feltonville Arts (7500)
-   210 E Courtland St, Philadelphia, PA  19120
-General Information                                                               Inventory
-Status:                Open                                                       S.F. (Building):                   78,000      Capacity:                   924
-Start Date:            7/1/1993                                                   S.F. (Footprint):                  38,919      Year Built:                2005
-Level:                 Middle School                                              S.F. (Site):         96,895        2.2 acs     No. of Floors:
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Michael Reid
-
-Geographic Information                                                            Facilities Condition Index (FCI)**
-Councilmanic              District 7 (Maria D. Quiñones-Sánchez)                   Condition Assessment Cost:                           $0
-Congressional             Congressional District 1 (Robert A. Brady)               Replacement Cost:                           $26,676,000
-Legislative               PA Rep 180 (Angel Cruz)                                  Facilities Condition Index:              0
-Senatorial                Senate Rep 2 (Christine M. Tartaglione)                                                  New Construction
-FMS Region                Britt                                                    ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           25th District
-
-Enrollment History
-    Year      Grades PreK              K     01    02        03     04     05   06     07         08    09      10      11       12    UG           Total
-  2012/13       6‐8   0                0      0     0        0      0      0    206    207       203    0       0        0        0     0                    616
-  2011/12       6‐8   0                0      0     0        0      0      0    217    218       223    0       0        0        0     0                    658
-  2010/11       6‐8   0                0      0     0        0      0      0    231    222       228    1       0        0        0     0                    682
-  2009/10       6‐8   0                0      0     0        0      0      0    218    229       266    0       0        0        0     0                    713
-  2008/09       6‐8   0                0      0     0        0      0      0    235    239       250    0       0        0        0     0                    724
-  2007/08       6‐8   0                0      0     0        0      0      0    226    258       262    0       0        0        0     0                    746
-  2006/07       6‐8   0                0      0     0        0      0      0    259    277       259    0       0        0        0     0                    795
-Current Enrollment Details
-In / Out Boundary                      Special Education          Racial Breakdown                                     Transportation
-IN Boundary            574 93%         AS-               9        American Indian / Alaska Nativ         1 0%          Bus-Special Ed                         16
-OUT of Boundary         40 7%          ES-               8        Asian                                 39 6%          Trans Pass-Emergency                    1
-                                                        17        Black / African American             162 26%         Trans Pass-Overcrowding                 1
-                                                                  Hispanic / Latino                    380 62%         Trans Pass-Trans Pass Eligible          8
-                                                                  Multi Racial / Other                  25 4%                                                 26
-                                                                  White                                  9 1%
-
-Academic Measures                     Climate Measures                      AYP                                               Students Live In Boundary
-Reading K-3 or Better:                Avg Daily Attendance:        92%     2011/12      Corrective Action II8                 Neighborhood (SDP) In:        559
-AGI Math:                 2.5         10+ Absences:                51%     2010/11      Corrective Action II7                 Neighborhood (SDP) Out:       26
-AGI Reading:              -2.1        At Least 1 OSS:              18%     2009/10      Corrective Action II6                 Neighborhood (Ren):            5
-Adv/Prof Math (E-M):    46            VI Per 100:                  2.62    2008/09      Making Progress CA II5                Neighborhood (Charter):        1
-Adv/Prof Reading (E-M): 32            Persistently Dangerous:       No     2007/08      Corrective Action II5                 Charter:                      155
-Adv/Prof Math (HS):                                                        2006/07      Corrective Action II4                 CTE:                           0
-                                                                           2005/06      Corrective Action II3
-Adv/Prof Reading (HS):                                                                                                        Special Admission:            28
-                                                                           2004/05      Making Progress
-On-Track/Time Grad:                                                                                                           Citywide Admission:            0
-                                                                           2003/04      Corrective Action II2
-Graduation Rate:                                                                                                              Military Academy:              0
-Grad College (yr 1):                                                                                                          Other:                         4
-                                                                                                                                                            778
-
-
-
-
-                                                                                                                                                        12/13/2012
-
+Feltonville Arts (7500)
+210 E Courtland St, Philadelphia, PA  19120
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 6‐8 0 0 0 0 0 0 0 206 207 203 0 0 0 0 0 616
+2011/12 6‐8 0 0 0 0 0 0 0 217 218 223 0 0 0 0 0 658
+2010/11 6‐8 0 0 0 0 0 0 0 231 222 228 1 0 0 0 0 682
+2009/10 6‐8 0 0 0 0 0 0 0 218 229 266 0 0 0 0 0 713
+2008/09 6‐8 0 0 0 0 0 0 0 235 239 250 0 0 0 0 0 724
+2007/08 6‐8 0 0 0 0 0 0 0 226 258 262 0 0 0 0 0 746
+2006/07 6‐8 0 0 0 0 0 0 0 259 277 259 0 0 0 0 0 795
+Geographic Information
+Councilmanic District 7 (Maria D. Quiñones-Sánchez)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 180 (Angel Cruz)
+Senatorial Senate Rep 2 (Christine M. Tartaglione)
+FMS Region Britt
+Planning Area North-Central
+Police District 25th District
+General Information
+Status: Open
+Start Date: 7/1/1993
+Level: Middle School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Michael Reid
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Asian 39 6%
+Black / African American 162 26%
+Hispanic / Latino 380 62%
+Multi Racial / Other 25 4%
+White 9 1%
+Transportation
+Bus-Special Ed 16
+Trans Pass-Emergency 1
+Trans Pass-Overcrowding 1
+Trans Pass-Trans Pass Eligible 8
+26
+Special Education
+AS- 9
+ES- 8
+17
+In / Out Boundary
+IN Boundary 574 93%
+OUT of Boundary 40 7%
+AYP
+2011/12 Corrective Action II8
+2010/11 Corrective Action II7
+2009/10 Corrective Action II6
+2008/09 Making Progress CA II5
+2007/08 Corrective Action II5
+2006/07 Corrective Action II4
+2005/06 Corrective Action II3
+2004/05 Making Progress
+2003/04 Corrective Action II2
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M): 46
+Adv/Prof Reading (E-M): 32
+AGI Math: 2.5
+AGI Reading: -2.1
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 92%
+10+ Absences: 51%
+At Least 1 OSS: 18%
+VI Per 100: 2.62
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 559
+Neighborhood (SDP) Out: 26
+Neighborhood (Ren): 5
+Neighborhood (Charter): 1
+Charter: 155
+CTE: 0
+Special Admission: 28
+Citywide Admission: 0
+Military Academy: 0
+Other: 4
+778
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $0
+Replacement Cost: $26,676,000
+Facilities Condition Index: 0
+New Construction
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors:
+S.F. (Building): 78,000
+S.F. (Site): 96,895 2.2 acs
+S.F. (Footprint): 38,919
+Capacity: 924
+Year Built: 2005
+Inventory
+12/13/2012

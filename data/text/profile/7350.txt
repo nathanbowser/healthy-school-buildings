@@ -1,61 +1,85 @@
-School Profile
+School Profile
 Northwest
-   Lowell (7350)
-   450 W Nedro Ave, Philadelphia, PA  19120
-General Information                                                      Inventory
-Status:           Open                                                   S.F. (Building):                   58,200      Capacity:                  1,053
-Start Date:       7/1/1913                                               S.F. (Footprint):                  39,639      Year Built:                  1913
-Level:            Elementary School                                      S.F. (Site):        106,149        2.4 acs     No. of Floors:           3
-Type:             Neighborhood
-Admit Type:       Neighborhood
-Managed:          District
-Principal:        David Lugo
-
-Geographic Information                                                   Facilities Condition Index (FCI)**
-Councilmanic          District 9 (Marian B. Tasco)                        Condition Assessment Cost:                  $22,176,231
-Congressional         Congressional District 2 (Chaka Fattah)             Replacement Cost:                           $19,322,400
-Legislative           PA Rep 202 (Mark B. Cohen)                          Facilities Condition Index:                    0.6365
-Senatorial            Senate Rep 3 (Shirley M. Kitchen)
-FMS Region            Sharer                                              ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area         Northwest
-Police District       35th District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04                         05     06    07       08     09      10      11       12    UG           Total
-  2012/13       K‐4   0   208 209 181 187 183                     0       0     0       0      0       0        0        0     0                     968
-  2011/12       K‐4   0   180 205 193 188 214                     0       0     0       0      0       0        0        0     0                     980
-  2010/11       K‐4   0   201 182 208 208 192                     0       0     0       0      0       0        0        0     0                     991
-  2009/10       K‐4   0   176 210 202 198 189                     0       0     0       0      0       0        0        0     0                     975
-  2008/09       K‐4   0   183 215 194 213 189                     0       0     0       0      0       0        0        0     0                     994
-  2007/08       K‐4   0   205 221 219 200 195                     0       0     0       0      0       0        0        0     0                   1,040
-  2006/07       K‐4   0   182 224 208 193 209                     0       0     0       0      0       0        0        0     0                   1,016
-Current Enrollment Details
-In / Out Boundary                Special Education       Racial Breakdown                                     Transportation
-IN Boundary         856 88%      AS-             9       Asian                               178 18%          Bus Rider                                 2
-OUT of Boundary     112 12%      ES-            12       Black / African American            553 57%          Bus-Emergency                             2
-                                                21       Hispanic / Latino                   147 15%          Bus-Overcrowding                         14
-                                                         Multi Racial / Other                 73 8%           Bus-Special Ed                           23
-                                                         White                                17 2%           Trans Pass                                5
-                                                                                                                                                       46
-
-                                                                   AYP                                               Students Live In Boundary
-                                                                  2011/12      Corrective Action II4                 Neighborhood (SDP) In:          845
-                                                                  2010/11      Corrective Action II3                 Neighborhood (SDP) Out:         73
-                                                                  2009/10      Corrective Action II2                 Neighborhood (Ren):             14
-                                                                  2008/09      Corrective Action II                  Neighborhood (Charter):          0
-                                                                  2007/08      Corrective Action I                   Charter:                        125
-                                                                  2006/07      School Improvement II                 CTE:                             0
-                                                                  2005/06      School Improvement I
-                                                                                                                     Special Admission:               4
-                                                                  2004/05      Warning
-                                                                                                                     Citywide Admission:              0
-                                                                  2003/04      Made AYP
-                                                                                                                     Military Academy:                0
-                                                                                                                     Other:                          2
-                                                                                                                                                   1063
-
-
-
-
-                                                                                                                                               12/13/2012
-
+Lowell (7350)
+450 W Nedro Ave, Philadelphia, PA  19120
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐4 0 208 209 181 187 183 0 0 0 0 0 0 0 0 0 968
+2011/12 K‐4 0 180 205 193 188 214 0 0 0 0 0 0 0 0 0 980
+2010/11 K‐4 0 201 182 208 208 192 0 0 0 0 0 0 0 0 0 991
+2009/10 K‐4 0 176 210 202 198 189 0 0 0 0 0 0 0 0 0 975
+2008/09 K‐4 0 183 215 194 213 189 0 0 0 0 0 0 0 0 0 994
+2007/08 K‐4 0 205 221 219 200 195 0 0 0 0 0 0 0 0 0 1,040
+2006/07 K‐4 0 182 224 208 193 209 0 0 0 0 0 0 0 0 0 1,016
+Geographic Information
+Councilmanic District 9 (Marian B. Tasco)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 202 (Mark B. Cohen)
+Senatorial Senate Rep 3 (Shirley M. Kitchen)
+FMS Region Sharer
+Planning Area Northwest
+Police District 35th District
+General Information
+Status: Open
+Start Date: 7/1/1913
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: David Lugo
+Current Enrollment Details
+Racial Breakdown
+Asian 178 18%
+Black / African American 553 57%
+Hispanic / Latino 147 15%
+Multi Racial / Other 73 8%
+White 17 2%
+Transportation
+Bus Rider 2
+Bus-Emergency 2
+Bus-Overcrowding 14
+Bus-Special Ed 23
+Trans Pass 5
+46
+Special Education
+AS- 9
+ES- 12
+21
+In / Out Boundary
+IN Boundary 856 88%
+OUT of Boundary 112 12%
+AYP
+2011/12 Corrective Action II4
+2010/11 Corrective Action II3
+2009/10 Corrective Action II2
+2008/09 Corrective Action II
+2007/08 Corrective Action I
+2006/07 School Improvement II
+2005/06 School Improvement I
+2004/05 Warning
+2003/04 Made AYP
+Students Live In Boundary
+Neighborhood (SDP) In: 845
+Neighborhood (SDP) Out: 73
+Neighborhood (Ren): 14
+Neighborhood (Charter): 0
+Charter: 125
+CTE: 0
+Special Admission: 4
+Citywide Admission: 0
+Military Academy: 0
+Other: 2
+1063
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $22,176,231
+Replacement Cost: $19,322,400
+Facilities Condition Index: 0.6365
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 58,200
+S.F. (Site): 106,149 2.4 acs
+S.F. (Footprint): 39,639
+Capacity: 1,053
+Year Built: 1913
+Inventory
+12/13/2012

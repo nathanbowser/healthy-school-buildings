@@ -1,0 +1,59 @@
+School Profile
+North‐Central
+   Kelley, WD (4560)
+   1601 N 28th St, Philadelphia, PA  19121
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):                  72,000      Capacity:                     676
+Start Date:            7/1/1965                                                S.F. (Footprint):                 31,402      Year Built:                  1965
+Level:                 Elementary School                                       S.F. (Site):        72,446        1.7 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Amelia Brown
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 5 (Darrell Clarke)                           Condition Assessment Cost:                 $10,034,830
+Congressional             Congressional District 2 (Chaka Fattah)               Replacement Cost:                          $23,904,000
+Legislative               PA Rep 195 (Michelle F. Brownlee)                     Facilities Condition Index:                   0.3987
+Senatorial                Senate Rep 3 (Shirley M. Kitchen)
+FMS Region                Britt                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           22nd District
+
+Enrollment History
+    Year      Grades PreK             K     01    02      03     04     05     06    07       08    09      10      11       12      UG         Total
+  2012/13       K‐8   0               52    30    28      49     31     23     20    27       25    0       0        0        0       0                    285
+  2011/12       K‐8   0               39    39    48      30     30     29     35    33       27    0       0        0        0       0                    310
+  2010/11       K‐8   0               35    52    30      33     34     40     31    33       24    0       0        0        0       0                    312
+  2009/10       K‐8   0               55    36    29      40     37     33     23    27       26    0       0        0        0       0                    306
+  2008/09       K‐8   0               36    35    42      36     30     31     30    27       38    0       0        0        0       0                    305
+  2007/08       K‐8   0               31    43    44      29     33     36     36    43       40    0       0        0        0       0                    335
+  2006/07       K‐8   0               43    55    39      47     41     44     46    36       45    0       0        0        0       0                    396
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown                                    Transportation
+IN Boundary            226 81%        AS-            11        Black / African American            265 93%         Bus-Special Ed                           11
+OUT of Boundary         53 19%        ES-             3        Hispanic / Latino                     7 2%          Trans Pass-Trans Pass Eligible            3
+                                                     14        Multi Racial / Other                 11 4%                                                   14
+                                                               White                                 2 1%
+
+Academic Measures                  Climate Measures                      AYP                                              Students Live In Boundary
+Reading K-3 or Better:    46%      Avg Daily Attendance:        92%     2011/12      Corrective Action II3                Neighborhood (SDP) In:          218
+AGI Math:                 3.1      10+ Absences:                53%     2010/11      Corrective Action II2                Neighborhood (SDP) Out:         82
+AGI Reading:              1.2      At Least 1 OSS:              27%     2009/10      Corrective Action II                 Neighborhood (Ren):             11
+Adv/Prof Math (E-M):    35         VI Per 100:                  0.97    2008/09      Corrective Action I                  Neighborhood (Charter):          1
+Adv/Prof Reading (E-M): 32         Persistently Dangerous:      No      2007/08      School Improvement II                Charter:                        80
+Adv/Prof Math (HS):                                                     2006/07      School Improvement I                 CTE:                             0
+                                                                        2005/06      Warning
+Adv/Prof Reading (HS):                                                                                                    Special Admission:               2
+                                                                        2004/05      Made AYP
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+                                                                        2003/04      Making Progress
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                           6
+                                                                                                                                                          400
+
+
+
+
+                                                                                                                                                    12/13/2012
+

@@ -1,0 +1,61 @@
+School Profile
+Southwest
+   Alexander, Sadie (1280)
+   4209 Spruce St, Philadelphia, PA  19104
+General Information                                                          Inventory
+Status:                Open                                                  S.F. (Building):                   84,357      Capacity:                     815
+Start Date:            7/1/2001                                              S.F. (Footprint):                  31,140      Year Built:                  2002
+Level:                 Elementary School                                     S.F. (Site):        125,429        2.9 acs     No. of Floors:           4
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Sheila A. Sydnor
+
+Geographic Information                                                       Facilities Condition Index (FCI)**
+Councilmanic              District 3 (Jannie Blackwell)                       Condition Assessment Cost:                    $437,439
+Congressional             Congressional District 2 (Chaka Fattah)             Replacement Cost:                           $28,006,524
+Legislative               PA Rep 188 (James R. Roebuck Jr.)                   Facilities Condition Index:                    0.0151
+Senatorial                Senate Rep 8 (Anthony H. Williams)
+FMS Region                Loftus                                              ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Southwest
+Police District           18th District
+
+Enrollment History
+    Year      Grades PreK             K    01     02    03     04     05     06    07       08     09      10      11       12    UG           Total
+  2012/13       K‐8   0               73   72     72    72     72     51     52    45       44     0       0        0        0     0                      553
+  2011/12       K‐8   0               60   73     79    82     61     61     50    48       36     0       0        0        0     0                      550
+  2010/11       K‐8   0               60   93     86    76     80     51     55    45       41     0       0        0        0     0                      587
+  2009/10       K‐8   0               56   82     74    82     63     60     41    50       45     0       0        0        0     0                      553
+  2008/09       K‐8   0               57   65     69    63     68     41     54    52       37     0       0        0        0     0                      506
+  2007/08       K‐8   0               53   73     67    63     60     53     60    45       35     0       0        0        0     0                      509
+  2006/07       K‐8   0               49   68     60    57     62     56     44    35       32     0       0        0        0     0                      463
+Current Enrollment Details
+In / Out Boundary                                            Racial Breakdown                                     Transportation
+IN Boundary            500 93%                               American Indian / Alaska Nativ        6 1%           Trans Pass-Trans Pass Eligible              8
+OUT of Boundary         36 7%                                Asian                                84 15%                                                      8
+                                                             Black / African American            153 28%
+                                                             Hispanic / Latino                    43 8%
+                                                             Multi Racial / Other                 52 9%
+                                                             White                               215 39%
+
+Academic Measures                  Climate Measures                    AYP                                               Students Live In Boundary
+Reading K-3 or Better:    83%      Avg Daily Attendance:      97%     2011/12      Made AYP                              Neighborhood (SDP) In:          494
+AGI Math:                  3.3     10+ Absences:              15%     2010/11      Made AYP                              Neighborhood (SDP) Out:         53
+AGI Reading:                2      At Least 1 OSS:            0%      2009/10      Made AYP                              Neighborhood (Ren):              0
+Adv/Prof Math (E-M):    91         VI Per 100:                        2008/09      Made AYP                              Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 89         Persistently Dangerous:     No     2007/08      Made AYP                              Charter:                        11
+Adv/Prof Math (HS):                                                   2006/07      Made AYP                              CTE:                             0
+                                                                      2005/06      Made AYP
+Adv/Prof Reading (HS):                                                                                                   Special Admission:              34
+                                                                      2004/05      Made AYP
+On-Track/Time Grad:                                                                                                      Citywide Admission:              0
+                                                                      2003/04      Made AYP
+Graduation Rate:                                                                                                         Military Academy:                0
+Grad College (yr 1):                                                                                                     Other:                           2
+                                                                                                                                                         594
+
+
+
+
+                                                                                                                                                   12/13/2012
+

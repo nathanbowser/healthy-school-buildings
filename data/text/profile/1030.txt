@@ -1,56 +1,87 @@
-School Profile
+School Profile
 West
-   School of the Future (1030)
-   4021 Parkside Ave, Philadelphia, PA  19104
-General Information                                                              Inventory
-Status:                Open                                                      S.F. (Building):               162,000      Capacity:                   859
-Start Date:            7/1/2006                                                  S.F. (Footprint):              102,755      Year Built:                2006
-Level:                 High School                                               S.F. (Site):        716,427    16.4 acs     No. of Floors:         2
-Type:                  Citywide Admission
-Admit Type:            Citywide Admission
-Managed:               District
-Principal:             Rosalind Chivis
-
-Geographic Information                                                           Facilities Condition Index (FCI)**
-Councilmanic              District 4 (Curtis Jones Jr.)                           Condition Assessment Cost:                        $0
-Congressional             Congressional District 2 (Chaka Fattah)                 Replacement Cost:                        $57,510,000
-Legislative               PA Rep 190 (Vanessa Lowery Brown)                       Facilities Condition Index:              0
-Senatorial                Senate Rep 7 (Vincent J. Hughes)                                                        New Construction
-FMS Region                Wilson                                                  ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             West
-Police District           16th District
-
-Enrollment History
-    Year      Grades PreK             K      01    02       03     04     05     06    07       08      09      10 11 12 UG                   Total
-  2012/13      9‐12   0               0       0     0       0      0      0       0     0       0       94     121 87 90   0                             392
-  2011/12      9‐12   0               0       0     0       0      0      0       0     0       0      133      86 90 85   0                             394
-  2010/11      9‐12   0               0       0     0       0      0      0       0     0       0       98     102 109 91  0                             400
-  2009/10      9‐12   0               0       0     0       0      0      0       0     0       0      110     102 114 118 0                             444
-  2008/09      9‐11   0               0       0     0       0      0      0       0     0       0      100     148 112 0   0                             360
-  2007/08      9‐10   0               0       0     0       0      0      0       0     0       0      137     150 0    0  0                             287
-  2006/07        9    0               0       0     0       0      0      0       0     0       0      161      0   0   0  0                             161
-Current Enrollment Details
-In / Out Boundary                     Special Education          Racial Breakdown                                  Transportation
-IN Boundary               0   0%      AS-              13        Asian                                 8 2%        Bus-Special Ed                         26
-OUT of Boundary           0   0%      LSS-             16        Black / African American            337 86%       Cab-Special Ed                          6
-                                                       29        Hispanic / Latino                    30 8%        Trans Pass-Special Ed                   1
-                                                                 Multi Racial / Other                  4 1%        Trans Pass-Trans Pass Eligible        323
-                                                                 White                                13 3%                                              356
-
-Academic Measures                    Climate Measures                      AYP
-Reading K-3 or Better:               Avg Daily Attendance:        92%     2011/12      Corrective Action II
-AGI Math:                  1.4       10+ Absences:                47%     2010/11      Making Progress CA I
-AGI Reading:               1.9       At Least 1 OSS:              18%     2009/10      Corrective Action I
-Adv/Prof Math (E-M):                 VI Per 100:                  5.91    2008/09      School Improvement II
-Adv/Prof Reading (E-M):              Persistently Dangerous:      No      2007/08      School Improvement I
-Adv/Prof Math (HS):     46                                                2006/07      Warning
+School of the Future (1030)
+4021 Parkside Ave, Philadelphia, PA  19104
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 9‐12 0 0 0 0 0 0 0 0 0 0 94 121 87 90 0 392
+2011/12 9‐12 0 0 0 0 0 0 0 0 0 0 133 86 90 85 0 394
+2010/11 9‐12 0 0 0 0 0 0 0 0 0 0 98 102 109 91 0 400
+2009/10 9‐12 0 0 0 0 0 0 0 0 0 0 110 102 114 118 0 444
+2008/09 9‐11 0 0 0 0 0 0 0 0 0 0 100 148 112 0 0 360
+2007/08 9‐10 0 0 0 0 0 0 0 0 0 0 137 150 0 0 0 287
+2006/07 9 0 0 0 0 0 0 0 0 0 0 161 0 0 0 0 161
+Geographic Information
+Councilmanic District 4 (Curtis Jones Jr.)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 190 (Vanessa Lowery Brown)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Wilson
+Planning Area West
+Police District 16th District
+General Information
+Status: Open
+Start Date: 7/1/2006
+Level: High School
+Type: Citywide Admission
+Admit Type: Citywide Admission
+Managed: District
+Principal: Rosalind Chivis
+Current Enrollment Details
+Racial Breakdown
+Asian 8 2%
+Black / African American 337 86%
+Hispanic / Latino 30 8%
+Multi Racial / Other 4 1%
+White 13 3%
+Transportation
+Bus-Special Ed 26
+Cab-Special Ed 6
+Trans Pass-Special Ed 1
+Trans Pass-Trans Pass Eligible 323
+356
+Special Education
+AS- 13
+LSS- 16
+29
+In / Out Boundary
+IN Boundary 0 0%
+OUT of Boundary 0 0%
+AYP
+2011/12 Corrective Action II
+2010/11 Making Progress CA I
+2009/10 Corrective Action I
+2008/09 School Improvement II
+2007/08 School Improvement I
+2006/07 Warning
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M):
+Adv/Prof Reading (E-M):
+AGI Math: 1.4
+AGI Reading: 1.9
+On-Track/Time Grad: 85%
+Graduation Rate: 61%
+Grad College (yr 1): 45%
+Adv/Prof Math (HS): 46
 Adv/Prof Reading (HS): 61
-On-Track/Time Grad:       85%
-Graduation Rate:          61%
-Grad College (yr 1):      45%
-
-
-
-
-                                                                                                                                               12/13/2012
-
+Climate Measures
+Avg Daily Attendance: 92%
+10+ Absences: 47%
+At Least 1 OSS: 18%
+VI Per 100: 5.91
+Persistently Dangerous: No
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $0
+Replacement Cost: $57,510,000
+Facilities Condition Index: 0
+New Construction
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 2
+S.F. (Building): 162,000
+S.F. (Site): 716,427 16.4 acs
+S.F. (Footprint): 102,755
+Capacity: 859
+Year Built: 2006
+Inventory
+12/13/2012

@@ -1,57 +1,86 @@
-School Profile
+School Profile
 South‐Central
-   Constitution HS (2670)
-   18 S 07th St, Philadelphia, PA  19106
-General Information                                                             Inventory
-Status:                Open                                                     S.F. (Building):               62,023      Capacity:                 346
-Start Date:            7/1/2006                                                 S.F. (Footprint):              14,781      Year Built:
-Level:                 High School                                              S.F. (Site):        22,002     0.5 acs     No. of Floors:
-Type:                  Citywide Admission
-Admit Type:            Citywide Admission
-Managed:               District
-Principal:             Dr. Thomas Davidson
-
-Geographic Information                                                          Facilities Condition Index (FCI)**
-Councilmanic              District 1 (Mark Squilla)                              Condition Assessment Cost:                       $0
-Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                       $22,018,165
-Legislative               PA Rep 175 (Michael H. O'Brien)                        Facilities Condition Index:
-Senatorial                Senate Rep 1 (Lawrence M. Farnese, Jr.)
-FMS Region                Melady                                                 ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             South-Central
-Police District           6th District
-
-Enrollment History
-    Year      Grades PreK             K     01    02       03     04     05     06    07       08     09 10 11             12    UG         Total
-  2012/13      9‐12   0               0      0     0       0      0      0       0     0       0      92 97 100            91     0                  380
-  2011/12      9‐12   0               0      0     0       0      0      0       0     0       0      92 93 93             92     0                  370
-  2010/11      9‐12   0               0      0     0       0      0      0       0     0       0      95 94 98             93     0                  380
-  2009/10      9‐12   0               0      0     0       0      0      0       0     0       0      90 107 99            81     0                  377
-  2008/09      9‐11   0               0      0     0       0      0      0       0     0       0     110 97 82              0     0                  289
-  2007/08      9‐10   0               0      0     0       0      0      0       0     0       0      99 88   0             0     0                  187
-  2006/07        9    0               0      0     0       0      0      0       0     0       0      95  0   0             0     0                   95
-Current Enrollment Details
-In / Out Boundary                     Special Education         Racial Breakdown                                 Transportation
-IN Boundary               0     0%    AS-              1        American Indian / Alaska Nativ        4 1%       Cab-Special Ed                        2
-OUT of Boundary           0     0%    ES-              1        Asian                                28 7%       Trans Pass-Special Ed                 3
-                                                       2        Black / African American            249 66%      Trans Pass-Trans Pass Eligible      362
-                                                                Hispanic / Latino                    41 11%                                          367
-                                                                Multi Racial / Other                  4 1%
-                                                                White                                54 14%
-
-Academic Measures                    Climate Measures                     AYP
-Reading K-3 or Better:               Avg Daily Attendance:       90%     2011/12      Made AYP
-AGI Math:                  1.6       10+ Absences:               52%     2010/11      Warning
-AGI Reading:               4.6       At Least 1 OSS:             18%     2009/10      Made AYP
-Adv/Prof Math (E-M):                 VI Per 100:                 3.77    2008/09      Warning
-Adv/Prof Reading (E-M):              Persistently Dangerous:      No     2007/08      Made AYP
-Adv/Prof Math (HS):        57                                            2006/07      Made AYP
-Adv/Prof Reading (HS):     74
-On-Track/Time Grad:       89%
-Graduation Rate:          94%
-Grad College (yr 1):      57%
-
-
-
-
-                                                                                                                                             12/13/2012
-
+Constitution HS (2670)
+18 S 07th St, Philadelphia, PA  19106
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 9‐12 0 0 0 0 0 0 0 0 0 0 92 97 100 91 0 380
+2011/12 9‐12 0 0 0 0 0 0 0 0 0 0 92 93 93 92 0 370
+2010/11 9‐12 0 0 0 0 0 0 0 0 0 0 95 94 98 93 0 380
+2009/10 9‐12 0 0 0 0 0 0 0 0 0 0 90 107 99 81 0 377
+2008/09 9‐11 0 0 0 0 0 0 0 0 0 0 110 97 82 0 0 289
+2007/08 9‐10 0 0 0 0 0 0 0 0 0 0 99 88 0 0 0 187
+2006/07 9 0 0 0 0 0 0 0 0 0 0 95 0 0 0 0 95
+Geographic Information
+Councilmanic District 1 (Mark Squilla)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 175 (Michael H. O'Brien)
+Senatorial Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region Melady
+Planning Area South-Central
+Police District 6th District
+General Information
+Status: Open
+Start Date: 7/1/2006
+Level: High School
+Type: Citywide Admission
+Admit Type: Citywide Admission
+Managed: District
+Principal: Dr. Thomas Davidson
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 4 1%
+Asian 28 7%
+Black / African American 249 66%
+Hispanic / Latino 41 11%
+Multi Racial / Other 4 1%
+White 54 14%
+Transportation
+Cab-Special Ed 2
+Trans Pass-Special Ed 3
+Trans Pass-Trans Pass Eligible 362
+367
+Special Education
+AS- 1
+ES- 1
+2
+In / Out Boundary
+IN Boundary 0 0%
+OUT of Boundary 0 0%
+AYP
+2011/12 Made AYP
+2010/11 Warning
+2009/10 Made AYP
+2008/09 Warning
+2007/08 Made AYP
+2006/07 Made AYP
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M):
+Adv/Prof Reading (E-M):
+AGI Math: 1.6
+AGI Reading: 4.6
+On-Track/Time Grad: 89%
+Graduation Rate: 94%
+Grad College (yr 1): 57%
+Adv/Prof Math (HS): 57
+Adv/Prof Reading (HS): 74
+Climate Measures
+Avg Daily Attendance: 90%
+10+ Absences: 52%
+At Least 1 OSS: 18%
+VI Per 100: 3.77
+Persistently Dangerous: No
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $0
+Replacement Cost: $22,018,165
+Facilities Condition Index:
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors:
+S.F. (Building): 62,023
+S.F. (Site): 22,002 0.5 acs
+S.F. (Footprint): 14,781
+Capacity: 346
+Year Built:
+Inventory
+12/13/2012

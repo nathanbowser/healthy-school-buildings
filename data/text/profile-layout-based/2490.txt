@@ -1,0 +1,60 @@
+School Profile
+South‐Central
+   Waring (2490)
+   1801 Green St, Philadelphia, PA  19130
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):                  46,000      Capacity:                     417
+Start Date:            7/1/1956                                                S.F. (Footprint):                 13,729      Year Built:                  1956
+Level:                 Elementary School                                       S.F. (Site):        64,134        1.5 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Brianna Dunn
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 5 (Darrell Clarke)                           Condition Assessment Cost:                 $13,959,857
+Congressional             Congressional District 1 (Robert A. Brady)            Replacement Cost:                          $15,272,000
+Legislative               PA Rep 195 (Michelle F. Brownlee)                     Facilities Condition Index:                   0.7764
+Senatorial                Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region                Neven                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             South-Central
+Police District           9th District
+
+Enrollment History
+    Year      Grades PreK             K      01   02      03     04     05     06    07       08    09      10      11       12      UG         Total
+  2012/13       K‐8   0               47     38   45      41     27     25     30    25       20    0       0        0        0       0                    298
+  2011/12       K‐8   0               38     43   39      28     30     31     20    21       16    0       0        0        0       0                    266
+  2010/11       K‐8   0               40     39   36      29     30     22     26    20       19    0       0        0        0       0                    261
+  2009/10       K‐8   0               34     34   26      29     23     24     26    18       22    0       0        0        0       0                    236
+  2008/09       K‐8   0               36     27   25      21     25     24     16    20       26    0       0        0        0       0                    220
+  2007/08       K‐8   0               27     27   30      21     21     17     17    23       16    0       0        0        0       0                    199
+  2006/07       K‐8   0               29     33   30      25     25     20     32    20       29    0       0        0        0       0                    243
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown                                    Transportation
+IN Boundary            194 66%        LSS-            9        Asian                                 2 1%          Bus Rider                                 3
+OUT of Boundary        101 34%                        9        Black / African American            232 78%         Bus-Special Ed                           12
+                                                               Hispanic / Latino                    40 13%         Trans Pass                               16
+                                                               Multi Racial / Other                 19 6%          Trans Pass-Trans Pass Eligible            3
+                                                               White                                 5 2%                                                   34
+
+Academic Measures                   Climate Measures                     AYP                                              Students Live In Boundary
+Reading K-3 or Better:    78%       Avg Daily Attendance:       94%     2011/12      Warning                              Neighborhood (SDP) In:          192
+AGI Math:                 -3.2      10+ Absences:               42%     2010/11      Made AYP                             Neighborhood (SDP) Out:         65
+AGI Reading:               2        At Least 1 OSS:             1%      2009/10      Made AYP                             Neighborhood (Ren):              0
+Adv/Prof Math (E-M):       46       VI Per 100:                 0.79    2008/09      Made AYP                             Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 39          Persistently Dangerous:     No      2007/08      Made AYP                             Charter:                        75
+Adv/Prof Math (HS):                                                     2006/07      Warning                              CTE:                             0
+                                                                        2005/06      Warning
+Adv/Prof Reading (HS):                                                                                                    Special Admission:               8
+                                                                        2004/05      Made AYP
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+                                                                        2003/04      Making Progress
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                           7
+                                                                                                                                                          347
+
+
+
+
+                                                                                                                                                    12/13/2012
+

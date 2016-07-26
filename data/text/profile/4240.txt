@@ -1,61 +1,103 @@
-School Profile
+School Profile
 West
-   Cassidy (4240)
-   6523 Lansdowne Ave, Philadelphia, PA  19151
-General Information                                                           Inventory
-Status:                Open                                                   S.F. (Building):                  59,123      Capacity:                     656
-Start Date:            7/1/1924                                               S.F. (Footprint):                 21,096      Year Built:                  1924
-Level:                 Elementary School                                      S.F. (Site):        84,017        1.9 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Deidre Bennett
-
-Geographic Information                                                        Facilities Condition Index (FCI)**
-Councilmanic              District 4 (Curtis Jones Jr.)                        Condition Assessment Cost:                 $16,151,714
-Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                          $19,628,836
-Legislative               PA Rep 192 (Louise Williams Bishop)                  Facilities Condition Index:                   0.7934
-Senatorial                Senate Rep 7 (Vincent J. Hughes)
-FMS Region                Loftus                                               ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             West
-Police District           19th District
-
-Enrollment History
-    Year      Grades PreK             K        01 02 03 04 05                 06    07       08    09      10      11       12    UG           Total
-  2012/13       K‐6   0               90       95 94 85 87 83                 87     0       0     0       0        0        0     0                      621
-  2011/12       K‐6   0               87       90 87 94 89 106                98     0       0     0       0        0        0     0                      651
-  2010/11       K‐6   0               72       85 89 81 97 95                 93     0       0     0       0        0        0     0                      612
-  2009/10       K‐6   0               89       95 86 96 96 93                 79     0       0     0       0        0        0     0                      634
-  2008/09       K‐6   0               89       89 105 98 106 78               87     0       0     0       0        0        0     0                      652
-  2007/08       K‐6   0               76       108 105 106 83 104             90     0       0     0       0        0        0     0                      672
-  2006/07       K‐5   0               98       107 117 90 105 117              0     0       0     0       0        0        0     0                      634
-Current Enrollment Details
-In / Out Boundary                       Special Education     Racial Breakdown                                    Transportation
-IN Boundary            468 76%          AS-            8      American Indian / Alaska Nativ        2 0%          Bus-Emergency                             4
-OUT of Boundary        150 24%          ES-            2      Asian                                 3 0%          Bus-Overcrowding                          7
-                                        LSS-           1      Black / African American            556 90%         Bus-Special Ed                           11
-                                                      11      Hispanic / Latino                    17 3%          Trans Pass                                1
-                                                              Multi Racial / Other                 35 6%                                                   23
-                                                              White                                 8 1%
-
-Academic Measures                   Climate Measures                    AYP                                              Students Live In Boundary
-Reading K-3 or Better:    33%       Avg Daily Attendance:      93%     2011/12      Warning                              Neighborhood (SDP) In:          466
-AGI Math:                  0.4      10+ Absences:              38%     2010/11      Made AYP                             Neighborhood (SDP) Out:         63
-AGI Reading:              -0.5      At Least 1 OSS:            9%      2009/10      Made AYP                             Neighborhood (Ren):             18
-Adv/Prof Math (E-M):    46          VI Per 100:                0.92    2008/09      Making Progress CA II                Neighborhood (Charter):          3
-Adv/Prof Reading (E-M): 42          Persistently Dangerous:     No     2007/08      Corrective Action II                 Charter:                        264
-Adv/Prof Math (HS):                                                    2006/07      Making Progress                      CTE:                             0
-                                                                       2005/06      Corrective Action I
-Adv/Prof Reading (HS):                                                                                                   Special Admission:              28
-                                                                       2004/05      Making Progress
-On-Track/Time Grad:                                                                                                      Citywide Admission:              0
-                                                                       2003/04      School Improvement II
-Graduation Rate:                                                                                                         Military Academy:                0
-Grad College (yr 1):                                                                                                     Other:                           2
-                                                                                                                                                         844
-
-
-
-
-                                                                                                                                                   12/13/2012
-
+Cassidy (4240)
+6523 Lansdowne Ave, Philadelphia, PA  19151
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐6 0 90 95 94 85 87 83 87 0 0 0 0 0 0 0 621
+2011/12 K‐6 0 87 90 87 94 89 106 98 0 0 0 0 0 0 0 651
+2010/11 K‐6 0 72 85 89 81 97 95 93 0 0 0 0 0 0 0 612
+2009/10 K‐6 0 89 95 86 96 96 93 79 0 0 0 0 0 0 0 634
+2008/09 K‐6 0 89 89 105 98 106 78 87 0 0 0 0 0 0 0 652
+2007/08 K‐6 0 76 108 105 106 83 104 90 0 0 0 0 0 0 0 672
+2006/07 K‐5 0 98 107 117 90 105 117 0 0 0 0 0 0 0 0 634
+Geographic Information
+Councilmanic District 4 (Curtis Jones Jr.)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 192 (Louise Williams Bishop)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Loftus
+Planning Area West
+Police District 19th District
+General Information
+Status: Open
+Start Date: 7/1/1924
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Deidre Bennett
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 2 0%
+Asian 3 0%
+Black / African American 556 90%
+Hispanic / Latino 17 3%
+Multi Racial / Other 35 6%
+White 8 1%
+Transportation
+Bus-Emergency 4
+Bus-Overcrowding 7
+Bus-Special Ed 11
+Trans Pass 1
+23
+Special Education
+AS- 8
+ES- 2
+LSS- 1
+11
+In / Out Boundary
+IN Boundary 468 76%
+OUT of Boundary 150 24%
+AYP
+2011/12 Warning
+2010/11 Made AYP
+2009/10 Made AYP
+2008/09 Making Progress CA II
+2007/08 Corrective Action II
+2006/07 Making Progress
+2005/06 Corrective Action I
+2004/05 Making Progress
+2003/04 School Improvement II
+Academic Measures
+Reading K-3 or Better: 33%
+Adv/Prof Math (E-M): 46
+Adv/Prof Reading (E-M): 42
+AGI Math: 0.4
+AGI Reading: -0.5
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 93%
+10+ Absences: 38%
+At Least 1 OSS: 9%
+VI Per 100: 0.92
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 466
+Neighborhood (SDP) Out: 63
+Neighborhood (Ren): 18
+Neighborhood (Charter): 3
+Charter: 264
+CTE: 0
+Special Admission: 28
+Citywide Admission: 0
+Military Academy: 0
+Other: 2
+844
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $16,151,714
+Replacement Cost: $19,628,836
+Facilities Condition Index: 0.7934
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 59,123
+S.F. (Site): 84,017 1.9 acs
+S.F. (Footprint): 21,096
+Capacity: 656
+Year Built: 1924
+Inventory
+12/13/2012

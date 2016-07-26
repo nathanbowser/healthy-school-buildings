@@ -1,60 +1,99 @@
-School Profile
+School Profile
 North‐Central
-   Allen, Ethel (4440)
-   3200 W Lehigh Ave, Philadelphia, PA  19132
-General Information                                                           Inventory
-Status:                Open                                                   S.F. (Building):                   83,197      Capacity:                     676
-Start Date:            7/1/1971                                               S.F. (Footprint):                  51,126      Year Built:                  1971
-Level:                 Elementary School                                      S.F. (Site):        247,609        5.7 acs     No. of Floors:           2
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Stefan Feaster-Eberhardt
-
-Geographic Information                                                        Facilities Condition Index (FCI)**
-Councilmanic              District 5 (Darrell Clarke)                          Condition Assessment Cost:                   $7,430,679
-Congressional             Congressional District 2 (Chaka Fattah)              Replacement Cost:                           $27,621,404
-Legislative               PA Rep 190 (Vanessa Lowery Brown)                    Facilities Condition Index:                    0.1443
-Senatorial                Senate Rep 7 (Vincent J. Hughes)
-FMS Region                Walker                                               ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           22nd District
-
-Enrollment History
-    Year      Grades PreK             K     01    02     03     04     05     06    07       08     09      10      11       12      UG         Total
-  2012/13       K‐8   0               60    61    65     51     68     40     50    49       30     0       0        0        0       0                    474
-  2011/12       K‐7   0               43    73    61     72     57     59     55    35       0      0       0        0        0       0                    455
-  2010/11       K‐6   0               62    54    65     62     66     44     38     0       0      0       0        0        0       0                    391
-  2009/10       K‐6   0               56    63    59     63     46     38     43     0       0      0       0        0        0       0                    368
-  2008/09       K‐6   0               60    62    54     53     49     45     34     0       0      0       0        0        0       0                    357
-  2007/08       K‐6   0               59    52    54     46     55     30     44     0       0      0       0        0        0       0                    340
-  2006/07       K‐6   0               53    57    57     57     42     60     55     0       0      0       0        0        0       0                    381
-Current Enrollment Details
-In / Out Boundary                     Special Education       Racial Breakdown                                     Transportation
-IN Boundary            414 88%        ES-            3        Black / African American            440 93%          Bus-Special Ed                              2
-OUT of Boundary         58 12%                       3        Hispanic / Latino                    17 4%           Trans Pass                                  3
-                                                              Multi Racial / Other                  9 2%           Trans Pass-Special Ed                       1
-                                                              White                                 8 2%           Trans Pass-Trans Pass Eligible              2
-                                                                                                                                                               8
-
-Academic Measures                  Climate Measures                     AYP                                               Students Live In Boundary
-Reading K-3 or Better:    11%      Avg Daily Attendance:       91%     2011/12      Corrective Action II3                 Neighborhood (SDP) In:          405
-AGI Math:                 -1.1     10+ Absences:               54%     2010/11      Corrective Action II3                 Neighborhood (SDP) Out:         118
-AGI Reading:               0.6     At Least 1 OSS:             18%     2009/10      Corrective Action II2                 Neighborhood (Ren):             20
-Adv/Prof Math (E-M):       38      VI Per 100:                 1.79    2008/09      Corrective Action II                  Neighborhood (Charter):          2
-Adv/Prof Reading (E-M): 35         Persistently Dangerous:     No      2007/08      Corrective Action I                   Charter:                        98
-Adv/Prof Math (HS):                                                    2006/07      Making Progress                       CTE:                             0
-                                                                       2005/06      School Improvement II
-Adv/Prof Reading (HS):                                                                                                    Special Admission:              10
-                                                                       2004/05      School Improvement I
-On-Track/Time Grad:                                                                                                       Citywide Admission:              0
-                                                                       2003/04      Warning
-Graduation Rate:                                                                                                          Military Academy:                0
-Grad College (yr 1):                                                                                                      Other:                           6
-                                                                                                                                                          659
-
-
-
-
-                                                                                                                                                    12/13/2012
-
+Allen, Ethel (4440)
+3200 W Lehigh Ave, Philadelphia, PA  19132
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 60 61 65 51 68 40 50 49 30 0 0 0 0 0 474
+2011/12 K‐7 0 43 73 61 72 57 59 55 35 0 0 0 0 0 0 455
+2010/11 K‐6 0 62 54 65 62 66 44 38 0 0 0 0 0 0 0 391
+2009/10 K‐6 0 56 63 59 63 46 38 43 0 0 0 0 0 0 0 368
+2008/09 K‐6 0 60 62 54 53 49 45 34 0 0 0 0 0 0 0 357
+2007/08 K‐6 0 59 52 54 46 55 30 44 0 0 0 0 0 0 0 340
+2006/07 K‐6 0 53 57 57 57 42 60 55 0 0 0 0 0 0 0 381
+Geographic Information
+Councilmanic District 5 (Darrell Clarke)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 190 (Vanessa Lowery Brown)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Walker
+Planning Area North-Central
+Police District 22nd District
+General Information
+Status: Open
+Start Date: 7/1/1971
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Stefan Feaster-Eberhardt
+Current Enrollment Details
+Racial Breakdown
+Black / African American 440 93%
+Hispanic / Latino 17 4%
+Multi Racial / Other 9 2%
+White 8 2%
+Transportation
+Bus-Special Ed 2
+Trans Pass 3
+Trans Pass-Special Ed 1
+Trans Pass-Trans Pass Eligible 2
+8
+Special Education
+ES- 3
+3
+In / Out Boundary
+IN Boundary 414 88%
+OUT of Boundary 58 12%
+AYP
+2011/12 Corrective Action II3
+2010/11 Corrective Action II3
+2009/10 Corrective Action II2
+2008/09 Corrective Action II
+2007/08 Corrective Action I
+2006/07 Making Progress
+2005/06 School Improvement II
+2004/05 School Improvement I
+2003/04 Warning
+Academic Measures
+Reading K-3 or Better: 11%
+Adv/Prof Math (E-M): 38
+Adv/Prof Reading (E-M): 35
+AGI Math: -1.1
+AGI Reading: 0.6
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 91%
+10+ Absences: 54%
+At Least 1 OSS: 18%
+VI Per 100: 1.79
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 405
+Neighborhood (SDP) Out: 118
+Neighborhood (Ren): 20
+Neighborhood (Charter): 2
+Charter: 98
+CTE: 0
+Special Admission: 10
+Citywide Admission: 0
+Military Academy: 0
+Other: 6
+659
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $7,430,679
+Replacement Cost: $27,621,404
+Facilities Condition Index: 0.1443
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 2
+S.F. (Building): 83,197
+S.F. (Site): 247,609 5.7 acs
+S.F. (Footprint): 51,126
+Capacity: 676
+Year Built: 1971
+Inventory
+12/13/2012

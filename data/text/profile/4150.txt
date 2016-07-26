@@ -1,59 +1,97 @@
-School Profile
+School Profile
 North‐Central
-   Rhodes, EW (4150)
-   2900 W Clearfield St, Philadelphia, PA  19132
-General Information                                                           Inventory
-Status:                Open                                                   S.F. (Building):               180,000      Capacity:                  1,386
-Start Date:            7/1/1971                                               S.F. (Footprint):              118,182      Year Built:                  1971
-Level:                 Middle School                                          S.F. (Site):        345,759     7.9 acs     No. of Floors:           2
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Ivy Lewis
-
-Geographic Information                                                        Facilities Condition Index (FCI)**
-Councilmanic              District 4 (Curtis Jones Jr.)                        Condition Assessment Cost:               $14,505,690
-Congressional             Congressional District 2 (Chaka Fattah)              Replacement Cost:                        $61,560,000
-Legislative               PA Rep 197 (J.P. Miranda)                            Facilities Condition Index:                 0.2014
-Senatorial                Senate Rep 7 (Vincent J. Hughes)
-FMS Region                Melady                                               ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           39th District
-
-Enrollment History
-    Year      Grades PreK              K     01   02     03     04     05     06   07 08             09 10       11       12      UG         Total
-  2012/13       7‐8   0                0      0    0     0      0      0       0   119 89            0   0        0        0       0                    208
-  2011/12      7‐12   0                0      0    0     0      0      0       0   50 62             73 71       80       63       0                    399
-  2010/11      7‐12   0                0      0    0     0      0      0       0   70 67            115 101      86       56       0                    495
-  2009/10      7‐12   0                0      0    0     0      0      0       0   66 65            112 97       70       58       0                    468
-  2008/09      7‐12   0                0      0    0     0      0      0       0   67 83             95 68       74       47       0                    434
-  2007/08      7‐12   0                0      0    0     0      0      0       0   83 99            101 86       59       67       0                    495
-  2006/07      7‐12   0                0      0    0     0      0      0       0   124 143          146 86       67       45       0                    611
-Current Enrollment Details
-In / Out Boundary                      Special Education      Racial Breakdown                                  Transportation
-IN Boundary            165 79%         ES-           6        American Indian / Alaska Nativ        1 0%        Bus-Special Ed                            4
-OUT of Boundary         43 21%                       6        Black / African American            203 98%       Trans Pass-Trans Pass Eligible           55
-                                                              Hispanic / Latino                     2 1%                                                 59
-                                                              White                                 2 1%
-
-Academic Measures                  Climate Measures                     AYP                                            Students Live In Boundary
-Reading K-3 or Better:             Avg Daily Attendance:       82%     2011/12      Corrective Action II7              Neighborhood (SDP) In:          160
-AGI Math:                 -0.3     10+ Absences:               71%     2010/11      Corrective Action II6              Neighborhood (SDP) Out:         86
-AGI Reading:              0.4      At Least 1 OSS:             29%     2009/10      Corrective Action II6              Neighborhood (Ren):             20
-Adv/Prof Math (E-M):    43         VI Per 100:                 0.50    2008/09      Making Progress CA II5             Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 41         Persistently Dangerous:     No      2007/08      Corrective Action II5              Charter:                        195
-Adv/Prof Math (HS):                                                    2006/07      Making Progress                    CTE:                             0
-                                                                       2005/06      Corrective Action II4
-Adv/Prof Reading (HS):                                                                                                 Special Admission:              23
-                                                                       2004/05      Corrective Action II3
-On-Track/Time Grad:                                                                                                    Citywide Admission:              0
-                                                                       2003/04      Corrective Action II2
-Graduation Rate:                                                                                                       Military Academy:                0
-Grad College (yr 1):                                                                                                   Other:                           4
-                                                                                                                                                       488
-
-
-
-
-                                                                                                                                                 12/13/2012
-
+Rhodes, EW (4150)
+2900 W Clearfield St, Philadelphia, PA  19132
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 7‐8 0 0 0 0 0 0 0 0 119 89 0 0 0 0 0 208
+2011/12 7‐12 0 0 0 0 0 0 0 0 50 62 73 71 80 63 0 399
+2010/11 7‐12 0 0 0 0 0 0 0 0 70 67 115 101 86 56 0 495
+2009/10 7‐12 0 0 0 0 0 0 0 0 66 65 112 97 70 58 0 468
+2008/09 7‐12 0 0 0 0 0 0 0 0 67 83 95 68 74 47 0 434
+2007/08 7‐12 0 0 0 0 0 0 0 0 83 99 101 86 59 67 0 495
+2006/07 7‐12 0 0 0 0 0 0 0 0 124 143 146 86 67 45 0 611
+Geographic Information
+Councilmanic District 4 (Curtis Jones Jr.)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 197 (J.P. Miranda)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Melady
+Planning Area North-Central
+Police District 39th District
+General Information
+Status: Open
+Start Date: 7/1/1971
+Level: Middle School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Ivy Lewis
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Black / African American 203 98%
+Hispanic / Latino 2 1%
+White 2 1%
+Transportation
+Bus-Special Ed 4
+Trans Pass-Trans Pass Eligible 55
+59
+Special Education
+ES- 6
+6
+In / Out Boundary
+IN Boundary 165 79%
+OUT of Boundary 43 21%
+AYP
+2011/12 Corrective Action II7
+2010/11 Corrective Action II6
+2009/10 Corrective Action II6
+2008/09 Making Progress CA II5
+2007/08 Corrective Action II5
+2006/07 Making Progress
+2005/06 Corrective Action II4
+2004/05 Corrective Action II3
+2003/04 Corrective Action II2
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M): 43
+Adv/Prof Reading (E-M): 41
+AGI Math: -0.3
+AGI Reading: 0.4
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 82%
+10+ Absences: 71%
+At Least 1 OSS: 29%
+VI Per 100: 0.50
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 160
+Neighborhood (SDP) Out: 86
+Neighborhood (Ren): 20
+Neighborhood (Charter): 0
+Charter: 195
+CTE: 0
+Special Admission: 23
+Citywide Admission: 0
+Military Academy: 0
+Other: 4
+488
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $14,505,690
+Replacement Cost: $61,560,000
+Facilities Condition Index: 0.2014
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 2
+S.F. (Building): 180,000
+S.F. (Site): 345,759 7.9 acs
+S.F. (Footprint): 118,182
+Capacity: 1,386
+Year Built: 1971
+Inventory
+12/13/2012

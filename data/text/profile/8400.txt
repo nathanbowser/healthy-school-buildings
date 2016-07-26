@@ -1,61 +1,99 @@
-School Profile
+School Profile
 Northeast
-   Frank (8400)
-   2000 Bowler St, Philadelphia, PA  19115
-General Information                                                           Inventory
-Status:                Open                                                   S.F. (Building):                   74,500      Capacity:                     676
-Start Date:            7/1/1962                                               S.F. (Footprint):                  33,885      Year Built:                  1962
-Level:                 Elementary School                                      S.F. (Site):        251,376        5.8 acs     No. of Floors:           1
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Max Komins
-
-Geographic Information                                                        Facilities Condition Index (FCI)**
-Councilmanic              District 10 (Brian J. O'Neill)                       Condition Assessment Cost:                  $14,691,579
-Congressional             Congressional District 13 (Allyson Y. Schwartz)      Replacement Cost:                           $24,734,000
-Legislative               PA Rep 172 (Kevin J. Boyle)                          Facilities Condition Index:                    0.3895
-Senatorial                Senate Rep 5 (Michael J. Stack)
-FMS Region                Leone                                                ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Northeast
-Police District           7th District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04 05                                  06    07       08     09      10      11       12    UG           Total
-  2012/13       K‐5   0   149 198 185 196 175 138                              0     0       0      0       0        0        0     0                   1,041
-  2011/12       K‐5   0   147 180 196 180 144 156                              0     0       0      0       0        0        0     0                   1,003
-  2010/11       K‐5   0   150 184 173 147 158 160                              0     0       0      0       0        0        0     0                     972
-  2009/10       K‐5   0   148 169 155 166 167 165                              0     0       0      0       0        0        0     0                     970
-  2008/09       K‐5   0   144 167 162 166 153 160                              0     0       0      0       0        0        0     0                     952
-  2007/08       K‐5   0   151 171 144 155 159 171                              0     0       0      0       0        0        0     0                     951
-  2006/07       K‐5   0   147 162 152 158 175 136                              0     0       0      0       0        0        0     0                     930
-Current Enrollment Details
-In / Out Boundary                     Special Education       Racial Breakdown                                     Transportation
-IN Boundary            1,002 98%      AS-             1       American Indian / Alaska Nativ        3 0%           Bus-Hazardous                          588
-OUT of Boundary           23 2%                       1       Asian                               237 23%          Bus-Special Ed                           5
-                                                              Black / African American            157 15%                                                 593
-                                                              Hispanic / Latino                    89 9%
-                                                              Multi Racial / Other                 96 9%
-                                                              White                               459 44%
-
-Academic Measures                   Climate Measures                    AYP                                               Students Live In Boundary
-Reading K-3 or Better:    56%       Avg Daily Attendance:      96%     2011/12      Made AYP                              Neighborhood (SDP) In:          995
-AGI Math:                 2.9       10+ Absences:              28%     2010/11      Made AYP                              Neighborhood (SDP) Out:         66
-AGI Reading:              0.3       At Least 1 OSS:            2%      2009/10      Made AYP                              Neighborhood (Ren):              0
-Adv/Prof Math (E-M):    85          VI Per 100:                0.10    2008/09      Warning                               Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 75          Persistently Dangerous:     No     2007/08      Made AYP                              Charter:                        110
-Adv/Prof Math (HS):                                                    2006/07      Warning                               CTE:                             0
-                                                                       2005/06      Made AYP
-Adv/Prof Reading (HS):                                                                                                    Special Admission:               4
-                                                                       2004/05      Made AYP
-On-Track/Time Grad:                                                                                                       Citywide Admission:              0
-                                                                       2003/04      Made AYP
-Graduation Rate:                                                                                                          Military Academy:                0
-Grad College (yr 1):                                                                                                      Other:                          1
-                                                                                                                                                        1176
-
-
-
-
-                                                                                                                                                    12/13/2012
-
+Frank (8400)
+2000 Bowler St, Philadelphia, PA  19115
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐5 0 149 198 185 196 175 138 0 0 0 0 0 0 0 0 1,041
+2011/12 K‐5 0 147 180 196 180 144 156 0 0 0 0 0 0 0 0 1,003
+2010/11 K‐5 0 150 184 173 147 158 160 0 0 0 0 0 0 0 0 972
+2009/10 K‐5 0 148 169 155 166 167 165 0 0 0 0 0 0 0 0 970
+2008/09 K‐5 0 144 167 162 166 153 160 0 0 0 0 0 0 0 0 952
+2007/08 K‐5 0 151 171 144 155 159 171 0 0 0 0 0 0 0 0 951
+2006/07 K‐5 0 147 162 152 158 175 136 0 0 0 0 0 0 0 0 930
+Geographic Information
+Councilmanic District 10 (Brian J. O'Neill)
+Congressional Congressional District 13 (Allyson Y. Schwartz)
+Legislative PA Rep 172 (Kevin J. Boyle)
+Senatorial Senate Rep 5 (Michael J. Stack)
+FMS Region Leone
+Planning Area Northeast
+Police District 7th District
+General Information
+Status: Open
+Start Date: 7/1/1962
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Max Komins
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 3 0%
+Asian 237 23%
+Black / African American 157 15%
+Hispanic / Latino 89 9%
+Multi Racial / Other 96 9%
+White 459 44%
+Transportation
+Bus-Hazardous 588
+Bus-Special Ed 5
+593
+Special Education
+AS- 1
+1
+In / Out Boundary
+IN Boundary 1,002 98%
+OUT of Boundary 23 2%
+AYP
+2011/12 Made AYP
+2010/11 Made AYP
+2009/10 Made AYP
+2008/09 Warning
+2007/08 Made AYP
+2006/07 Warning
+2005/06 Made AYP
+2004/05 Made AYP
+2003/04 Made AYP
+Academic Measures
+Reading K-3 or Better: 56%
+Adv/Prof Math (E-M): 85
+Adv/Prof Reading (E-M): 75
+AGI Math: 2.9
+AGI Reading: 0.3
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 96%
+10+ Absences: 28%
+At Least 1 OSS: 2%
+VI Per 100: 0.10
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 995
+Neighborhood (SDP) Out: 66
+Neighborhood (Ren): 0
+Neighborhood (Charter): 0
+Charter: 110
+CTE: 0
+Special Admission: 4
+Citywide Admission: 0
+Military Academy: 0
+Other: 1
+1176
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $14,691,579
+Replacement Cost: $24,734,000
+Facilities Condition Index: 0.3895
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 1
+S.F. (Building): 74,500
+S.F. (Site): 251,376 5.8 acs
+S.F. (Footprint): 33,885
+Capacity: 676
+Year Built: 1962
+Inventory
+12/13/2012

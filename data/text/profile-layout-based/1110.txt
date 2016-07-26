@@ -1,0 +1,58 @@
+School Profile
+Southwest
+   Shaw (1110)
+   5400 Warrington Ave, Philadelphia, PA  19143
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):               120,000         Capacity:                 1,071
+Start Date:            7/1/1923                                                S.F. (Footprint):                  53,815      Year Built:                 1923
+Level:                 Middle School                                           S.F. (Site):        125,889        2.9 acs     No. of Floors:          3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Kwand Lang
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 3 (Jannie Blackwell)                         Condition Assessment Cost:                  $32,520,586
+Congressional             Congressional District 2 (Chaka Fattah)               Replacement Cost:                           $41,040,000
+Legislative               PA Rep 188 (James R. Roebuck Jr.)                     Facilities Condition Index:                    0.6377
+Senatorial                Senate Rep 8 (Anthony H. Williams)
+FMS Region                Wilson                                                ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Southwest
+Police District           12th District
+
+Enrollment History
+    Year      Grades PreK              K     01   02      03     04     05     06   07         08    09      10      11       12    UG          Total
+  2012/13       7‐8   0                0      0    0      0      0      0       0   87        106    0       0        0        0     0                     193
+  2011/12       7‐8   0                0      0    0      0      0      0       0   102       135    0       0        0        0     0                     237
+  2010/11       7‐8   0                0      0    0      0      0      0       0   114       123    0       0        0        0     0                     237
+  2009/10       7‐8   0                0      0    0      0      0      0       0   116       136    0       0        0        0     0                     252
+  2008/09       7‐8   0                0      0    0      0      0      0       0   125       159    0       0        0        0     0                     284
+  2007/08       7‐8   0                0      0    0      0      0      0       0   181       223    0       0        0        0     0                     404
+  2006/07       7‐8   0                0      0    0      0      0      0       0   211       175    0       0        0        0     0                     386
+Current Enrollment Details
+In / Out Boundary                      Special Education       Racial Breakdown                                     Transportation
+IN Boundary            156 81%         ES-            6        Asian                                  1 1%          Bus-Special Ed                           3
+OUT of Boundary         37 19%                        6        Black / African American             191 99%         Trans Pass-Trans Pass Eligible          20
+                                                               Hispanic / Latino                      1 1%                                                  23
+
+Academic Measures                   Climate Measures                     AYP                                              Students Live In Boundary
+Reading K-3 or Better:              Avg Daily Attendance:       91%     2011/12      Corrective Action II7                Neighborhood (SDP) In:          154
+AGI Math:                 -4.4      10+ Absences:               54%     2010/11      Corrective Action II6                Neighborhood (SDP) Out:         54
+AGI Reading:              -0.7      At Least 1 OSS:             15%     2009/10      Corrective Action II5                Neighborhood (Ren):             11
+Adv/Prof Math (E-M):       39       VI Per 100:                 7.66    2008/09      Corrective Action II4                Neighborhood (Charter):         0
+Adv/Prof Reading (E-M): 35          Persistently Dangerous:     No      2007/08      Making Progress CA II3               Charter:                        138
+Adv/Prof Math (HS):                                                     2006/07      Corrective Action II3                CTE:                             0
+                                                                        2005/06      Corrective Action II3
+Adv/Prof Reading (HS):                                                                                                    Special Admission:              15
+                                                                        2004/05      Corrective Action II2
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+                                                                        2003/04      Making Progress
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                           11
+                                                                                                                                                          383
+
+
+
+
+                                                                                                                                                    12/13/2012
+

@@ -1,59 +1,98 @@
-School Profile
+School Profile
 North‐Central
-   Wright (4470)
-   2700 W Dauphin St, Philadelphia, PA  19132
-General Information                                                             Inventory
-Status:                Open                                                     S.F. (Building):                   82,000      Capacity:                     636
-Start Date:            7/1/1970                                                 S.F. (Footprint):                  46,803      Year Built:                  1970
-Level:                 Elementary School                                        S.F. (Site):        187,648        4.3 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Shauneille Taylor
-
-Geographic Information                                                          Facilities Condition Index (FCI)**
-Councilmanic              District 5 (Darrell Clarke)                            Condition Assessment Cost:                  $10,823,286
-Congressional             Congressional District 2 (Chaka Fattah)                Replacement Cost:                           $27,224,000
-Legislative               PA Rep 197 (J.P. Miranda)                              Facilities Condition Index:                    0.3845
-Senatorial                Senate Rep 7 (Vincent J. Hughes)
-FMS Region                Leone                                                  ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           22nd District
-
-Enrollment History
-    Year      Grades PreK             K      01   02       03     04     05     06    07       08     09      10      11       12      UG         Total
-  2012/13       K‐6   0               58     63   71       50     47     48     39     0       0      0       0        0        0       0                    376
-  2011/12       K‐6   0               62     71   67       48     54     49     46     0       0      0       0        0        0       0                    397
-  2010/11       K‐6   0               74     67   58       58     56     53     59     0       0      0       0        0        0       0                    425
-  2009/10       K‐6   0               59     69   55       56     52     56     57     0       0      0       0        0        0       0                    404
-  2008/09       K‐6   0               60     52   55       53     54     53     47     0       0      0       0        0        0       0                    374
-  2007/08       K‐6   0               51     62   53       55     54     48     47     0       0      0       0        0        0       0                    370
-  2006/07       K‐6   0               58     63   58       52     49     51     57     0       0      0       0        0        0       0                    388
-Current Enrollment Details
-In / Out Boundary                     Special Education         Racial Breakdown                                     Transportation
-IN Boundary            271 72%        AS-             15        Black / African American            341 91%          Bus Rider                                 2
-OUT of Boundary        105 28%        LSS-            21        Hispanic / Latino                     8 2%           Bus-Special Ed                           39
-                                                      36        Multi Racial / Other                 26 7%                                                    41
-                                                                White                                 1 0%
-
-Academic Measures                   Climate Measures                      AYP                                               Students Live In Boundary
-Reading K-3 or Better:    35%       Avg Daily Attendance:        92%     2011/12      School Improvement II                 Neighborhood (SDP) In:          264
-AGI Math:                  3.6      10+ Absences:                47%     2010/11      School Improvement I                  Neighborhood (SDP) Out:         65
-AGI Reading:               1.1      At Least 1 OSS:              13%     2009/10      Warning                               Neighborhood (Ren):             19
-Adv/Prof Math (E-M):    24          VI Per 100:                  2.75    2008/09      Made AYP                              Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 18          Persistently Dangerous:      No      2007/08      Warning                               Charter:                        48
-Adv/Prof Math (HS):                                                      2006/07      Made AYP                              CTE:                             0
-                                                                         2005/06      Warning
-Adv/Prof Reading (HS):                                                                                                      Special Admission:               1
-                                                                         2004/05      Made AYP
-On-Track/Time Grad:                                                                                                         Citywide Admission:              0
-                                                                         2003/04      Making Progress
-Graduation Rate:                                                                                                            Military Academy:                0
-Grad College (yr 1):                                                                                                        Other:                           0
-                                                                                                                                                            397
-
-
-
-
-                                                                                                                                                      12/13/2012
-
+Wright (4470)
+2700 W Dauphin St, Philadelphia, PA  19132
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐6 0 58 63 71 50 47 48 39 0 0 0 0 0 0 0 376
+2011/12 K‐6 0 62 71 67 48 54 49 46 0 0 0 0 0 0 0 397
+2010/11 K‐6 0 74 67 58 58 56 53 59 0 0 0 0 0 0 0 425
+2009/10 K‐6 0 59 69 55 56 52 56 57 0 0 0 0 0 0 0 404
+2008/09 K‐6 0 60 52 55 53 54 53 47 0 0 0 0 0 0 0 374
+2007/08 K‐6 0 51 62 53 55 54 48 47 0 0 0 0 0 0 0 370
+2006/07 K‐6 0 58 63 58 52 49 51 57 0 0 0 0 0 0 0 388
+Geographic Information
+Councilmanic District 5 (Darrell Clarke)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 197 (J.P. Miranda)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Leone
+Planning Area North-Central
+Police District 22nd District
+General Information
+Status: Open
+Start Date: 7/1/1970
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Shauneille Taylor
+Current Enrollment Details
+Racial Breakdown
+Black / African American 341 91%
+Hispanic / Latino 8 2%
+Multi Racial / Other 26 7%
+White 1 0%
+Transportation
+Bus Rider 2
+Bus-Special Ed 39
+41
+Special Education
+AS- 15
+LSS- 21
+36
+In / Out Boundary
+IN Boundary 271 72%
+OUT of Boundary 105 28%
+AYP
+2011/12 School Improvement II
+2010/11 School Improvement I
+2009/10 Warning
+2008/09 Made AYP
+2007/08 Warning
+2006/07 Made AYP
+2005/06 Warning
+2004/05 Made AYP
+2003/04 Making Progress
+Academic Measures
+Reading K-3 or Better: 35%
+Adv/Prof Math (E-M): 24
+Adv/Prof Reading (E-M): 18
+AGI Math: 3.6
+AGI Reading: 1.1
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 92%
+10+ Absences: 47%
+At Least 1 OSS: 13%
+VI Per 100: 2.75
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 264
+Neighborhood (SDP) Out: 65
+Neighborhood (Ren): 19
+Neighborhood (Charter): 0
+Charter: 48
+CTE: 0
+Special Admission: 1
+Citywide Admission: 0
+Military Academy: 0
+Other: 0
+397
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $10,823,286
+Replacement Cost: $27,224,000
+Facilities Condition Index: 0.3845
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 82,000
+S.F. (Site): 187,648 4.3 acs
+S.F. (Footprint): 46,803
+Capacity: 636
+Year Built: 1970
+Inventory
+12/13/2012

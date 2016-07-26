@@ -1,61 +1,82 @@
-School Profile
+School Profile
 North‐Central
-   Elkin (5260)
-   3199 D St, Philadelphia, PA  19134
-General Information                                                       Inventory
-Status:           Open                                                    S.F. (Building):                   53,200      Capacity:                     855
-Start Date:       7/1/1973                                                S.F. (Footprint):                  34,649      Year Built:                  1973
-Level:            Elementary School                                       S.F. (Site):        114,521        2.6 acs     No. of Floors:           3
-Type:             Neighborhood
-Admit Type:       Neighborhood
-Managed:          District
-Principal:        Mary Sanchez
-
-Geographic Information                                                    Facilities Condition Index (FCI)**
-Councilmanic          District 7 (Maria D. Quiñones-Sánchez)               Condition Assessment Cost:                   $7,504,490
-Congressional         Congressional District 1 (Robert A. Brady)           Replacement Cost:                           $17,662,400
-Legislative           PA Rep 180 (Angel Cruz)                              Facilities Condition Index:                    0.3057
-Senatorial            Senate Rep 2 (Christine M. Tartaglione)
-FMS Region            Britt                                                ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area         North-Central
-Police District       24th District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04                          05     06    07       08     09      10      11       12    UG           Total
-  2012/13       K‐4   0   182 179 160 173 119                      0       0     0       0      0       0        0        0     0                     813
-  2011/12       K‐4   0   169 176 195 135 131                      0       0     0       0      0       0        0        0     0                     806
-  2010/11       K‐4   0   168 213 153 144 146                      0       0     0       0      0       0        0        0     0                     824
-  2009/10       K‐4   0   182 164 163 150 165                      0       0     0       0      0       0        0        0     0                     824
-  2008/09       K‐4   0   147 176 165 171 199                      0       0     0       0      0       0        0        0     0                     858
-  2007/08       K‐4   0   158 175 190 205 210                      0       0     0       0      0       0        0        0     0                     938
-  2006/07       K‐4   0   163 220 228 216 213                      0       0     0       0      0       0        0        0     0                   1,040
-Current Enrollment Details
-In / Out Boundary                Special Education       Racial Breakdown                                      Transportation
-IN Boundary         798 98%      AS-             1       American Indian / Alaska Nativ         1 0%           Bus Rider                                   1
-OUT of Boundary      15 2%                       1       Asian                                  4 0%           Bus-Special Ed                              1
-                                                         Black / African American             159 20%                                                      2
-                                                         Hispanic / Latino                    573 70%
-                                                         Multi Racial / Other                  55 7%
-                                                         White                                 21 3%
-
-                                                                    AYP                                               Students Live In Boundary
-                                                                   2011/12      Corrective Action II3                 Neighborhood (SDP) In:          785
-                                                                   2010/11      Corrective Action II2                 Neighborhood (SDP) Out:         89
-                                                                   2009/10      Corrective Action II                  Neighborhood (Ren):              4
-                                                                   2008/09      Corrective Action I                   Neighborhood (Charter):          0
-                                                                   2007/08      School Improvement II                 Charter:                        99
-                                                                   2006/07      School Improvement I                  CTE:                             0
-                                                                   2005/06      Warning
-                                                                                                                      Special Admission:               2
-                                                                   2004/05      Made AYP
-                                                                                                                      Citywide Admission:              0
-                                                                   2003/04      Warning
-                                                                                                                      Military Academy:                0
-                                                                                                                      Other:                           5
-                                                                                                                                                      984
-
-
-
-
-                                                                                                                                                12/13/2012
-
+Elkin (5260)
+3199 D St, Philadelphia, PA  19134
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐4 0 182 179 160 173 119 0 0 0 0 0 0 0 0 0 813
+2011/12 K‐4 0 169 176 195 135 131 0 0 0 0 0 0 0 0 0 806
+2010/11 K‐4 0 168 213 153 144 146 0 0 0 0 0 0 0 0 0 824
+2009/10 K‐4 0 182 164 163 150 165 0 0 0 0 0 0 0 0 0 824
+2008/09 K‐4 0 147 176 165 171 199 0 0 0 0 0 0 0 0 0 858
+2007/08 K‐4 0 158 175 190 205 210 0 0 0 0 0 0 0 0 0 938
+2006/07 K‐4 0 163 220 228 216 213 0 0 0 0 0 0 0 0 0 1,040
+Geographic Information
+Councilmanic District 7 (Maria D. Quiñones-Sánchez)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 180 (Angel Cruz)
+Senatorial Senate Rep 2 (Christine M. Tartaglione)
+FMS Region Britt
+Planning Area North-Central
+Police District 24th District
+General Information
+Status: Open
+Start Date: 7/1/1973
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Mary Sanchez
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Asian 4 0%
+Black / African American 159 20%
+Hispanic / Latino 573 70%
+Multi Racial / Other 55 7%
+White 21 3%
+Transportation
+Bus Rider 1
+Bus-Special Ed 1
+2
+Special Education
+AS- 1
+1
+In / Out Boundary
+IN Boundary 798 98%
+OUT of Boundary 15 2%
+AYP
+2011/12 Corrective Action II3
+2010/11 Corrective Action II2
+2009/10 Corrective Action II
+2008/09 Corrective Action I
+2007/08 School Improvement II
+2006/07 School Improvement I
+2005/06 Warning
+2004/05 Made AYP
+2003/04 Warning
+Students Live In Boundary
+Neighborhood (SDP) In: 785
+Neighborhood (SDP) Out: 89
+Neighborhood (Ren): 4
+Neighborhood (Charter): 0
+Charter: 99
+CTE: 0
+Special Admission: 2
+Citywide Admission: 0
+Military Academy: 0
+Other: 5
+984
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $7,504,490
+Replacement Cost: $17,662,400
+Facilities Condition Index: 0.3057
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 53,200
+S.F. (Site): 114,521 2.6 acs
+S.F. (Footprint): 34,649
+Capacity: 855
+Year Built: 1973
+Inventory
+12/13/2012

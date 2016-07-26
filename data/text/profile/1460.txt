@@ -1,60 +1,100 @@
-School Profile
+School Profile
 West
-   Anderson (1460)
-   1034 S 60th St, Philadelphia, PA  19143
-General Information                                                              Inventory
-Status:                Open                                                      S.F. (Building):                  68,235      Capacity:                     616
-Start Date:            7/1/1963                                                  S.F. (Footprint):                 30,822      Year Built:                  1963
-Level:                 Elementary School                                         S.F. (Site):        95,423        2.2 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Kelly Parker
-
-Geographic Information                                                           Facilities Condition Index (FCI)**
-Councilmanic              District 3 (Jannie Blackwell)                           Condition Assessment Cost:                 $13,745,277
-Congressional             Congressional District 1 (Robert A. Brady)              Replacement Cost:                          $22,654,020
-Legislative               PA Rep 191 (Ronald Waters)                              Facilities Condition Index:                   0.3025
-Senatorial                Senate Rep 8 (Anthony H. Williams)
-FMS Region                Loftus                                                  ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             West
-Police District           18th District
-
-Enrollment History
-    Year      Grades PreK             K      01     02      03     04     05     06    07       08    09      10      11       12      UG         Total
-  2012/13       K‐8   0               80     75     70      63     59     59     60    54       60    0       0        0        0       0                    580
-  2011/12       K‐8   0               64     76     64      62     69     64     57    56       55    0       0        0        0       0                    567
-  2010/11       K‐8   0               59     59     57      67     60     49     49    48       59    0       0        0        0       0                    507
-  2009/10       K‐8   0               65     66     68      65     47     58     50    56       48    0       0        0        0       0                    523
-  2008/09       K‐7   0               70     68     51      46     57     48     56    40       0     0       0        0        0       0                    436
-  2007/08       K‐6   0               59     65     54      62     58     62     50     0       0     0       0        0        0       0                    410
-  2006/07       K‐6   0               68     68     75      62     68     57     73     0       0     0       0        0        0       0                    471
-Current Enrollment Details
-In / Out Boundary                      Special Education         Racial Breakdown                                    Transportation
-IN Boundary            428 76%         ES-              2        American Indian / Alaska Nativ        1 0%          Bus-Emergency                             2
-OUT of Boundary        138 24%                          2        Black / African American            546 94%         Bus-Special Ed                            3
-                                                                 Hispanic / Latino                    11 2%          Trans Pass                                4
-                                                                 Multi Racial / Other                 17 3%          Trans Pass-Trans Pass Eligible            9
-                                                                 White                                 5 1%                                                   18
-
-Academic Measures                     Climate Measures                     AYP                                              Students Live In Boundary
-Reading K-3 or Better:    42%         Avg Daily Attendance:       92%     2011/12      Corrective Action II7                Neighborhood (SDP) In:          419
-AGI Math:                 -4.8        10+ Absences:               49%     2010/11      Corrective Action II6                Neighborhood (SDP) Out:         80
-AGI Reading:               0.2        At Least 1 OSS:             5%      2009/10      Corrective Action II5                Neighborhood (Ren):             43
-Adv/Prof Math (E-M):       36         VI Per 100:                 2.66    2008/09      Making Progress CA II4               Neighborhood (Charter):          1
-Adv/Prof Reading (E-M): 31            Persistently Dangerous:     No      2007/08      Corrective Action II4                Charter:                        202
-Adv/Prof Math (HS):                                                       2006/07      Making Progress                      CTE:                             0
-                                                                          2005/06      Corrective Action II3
-Adv/Prof Reading (HS):                                                                                                      Special Admission:              11
-                                                                          2004/05      Making Progress
-On-Track/Time Grad:                                                                                                         Citywide Admission:              0
-                                                                          2003/04      Corrective Action II2
-Graduation Rate:                                                                                                            Military Academy:                0
-Grad College (yr 1):                                                                                                        Other:                           1
-                                                                                                                                                            757
-
-
-
-
-                                                                                                                                                      12/13/2012
-
+Anderson (1460)
+1034 S 60th St, Philadelphia, PA  19143
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 80 75 70 63 59 59 60 54 60 0 0 0 0 0 580
+2011/12 K‐8 0 64 76 64 62 69 64 57 56 55 0 0 0 0 0 567
+2010/11 K‐8 0 59 59 57 67 60 49 49 48 59 0 0 0 0 0 507
+2009/10 K‐8 0 65 66 68 65 47 58 50 56 48 0 0 0 0 0 523
+2008/09 K‐7 0 70 68 51 46 57 48 56 40 0 0 0 0 0 0 436
+2007/08 K‐6 0 59 65 54 62 58 62 50 0 0 0 0 0 0 0 410
+2006/07 K‐6 0 68 68 75 62 68 57 73 0 0 0 0 0 0 0 471
+Geographic Information
+Councilmanic District 3 (Jannie Blackwell)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 191 (Ronald Waters)
+Senatorial Senate Rep 8 (Anthony H. Williams)
+FMS Region Loftus
+Planning Area West
+Police District 18th District
+General Information
+Status: Open
+Start Date: 7/1/1963
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Kelly Parker
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Black / African American 546 94%
+Hispanic / Latino 11 2%
+Multi Racial / Other 17 3%
+White 5 1%
+Transportation
+Bus-Emergency 2
+Bus-Special Ed 3
+Trans Pass 4
+Trans Pass-Trans Pass Eligible 9
+18
+Special Education
+ES- 2
+2
+In / Out Boundary
+IN Boundary 428 76%
+OUT of Boundary 138 24%
+AYP
+2011/12 Corrective Action II7
+2010/11 Corrective Action II6
+2009/10 Corrective Action II5
+2008/09 Making Progress CA II4
+2007/08 Corrective Action II4
+2006/07 Making Progress
+2005/06 Corrective Action II3
+2004/05 Making Progress
+2003/04 Corrective Action II2
+Academic Measures
+Reading K-3 or Better: 42%
+Adv/Prof Math (E-M): 36
+Adv/Prof Reading (E-M): 31
+AGI Math: -4.8
+AGI Reading: 0.2
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 92%
+10+ Absences: 49%
+At Least 1 OSS: 5%
+VI Per 100: 2.66
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 419
+Neighborhood (SDP) Out: 80
+Neighborhood (Ren): 43
+Neighborhood (Charter): 1
+Charter: 202
+CTE: 0
+Special Admission: 11
+Citywide Admission: 0
+Military Academy: 0
+Other: 1
+757
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $13,745,277
+Replacement Cost: $22,654,020
+Facilities Condition Index: 0.3025
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 68,235
+S.F. (Site): 95,423 2.2 acs
+S.F. (Footprint): 30,822
+Capacity: 616
+Year Built: 1963
+Inventory
+12/13/2012

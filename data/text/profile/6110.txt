@@ -1,60 +1,99 @@
-School Profile
+School Profile
 Northwest
-   Roosevelt MS (6110)
-   430 E Washington Ln, Philadelphia, PA  19144
-General Information                                                            Inventory
-Status:                Open                                                    S.F. (Building):               135,315         Capacity:                 1,050
-Start Date:            7/1/1924                                                S.F. (Footprint):                  72,258      Year Built:                 1924
-Level:                 Middle School                                           S.F. (Site):        228,896        5.3 acs     No. of Floors:          3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Cassandra Houston
-
-Geographic Information                                                         Facilities Condition Index (FCI)**
-Councilmanic              District 8 (Cindy Bass)                               Condition Assessment Cost:                  $12,107,244
-Congressional             Congressional District 2 (Chaka Fattah)               Replacement Cost:                           $46,277,730
-Legislative               PA Rep 201 (Stephen Kinsey)                           Facilities Condition Index:                     0.18
-Senatorial                Senate Rep 4 (LeAnna Washington)
-FMS Region                Parker                                                ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Northwest
-Police District           14th District
-
-Enrollment History
-    Year      Grades PreK              K     01   02      03     04     05     06   07         08    09      10      11       12       UG       Total
-  2012/13       7‐8   0                0      0    0      0      0      0       0   145       165    0       0        0        0        0                  310
-  2011/12       7‐8   0                0      0    0      0      0      0       0   166       158    0       0        0        0        0                  324
-  2010/11       7‐8   0                0      0    0      0      0      0       0   148       210    0       0        0        0        0                  358
-  2009/10       7‐8   0                0      0    0      0      0      0       0   193       217    0       0        0        0        0                  410
-  2008/09       7‐8   0                0      0    0      0      0      0       0   169       211    0       0        0        0        0                  380
-  2007/08       7‐8   0                0      0    0      0      0      0       0   203       285    0       0        0        0        0                  488
-  2006/07       7‐8   0                0      0    0      0      0      0       0   182       170    0       0        0        0        0                  352
-Current Enrollment Details
-In / Out Boundary                      Special Education       Racial Breakdown                                     Transportation
-IN Boundary            290 94%         ES-           10        Asian                                  1 0%          Bus Rider                                1
-OUT of Boundary         19 6%                        10        Black / African American             303 98%         Bus-Overcrowding                         1
-                                                               Hispanic / Latino                      5 2%          Bus-Special Ed                          10
-                                                               White                                  1 0%          Trans Pass-Trans Pass Eligible         146
-                                                                                                                                                           158
-
-Academic Measures                  Climate Measures                      AYP                                              Students Live In Boundary
-Reading K-3 or Better:             Avg Daily Attendance:        91%     2011/12      School Improvement I                 Neighborhood (SDP) In:          284
-AGI Math:                 -22.1    10+ Absences:                49%     2010/11      Warning                              Neighborhood (SDP) Out:         185
-AGI Reading:              -17.2    At Least 1 OSS:              14%     2009/10      Made AYP                             Neighborhood (Ren):             21
-Adv/Prof Math (E-M):       26      VI Per 100:                  7.95    2008/09      Making Progress CA II5               Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 24         Persistently Dangerous:      No      2007/08      Corrective Action II5                Charter:                        444
-Adv/Prof Math (HS):                                                     2006/07      Corrective Action II4                CTE:                             0
-                                                                        2005/06      Corrective Action II3
-Adv/Prof Reading (HS):                                                                                                    Special Admission:              101
-                                                                        2004/05      Corrective Action II3
-On-Track/Time Grad:                                                                                                       Citywide Admission:              0
-                                                                        2003/04      Corrective Action II2
-Graduation Rate:                                                                                                          Military Academy:                0
-Grad College (yr 1):                                                                                                      Other:                         11
-                                                                                                                                                        1046
-
-
-
-
-                                                                                                                                                    12/13/2012
-
+Roosevelt MS (6110)
+430 E Washington Ln, Philadelphia, PA  19144
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 7‐8 0 0 0 0 0 0 0 0 145 165 0 0 0 0 0 310
+2011/12 7‐8 0 0 0 0 0 0 0 0 166 158 0 0 0 0 0 324
+2010/11 7‐8 0 0 0 0 0 0 0 0 148 210 0 0 0 0 0 358
+2009/10 7‐8 0 0 0 0 0 0 0 0 193 217 0 0 0 0 0 410
+2008/09 7‐8 0 0 0 0 0 0 0 0 169 211 0 0 0 0 0 380
+2007/08 7‐8 0 0 0 0 0 0 0 0 203 285 0 0 0 0 0 488
+2006/07 7‐8 0 0 0 0 0 0 0 0 182 170 0 0 0 0 0 352
+Geographic Information
+Councilmanic District 8 (Cindy Bass)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 201 (Stephen Kinsey)
+Senatorial Senate Rep 4 (LeAnna Washington)
+FMS Region Parker
+Planning Area Northwest
+Police District 14th District
+General Information
+Status: Open
+Start Date: 7/1/1924
+Level: Middle School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Cassandra Houston
+Current Enrollment Details
+Racial Breakdown
+Asian 1 0%
+Black / African American 303 98%
+Hispanic / Latino 5 2%
+White 1 0%
+Transportation
+Bus Rider 1
+Bus-Overcrowding 1
+Bus-Special Ed 10
+Trans Pass-Trans Pass Eligible 146
+158
+Special Education
+ES- 10
+10
+In / Out Boundary
+IN Boundary 290 94%
+OUT of Boundary 19 6%
+AYP
+2011/12 School Improvement I
+2010/11 Warning
+2009/10 Made AYP
+2008/09 Making Progress CA II5
+2007/08 Corrective Action II5
+2006/07 Corrective Action II4
+2005/06 Corrective Action II3
+2004/05 Corrective Action II3
+2003/04 Corrective Action II2
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M): 26
+Adv/Prof Reading (E-M): 24
+AGI Math: -22.1
+AGI Reading: -17.2
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 91%
+10+ Absences: 49%
+At Least 1 OSS: 14%
+VI Per 100: 7.95
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 284
+Neighborhood (SDP) Out: 185
+Neighborhood (Ren): 21
+Neighborhood (Charter): 0
+Charter: 444
+CTE: 0
+Special Admission: 101
+Citywide Admission: 0
+Military Academy: 0
+Other: 11
+1046
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $12,107,244
+Replacement Cost: $46,277,730
+Facilities Condition Index: 0.18
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 135,315
+S.F. (Site): 228,896 5.3 acs
+S.F. (Footprint): 72,258
+Capacity: 1,050
+Year Built: 1924
+Inventory
+12/13/2012

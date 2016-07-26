@@ -1,0 +1,61 @@
+School Profile
+South‐Central
+   Girard (2320)
+   1800 Snyder Ave, Philadelphia, PA  19145
+General Information                                                    Inventory
+Status:           Open                                                 S.F. (Building):                  66,685      Capacity:                     497
+Start Date:       7/1/1959                                             S.F. (Footprint):                 25,765      Year Built:                  1959
+Level:            Elementary School                                    S.F. (Site):        81,512        1.9 acs     No. of Floors:           3
+Type:             Neighborhood
+Admit Type:       Neighborhood
+Managed:          District
+Principal:        Thomas Koger
+
+Geographic Information                                                 Facilities Condition Index (FCI)**
+Councilmanic          District 2 (Kenyatta Johnson)                     Condition Assessment Cost:                  $8,380,358
+Congressional         Congressional District 2 (Chaka Fattah)           Replacement Cost:                          $22,139,420
+Legislative           PA Rep 184 (William F. Keller)                    Facilities Condition Index:                   0.2822
+Senatorial            Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region            DiOrio                                            ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area         South-Central
+Police District       1st District
+
+Enrollment History
+    Year      Grades PreK K   01 02 03 04                       05     06    07       08    09      10      11       12    UG           Total
+  2012/13       K‐4   0   113 134 122 116 111                   0       0     0       0     0       0        0        0     0                      596
+  2011/12       K‐4   0   118 113 112 114 107                   0       0     0       0     0       0        0        0     0                      564
+  2010/11       K‐4   0   120 121 128 112 106                   0       0     0       0     0       0        0        0     0                      587
+  2009/10       K‐4   0   123 152 128 110 93                    0       0     0       0     0       0        0        0     0                      606
+  2008/09       K‐4   0   122 136 116 99 121                    0       0     0       0     0       0        0        0     0                      594
+  2007/08       K‐4   0   114 121 103 129 120                   0       0     0       0     0       0        0        0     0                      587
+  2006/07       K‐4   0   120 101 132 115 94                    0       0     0       0     0       0        0        0     0                      562
+Current Enrollment Details
+In / Out Boundary                                      Racial Breakdown                                    Transportation
+IN Boundary         562 94%                            American Indian / Alaska Nativ        2 0%          Bus-Overcrowding                            1
+OUT of Boundary      34 6%                             Asian                               145 24%         Bus-Special Ed                              4
+                                                       Black / African American            360 60%         Trans Pass                                  3
+                                                       Hispanic / Latino                    34 6%                                                      8
+                                                       Multi Racial / Other                 31 5%
+                                                       White                                24 4%
+
+                                                                 AYP                                              Students Live In Boundary
+                                                                2011/12      Corrective Action I                  Neighborhood (SDP) In:          553
+                                                                2010/11      School Improvement II                Neighborhood (SDP) Out:         252
+                                                                2009/10      Making Progress SI I                 Neighborhood (Ren):              2
+                                                                2008/09      School Improvement I                 Neighborhood (Charter):          0
+                                                                2007/08      Warning                              Charter:                        279
+                                                                2006/07      Made AYP                             CTE:                             0
+                                                                2005/06      Made AYP
+                                                                                                                  Special Admission:               2
+                                                                2004/05      Made AYP
+                                                                                                                  Citywide Admission:              0
+                                                                2003/04      Warning
+                                                                                                                  Military Academy:                0
+                                                                                                                  Other:                          3
+                                                                                                                                                1091
+
+
+
+
+                                                                                                                                            12/13/2012
+

@@ -1,0 +1,62 @@
+School Profile
+West
+   Beeber (4100)
+   5925 Malvern Ave, Philadelphia, PA  19131
+General Information                                                             Inventory
+Status:                Open                                                     S.F. (Building):               139,000         Capacity:                 1,092
+Start Date:            7/1/1933                                                 S.F. (Footprint):                  54,994      Year Built:                 1933
+Level:                 Middle School                                            S.F. (Site):        123,235        2.8 acs     No. of Floors:          3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Joseph Starinieri
+
+Geographic Information                                                          Facilities Condition Index (FCI)**
+Councilmanic              District 4 (Curtis Jones Jr.)                          Condition Assessment Cost:                  $21,881,964
+Congressional             Congressional District 2 (Chaka Fattah)                Replacement Cost:                           $47,538,000
+Legislative               PA Rep 192 (Louise Williams Bishop)                    Facilities Condition Index:                    0.3255
+Senatorial                Senate Rep 7 (Vincent J. Hughes)
+FMS Region                Wilson                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             West
+Police District           19th District
+
+Enrollment History
+    Year      Grades PreK              K      01   02      03     04     05   06     07         08    09      10      11       12     UG         Total
+  2012/13       6‐8   0                0       0    0      0      0      0    28     133       121    0       0        0        0      0                    282
+  2011/12       6‐8   0                0       0    0      0      0      0    39     162       185    0       0        0        0      0                    386
+  2010/11       6‐8   0                0       0    0      0      0      0    75     202       200    0       0        0        0      0                    477
+  2009/10       6‐8   0                0       0    0      0      0      0    96     206       221    0       0        0        0      0                    523
+  2008/09       6‐8   0                0       0    0      0      0      0    77     182       186    0       0        0        0      0                    445
+  2007/08       6‐8   0                0       0    0      0      0      0    93     182       227    0       0        0        0      0                    502
+  2006/07       6‐8   0                0       0    0      0      0      0    154    239       251    0       0        0        0      0                    644
+Current Enrollment Details
+In / Out Boundary                      Special Education        Racial Breakdown                                     Transportation
+IN Boundary            237 84%         AS-             6        Asian                                  1 0%          Bus Rider                                1
+OUT of Boundary         44 16%         ES-            10        Black / African American             274 97%         Bus-Mileage                              1
+                                       LSS-           16        Hispanic / Latino                      3 1%          Bus-Overcrowding                         1
+                                                      32        White                                  4 1%          Bus-Special Ed                          33
+                                                                                                                     Bus-Trans Pass Eligible                  4
+                                                                                                                     Trans Pass-Hazardous                     1
+                                                                                                                     Trans Pass-Trans Pass Eligible          45
+                                                                                                                                                             86
+
+Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
+Reading K-3 or Better:              Avg Daily Attendance:        88%     2011/12      Corrective Action II2                Neighborhood (SDP) In:          231
+AGI Math:                  -1.7     10+ Absences:                60%     2010/11      Making Progress CA II                Neighborhood (SDP) Out:         136
+AGI Reading:               -5.7     At Least 1 OSS:              18%     2009/10      Corrective Action II                 Neighborhood (Ren):              58
+Adv/Prof Math (E-M):    45          VI Per 100:                 14.17    2008/09      Corrective Action I                  Neighborhood (Charter):          2
+Adv/Prof Reading (E-M): 38          Persistently Dangerous:      Yes     2007/08      Making Progress SI II                Charter:                        491
+Adv/Prof Math (HS):                                                      2006/07      School Improvement II                CTE:                             0
+                                                                         2005/06      School Improvement I
+Adv/Prof Reading (HS):                                                                                                     Special Admission:              97
+                                                                         2004/05      School Improvement I
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                         2003/04      Warning
+Graduation Rate:                                                                                                           Military Academy:               0
+Grad College (yr 1):                                                                                                       Other:                         14
+                                                                                                                                                         1029
+
+
+
+                                                                                                                                                     12/13/2012
+

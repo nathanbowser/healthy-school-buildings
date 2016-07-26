@@ -1,0 +1,61 @@
+School Profile
+South‐Central
+   Franklin HS (2010)
+   550 N Broad St, Philadelphia, PA  19130
+General Information                                                              Inventory
+Status:                Open                                                      S.F. (Building):               242,293      Capacity:                  1,556
+Start Date:            7/1/1958                                                  S.F. (Footprint):               68,374      Year Built:                  1958
+Level:                 High School                                               S.F. (Site):        74,265      1.7 acs     No. of Floors:           7
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Gregory Hailey
+
+Geographic Information                                                           Facilities Condition Index (FCI)**
+Councilmanic              District 5 (Darrell Clarke)                             Condition Assessment Cost:               $30,152,788
+Congressional             Congressional District 2 (Chaka Fattah)                 Replacement Cost:                        $86,014,015
+Legislative               PA Rep 182 (Brian Sims)                                 Facilities Condition Index:                 0.3064
+Senatorial                Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region                Melady                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             South-Central
+Police District           9th District
+
+Enrollment History
+    Year      Grades PreK               K      01   02      03     04     05     06    07       08     09      10   11       12 UG              Total
+  2012/13      9‐12   0                 0       0    0      0      0      0       0     0       0     191     148   108      112 0                         559
+  2011/12      9‐12   0                 0       0    0      0      0      0       0     0       0     217     136   125      122 0                         600
+  2010/11      9‐12   0                 0       0    0      0      0      0       0     0       0     191     156   123      186 0                         656
+  2009/10      9‐12   0                 0       0    0      0      0      0       0     0       0     173     144   161      143 0                         621
+  2008/09      9‐12   0                 0       0    0      0      0      0       0     0       0     162     202   132      104 0                         600
+  2007/08      9‐12   0                 0       0    0      0      0      0       0     0       0     234     164   115      153 0                         666
+  2006/07      9‐12   0                 0       0    0      0      0      0       0     0       0     234     156   179      180 0                         749
+Current Enrollment Details
+In / Out Boundary                       Special Education        Racial Breakdown                                   Transportation
+IN Boundary            236 42%          AS-            11        American Indian / Alaska Nativ        2 0%         Bus-Special Ed                          39
+OUT of Boundary        322 58%          ES-            15        Asian                                35 6%         Trans Pass                               1
+                                        LSS-           28        Black / African American            432 77%        Trans Pass-Special Ed                    4
+                                                       54        Hispanic / Latino                    79 14%        Trans Pass-Trans Pass Eligible         356
+                                                                 Multi Racial / Other                  6 1%                                                400
+                                                                 White                                 5 1%
+
+Academic Measures                    Climate Measures                      AYP                                            Students Live In Boundary
+Reading K-3 or Better:               Avg Daily Attendance:        80%     2011/12      Corrective Action II8              Neighborhood (SDP) In:          223
+AGI Math:                 -6.4       10+ Absences:                72%     2010/11      Corrective Action II7              Neighborhood (SDP) Out:         93
+AGI Reading:              -4.8       At Least 1 OSS:              27%     2009/10      Corrective Action II6              Neighborhood (Ren):             33
+Adv/Prof Math (E-M):                 VI Per 100:                  3.58    2008/09      Corrective Action II5              Neighborhood (Charter):          0
+Adv/Prof Reading (E-M):              Persistently Dangerous:       No     2007/08      Making Progress CA II4             Charter:                        243
+Adv/Prof Math (HS):        16                                             2006/07      Corrective Action II4              CTE:                            119
+                                                                          2005/06      Corrective Action II3
+Adv/Prof Reading (HS):     19                                                                                             Special Admission:              189
+                                                                          2004/05      Corrective Action II2
+On-Track/Time Grad:       36%                                                                                             Citywide Admission:              19
+                                                                          2003/04      Making Progress
+Graduation Rate:          66%                                                                                             Military Academy:                8
+Grad College (yr 1):      35%                                                                                             Other:                         98
+                                                                                                                                                        1025
+
+
+
+
+                                                                                                                                                    12/13/2012
+

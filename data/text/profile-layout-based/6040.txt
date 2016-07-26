@@ -1,0 +1,60 @@
+School Profile
+Northwest
+   Saul CTE (6040)
+   7100 Henry Ave, Philadelphia, PA  19128
+General Information                                                               Inventory
+Status:                Open                                                       S.F. (Building):               104,018      Capacity:                     740
+Start Date:            7/1/1950                                                   S.F. (Footprint):               36,075      Year Built:                  1950
+Level:                 High School                                                S.F. (Site):        956,400    22.0 acs     No. of Floors:           2
+Type:                  Career and Technical Education
+Admit Type:            Special Admission
+Managed:               District
+Principal:             Tamera Conaway
+
+Geographic Information                                                            Facilities Condition Index (FCI)**
+Councilmanic              District 4 (Curtis Jones Jr.)                            Condition Assessment Cost:               $12,650,669
+Congressional             Congressional District 2 (Chaka Fattah)                  Replacement Cost:                        $36,926,390
+Legislative               PA Rep 194 (Pamela A. DeLissio)                          Facilities Condition Index:                 0.3303
+Senatorial                Senate Rep 3 (Shirley M. Kitchen)
+FMS Region                Parker                                                   ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northwest
+Police District           5th District
+
+Enrollment History
+    Year      Grades PreK               K     01    02       03     04     05     06    07       08      09      10   11      12 UG             Total
+  2012/13      9‐12   0                 0      0     0       0      0      0       0     0       0      176     122   128     99  0                         525
+  2011/12      9‐12   0                 0      0     0       0      0      0       0     0       0      127     159   127     100 0                         513
+  2010/11      9‐12   0                 0      0     0       0      0      0       0     0       0      163     156   116     139 0                         574
+  2009/10      9‐12   0                 0      0     0       0      0      0       0     0       0      156     144   135     111 0                         546
+  2008/09      9‐12   0                 0      0     0       0      0      0       0     0       0      153     166   109     113 0                         541
+  2007/08      9‐12   0                 0      0     0       0      0      0       0     0       0      209     134   115     90  0                         548
+  2006/07      9‐12   0                 0      0     0       0      0      0       0     0       0      174     139   95      112 0                         520
+Current Enrollment Details
+In / Out Boundary                       Special Education         Racial Breakdown                                    Transportation
+IN Boundary               0       0%    ES-              2        American Indian / Alaska Nativ        2 0%          Bus-Special Ed                          1
+OUT of Boundary           0       0%                     2        Asian                                 7 1%          Trans Pass-Special Ed                   1
+                                                                  Black / African American            333 63%         Trans Pass-Trans Pass Eligible        492
+                                                                  Hispanic / Latino                    74 14%                                               494
+                                                                  Multi Racial / Other                  5 1%
+                                                                  White                               104 20%
+
+Academic Measures                      Climate Measures                     AYP
+Reading K-3 or Better:                 Avg Daily Attendance:       93%     2011/12      Warning
+AGI Math:                 -0.8         10+ Absences:               46%     2010/11      Made AYP
+AGI Reading:                  1        At Least 1 OSS:             8%      2009/10      Made AYP
+Adv/Prof Math (E-M):                   VI Per 100:                 1.74    2008/09      Warning
+Adv/Prof Reading (E-M):                Persistently Dangerous:      No     2007/08      Made AYP
+Adv/Prof Math (HS):        50                                              2006/07      Making Progress
+                                                                           2005/06      Corrective Action I
+Adv/Prof Reading (HS):     66
+                                                                           2004/05      School Improvement II
+On-Track/Time Grad:       90%
+                                                                           2003/04      Making Progress
+Graduation Rate:          85%
+Grad College (yr 1):      47%
+
+
+
+
+                                                                                                                                                  12/13/2012
+

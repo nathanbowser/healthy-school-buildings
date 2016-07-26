@@ -1,62 +1,101 @@
-School Profile
+School Profile
 Northeast
-   Farrell (8380)
-   8300 Castor Ave, Philadelphia, PA  19152
-General Information                                                            Inventory
-Status:                Open                                                    S.F. (Building):                   66,382      Capacity:                     755
-Start Date:            7/1/1959                                                S.F. (Footprint):                  32,238      Year Built:                  1959
-Level:                 Elementary School                                       S.F. (Site):        163,377        3.8 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Nicholas Cirulli
-
-Geographic Information                                                         Facilities Condition Index (FCI)**
-Councilmanic              District 7 (Maria D. Quiñones-Sánchez)                Condition Assessment Cost:                  $12,200,885
-Congressional             Congressional District 13 (Allyson Y. Schwartz)       Replacement Cost:                           $22,038,824
-Legislative               PA Rep 174 (John P. Sabatina Jr.)                     Facilities Condition Index:                    0.5252
-Senatorial                Senate Rep 5 (Michael J. Stack)
-FMS Region                Leone                                                 ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Northeast
-Police District           7th District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04 05 06 07 08                                                09      10      11       12      UG         Total
-  2012/13       K‐8   0   122 125 128 114 102 93 109 90 102                                          0       0        0        0       0                    985
-  2011/12       K‐8   0   124 133 108 102 96 107 82 101 105                                          0       0        0        0       0                    958
-  2010/11       K‐8   0   116 107 101 95 114 69 97 109 117                                           0       0        0        0       0                    925
-  2009/10       K‐8   0   96 102 86 104 69 89 107 116 119                                            0       0        0        0       0                    888
-  2008/09       K‐8   0   86 85 99 67 93 100 101 111 107                                             0       0        0        0       0                    849
-  2007/08       K‐8   0   67 96 77 103 99 97 98 99 108                                               0       0        0        0       0                    844
-  2006/07       K‐8   0   66 88 98 96 95 99 100 109 125                                              0       0        0        0       0                    876
-Current Enrollment Details
-In / Out Boundary                         Special Education    Racial Breakdown                                     Transportation
-IN Boundary             864 89%           AS-          22      American Indian / Alaska Nativ        1    0%        Bus-Special Ed                           67
-OUT of Boundary         104 11%           LSS-         32      Asian                               130    13%       Trans Pass-Trans Pass Eligible           16
-                                                       54      Black / African American            167    17%                                                83
-                                                               Hispanic / Latino                   149    15%
-                                                               Multi Racial / Other                130    13%
-                                                               Native Hawaiian / Other Pacifi        1    0%
-                                                               White                               407    41%
-
-Academic Measures                    Climate Measures                    AYP                                               Students Live In Boundary
-Reading K-3 or Better:    58%        Avg Daily Attendance:      95%     2011/12      School Improvement II                 Neighborhood (SDP) In:          861
-AGI Math:                  2.9       10+ Absences:              32%     2010/11      Making Progress SI I                  Neighborhood (SDP) Out:         22
-AGI Reading:               2.4       At Least 1 OSS:            2%      2009/10      School Improvement I                  Neighborhood (Ren):              0
-Adv/Prof Math (E-M):       71        VI Per 100:                0.53    2008/09      Making Progress SI I                  Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 64           Persistently Dangerous:    No      2007/08      School Improvement I                  Charter:                        103
-Adv/Prof Math (HS):                                                     2006/07      School Improvement I                  CTE:                             0
-                                                                        2005/06      Warning
-Adv/Prof Reading (HS):                                                                                                     Special Admission:               4
-                                                                        2004/05      Made AYP
-On-Track/Time Grad:                                                                                                        Citywide Admission:              0
-                                                                        2003/04      Made AYP
-Graduation Rate:                                                                                                           Military Academy:                0
-Grad College (yr 1):                                                                                                       Other:                           9
-                                                                                                                                                           999
-
-
-
-
-                                                                                                                                                     12/13/2012
-
+Farrell (8380)
+8300 Castor Ave, Philadelphia, PA  19152
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 122 125 128 114 102 93 109 90 102 0 0 0 0 0 985
+2011/12 K‐8 0 124 133 108 102 96 107 82 101 105 0 0 0 0 0 958
+2010/11 K‐8 0 116 107 101 95 114 69 97 109 117 0 0 0 0 0 925
+2009/10 K‐8 0 96 102 86 104 69 89 107 116 119 0 0 0 0 0 888
+2008/09 K‐8 0 86 85 99 67 93 100 101 111 107 0 0 0 0 0 849
+2007/08 K‐8 0 67 96 77 103 99 97 98 99 108 0 0 0 0 0 844
+2006/07 K‐8 0 66 88 98 96 95 99 100 109 125 0 0 0 0 0 876
+Geographic Information
+Councilmanic District 7 (Maria D. Quiñones-Sánchez)
+Congressional Congressional District 13 (Allyson Y. Schwartz)
+Legislative PA Rep 174 (John P. Sabatina Jr.)
+Senatorial Senate Rep 5 (Michael J. Stack)
+FMS Region Leone
+Planning Area Northeast
+Police District 7th District
+General Information
+Status: Open
+Start Date: 7/1/1959
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Nicholas Cirulli
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Asian 130 13%
+Black / African American 167 17%
+Hispanic / Latino 149 15%
+Multi Racial / Other 130 13%
+Native Hawaiian / Other Pacifi 1 0%
+White 407 41%
+Transportation
+Bus-Special Ed 67
+Trans Pass-Trans Pass Eligible 16
+83
+Special Education
+AS- 22
+LSS- 32
+54
+In / Out Boundary
+IN Boundary 864 89%
+OUT of Boundary 104 11%
+AYP
+2011/12 School Improvement II
+2010/11 Making Progress SI I
+2009/10 School Improvement I
+2008/09 Making Progress SI I
+2007/08 School Improvement I
+2006/07 School Improvement I
+2005/06 Warning
+2004/05 Made AYP
+2003/04 Made AYP
+Academic Measures
+Reading K-3 or Better: 58%
+Adv/Prof Math (E-M): 71
+Adv/Prof Reading (E-M): 64
+AGI Math: 2.9
+AGI Reading: 2.4
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 95%
+10+ Absences: 32%
+At Least 1 OSS: 2%
+VI Per 100: 0.53
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 861
+Neighborhood (SDP) Out: 22
+Neighborhood (Ren): 0
+Neighborhood (Charter): 0
+Charter: 103
+CTE: 0
+Special Admission: 4
+Citywide Admission: 0
+Military Academy: 0
+Other: 9
+999
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $12,200,885
+Replacement Cost: $22,038,824
+Facilities Condition Index: 0.5252
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 66,382
+S.F. (Site): 163,377 3.8 acs
+S.F. (Footprint): 32,238
+Capacity: 755
+Year Built: 1959
+Inventory
+12/13/2012

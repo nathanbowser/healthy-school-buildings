@@ -1,0 +1,61 @@
+School Profile
+Northeast
+   Northeast (8020)
+   1601 Cottman Ave, Philadelphia, PA  19111
+General Information                                                                Inventory
+Status:                Open                                                        S.F. (Building):                310,296      Capacity:                  2,167
+Start Date:            7/1/1957                                                    S.F. (Footprint):               204,188      Year Built:                  1957
+Level:                 High School                                                 S.F. (Site):        540,560     12.4 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Linda Carroll
+
+Geographic Information                                                             Facilities Condition Index (FCI)**
+Councilmanic              District 10 (Brian J. O'Neill)                            Condition Assessment Cost:                $82,332,242
+Congressional             Congressional District 13 (Allyson Y. Schwartz)           Replacement Cost:                     $110,155,080
+Legislative               PA Rep 170 (Brendan F. Boyle)                             Facilities Condition Index:                  0.6796
+Senatorial                Senate Rep 5 (Michael J. Stack)
+FMS Region                Coleman                                                   ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northeast
+Police District           2nd District
+
+Enrollment History
+    Year      Grades PreK               K      01   02        03     04     05     06    07       08 09           10   11       12 UG              Total
+  2012/13      9‐12   0                 0       0    0        0      0      0       0     0       0 861          765   703      650 0                      2,979
+  2011/12      9‐12   0                 0       0    0        0      0      0       0     0       0 888          781   767      647 0                      3,083
+  2010/11      9‐12   0                 0       0    0        0      0      0       0     0       0 947          855   713      724 0                      3,239
+  2009/10      9‐12   0                 0       0    0        0      0      0       0     0       0 919          804   698      696 0                      3,117
+  2008/09      9‐12   0                 0       0    0        0      0      0       0     0       0 834          837   693      700 0                      3,064
+  2007/08      9‐12   0                 0       0    0        0      0      0       0     0       0 999          856   710      642 0                      3,207
+  2006/07      9‐12   0                 0       0    0        0      0      0       0     0       0 ####         887   711      802 0                      3,478
+Current Enrollment Details
+In / Out Boundary                       Special Education          Racial Breakdown                                    Transportation
+IN Boundary            2,254 76%        ES-               7        American Indian / Alaska Nativ        4   0%        Bus-Special Ed                         48
+OUT of Boundary          704 24%        LSS-             20        Asian                               672   23%       Trans Pass-Emergency                    1
+                                                         27        Black / African American            978   33%       Trans Pass-Special Ed                  11
+                                                                   Hispanic / Latino                   580   19%       Trans Pass-Trans Pass Eligible      1,365
+                                                                   Multi Racial / Other                123   4%                                            1,425
+                                                                   White                               622   21%
+
+Academic Measures                      Climate Measures                      AYP                                             Students Live In Boundary
+Reading K-3 or Better:                 Avg Daily Attendance:        88%     2011/12      Corrective Action II5               Neighborhood (SDP) In:        2214
+AGI Math:                  -4.1        10+ Absences:                57%     2010/11      Corrective Action II4               Neighborhood (SDP) Out:         241
+AGI Reading:               1.6         At Least 1 OSS:              21%     2009/10      Corrective Action II3               Neighborhood (Ren):             11
+Adv/Prof Math (E-M):                   VI Per 100:                  1.92    2008/09      Corrective Action II3               Neighborhood (Charter):          0
+Adv/Prof Reading (E-M):                Persistently Dangerous:       No     2007/08      Corrective Action II3               Charter:                        403
+Adv/Prof Math (HS):        46                                               2006/07      Corrective Action II2               CTE:                            137
+                                                                            2005/06      Corrective Action II
+Adv/Prof Reading (HS):     53                                                                                                Special Admission:              602
+                                                                            2004/05      Corrective Action I
+On-Track/Time Grad:       73%                                                                                                Citywide Admission:              12
+                                                                            2003/04      School Improvement II
+Graduation Rate:          72%                                                                                                Military Academy:               11
+Grad College (yr 1):      54%                                                                                                Other:                        121
+                                                                                                                                                           3752
+
+
+
+
+                                                                                                                                                       12/13/2012
+

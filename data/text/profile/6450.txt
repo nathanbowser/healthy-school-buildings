@@ -1,62 +1,104 @@
-School Profile
+School Profile
 Northwest
-   Dobson (6450)
-   4667 Umbria St, Philadelphia, PA  19127
-General Information                                                             Inventory
-Status:                Open                                                     S.F. (Building):                  52,500      Capacity:                     417
-Start Date:            7/1/1930                                                 S.F. (Footprint):                 16,963      Year Built:                  1930
-Level:                 Elementary School                                        S.F. (Site):        41,662        1.0 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Patricia Cruice
-
-Geographic Information                                                          Facilities Condition Index (FCI)**
-Councilmanic              District 4 (Curtis Jones Jr.)                          Condition Assessment Cost:                 $10,670,147
-Congressional             Congressional District 2 (Chaka Fattah)                Replacement Cost:                          $17,430,000
-Legislative               PA Rep 194 (Pamela A. DeLissio)                        Facilities Condition Index:                   0.5081
-Senatorial                Senate Rep 7 (Vincent J. Hughes)
-FMS Region                Holman                                                 ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Northwest
-Police District           5th District
-
-Enrollment History
-    Year      Grades PreK             K        01   02     03     04     05     06    07       08    09      10      11       12      UG         Total
-  2012/13       K‐8   0               36       20   24     27     33     27     35    40       38    0       0        0        0       0                    280
-  2011/12       K‐8   0               22       19   23     29     30     33     37    35       28    0       0        0        0       0                    256
-  2010/11       K‐8   0               21       21   33     27     31     35     32    26       28    0       0        0        0       0                    254
-  2009/10       K‐8   0               27       32   30     29     38     33     28    30       29    0       0        0        0       0                    276
-  2008/09       K‐8   0               21       26   29     33     34     24     32    27       35    0       0        0        0       0                    261
-  2007/08       K‐8   0               24       22   23     29     25     22     29    35       39    0       0        0        0       0                    248
-  2006/07       K‐8   0               14       28   24     25     29     30     35    41       35    0       0        0        0       0                    261
-Current Enrollment Details
-In / Out Boundary                        Special Education      Racial Breakdown                                    Transportation
-IN Boundary            144 52%           AS-          20        Asian                                 3 1%          Bus Rider                                46
-OUT of Boundary        135 48%           ES-           7        Black / African American            106 38%         Bus-Desegregation                        20
-                                                      27        Hispanic / Latino                    11 4%          Bus-Special Ed                           30
-                                                                Multi Racial / Other                 25 9%          Bus-Trans Pass Eligible                   1
-                                                                White                               135 48%         Cab-Emergency                             3
-                                                                                                                    Cab-Special Ed                            2
-                                                                                                                    Trans Pass-Trans Pass Eligible            4
-                                                                                                                                                            106
-
-Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
-Reading K-3 or Better:    62%       Avg Daily Attendance:        96%     2011/12      Made AYP                             Neighborhood (SDP) In:          143
-AGI Math:                  1.2      10+ Absences:                26%     2010/11      Made AYP                             Neighborhood (SDP) Out:         96
-AGI Reading:               -0.2     At Least 1 OSS:              3%      2009/10      Made AYP                             Neighborhood (Ren):              1
-Adv/Prof Math (E-M):    72          VI Per 100:                  2.32    2008/09      Made AYP                             Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 72          Persistently Dangerous:      No      2007/08      Made AYP                             Charter:                        45
-Adv/Prof Math (HS):                                                      2006/07      Made AYP                             CTE:                             0
-                                                                         2005/06      Made AYP
-Adv/Prof Reading (HS):                                                                                                     Special Admission:              14
-                                                                         2004/05      Made AYP
-On-Track/Time Grad:                                                                                                        Citywide Admission:              0
-                                                                         2003/04      Made AYP
-Graduation Rate:                                                                                                           Military Academy:                0
-Grad College (yr 1):                                                                                                       Other:                           2
-                                                                                                                                                           301
-
-
-
-                                                                                                                                                     12/13/2012
-
+Dobson (6450)
+4667 Umbria St, Philadelphia, PA  19127
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 36 20 24 27 33 27 35 40 38 0 0 0 0 0 280
+2011/12 K‐8 0 22 19 23 29 30 33 37 35 28 0 0 0 0 0 256
+2010/11 K‐8 0 21 21 33 27 31 35 32 26 28 0 0 0 0 0 254
+2009/10 K‐8 0 27 32 30 29 38 33 28 30 29 0 0 0 0 0 276
+2008/09 K‐8 0 21 26 29 33 34 24 32 27 35 0 0 0 0 0 261
+2007/08 K‐8 0 24 22 23 29 25 22 29 35 39 0 0 0 0 0 248
+2006/07 K‐8 0 14 28 24 25 29 30 35 41 35 0 0 0 0 0 261
+Geographic Information
+Councilmanic District 4 (Curtis Jones Jr.)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 194 (Pamela A. DeLissio)
+Senatorial Senate Rep 7 (Vincent J. Hughes)
+FMS Region Holman
+Planning Area Northwest
+Police District 5th District
+General Information
+Status: Open
+Start Date: 7/1/1930
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Patricia Cruice
+Current Enrollment Details
+Racial Breakdown
+Asian 3 1%
+Black / African American 106 38%
+Hispanic / Latino 11 4%
+Multi Racial / Other 25 9%
+White 135 48%
+Transportation
+Bus Rider 46
+Bus-Desegregation 20
+Bus-Special Ed 30
+Bus-Trans Pass Eligible 1
+Cab-Emergency 3
+Cab-Special Ed 2
+Trans Pass-Trans Pass Eligible 4
+106
+Special Education
+AS- 20
+ES- 7
+27
+In / Out Boundary
+IN Boundary 144 52%
+OUT of Boundary 135 48%
+AYP
+2011/12 Made AYP
+2010/11 Made AYP
+2009/10 Made AYP
+2008/09 Made AYP
+2007/08 Made AYP
+2006/07 Made AYP
+2005/06 Made AYP
+2004/05 Made AYP
+2003/04 Made AYP
+Academic Measures
+Reading K-3 or Better: 62%
+Adv/Prof Math (E-M): 72
+Adv/Prof Reading (E-M): 72
+AGI Math: 1.2
+AGI Reading: -0.2
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 96%
+10+ Absences: 26%
+At Least 1 OSS: 3%
+VI Per 100: 2.32
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 143
+Neighborhood (SDP) Out: 96
+Neighborhood (Ren): 1
+Neighborhood (Charter): 0
+Charter: 45
+CTE: 0
+Special Admission: 14
+Citywide Admission: 0
+Military Academy: 0
+Other: 2
+301
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $10,670,147
+Replacement Cost: $17,430,000
+Facilities Condition Index: 0.5081
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 52,500
+S.F. (Site): 41,662 1.0 acs
+S.F. (Footprint): 16,963
+Capacity: 417
+Year Built: 1930
+Inventory
+12/13/2012

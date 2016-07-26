@@ -1,60 +1,95 @@
-School Profile
+School Profile
 North‐Central
-   Welsh (5420)
-   2331 N 04th St, Philadelphia, PA  19133
-General Information                                                           Inventory
-Status:                Open                                                   S.F. (Building):                  71,000      Capacity:                     755
-Start Date:            7/1/1966                                               S.F. (Footprint):                 25,191      Year Built:                  1966
-Level:                 Elementary School                                      S.F. (Site):        38,348        0.9 acs     No. of Floors:           4
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Milagros DeJesus
-
-Geographic Information                                                        Facilities Condition Index (FCI)**
-Councilmanic              District 7 (Maria D. Quiñones-Sánchez)               Condition Assessment Cost:                  $6,973,987
-Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                          $23,572,000
-Legislative               PA Rep 180 (Angel Cruz)                              Facilities Condition Index:                   0.1714
-Senatorial                Senate Rep 2 (Christine M. Tartaglione)
-FMS Region                Neven                                                ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           26th District
-
-Enrollment History
-    Year      Grades PreK             K    01     02     03     04     05     06    07       08    09      10      11       12      UG         Total
-  2012/13       K‐8   0               77   65     62     65     74     56     64    46       64    0       0        0        0       0                    573
-  2011/12       K‐8   0               64   71     74     73     68     77     57    65       65    0       0        0        0       0                    614
-  2010/11       K‐8   0               73   72     72     79     72     56     63    66       53    0       0        0        0       0                    606
-  2009/10       K‐8   0               82   69     74     74     57     67     65    57       67    0       0        0        0       0                    612
-  2008/09       K‐8   0               81   84     73     59     70     66     58    65       52    0       0        0        0       0                    608
-  2007/08       K‐8   0               90   84     75     61     69     67     67    57       57    0       0        0        0       0                    627
-  2006/07       K‐8   0               89   79     69     76     77     65     54    64       71    0       0        0        0       0                    644
-Current Enrollment Details
-In / Out Boundary                                             Racial Breakdown                                    Transportation
-IN Boundary            451 79%                                Asian                                 2 0%          Bus Rider                                 1
-OUT of Boundary        121 21%                                Black / African American            143 25%         Trans Pass-Trans Pass Eligible           13
-                                                              Hispanic / Latino                   406 71%                                                  14
-                                                              Multi Racial / Other                 21 4%
-                                                              White                                 1 0%
-
-Academic Measures                   Climate Measures                    AYP                                              Students Live In Boundary
-Reading K-3 or Better:    52%       Avg Daily Attendance:      94%     2011/12      School Improvement I                 Neighborhood (SDP) In:          444
-AGI Math:                 -18.9     10+ Absences:              45%     2010/11      Warning                              Neighborhood (SDP) Out:         54
-AGI Reading:              -12.5     At Least 1 OSS:            14%     2009/10      Made AYP                             Neighborhood (Ren):             10
-Adv/Prof Math (E-M):       55       VI Per 100:                2.30    2008/09      Warning                              Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 44          Persistently Dangerous:    No      2007/08      Made AYP                             Charter:                        45
-Adv/Prof Math (HS):                                                    2006/07      Made AYP                             CTE:                             0
-                                                                       2005/06      Made AYP
-Adv/Prof Reading (HS):                                                                                                   Special Admission:               7
-                                                                       2004/05      Made AYP
-On-Track/Time Grad:                                                                                                      Citywide Admission:              0
-                                                                       2003/04      Made AYP
-Graduation Rate:                                                                                                         Military Academy:                0
-Grad College (yr 1):                                                                                                     Other:                           6
-                                                                                                                                                         566
-
-
-
-
-                                                                                                                                                   12/13/2012
-
+Welsh (5420)
+2331 N 04th St, Philadelphia, PA  19133
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 77 65 62 65 74 56 64 46 64 0 0 0 0 0 573
+2011/12 K‐8 0 64 71 74 73 68 77 57 65 65 0 0 0 0 0 614
+2010/11 K‐8 0 73 72 72 79 72 56 63 66 53 0 0 0 0 0 606
+2009/10 K‐8 0 82 69 74 74 57 67 65 57 67 0 0 0 0 0 612
+2008/09 K‐8 0 81 84 73 59 70 66 58 65 52 0 0 0 0 0 608
+2007/08 K‐8 0 90 84 75 61 69 67 67 57 57 0 0 0 0 0 627
+2006/07 K‐8 0 89 79 69 76 77 65 54 64 71 0 0 0 0 0 644
+Geographic Information
+Councilmanic District 7 (Maria D. Quiñones-Sánchez)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 180 (Angel Cruz)
+Senatorial Senate Rep 2 (Christine M. Tartaglione)
+FMS Region Neven
+Planning Area North-Central
+Police District 26th District
+General Information
+Status: Open
+Start Date: 7/1/1966
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Milagros DeJesus
+Current Enrollment Details
+Racial Breakdown
+Asian 2 0%
+Black / African American 143 25%
+Hispanic / Latino 406 71%
+Multi Racial / Other 21 4%
+White 1 0%
+Transportation
+Bus Rider 1
+Trans Pass-Trans Pass Eligible 13
+14
+In / Out Boundary
+IN Boundary 451 79%
+OUT of Boundary 121 21%
+AYP
+2011/12 School Improvement I
+2010/11 Warning
+2009/10 Made AYP
+2008/09 Warning
+2007/08 Made AYP
+2006/07 Made AYP
+2005/06 Made AYP
+2004/05 Made AYP
+2003/04 Made AYP
+Academic Measures
+Reading K-3 or Better: 52%
+Adv/Prof Math (E-M): 55
+Adv/Prof Reading (E-M): 44
+AGI Math: -18.9
+AGI Reading: -12.5
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 94%
+10+ Absences: 45%
+At Least 1 OSS: 14%
+VI Per 100: 2.30
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 444
+Neighborhood (SDP) Out: 54
+Neighborhood (Ren): 10
+Neighborhood (Charter): 0
+Charter: 45
+CTE: 0
+Special Admission: 7
+Citywide Admission: 0
+Military Academy: 0
+Other: 6
+566
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $6,973,987
+Replacement Cost: $23,572,000
+Facilities Condition Index: 0.1714
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 4
+S.F. (Building): 71,000
+S.F. (Site): 38,348 0.9 acs
+S.F. (Footprint): 25,191
+Capacity: 755
+Year Built: 1966
+Inventory
+12/13/2012

@@ -1,61 +1,101 @@
-School Profile
+School Profile
 North‐Central
-   Ludlow (5340)
-   550 Master St, Philadelphia, PA  19122
-General Information                                                                Inventory
-Status:                Open                                                        S.F. (Building):                  70,230      Capacity:                     596
-Start Date:            7/1/1927                                                    S.F. (Footprint):                 16,355      Year Built:                  1927
-Level:                 Elementary School                                           S.F. (Site):        37,422        0.9 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Brian Shaffer
-
-Geographic Information                                                             Facilities Condition Index (FCI)**
-Councilmanic              District 5 (Darrell Clarke)                               Condition Assessment Cost:                             $0
-Congressional             Congressional District 1 (Robert A. Brady)                Replacement Cost:                          $23,316,360
-Legislative               PA Rep 181 (W. Curtis Thomas)                             Facilities Condition Index:                        0
-Senatorial                Senate Rep 3 (Shirley M. Kitchen)
-FMS Region                Neven                                                     ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           26th District
-
-Enrollment History
-    Year      Grades PreK              K      01    02        03     04     05     06    07       08    09      10      11       12        UG       Total
-  2012/13       K‐8   0                48     47    30        47     41     38     32    25       18    0       0        0        0         0                  326
-  2011/12       K‐8   0                37     36    47        41     37     33     23    16       19    0       0        0        0         0                  289
-  2010/11       K‐8   0                32     52    44        37     38     31     21    24       23    0       0        0        0         0                  302
-  2009/10       K‐8   0                41     45    41        31     32     29     23    23       31    0       0        0        0         0                  296
-  2008/09       K‐8   0                37     46    33        32     37     21     31    29       19    0       0        0        0         0                  285
-  2007/08       K‐8   0                41     30    39        28     31     24     31    16       34    0       0        0        0         0                  274
-  2006/07       K‐8   0                30     40    26        34     31     39     27    31       39    0       0        0        0         0                  297
-Current Enrollment Details
-In / Out Boundary                       Special Education          Racial Breakdown                                    Transportation
-IN Boundary            238 74%          AS-              22        American Indian / Alaska Nativ        2 1%          Bus-Special Ed                           27
-OUT of Boundary         85 26%          ES-              11        Asian                                 7 2%          Trans Pass                                1
-                                                         33        Black / African American            226 69%         Trans Pass-Trans Pass Eligible            4
-                                                                   Hispanic / Latino                    72 22%                                                  32
-                                                                   Multi Racial / Other                 16 5%
-                                                                   White                                 3 1%
-
-Academic Measures                      Climate Measures                      AYP                                              Students Live In Boundary
-Reading K-3 or Better:    35%          Avg Daily Attendance:        93%     2011/12      Warning                              Neighborhood (SDP) In:          237
-AGI Math:                 -4.5         10+ Absences:                46%     2010/11      Made AYP                             Neighborhood (SDP) Out:         105
-AGI Reading:              -2.1         At Least 1 OSS:              19%     2009/10      Making Progress CA II4               Neighborhood (Ren):             13
-Adv/Prof Math (E-M):    53             VI Per 100:                  3.37    2008/09      Corrective Action II4                Neighborhood (Charter):          1
-Adv/Prof Reading (E-M): 37             Persistently Dangerous:       No     2007/08      Making Progress CA II3               Charter:                        126
-Adv/Prof Math (HS):                                                         2006/07      Corrective Action II3                CTE:                             0
-                                                                            2005/06      Making Progress
-Adv/Prof Reading (HS):                                                                                                        Special Admission:               7
-                                                                            2004/05      Corrective Action II2
-On-Track/Time Grad:                                                                                                           Citywide Admission:              0
-                                                                            2003/04      Making Progress
-Graduation Rate:                                                                                                              Military Academy:                0
-Grad College (yr 1):                                                                                                          Other:                           1
-                                                                                                                                                              490
-
-
-
-
-                                                                                                                                                        12/13/2012
-
+Ludlow (5340)
+550 Master St, Philadelphia, PA  19122
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 48 47 30 47 41 38 32 25 18 0 0 0 0 0 326
+2011/12 K‐8 0 37 36 47 41 37 33 23 16 19 0 0 0 0 0 289
+2010/11 K‐8 0 32 52 44 37 38 31 21 24 23 0 0 0 0 0 302
+2009/10 K‐8 0 41 45 41 31 32 29 23 23 31 0 0 0 0 0 296
+2008/09 K‐8 0 37 46 33 32 37 21 31 29 19 0 0 0 0 0 285
+2007/08 K‐8 0 41 30 39 28 31 24 31 16 34 0 0 0 0 0 274
+2006/07 K‐8 0 30 40 26 34 31 39 27 31 39 0 0 0 0 0 297
+Geographic Information
+Councilmanic District 5 (Darrell Clarke)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 181 (W. Curtis Thomas)
+Senatorial Senate Rep 3 (Shirley M. Kitchen)
+FMS Region Neven
+Planning Area North-Central
+Police District 26th District
+General Information
+Status: Open
+Start Date: 7/1/1927
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Brian Shaffer
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 2 1%
+Asian 7 2%
+Black / African American 226 69%
+Hispanic / Latino 72 22%
+Multi Racial / Other 16 5%
+White 3 1%
+Transportation
+Bus-Special Ed 27
+Trans Pass 1
+Trans Pass-Trans Pass Eligible 4
+32
+Special Education
+AS- 22
+ES- 11
+33
+In / Out Boundary
+IN Boundary 238 74%
+OUT of Boundary 85 26%
+AYP
+2011/12 Warning
+2010/11 Made AYP
+2009/10 Making Progress CA II4
+2008/09 Corrective Action II4
+2007/08 Making Progress CA II3
+2006/07 Corrective Action II3
+2005/06 Making Progress
+2004/05 Corrective Action II2
+2003/04 Making Progress
+Academic Measures
+Reading K-3 or Better: 35%
+Adv/Prof Math (E-M): 53
+Adv/Prof Reading (E-M): 37
+AGI Math: -4.5
+AGI Reading: -2.1
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 93%
+10+ Absences: 46%
+At Least 1 OSS: 19%
+VI Per 100: 3.37
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 237
+Neighborhood (SDP) Out: 105
+Neighborhood (Ren): 13
+Neighborhood (Charter): 1
+Charter: 126
+CTE: 0
+Special Admission: 7
+Citywide Admission: 0
+Military Academy: 0
+Other: 1
+490
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $0
+Replacement Cost: $23,316,360
+Facilities Condition Index: 0
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 70,230
+S.F. (Site): 37,422 0.9 acs
+S.F. (Footprint): 16,355
+Capacity: 596
+Year Built: 1927
+Inventory
+12/13/2012

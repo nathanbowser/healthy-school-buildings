@@ -1,60 +1,79 @@
-School Profile
+School Profile
 South‐Central
-   Jenks, Abram (2520)
-   2501 S 13th St, Philadelphia, PA  19148
-General Information                                                       Inventory
-Status:           Open                                                    S.F. (Building):                  31,475      Capacity:                     318
-Start Date:       7/1/1897                                                S.F. (Footprint):                 13,435      Year Built:                  1897
-Level:            Elementary School                                       S.F. (Site):        31,194        0.7 acs     No. of Floors:           2
-Type:             Neighborhood
-Admit Type:       Neighborhood
-Managed:          District
-Principal:        Siouda Chestnut
-
-Geographic Information                                                    Facilities Condition Index (FCI)**
-Councilmanic          District 1 (Mark Squilla)                            Condition Assessment Cost:                  $5,364,269
-Congressional         Congressional District 1 (Robert A. Brady)           Replacement Cost:                          $10,449,700
-Legislative           PA Rep 184 (William F. Keller)                       Facilities Condition Index:                   0.496
-Senatorial            Senate Rep 1 (Lawrence M. Farnese, Jr.)
-FMS Region            DiOrio                                               ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area         South-Central
-Police District       3rd District
-
-Enrollment History
-    Year      Grades PreK        K     01     02     03     04     05     06    07       08    09      10      11       12      UG         Total
-  2012/13       K‐4   0          83    71     53     58     60     0       0     0       0     0       0        0        0       0                    325
-  2011/12       K‐4   0          79    67     75     66     73     0       0     0       0     0       0        0        0       0                    360
-  2010/11       K‐4   0          61    90     67     76     63     0       0     0       0     0       0        0        0       0                    357
-  2009/10       K‐4   0          82    68     81     65     53     0       0     0       0     0       0        0        0       0                    349
-  2008/09       K‐4   0          74    88     69     53     71     0       0     0       0     0       0        0        0       0                    355
-  2007/08       K‐4   0          84    80     54     67     80     0       0     0       0     0       0        0        0       0                    365
-  2006/07       K‐4   0          89    63     65     76     72     0       0     0       0     0       0        0        0       0                    365
-Current Enrollment Details
-In / Out Boundary                                         Racial Breakdown                                    Transportation
-IN Boundary         159 50%                               Asian                                62 19%         Bus Rider                                 5
-OUT of Boundary     162 50%                               Black / African American             42 13%         Bus-Desegregation                        12
-                                                          Hispanic / Latino                    16 5%          Bus-Special Ed                            1
-                                                          Multi Racial / Other                 29 9%                                                   18
-                                                          White                               176 54%
-
-                                                                    AYP                                              Students Live In Boundary
-                                                                   2011/12      Made AYP                             Neighborhood (SDP) In:          158
-                                                                   2010/11      Made AYP                             Neighborhood (SDP) Out:          7
-                                                                   2009/10      Made AYP                             Neighborhood (Ren):              0
-                                                                   2008/09      Made AYP                             Neighborhood (Charter):          0
-                                                                   2007/08      Made AYP                             Charter:                        56
-                                                                   2006/07      Made AYP                             CTE:                             0
-                                                                   2005/06      Made AYP
-                                                                                                                     Special Admission:               0
-                                                                   2004/05      Made AYP
-                                                                                                                     Citywide Admission:              0
-                                                                   2003/04      Made AYP
-                                                                                                                     Military Academy:                0
-                                                                                                                     Other:                           0
-                                                                                                                                                     221
-
-
-
-
-                                                                                                                                               12/13/2012
-
+Jenks, Abram (2520)
+2501 S 13th St, Philadelphia, PA  19148
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐4 0 83 71 53 58 60 0 0 0 0 0 0 0 0 0 325
+2011/12 K‐4 0 79 67 75 66 73 0 0 0 0 0 0 0 0 0 360
+2010/11 K‐4 0 61 90 67 76 63 0 0 0 0 0 0 0 0 0 357
+2009/10 K‐4 0 82 68 81 65 53 0 0 0 0 0 0 0 0 0 349
+2008/09 K‐4 0 74 88 69 53 71 0 0 0 0 0 0 0 0 0 355
+2007/08 K‐4 0 84 80 54 67 80 0 0 0 0 0 0 0 0 0 365
+2006/07 K‐4 0 89 63 65 76 72 0 0 0 0 0 0 0 0 0 365
+Geographic Information
+Councilmanic District 1 (Mark Squilla)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 184 (William F. Keller)
+Senatorial Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region DiOrio
+Planning Area South-Central
+Police District 3rd District
+General Information
+Status: Open
+Start Date: 7/1/1897
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Siouda Chestnut
+Current Enrollment Details
+Racial Breakdown
+Asian 62 19%
+Black / African American 42 13%
+Hispanic / Latino 16 5%
+Multi Racial / Other 29 9%
+White 176 54%
+Transportation
+Bus Rider 5
+Bus-Desegregation 12
+Bus-Special Ed 1
+18
+In / Out Boundary
+IN Boundary 159 50%
+OUT of Boundary 162 50%
+AYP
+2011/12 Made AYP
+2010/11 Made AYP
+2009/10 Made AYP
+2008/09 Made AYP
+2007/08 Made AYP
+2006/07 Made AYP
+2005/06 Made AYP
+2004/05 Made AYP
+2003/04 Made AYP
+Students Live In Boundary
+Neighborhood (SDP) In: 158
+Neighborhood (SDP) Out: 7
+Neighborhood (Ren): 0
+Neighborhood (Charter): 0
+Charter: 56
+CTE: 0
+Special Admission: 0
+Citywide Admission: 0
+Military Academy: 0
+Other: 0
+221
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $5,364,269
+Replacement Cost: $10,449,700
+Facilities Condition Index: 0.496
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 2
+S.F. (Building): 31,475
+S.F. (Site): 31,194 0.7 acs
+S.F. (Footprint): 13,435
+Capacity: 318
+Year Built: 1897
+Inventory
+12/13/2012

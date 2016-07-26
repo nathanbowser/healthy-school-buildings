@@ -1,59 +1,88 @@
-School Profile
+School Profile
 Northwest
-   Amy NW (6480)
-   6611 Ardleigh St, Philadelphia, PA  19119
-General Information                                                                Inventory
-Status:                Open                                                        S.F. (Building):                  69,475      Capacity:                   576
-Start Date:            7/1/2012                                                    S.F. (Footprint):                 17,073      Year Built:                1929
-Level:                 Middle School                                               S.F. (Site):        74,570        1.7 acs     No. of Floors:         2
-Type:                  Special Admission
-Admit Type:            Special Admission
-Managed:               District
-Principal:             Marco Zanoni
-
-Geographic Information                                                             Facilities Condition Index (FCI)**
-Councilmanic              District 8 (Cindy Bass)                                   Condition Assessment Cost:                  $4,539,267
-Congressional             Congressional District 2 (Chaka Fattah)                   Replacement Cost:                          $23,065,700
-Legislative               PA Rep 200 (Cherelle L. Parker)                           Facilities Condition Index:                   0.1903
-Senatorial                Senate Rep 4 (LeAnna Washington)
-FMS Region                Parker                                                    ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Northwest
-Police District           14th District
-
-Enrollment History
-    Year      Grades PreK                K     01     02      03     04     05     06   07 08           09      10      11       12    UG         Total
-  2012/13       6‐8   0                  0      0      0      0      0      0      89   104 77          0       0        0        0     0                    270
-  2011/12       6‐8   0                  0      0      0      0      0      0      54   78 79           0       0        0        0     0                    211
-  2010/11       6‐8   0                  0      0      0      0      0      0      45   84 115          0       0        0        0     0                    244
-  2009/10       6‐8   0                  0      0      0      0      0      0      50   115 69          0       0        0        0     0                    234
-  2008/09       6‐8   0                  0      0      0      0      0      0      69   71 99           0       0        0        0     0                    239
-  2007/08       6‐8   0                  0      0      0      0      0      0      39   94 85           0       0        0        0     0                    218
-  2006/07       6‐8   0                  0      0      0      0      0      0      66   86 72           0       0        0        0     0                    224
-Current Enrollment Details
-In / Out Boundary                        Special Education         Racial Breakdown                                    Transportation
-IN Boundary               0        0%    ES-              9        Asian                                 4 1%          Bus-Special Ed                         11
-OUT of Boundary           0        0%                     9        Black / African American            243 90%         Trans Pass-Mileage                     54
-                                                                   Hispanic / Latino                     3 1%          Trans Pass-Special Ed                   1
-                                                                   Multi Racial / Other                  4 1%          Trans Pass-Trans Pass Eligible        168
-                                                                   White                                16 6%                                                234
-
-Academic Measures                       Climate Measures                     AYP
-Reading K-3 or Better:                  Avg Daily Attendance:       97%     2011/12      Made AYP
-AGI Math:                 -3.8          10+ Absences:               17%     2010/11      Made AYP
-AGI Reading:                  -2        At Least 1 OSS:             4%      2009/10      Made AYP
-Adv/Prof Math (E-M):       83           VI Per 100:                 3.35    2008/09      Made AYP
-Adv/Prof Reading (E-M): 83              Persistently Dangerous:     No      2007/08      Made AYP
-Adv/Prof Math (HS):                                                         2006/07      Made AYP
-                                                                            2005/06      Made AYP
-Adv/Prof Reading (HS):
-                                                                            2004/05      Made AYP
+Amy NW (6480)
+6611 Ardleigh St, Philadelphia, PA  19119
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 6‐8 0 0 0 0 0 0 0 89 104 77 0 0 0 0 0 270
+2011/12 6‐8 0 0 0 0 0 0 0 54 78 79 0 0 0 0 0 211
+2010/11 6‐8 0 0 0 0 0 0 0 45 84 115 0 0 0 0 0 244
+2009/10 6‐8 0 0 0 0 0 0 0 50 115 69 0 0 0 0 0 234
+2008/09 6‐8 0 0 0 0 0 0 0 69 71 99 0 0 0 0 0 239
+2007/08 6‐8 0 0 0 0 0 0 0 39 94 85 0 0 0 0 0 218
+2006/07 6‐8 0 0 0 0 0 0 0 66 86 72 0 0 0 0 0 224
+Geographic Information
+Councilmanic District 8 (Cindy Bass)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 200 (Cherelle L. Parker)
+Senatorial Senate Rep 4 (LeAnna Washington)
+FMS Region Parker
+Planning Area Northwest
+Police District 14th District
+General Information
+Status: Open
+Start Date: 7/1/2012
+Level: Middle School
+Type: Special Admission
+Admit Type: Special Admission
+Managed: District
+Principal: Marco Zanoni
+Current Enrollment Details
+Racial Breakdown
+Asian 4 1%
+Black / African American 243 90%
+Hispanic / Latino 3 1%
+Multi Racial / Other 4 1%
+White 16 6%
+Transportation
+Bus-Special Ed 11
+Trans Pass-Mileage 54
+Trans Pass-Special Ed 1
+Trans Pass-Trans Pass Eligible 168
+234
+Special Education
+ES- 9
+9
+In / Out Boundary
+IN Boundary 0 0%
+OUT of Boundary 0 0%
+AYP
+2011/12 Made AYP
+2010/11 Made AYP
+2009/10 Made AYP
+2008/09 Made AYP
+2007/08 Made AYP
+2006/07 Made AYP
+2005/06 Made AYP
+2004/05 Made AYP
+2003/04 Made AYP
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M): 83
+Adv/Prof Reading (E-M): 83
+AGI Math: -3.8
+AGI Reading: -2
 On-Track/Time Grad:
-                                                                            2003/04      Made AYP
 Graduation Rate:
 Grad College (yr 1):
-
-
-
-
-                                                                                                                                                   12/13/2012
-
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 97%
+10+ Absences: 17%
+At Least 1 OSS: 4%
+VI Per 100: 3.35
+Persistently Dangerous: No
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $4,539,267
+Replacement Cost: $23,065,700
+Facilities Condition Index: 0.1903
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 2
+S.F. (Building): 69,475
+S.F. (Site): 74,570 1.7 acs
+S.F. (Footprint): 17,073
+Capacity: 576
+Year Built: 1929
+Inventory
+12/13/2012

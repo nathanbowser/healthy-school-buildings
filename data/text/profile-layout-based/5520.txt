@@ -1,0 +1,57 @@
+School Profile
+North‐Central
+   Kensington HS CAPA (5520)
+   1901 N Front St, Philadelphia, PA  19122
+General Information                                                              Inventory
+Status:                Open                                                      S.F. (Building):                88,405      Capacity:                  542
+Start Date:            7/1/2005                                                  S.F. (Footprint):               64,565      Year Built:               2010
+Level:                 High School                                               S.F. (Site):        324,252     7.4 acs     No. of Floors:
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Debora Carrera (Borges)
+
+Geographic Information                                                           Facilities Condition Index (FCI)**
+Councilmanic              District 1 (Mark Squilla)                               Condition Assessment Cost:                        $0
+Congressional             Congressional District 1 (Robert A. Brady)              Replacement Cost:                        $31,383,775
+Legislative               PA Rep 175 (Michael H. O'Brien)                         Facilities Condition Index:              0
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)                                                 New Construction
+FMS Region                Coleman                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           26th District
+
+Enrollment History
+    Year      Grades PreK             K     01     02       03     04     05     06    07       08      09      10   11      12 UG             Total
+  2012/13      9‐12   0               0      0      0       0      0      0       0     0       0      114     109   85      119 0                      427
+  2011/12      9‐12   0               0      0      0       0      0      0       0     0       0      110     100   111     123 0                      444
+  2010/11      9‐12   0               0      0      0       0      0      0       0     0       0      108     154   127     140 0                      529
+  2009/10      9‐12   0               0      0      0       0      0      0       0     0       0      136     128   131     106 0                      501
+  2008/09      9‐12   0               0      0      0       0      0      0       0     0       0      143     144   100     83  0                      470
+  2007/08      9‐12   0               0      0      0       0      0      0       0     0       0      222     113   82      70  0                      487
+  2006/07      9‐12   0               0      0      0       0      0      0       0     0       0      144      87   57      66  0                      354
+Current Enrollment Details
+In / Out Boundary                     Special Education          Racial Breakdown                                    Transportation
+IN Boundary            318 75%        ES-              14        Asian                                 3 1%          Bus-Special Ed                      17
+OUT of Boundary        104 25%                         14        Black / African American            122 29%         Trans Pass                           6
+                                                                 Hispanic / Latino                   266 62%         Trans Pass-Special Ed                4
+                                                                 Multi Racial / Other                  1 0%          Trans Pass-Trans Pass Eligible     204
+                                                                 White                                35 8%                                             231
+
+Academic Measures                    Climate Measures                      AYP
+Reading K-3 or Better:               Avg Daily Attendance:        81%     2011/12      Corrective Action II2
+AGI Math:                 -2.3       10+ Absences:                76%     2010/11      Making Progress CA II
+AGI Reading:              -2.7       At Least 1 OSS:              12%     2009/10      Corrective Action II
+Adv/Prof Math (E-M):                 VI Per 100:                  7.24    2008/09      Corrective Action I
+Adv/Prof Reading (E-M):              Persistently Dangerous:      No      2007/08      School Improvement II
+Adv/Prof Math (HS):     22                                                2006/07      School Improvement I
+                                                                          2005/06      Warning
+Adv/Prof Reading (HS): 22
+On-Track/Time Grad:       80%
+Graduation Rate:          45%
+Grad College (yr 1):      18%
+
+
+
+
+                                                                                                                                                 12/13/2012
+

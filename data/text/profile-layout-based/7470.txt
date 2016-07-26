@@ -1,0 +1,60 @@
+School Profile
+North‐Central
+   Bridesburg (7470)
+   2824 Jenks St, Philadelphia, PA  19137
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):                   71,275      Capacity:                     338
+Start Date:            7/1/1958                                                S.F. (Footprint):                  26,763      Year Built:                  1958
+Level:                 Elementary School                                       S.F. (Site):        106,311        2.4 acs     No. of Floors:           2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             James Serpiello
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 6 (Bobby Henon)                              Condition Assessment Cost:                  $10,503,184
+Congressional             Congressional District 13 (Allyson Y. Schwartz)       Replacement Cost:                           $23,663,300
+Legislative               PA Rep 177 (John J. Taylor)                           Facilities Condition Index:                    0.3851
+Senatorial                Senate Rep 5 (Michael J. Stack)
+FMS Region                Leone                                                 ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           15th District
+
+Enrollment History
+    Year      Grades PreK             K     01    02      03     04     05     06    07       08     09      10      11       12      UG         Total
+  2012/13       K‐5   0               79    70    66      74     56     54      0     0       0      0       0        0        0       0                    399
+  2011/12       K‐5   0               66    74    78      74     60     67      0     0       0      0       0        0        0       0                    419
+  2010/11       K‐5   0               70    94    81      70     75     61      0     0       0      0       0        0        0       0                    451
+  2009/10       K‐5   0               64    84    77      81     71     54      0     0       0      0       0        0        0       0                    431
+  2008/09       K‐5   0               59    73    77      76     77     69      0     0       0      0       0        0        0       0                    431
+  2007/08       K‐5   0               61    75    81      79     80     64      0     0       0      0       0        0        0       0                    440
+  2006/07       K‐5   0               60    69    69      72     72     74      0     0       0      0       0        0        0       0                    416
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown                                     Transportation
+IN Boundary            396 99%        ES-             2        Asian                                 9 2%           Bus-Emergency                            72
+OUT of Boundary          2 1%                         2        Black / African American              7 2%           Bus-Mileage                             291
+                                                               Hispanic / Latino                    19 5%           Bus-Special Ed                            2
+                                                               Multi Racial / Other                 17 4%                                                   365
+                                                               White                               347 87%
+
+Academic Measures                   Climate Measures                     AYP                                               Students Live In Boundary
+Reading K-3 or Better:    61%       Avg Daily Attendance:       93%     2011/12      Made AYP                              Neighborhood (SDP) In:          396
+AGI Math:                 -10.4     10+ Absences:               49%     2010/11      Made AYP                              Neighborhood (SDP) Out:         30
+AGI Reading:              -8.7      At Least 1 OSS:             4%      2009/10      Made AYP                              Neighborhood (Ren):              0
+Adv/Prof Math (E-M):       69       VI Per 100:                 1.42    2008/09      Made AYP                              Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 59          Persistently Dangerous:     No      2007/08      Made AYP                              Charter:                        218
+Adv/Prof Math (HS):                                                     2006/07      Made AYP                              CTE:                             0
+                                                                        2005/06      Made AYP
+Adv/Prof Reading (HS):                                                                                                     Special Admission:               2
+                                                                        2004/05      Made AYP
+On-Track/Time Grad:                                                                                                        Citywide Admission:              0
+                                                                        2003/04      Made AYP
+Graduation Rate:                                                                                                           Military Academy:                0
+Grad College (yr 1):                                                                                                       Other:                           3
+                                                                                                                                                           649
+
+
+
+
+                                                                                                                                                     12/13/2012
+

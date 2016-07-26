@@ -1,61 +1,102 @@
-School Profile
+School Profile
 South‐Central
-   Furness HS (2160)
-   1900 S 03rd St, Philadelphia, PA  19148
-General Information                                                              Inventory
-Status:                Open                                                      S.F. (Building):               145,000      Capacity:                  1,240
-Start Date:            7/1/1912                                                  S.F. (Footprint):               47,653      Year Built:                  1912
-Level:                 High School                                               S.F. (Site):        99,997      2.3 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Daniel Peou
-
-Geographic Information                                                           Facilities Condition Index (FCI)**
-Councilmanic              District 1 (Mark Squilla)                               Condition Assessment Cost:               $27,710,340
-Congressional             Congressional District 1 (Robert A. Brady)              Replacement Cost:                        $51,475,000
-Legislative               PA Rep 184 (William F. Keller)                          Facilities Condition Index:                 0.5086
-Senatorial                Senate Rep 1 (Lawrence M. Farnese, Jr.)
-FMS Region                Wilson                                                  ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             South-Central
-Police District           3rd District
-
-Enrollment History
-    Year      Grades PreK             K     01    02        03     04     05     06    07       08     09      10   11       12 UG              Total
-  2012/13      9‐12   0               0      0     0        0      0      0       0     0       0     150     131   138      130 0                         549
-  2011/12      9‐12   0               0      0     0        0      0      0       0     0       0     156     173   161      107 0                         597
-  2010/11      9‐12   0               0      0     0        0      0      0       0     0       0     166     177   114      124 0                         581
-  2009/10      9‐12   0               0      0     0        0      0      0       0     0       0     184     142   118      172 0                         616
-  2008/09      9‐12   0               0      0     0        0      0      0       0     0       0     187     163   158      160 0                         668
-  2007/08      9‐12   0               0      0     0        0      0      0       0     0       0     237     220   142      152 0                         751
-  2006/07      9‐12   0               0      0     0        0      0      0       0     0       0     308     211   123      156 0                         798
-Current Enrollment Details
-In / Out Boundary                     Special Education          Racial Breakdown                                   Transportation
-IN Boundary            343 63%        AS-               7        American Indian / Alaska Nativ        1 0%         Bus-Special Ed                          13
-OUT of Boundary        204 37%        ES-               5        Asian                               271 49%        Trans Pass                               1
-                                                       12        Black / African American            161 29%        Trans Pass-Special Ed                    4
-                                                                 Hispanic / Latino                    66 12%        Trans Pass-Trans Pass Eligible         183
-                                                                 Multi Racial / Other                  9 2%                                                201
-                                                                 White                                41 7%
-
-Academic Measures                    Climate Measures                      AYP                                            Students Live In Boundary
-Reading K-3 or Better:               Avg Daily Attendance:        88%     2011/12      Corrective Action II6              Neighborhood (SDP) In:          338
-AGI Math:                 -4.2       10+ Absences:                52%     2010/11      Making Progress CA II5             Neighborhood (SDP) Out:         36
-AGI Reading:              -6.2       At Least 1 OSS:              5%      2009/10      Corrective Action II5              Neighborhood (Ren):              8
-Adv/Prof Math (E-M):                 VI Per 100:                  3.06    2008/09      Corrective Action II5              Neighborhood (Charter):          0
-Adv/Prof Reading (E-M):              Persistently Dangerous:       No     2007/08      Corrective Action II4              Charter:                        270
-Adv/Prof Math (HS):        39                                             2006/07      Making Progress                    CTE:                            94
-                                                                          2005/06      Corrective Action II3
-Adv/Prof Reading (HS):     28                                                                                             Special Admission:              468
-                                                                          2004/05      Corrective Action II2
-On-Track/Time Grad:       56%                                                                                             Citywide Admission:              31
-                                                                          2003/04      Corrective Action II2
-Graduation Rate:          49%                                                                                             Military Academy:                5
-Grad College (yr 1):      29%                                                                                             Other:                         62
-                                                                                                                                                        1312
-
-
-
-
-                                                                                                                                                    12/13/2012
-
+Furness HS (2160)
+1900 S 03rd St, Philadelphia, PA  19148
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 9‐12 0 0 0 0 0 0 0 0 0 0 150 131 138 130 0 549
+2011/12 9‐12 0 0 0 0 0 0 0 0 0 0 156 173 161 107 0 597
+2010/11 9‐12 0 0 0 0 0 0 0 0 0 0 166 177 114 124 0 581
+2009/10 9‐12 0 0 0 0 0 0 0 0 0 0 184 142 118 172 0 616
+2008/09 9‐12 0 0 0 0 0 0 0 0 0 0 187 163 158 160 0 668
+2007/08 9‐12 0 0 0 0 0 0 0 0 0 0 237 220 142 152 0 751
+2006/07 9‐12 0 0 0 0 0 0 0 0 0 0 308 211 123 156 0 798
+Geographic Information
+Councilmanic District 1 (Mark Squilla)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 184 (William F. Keller)
+Senatorial Senate Rep 1 (Lawrence M. Farnese, Jr.)
+FMS Region Wilson
+Planning Area South-Central
+Police District 3rd District
+General Information
+Status: Open
+Start Date: 7/1/1912
+Level: High School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Daniel Peou
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Asian 271 49%
+Black / African American 161 29%
+Hispanic / Latino 66 12%
+Multi Racial / Other 9 2%
+White 41 7%
+Transportation
+Bus-Special Ed 13
+Trans Pass 1
+Trans Pass-Special Ed 4
+Trans Pass-Trans Pass Eligible 183
+201
+Special Education
+AS- 7
+ES- 5
+12
+In / Out Boundary
+IN Boundary 343 63%
+OUT of Boundary 204 37%
+AYP
+2011/12 Corrective Action II6
+2010/11 Making Progress CA II5
+2009/10 Corrective Action II5
+2008/09 Corrective Action II5
+2007/08 Corrective Action II4
+2006/07 Making Progress
+2005/06 Corrective Action II3
+2004/05 Corrective Action II2
+2003/04 Corrective Action II2
+Academic Measures
+Reading K-3 or Better:
+Adv/Prof Math (E-M):
+Adv/Prof Reading (E-M):
+AGI Math: -4.2
+AGI Reading: -6.2
+On-Track/Time Grad: 56%
+Graduation Rate: 49%
+Grad College (yr 1): 29%
+Adv/Prof Math (HS): 39
+Adv/Prof Reading (HS): 28
+Climate Measures
+Avg Daily Attendance: 88%
+10+ Absences: 52%
+At Least 1 OSS: 5%
+VI Per 100: 3.06
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 338
+Neighborhood (SDP) Out: 36
+Neighborhood (Ren): 8
+Neighborhood (Charter): 0
+Charter: 270
+CTE: 94
+Special Admission: 468
+Citywide Admission: 31
+Military Academy: 5
+Other: 62
+1312
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $27,710,340
+Replacement Cost: $51,475,000
+Facilities Condition Index: 0.5086
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 145,000
+S.F. (Site): 99,997 2.3 acs
+S.F. (Footprint): 47,653
+Capacity: 1,240
+Year Built: 1912
+Inventory
+12/13/2012

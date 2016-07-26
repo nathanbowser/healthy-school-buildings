@@ -1,60 +1,101 @@
-School Profile
+School Profile
 Northwest
-   Marshall, T (5500)
-   5120 N 06th St, Philadelphia, PA  19120
-General Information                                                             Inventory
-Status:                Open                                                     S.F. (Building):               114,000         Capacity:                    835
-Start Date:            7/1/1997                                                 S.F. (Footprint):                  40,609      Year Built:                 1997
-Level:                 Elementary School                                        S.F. (Site):        103,598        2.4 acs     No. of Floors:          4
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Keith Arrington
-
-Geographic Information                                                          Facilities Condition Index (FCI)**
-Councilmanic              District 9 (Marian B. Tasco)                           Condition Assessment Cost:                   $1,436,351
-Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                           $37,848,000
-Legislative               PA Rep 198 (Rosita Youngblood)                         Facilities Condition Index:                    0.0367
-Senatorial                Senate Rep 3 (Shirley M. Kitchen)
-FMS Region                Sharer                                                 ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Northwest
-Police District           35th District
-
-Enrollment History
-    Year      Grades PreK             K         01   02    03     04     05     06    07       08     09      10      11       12     UG         Total
-  2012/13       K‐8   0               95        95   85    85     72     94     58    72       70     0       0        0        0      0                    726
-  2011/12       K‐8   0               86        94   88    75     92     82     80    87       64     0       0        0        0      0                    748
-  2010/11       K‐8   0               83        88   73    97     86     75     95    69       55     0       0        0        0      0                    721
-  2009/10       K‐8   0               78        68   99    79     86     95     67    57       69     0       0        0        0      0                    698
-  2008/09       K‐8   0               70        94   70    82     82     52     57    61       65     0       0        0        0      0                    633
-  2007/08       K‐8   0               90        68   78    74     64     47     69    65       69     0       0        0        0      0                    624
-  2006/07       K‐8   0               70        79   69    58     60     70     74    70       75     0       0        0        0      0                    625
-Current Enrollment Details
-In / Out Boundary                        Special Education      Racial Breakdown                                     Transportation
-IN Boundary            504 70%           AS-          27        Asian                                43 6%           Bus Rider                                1
-OUT of Boundary        221 30%           ES-          16        Black / African American            455 63%          Bus-Special Ed                          96
-                                         LSS-         37        Hispanic / Latino                   170 23%          Trans Pass-Trans Pass Eligible           4
-                                                      80        Multi Racial / Other                 48 7%                                                  101
-                                                                White                                10 1%
-
-Academic Measures                   Climate Measures                      AYP                                              Students Live In Boundary
-Reading K-3 or Better:    25%       Avg Daily Attendance:        94%     2011/12      School Improvement II                Neighborhood (SDP) In:          498
-AGI Math:                 -9.2      10+ Absences:                43%     2010/11      School Improvement I                 Neighborhood (SDP) Out:         42
-AGI Reading:               -4       At Least 1 OSS:              19%     2009/10      Warning                              Neighborhood (Ren):             20
-Adv/Prof Math (E-M):       37       VI Per 100:                  1.79    2008/09      Made AYP                             Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 33          Persistently Dangerous:      No      2007/08      Making Progress CA II4               Charter:                        65
-Adv/Prof Math (HS):                                                      2006/07      Corrective Action II4                CTE:                             0
-                                                                         2005/06      Corrective Action II3
-Adv/Prof Reading (HS):                                                                                                     Special Admission:               3
-                                                                         2004/05      Corrective Action II2
-On-Track/Time Grad:                                                                                                        Citywide Admission:              0
-                                                                         2003/04      Making Progress
-Graduation Rate:                                                                                                           Military Academy:                0
-Grad College (yr 1):                                                                                                       Other:                           4
-                                                                                                                                                           632
-
-
-
-
-                                                                                                                                                     12/13/2012
-
+Marshall, T (5500)
+5120 N 06th St, Philadelphia, PA  19120
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 95 95 85 85 72 94 58 72 70 0 0 0 0 0 726
+2011/12 K‐8 0 86 94 88 75 92 82 80 87 64 0 0 0 0 0 748
+2010/11 K‐8 0 83 88 73 97 86 75 95 69 55 0 0 0 0 0 721
+2009/10 K‐8 0 78 68 99 79 86 95 67 57 69 0 0 0 0 0 698
+2008/09 K‐8 0 70 94 70 82 82 52 57 61 65 0 0 0 0 0 633
+2007/08 K‐8 0 90 68 78 74 64 47 69 65 69 0 0 0 0 0 624
+2006/07 K‐8 0 70 79 69 58 60 70 74 70 75 0 0 0 0 0 625
+Geographic Information
+Councilmanic District 9 (Marian B. Tasco)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 198 (Rosita Youngblood)
+Senatorial Senate Rep 3 (Shirley M. Kitchen)
+FMS Region Sharer
+Planning Area Northwest
+Police District 35th District
+General Information
+Status: Open
+Start Date: 7/1/1997
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Keith Arrington
+Current Enrollment Details
+Racial Breakdown
+Asian 43 6%
+Black / African American 455 63%
+Hispanic / Latino 170 23%
+Multi Racial / Other 48 7%
+White 10 1%
+Transportation
+Bus Rider 1
+Bus-Special Ed 96
+Trans Pass-Trans Pass Eligible 4
+101
+Special Education
+AS- 27
+ES- 16
+LSS- 37
+80
+In / Out Boundary
+IN Boundary 504 70%
+OUT of Boundary 221 30%
+AYP
+2011/12 School Improvement II
+2010/11 School Improvement I
+2009/10 Warning
+2008/09 Made AYP
+2007/08 Making Progress CA II4
+2006/07 Corrective Action II4
+2005/06 Corrective Action II3
+2004/05 Corrective Action II2
+2003/04 Making Progress
+Academic Measures
+Reading K-3 or Better: 25%
+Adv/Prof Math (E-M): 37
+Adv/Prof Reading (E-M): 33
+AGI Math: -9.2
+AGI Reading: -4
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 94%
+10+ Absences: 43%
+At Least 1 OSS: 19%
+VI Per 100: 1.79
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 498
+Neighborhood (SDP) Out: 42
+Neighborhood (Ren): 20
+Neighborhood (Charter): 0
+Charter: 65
+CTE: 0
+Special Admission: 3
+Citywide Admission: 0
+Military Academy: 0
+Other: 4
+632
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $1,436,351
+Replacement Cost: $37,848,000
+Facilities Condition Index: 0.0367
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 4
+S.F. (Building): 114,000
+S.F. (Site): 103,598 2.4 acs
+S.F. (Footprint): 40,609
+Capacity: 835
+Year Built: 1997
+Inventory
+12/13/2012

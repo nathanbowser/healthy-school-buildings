@@ -1,61 +1,78 @@
-School Profile
+School Profile
 Southwest
-   Patterson (1400)
-   7001 Buist Ave, Philadelphia, PA  19142
-General Information                                                       Inventory
-Status:           Open                                                    S.F. (Building):                  72,876      Capacity:                     696
-Start Date:       7/1/1921                                                S.F. (Footprint):                 20,861      Year Built:                  1921
-Level:            Elementary School                                       S.F. (Site):        66,398        1.5 acs     No. of Floors:           3
-Type:             Neighborhood
-Admit Type:       Neighborhood
-Managed:          District
-Principal:        Kenneth Jessup
-
-Geographic Information                                                    Facilities Condition Index (FCI)**
-Councilmanic          District 2 (Kenyatta Johnson)                        Condition Assessment Cost:                 $17,211,854
-Congressional         Congressional District 1 (Robert A. Brady)           Replacement Cost:                          $24,194,832
-Legislative           PA Rep 185 (Maria Donatucci)                         Facilities Condition Index:                   0.6876
-Senatorial            Senate Rep 8 (Anthony H. Williams)
-FMS Region            Sharer                                               ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area         Southwest
-Police District       12th District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04                          05     06    07       08    09      10      11       12    UG           Total
-  2012/13       K‐4   0   137 143 111 117 133                      0       0     0       0     0       0        0        0     0                      641
-  2011/12       K‐4   0   148 119 133 147 139                      0       0     0       0     0       0        0        0     0                      686
-  2010/11       K‐4   0   132 144 136 132 139                      0       0     0       0     0       0        0        0     0                      683
-  2009/10       K‐4   0   151 155 131 147 155                      0       0     0       0     0       0        0        0     0                      739
-  2008/09       K‐4   0   123 139 152 134 133                      0       0     0       0     0       0        0        0     0                      681
-  2007/08       K‐4   0   130 130 146 120 152                      0       0     0       0     0       0        0        0     0                      678
-  2006/07       K‐4   0   148 165 154 145 166                      0       0     0       0     0       0        0        0     0                      778
-Current Enrollment Details
-In / Out Boundary                                        Racial Breakdown                                     Transportation
-IN Boundary         619 97%                              American Indian / Alaska Nativ         1 0%          Bus-Special Ed                              1
-OUT of Boundary      20 3%                               Asian                                 37 6%                                                      1
-                                                         Black / African American             553 86%
-                                                         Hispanic / Latino                     14 2%
-                                                         Multi Racial / Other                  26 4%
-                                                         White                                 10 2%
-
-                                                                    AYP                                              Students Live In Boundary
-                                                                   2011/12      School Improvement II                Neighborhood (SDP) In:          605
-                                                                   2010/11      School Improvement I                 Neighborhood (SDP) Out:         57
-                                                                   2009/10      Warning                              Neighborhood (Ren):             10
-                                                                   2008/09      Made AYP                             Neighborhood (Charter):          2
-                                                                   2007/08      Warning                              Charter:                        282
-                                                                   2006/07      Made AYP                             CTE:                             0
-                                                                   2005/06      Made AYP
-                                                                                                                     Special Admission:               1
-                                                                   2004/05      Made AYP
-                                                                                                                     Citywide Admission:              0
-                                                                   2003/04      Made AYP
-                                                                                                                     Military Academy:                0
-                                                                                                                     Other:                           2
-                                                                                                                                                     959
-
-
-
-
-                                                                                                                                               12/13/2012
-
+Patterson (1400)
+7001 Buist Ave, Philadelphia, PA  19142
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐4 0 137 143 111 117 133 0 0 0 0 0 0 0 0 0 641
+2011/12 K‐4 0 148 119 133 147 139 0 0 0 0 0 0 0 0 0 686
+2010/11 K‐4 0 132 144 136 132 139 0 0 0 0 0 0 0 0 0 683
+2009/10 K‐4 0 151 155 131 147 155 0 0 0 0 0 0 0 0 0 739
+2008/09 K‐4 0 123 139 152 134 133 0 0 0 0 0 0 0 0 0 681
+2007/08 K‐4 0 130 130 146 120 152 0 0 0 0 0 0 0 0 0 678
+2006/07 K‐4 0 148 165 154 145 166 0 0 0 0 0 0 0 0 0 778
+Geographic Information
+Councilmanic District 2 (Kenyatta Johnson)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 185 (Maria Donatucci)
+Senatorial Senate Rep 8 (Anthony H. Williams)
+FMS Region Sharer
+Planning Area Southwest
+Police District 12th District
+General Information
+Status: Open
+Start Date: 7/1/1921
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Kenneth Jessup
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Asian 37 6%
+Black / African American 553 86%
+Hispanic / Latino 14 2%
+Multi Racial / Other 26 4%
+White 10 2%
+Transportation
+Bus-Special Ed 1
+1
+In / Out Boundary
+IN Boundary 619 97%
+OUT of Boundary 20 3%
+AYP
+2011/12 School Improvement II
+2010/11 School Improvement I
+2009/10 Warning
+2008/09 Made AYP
+2007/08 Warning
+2006/07 Made AYP
+2005/06 Made AYP
+2004/05 Made AYP
+2003/04 Made AYP
+Students Live In Boundary
+Neighborhood (SDP) In: 605
+Neighborhood (SDP) Out: 57
+Neighborhood (Ren): 10
+Neighborhood (Charter): 2
+Charter: 282
+CTE: 0
+Special Admission: 1
+Citywide Admission: 0
+Military Academy: 0
+Other: 2
+959
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $17,211,854
+Replacement Cost: $24,194,832
+Facilities Condition Index: 0.6876
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 72,876
+S.F. (Site): 66,398 1.5 acs
+S.F. (Footprint): 20,861
+Capacity: 696
+Year Built: 1921
+Inventory
+12/13/2012

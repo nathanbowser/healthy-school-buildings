@@ -1,61 +1,100 @@
-School Profile
+School Profile
 Southwest
-   Catherine (1250)
-   6600 Chester Ave, Philadelphia, PA  19142
-General Information                                                           Inventory
-Status:                Open                                                   S.F. (Building):                  57,500      Capacity:                     676
-Start Date:            7/1/1937                                               S.F. (Footprint):                 18,826      Year Built:                  1937
-Level:                 Elementary School                                      S.F. (Site):        85,326        2.0 acs     No. of Floors:           3
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Patricia Hunter
-
-Geographic Information                                                        Facilities Condition Index (FCI)**
-Councilmanic              District 2 (Kenyatta Johnson)                        Condition Assessment Cost:                 $10,613,608
-Congressional             Congressional District 1 (Robert A. Brady)           Replacement Cost:                          $19,090,000
-Legislative               PA Rep 191 (Ronald Waters)                           Facilities Condition Index:                   0.5192
-Senatorial                Senate Rep 8 (Anthony H. Williams)
-FMS Region                Sharer                                               ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             Southwest
-Police District           12th District
-
-Enrollment History
-    Year      Grades PreK K   01 02 03 04 05                                  06    07       08    09      10      11       12    UG           Total
-  2012/13       K‐5   0   116 110 108 89 101 71                                0     0       0     0       0        0        0     0                      595
-  2011/12       K‐5   0   119 104 105 107 83 80                                0     0       0     0       0        0        0     0                      598
-  2010/11       K‐5   0   105 109 116 83 88 83                                 0     0       0     0       0        0        0     0                      584
-  2009/10       K‐5   0   116 125 98 97 102 75                                 0     0       0     0       0        0        0     0                      613
-  2008/09       K‐5   0   98 95 99 101 100 93                                  0     0       0     0       0        0        0     0                      586
-  2007/08       K‐5   0   94 127 106 97 97 92                                  0     0       0     0       0        0        0     0                      613
-  2006/07       K‐5   0   105 139 112 109 110 116                              0     0       0     0       0        0        0     0                      691
-Current Enrollment Details
-In / Out Boundary                        Special Education    Racial Breakdown                                    Transportation
-IN Boundary            535 91%           AS-          17      American Indian / Alaska Nativ        1 0%          Bus-Emergency                             2
-OUT of Boundary         54 9%                         17      Asian                                92 15%         Bus-Overcrowding                          2
-                                                              Black / African American            447 75%         Bus-Special Ed                           21
-                                                              Hispanic / Latino                    10 2%                                                   25
-                                                              Multi Racial / Other                 36 6%
-                                                              White                                 9 2%
-
-Academic Measures                   Climate Measures                    AYP                                              Students Live In Boundary
-Reading K-3 or Better: 38%          Avg Daily Attendance:      94%     2011/12      Warning                              Neighborhood (SDP) In:          524
-AGI Math:              -12.8        10+ Absences:              40%     2010/11      Made AYP                             Neighborhood (SDP) Out:         32
-AGI Reading:            -5.7        At Least 1 OSS:            5%      2009/10      Made AYP                             Neighborhood (Ren):              6
-Adv/Prof Math (E-M):    56          VI Per 100:                1.18    2008/09      Made AYP                             Neighborhood (Charter):          1
-Adv/Prof Reading (E-M): 52          Persistently Dangerous:     No     2007/08      Warning                              Charter:                        106
-Adv/Prof Math (HS):                                                    2006/07      Made AYP                             CTE:                             0
-                                                                       2005/06      Warning
-Adv/Prof Reading (HS):                                                                                                   Special Admission:               2
-                                                                       2004/05      Made AYP
-On-Track/Time Grad:                                                                                                      Citywide Admission:              0
-                                                                       2003/04      Made AYP
-Graduation Rate:                                                                                                         Military Academy:                0
-Grad College (yr 1):                                                                                                     Other:                           2
-                                                                                                                                                         673
-
-
-
-
-                                                                                                                                                   12/13/2012
-
+Catherine (1250)
+6600 Chester Ave, Philadelphia, PA  19142
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐5 0 116 110 108 89 101 71 0 0 0 0 0 0 0 0 595
+2011/12 K‐5 0 119 104 105 107 83 80 0 0 0 0 0 0 0 0 598
+2010/11 K‐5 0 105 109 116 83 88 83 0 0 0 0 0 0 0 0 584
+2009/10 K‐5 0 116 125 98 97 102 75 0 0 0 0 0 0 0 0 613
+2008/09 K‐5 0 98 95 99 101 100 93 0 0 0 0 0 0 0 0 586
+2007/08 K‐5 0 94 127 106 97 97 92 0 0 0 0 0 0 0 0 613
+2006/07 K‐5 0 105 139 112 109 110 116 0 0 0 0 0 0 0 0 691
+Geographic Information
+Councilmanic District 2 (Kenyatta Johnson)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 191 (Ronald Waters)
+Senatorial Senate Rep 8 (Anthony H. Williams)
+FMS Region Sharer
+Planning Area Southwest
+Police District 12th District
+General Information
+Status: Open
+Start Date: 7/1/1937
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Patricia Hunter
+Current Enrollment Details
+Racial Breakdown
+American Indian / Alaska Nativ 1 0%
+Asian 92 15%
+Black / African American 447 75%
+Hispanic / Latino 10 2%
+Multi Racial / Other 36 6%
+White 9 2%
+Transportation
+Bus-Emergency 2
+Bus-Overcrowding 2
+Bus-Special Ed 21
+25
+Special Education
+AS- 17
+17
+In / Out Boundary
+IN Boundary 535 91%
+OUT of Boundary 54 9%
+AYP
+2011/12 Warning
+2010/11 Made AYP
+2009/10 Made AYP
+2008/09 Made AYP
+2007/08 Warning
+2006/07 Made AYP
+2005/06 Warning
+2004/05 Made AYP
+2003/04 Made AYP
+Academic Measures
+Reading K-3 or Better: 38%
+Adv/Prof Math (E-M): 56
+Adv/Prof Reading (E-M): 52
+AGI Math: -12.8
+AGI Reading: -5.7
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 94%
+10+ Absences: 40%
+At Least 1 OSS: 5%
+VI Per 100: 1.18
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 524
+Neighborhood (SDP) Out: 32
+Neighborhood (Ren): 6
+Neighborhood (Charter): 1
+Charter: 106
+CTE: 0
+Special Admission: 2
+Citywide Admission: 0
+Military Academy: 0
+Other: 2
+673
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $10,613,608
+Replacement Cost: $19,090,000
+Facilities Condition Index: 0.5192
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 57,500
+S.F. (Site): 85,326 2.0 acs
+S.F. (Footprint): 18,826
+Capacity: 676
+Year Built: 1937
+Inventory
+12/13/2012

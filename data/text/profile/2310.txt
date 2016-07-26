@@ -1,46 +1,63 @@
-School Profile
+School Profile
 North‐Central
-   Boone (2310)
-   1435 N 26th St, Philadelphia, PA  19121
-General Information                                                       Inventory
-Status:           Open                                                    S.F. (Building):                  56,265      Capacity:                   504
-Start Date:       7/1/1963                                                S.F. (Footprint):                 15,655      Year Built:                1963
-Level:            Middle Secondary                                        S.F. (Site):        38,261        0.9 acs     No. of Floors:         3
-Type:             Alternative Education
-Admit Type:       Other
-Managed:          District
-Principal:        Phillip Beaucamp
-
-Geographic Information                                                    Facilities Condition Index (FCI)**
-Councilmanic          District 5 (Darrell Clarke)                          Condition Assessment Cost:                 $19,739,372
-Congressional         Congressional District 2 (Chaka Fattah)              Replacement Cost:                          $19,242,630
-Legislative           PA Rep 195 (Michelle F. Brownlee)                    Facilities Condition Index:                   0.9518
-Senatorial            Senate Rep 3 (Shirley M. Kitchen)
-FMS Region            Holman                                               ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area         North-Central
-Police District       22nd District
-
-Enrollment History
-    Year      Grades PreK        K     01     02     03     04     05    06     07       08    09      10      11       12    UG         Total
-  2012/13      5‐12   0          0      0      0     0      0      0      9     20       52    88      62      32       28     0                    291
-  2011/12      5‐12   0          0      0      0     0      0      4     32     61       50    78      57      44       27     0                    353
-  2010/11      5‐12   0          0      0      0     0      0      8     30     60       69    93      59      43       27     0                    389
-  2009/10      5‐12   0          0      0      0     0      0      27    70     72       95    80      70      29       24     0                    467
-  2008/09      5‐12   0          0      0      0     0      0      48    69     75       80    89      49      29       31     0                    470
-  2007/08      5‐12   0          0      0      0     0      0      49    65     79       79    59      43      21       23     0                    418
-  2006/07      5‐12   0          0      0      0     0      0      50    73     83       77    73      56      22        7     0                    441
-Current Enrollment Details
-In / Out Boundary                Special Education        Racial Breakdown                                    Transportation
-IN Boundary           0   0%     ES-            15        Asian                                 1 0%          Bus-Disciplinary                       68
-OUT of Boundary       0   0%                    15        Black / African American            239 82%         Bus-Special Ed                          5
-                                                          Hispanic / Latino                    45 15%         Bus-Trans Pass Eligible                 1
-                                                          Multi Racial / Other                  1 0%          Trans Pass-Disciplinary                41
-                                                          White                                 5 2%          Trans Pass-Special Ed                   1
-                                                                                                              Trans Pass-Trans Pass Eligible        147
-                                                                                                                                                    263
-
-
-
-
-                                                                                                                                          12/13/2012
-
+Boone (2310)
+1435 N 26th St, Philadelphia, PA  19121
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 5‐12 0 0 0 0 0 0 0 9 20 52 88 62 32 28 0 291
+2011/12 5‐12 0 0 0 0 0 0 4 32 61 50 78 57 44 27 0 353
+2010/11 5‐12 0 0 0 0 0 0 8 30 60 69 93 59 43 27 0 389
+2009/10 5‐12 0 0 0 0 0 0 27 70 72 95 80 70 29 24 0 467
+2008/09 5‐12 0 0 0 0 0 0 48 69 75 80 89 49 29 31 0 470
+2007/08 5‐12 0 0 0 0 0 0 49 65 79 79 59 43 21 23 0 418
+2006/07 5‐12 0 0 0 0 0 0 50 73 83 77 73 56 22 7 0 441
+Geographic Information
+Councilmanic District 5 (Darrell Clarke)
+Congressional Congressional District 2 (Chaka Fattah)
+Legislative PA Rep 195 (Michelle F. Brownlee)
+Senatorial Senate Rep 3 (Shirley M. Kitchen)
+FMS Region Holman
+Planning Area North-Central
+Police District 22nd District
+General Information
+Status: Open
+Start Date: 7/1/1963
+Level: Middle Secondary
+Type: Alternative Education
+Admit Type: Other
+Managed: District
+Principal: Phillip Beaucamp
+Current Enrollment Details
+Racial Breakdown
+Asian 1 0%
+Black / African American 239 82%
+Hispanic / Latino 45 15%
+Multi Racial / Other 1 0%
+White 5 2%
+Transportation
+Bus-Disciplinary 68
+Bus-Special Ed 5
+Bus-Trans Pass Eligible 1
+Trans Pass-Disciplinary 41
+Trans Pass-Special Ed 1
+Trans Pass-Trans Pass Eligible 147
+263
+Special Education
+ES- 15
+15
+In / Out Boundary
+IN Boundary 0 0%
+OUT of Boundary 0 0%
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $19,739,372
+Replacement Cost: $19,242,630
+Facilities Condition Index: 0.9518
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 3
+S.F. (Building): 56,265
+S.F. (Site): 38,261 0.9 acs
+S.F. (Footprint): 15,655
+Capacity: 504
+Year Built: 1963
+Inventory
+12/13/2012

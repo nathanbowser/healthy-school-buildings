@@ -1,0 +1,61 @@
+School Profile
+North‐Central
+   Webster (5590)
+   3400 Frankford Ave, Philadelphia, PA  19134
+General Information                                                           Inventory
+Status:                Open                                                   S.F. (Building):                   92,275      Capacity:                     716
+Start Date:            7/1/1968                                               S.F. (Footprint):                  31,211      Year Built:                  1968
+Level:                 Elementary School                                      S.F. (Site):        126,125        2.9 acs     No. of Floors:           4
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Robert Frazier
+
+Geographic Information                                                        Facilities Condition Index (FCI)**
+Councilmanic              District 1 (Mark Squilla)                            Condition Assessment Cost:                   $9,574,913
+Congressional             Congressional District 13 (Allyson Y. Schwartz)      Replacement Cost:                           $30,635,300
+Legislative               PA Rep 175 (Michael H. O'Brien)                      Facilities Condition Index:                    0.2391
+Senatorial                Senate Rep 5 (Michael J. Stack)
+FMS Region                Toohey                                               ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             North-Central
+Police District           24th District
+
+Enrollment History
+    Year      Grades PreK K   01 02 03 04 05                                  06    07       08     09      10      11       12    UG           Total
+  2012/13       K‐5   0   152 161 149 166 167 131                              0     0       0      0       0        0        0     0                      926
+  2011/12       K‐5   0   152 157 172 159 130 151                              0     0       0      0       0        0        0     0                      921
+  2010/11       K‐5   0   136 197 191 128 156 144                              0     0       0      0       0        0        0     0                      952
+  2009/10       K‐5   0   143 200 136 139 142 137                              0     0       0      0       0        0        0     0                      897
+  2008/09       K‐5   0   147 179 142 147 145 152                              0     0       0      0       0        0        0     0                      912
+  2007/08       K‐5   0   144 179 144 151 147 133                              0     0       0      0       0        0        0     0                      898
+  2006/07       K‐5   0   143 154 142 147 141 154                              0     0       0      0       0        0        0     0                      881
+Current Enrollment Details
+In / Out Boundary                       Special Education     Racial Breakdown                                     Transportation
+IN Boundary            881 95%          AS-           16      American Indian / Alaska Nativ        6 1%           Bus Rider                                 4
+OUT of Boundary         43 5%           ES-           24      Asian                                 2 0%           Bus-Disciplinary                          2
+                                        LSS-           1      Black / African American            293 32%          Bus-Special Ed                           39
+                                                      41      Hispanic / Latino                   453 49%                                                   45
+                                                              Multi Racial / Other                 56 6%
+                                                              White                               116 13%
+
+Academic Measures                   Climate Measures                    AYP                                               Students Live In Boundary
+Reading K-3 or Better:    46%       Avg Daily Attendance:      93%     2011/12      Warning                               Neighborhood (SDP) In:          858
+AGI Math:                 -2.9      10+ Absences:              54%     2010/11      Made AYP                              Neighborhood (SDP) Out:         43
+AGI Reading:              -3.8      At Least 1 OSS:            10%     2009/10      Made AYP                              Neighborhood (Ren):             14
+Adv/Prof Math (E-M):    52          VI Per 100:                1.53    2008/09      Made AYP                              Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 41          Persistently Dangerous:     No     2007/08      Making Progress CA II4                Charter:                        177
+Adv/Prof Math (HS):                                                    2006/07      Corrective Action II4                 CTE:                             0
+                                                                       2005/06      Corrective Action II3
+Adv/Prof Reading (HS):                                                                                                    Special Admission:               1
+                                                                       2004/05      Making Progress
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+                                                                       2003/04      Corrective Action II2
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                          3
+                                                                                                                                                        1096
+
+
+
+
+                                                                                                                                                    12/13/2012
+

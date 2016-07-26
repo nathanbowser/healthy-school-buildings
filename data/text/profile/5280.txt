@@ -1,60 +1,100 @@
-School Profile
+School Profile
 North‐Central
-   Fairhill (5280)
-   601 W Somerset St, Philadelphia, PA  19133
-General Information                                                             Inventory
-Status:                Open                                                     S.F. (Building):                   67,000      Capacity:                     775
-Start Date:            7/1/1969                                                 S.F. (Footprint):                  33,295      Year Built:                  1969
-Level:                 Elementary School                                        S.F. (Site):        117,434        2.7 acs     No. of Floors:           4
-Type:                  Neighborhood
-Admit Type:            Neighborhood
-Managed:               District
-Principal:             Ary Sloane
-
-Geographic Information                                                          Facilities Condition Index (FCI)**
-Councilmanic              District 7 (Maria D. Quiñones-Sánchez)                 Condition Assessment Cost:                   $5,940,866
-Congressional             Congressional District 1 (Robert A. Brady)             Replacement Cost:                           $22,244,000
-Legislative               PA Rep 181 (W. Curtis Thomas)                          Facilities Condition Index:                    0.253
-Senatorial                Senate Rep 2 (Christine M. Tartaglione)
-FMS Region                Britt                                                  ** Preliminary CA and FCI calculations. Values subject to change.
-Planning Area             North-Central
-Police District           25th District
-
-Enrollment History
-    Year      Grades PreK             K     01    02       03     04     05     06    07       08     09      10      11       12      UG         Total
-  2012/13       K‐8   0               54    64    59       66     56     45     46    43       43     0       0        0        0       0                    476
-  2011/12       K‐8   0               71    57    73       67     54     56     49    53       46     0       0        0        0       0                    526
-  2010/11       K‐8   0               59    69    74       57     59     64     57    55       63     0       0        0        0       0                    557
-  2009/10       K‐8   0               72    73    61       62     64     54     50    59       46     0       0        0        0       0                    541
-  2008/09       K‐8   0               59    62    69       63     64     58     70    49       67     0       0        0        0       0                    561
-  2007/08       K‐8   0               64    75    59       69     59     73     51    71       68     0       0        0        0       0                    589
-  2006/07       K‐8   0               78    45    70       69     77     60     82    67       55     0       0        0        0       0                    603
-Current Enrollment Details
-In / Out Boundary                     Special Education         Racial Breakdown                                     Transportation
-IN Boundary            374 79%        ES-             17        Asian                                 3 1%           Bus-Special Ed                           16
-OUT of Boundary        100 21%                        17        Black / African American            107 22%          Trans Pass                                4
-                                                                Hispanic / Latino                   349 73%          Trans Pass-Emergency                      1
-                                                                Multi Racial / Other                 14 3%           Trans Pass-Trans Pass Eligible            3
-                                                                White                                 3 1%                                                    24
-
-Academic Measures                   Climate Measures                      AYP                                               Students Live In Boundary
-Reading K-3 or Better:    37%       Avg Daily Attendance:        93%     2011/12      Corrective Action II                  Neighborhood (SDP) In:          373
-AGI Math:                  -5       10+ Absences:                49%     2010/11      Corrective Action I                   Neighborhood (SDP) Out:         50
-AGI Reading:              -4.4      At Least 1 OSS:              14%     2009/10      School Improvement II                 Neighborhood (Ren):              3
-Adv/Prof Math (E-M):       22       VI Per 100:                  4.86    2008/09      School Improvement I                  Neighborhood (Charter):          0
-Adv/Prof Reading (E-M): 18          Persistently Dangerous:      No      2007/08      Warning                               Charter:                        61
-Adv/Prof Math (HS):                                                      2006/07      Made AYP                              CTE:                             0
-                                                                         2005/06      Warning
-Adv/Prof Reading (HS):                                                                                                      Special Admission:               3
-                                                                         2004/05      Made AYP
-On-Track/Time Grad:                                                                                                         Citywide Admission:              0
-                                                                         2003/04      Making Progress
-Graduation Rate:                                                                                                            Military Academy:                0
-Grad College (yr 1):                                                                                                        Other:                           5
-                                                                                                                                                            495
-
-
-
-
-                                                                                                                                                      12/13/2012
-
+Fairhill (5280)
+601 W Somerset St, Philadelphia, PA  19133
+Year Grades PreK K 01 02 03 04 05 06 07 08 09 10 11 12 UG Total
+Enrollment History
+2012/13 K‐8 0 54 64 59 66 56 45 46 43 43 0 0 0 0 0 476
+2011/12 K‐8 0 71 57 73 67 54 56 49 53 46 0 0 0 0 0 526
+2010/11 K‐8 0 59 69 74 57 59 64 57 55 63 0 0 0 0 0 557
+2009/10 K‐8 0 72 73 61 62 64 54 50 59 46 0 0 0 0 0 541
+2008/09 K‐8 0 59 62 69 63 64 58 70 49 67 0 0 0 0 0 561
+2007/08 K‐8 0 64 75 59 69 59 73 51 71 68 0 0 0 0 0 589
+2006/07 K‐8 0 78 45 70 69 77 60 82 67 55 0 0 0 0 0 603
+Geographic Information
+Councilmanic District 7 (Maria D. Quiñones-Sánchez)
+Congressional Congressional District 1 (Robert A. Brady)
+Legislative PA Rep 181 (W. Curtis Thomas)
+Senatorial Senate Rep 2 (Christine M. Tartaglione)
+FMS Region Britt
+Planning Area North-Central
+Police District 25th District
+General Information
+Status: Open
+Start Date: 7/1/1969
+Level: Elementary School
+Type: Neighborhood
+Admit Type: Neighborhood
+Managed: District
+Principal: Ary Sloane
+Current Enrollment Details
+Racial Breakdown
+Asian 3 1%
+Black / African American 107 22%
+Hispanic / Latino 349 73%
+Multi Racial / Other 14 3%
+White 3 1%
+Transportation
+Bus-Special Ed 16
+Trans Pass 4
+Trans Pass-Emergency 1
+Trans Pass-Trans Pass Eligible 3
+24
+Special Education
+ES- 17
+17
+In / Out Boundary
+IN Boundary 374 79%
+OUT of Boundary 100 21%
+AYP
+2011/12 Corrective Action II
+2010/11 Corrective Action I
+2009/10 School Improvement II
+2008/09 School Improvement I
+2007/08 Warning
+2006/07 Made AYP
+2005/06 Warning
+2004/05 Made AYP
+2003/04 Making Progress
+Academic Measures
+Reading K-3 or Better: 37%
+Adv/Prof Math (E-M): 22
+Adv/Prof Reading (E-M): 18
+AGI Math: -5
+AGI Reading: -4.4
+On-Track/Time Grad:
+Graduation Rate:
+Grad College (yr 1):
+Adv/Prof Math (HS):
+Adv/Prof Reading (HS):
+Climate Measures
+Avg Daily Attendance: 93%
+10+ Absences: 49%
+At Least 1 OSS: 14%
+VI Per 100: 4.86
+Persistently Dangerous: No
+Students Live In Boundary
+Neighborhood (SDP) In: 373
+Neighborhood (SDP) Out: 50
+Neighborhood (Ren): 3
+Neighborhood (Charter): 0
+Charter: 61
+CTE: 0
+Special Admission: 3
+Citywide Admission: 0
+Military Academy: 0
+Other: 5
+495
+Facilities Condition Index (FCI)**
+Condition Assessment Cost: $5,940,866
+Replacement Cost: $22,244,000
+Facilities Condition Index: 0.253
+** Preliminary CA and FCI calculations. Values subject to change.
+No. of Floors: 4
+S.F. (Building): 67,000
+S.F. (Site): 117,434 2.7 acs
+S.F. (Footprint): 33,295
+Capacity: 775
+Year Built: 1969
+Inventory
+12/13/2012

@@ -1,0 +1,61 @@
+School Profile
+Northwest
+   King HS (6060)
+   6100 Stenton Ave, Philadelphia, PA  19138
+General Information                                                              Inventory
+Status:                Open                                                      S.F. (Building):               370,000      Capacity:                  2,543
+Start Date:            7/1/1970                                                  S.F. (Footprint):              163,897      Year Built:                  1970
+Level:                 High School                                               S.F. (Site):        467,631    10.7 acs     No. of Floors:           3
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             William Wade
+
+Geographic Information                                                           Facilities Condition Index (FCI)**
+Councilmanic              District 8 (Cindy Bass)                                 Condition Assessment Cost:               $17,285,412
+Congressional             Congressional District 2 (Chaka Fattah)                 Replacement Cost:                     $131,350,000
+Legislative               PA Rep 201 (Stephen Kinsey)                             Facilities Condition Index:                 0.1253
+Senatorial                Senate Rep 4 (LeAnna Washington)
+FMS Region                Walker                                                  ** Preliminary CA and FCI calculations. Values subject to change.
+Planning Area             Northwest
+Police District           14th District
+
+Enrollment History
+    Year      Grades PreK             K      01   02        03     04     05     06    07       08      09      10   11      12 UG              Total
+  2012/13      9‐12   0               0       0    0        0      0      0       0     0       0      202     223   149     191 0                        765
+  2011/12      9‐12   0               0       0    0        0      0      0       0     0       0      270     222   193     162 0                        847
+  2010/11      9‐12   0               0       0    0        0      0      0       0     0       0      366     239   193     250 0                      1,048
+  2009/10      9‐12   0               0       0    0        0      0      0       0     0       0      360     245   171     300 0                      1,076
+  2008/09      9‐12   0               0       0    0        0      0      0       0     0       0      336     304   217     255 0                      1,112
+  2007/08      9‐12   0               0       0    0        0      0      0       0     0       0      467     389   224     285 0                      1,365
+  2006/07      9‐12   0               0       0    0        0      0      0       0     0       0      612     402   364     235 0                      1,613
+Current Enrollment Details
+In / Out Boundary                     Special Education          Racial Breakdown                                    Transportation
+IN Boundary            615 81%        AS-              33        American Indian / Alaska Nativ        1 0%          Bus-Special Ed                         88
+OUT of Boundary        147 19%        ES-              29        Asian                                 2 0%          Trans Pass-Special Ed                   3
+                                      LSS-             33        Black / African American            737 96%         Trans Pass-Trans Pass Eligible        221
+                                                       95        Hispanic / Latino                    16 2%                                                312
+                                                                 Multi Racial / Other                  4 1%
+                                                                 White                                 5 1%
+
+Academic Measures                    Climate Measures                      AYP                                            Students Live In Boundary
+Reading K-3 or Better:               Avg Daily Attendance:        80%     2011/12      Corrective Action II7              Neighborhood (SDP) In:          600
+AGI Math:                 -9.1       10+ Absences:                74%     2010/11      Corrective Action II6              Neighborhood (SDP) Out:         259
+AGI Reading:              -8.4       At Least 1 OSS:              30%     2009/10      Corrective Action II5              Neighborhood (Ren):             64
+Adv/Prof Math (E-M):                 VI Per 100:                  6.25    2008/09      Corrective Action II4              Neighborhood (Charter):         0
+Adv/Prof Reading (E-M):              Persistently Dangerous:       No     2007/08      Corrective Action II3              Charter:                      1004
+Adv/Prof Math (HS):        15                                             2006/07      Corrective Action II2              CTE:                            273
+                                                                          2005/06      Corrective Action II
+Adv/Prof Reading (HS):     19                                                                                             Special Admission:              841
+                                                                          2004/05      Corrective Action I
+On-Track/Time Grad:       50%                                                                                             Citywide Admission:              69
+                                                                          2003/04      School Improvement II
+Graduation Rate:          51%                                                                                             Military Academy:               95
+Grad College (yr 1):      30%                                                                                             Other:                        163
+                                                                                                                                                        3368
+
+
+
+
+                                                                                                                                                    12/13/2012
+

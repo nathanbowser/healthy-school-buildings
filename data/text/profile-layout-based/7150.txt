@@ -1,0 +1,57 @@
+School Profile
+North‐Central
+   Juniata Park (7150)
+   801 E Hunting Park Ave, Philadelphia, PA  19124
+General Information                                                            Inventory
+Status:                Open                                                    S.F. (Building):               102,300         Capacity:                    874
+Start Date:            7/1/2007                                                S.F. (Footprint):                  68,265      Year Built:                 2007
+Level:                 Elementary School                                       S.F. (Site):        213,904        4.9 acs     No. of Floors:          2
+Type:                  Neighborhood
+Admit Type:            Neighborhood
+Managed:               District
+Principal:             Joan Richey
+
+Geographic Information                                                         Facilities Condition Index (FCI)**
+Councilmanic              District 7 (Maria D. Quiñones-Sánchez)                Condition Assessment Cost:                           $0
+Congressional             Congressional District 1 (Robert A. Brady)            Replacement Cost:                           $33,963,600
+Legislative               PA Rep 177 (John J. Taylor)                           Facilities Condition Index:              0
+Senatorial                Senate Rep 2 (Christine M. Tartaglione)                                               New Construction
+FMS Region                Walker                                                ** Preliminary CA and FCI calculations. Values subject to change.
+FMS Region                Britt
+Planning Area             North-Central
+Police District           24th District
+
+Enrollment History
+    Year      Grades PreK K   01 02 03 04 05                                 06     07         08    09      10      11       12     UG         Total
+  2012/13       K‐8   0   119 127 143 137 120 110                            109    104       119    0       0        0        0      0                 1,088
+  2011/12       K‐8   0   119 148 143 127 110 110                            124    120       109    0       0        0        0      0                 1,110
+  2010/11       K‐8   0   132 135 125 100 105 122                            115    112       131    0       0        0        0      0                 1,077
+  2009/10       K‐8   0   116 120 98 101 124 115                             114    131        96    0       0        0        0      0                 1,015
+  2008/09       K‐8   0   94 93 107 111 101 99                               132    97        102    0       0        0        0      0                   936
+  2007/08       K‐8   0   71 110 112 104 99 130                              104    108        81    0       0        0        0      0                   919
+Current Enrollment Details
+In / Out Boundary                     Special Education        Racial Breakdown                                     Transportation
+IN Boundary            1,063 98%      AS-              7       Asian                                103 9%          Bus-Special Ed                          15
+OUT of Boundary           23 2%                        7       Black / African American             160 15%         Trans Pass                               3
+                                                               Hispanic / Latino                    699 64%         Trans Pass-Trans Pass Eligible           2
+                                                               Multi Racial / Other                  83 8%                                                  20
+                                                               White                                 43 4%
+
+Academic Measures                    Climate Measures                    AYP                                              Students Live In Boundary
+Reading K-3 or Better:    45%        Avg Daily Attendance:      94%     2011/12      Warning                              Neighborhood (SDP) In:        1047
+AGI Math:                 -1.8       10+ Absences:              43%     2010/11      Made AYP                             Neighborhood (SDP) Out:        89
+AGI Reading:              1.6        At Least 1 OSS:            6%      2009/10      Warning                              Neighborhood (Ren):              6
+Adv/Prof Math (E-M):       54        VI Per 100:                0.81                                                      Neighborhood (Charter):          0
+Adv/Prof Reading (E-M): 43           Persistently Dangerous:    No                                                        Charter:                        265
+Adv/Prof Math (HS):                                                                                                       CTE:                             0
+Adv/Prof Reading (HS):                                                                                                    Special Admission:              10
+On-Track/Time Grad:                                                                                                       Citywide Admission:              0
+Graduation Rate:                                                                                                          Military Academy:                0
+Grad College (yr 1):                                                                                                      Other:                          6
+                                                                                                                                                        1423
+
+
+
+
+                                                                                                                                                    12/13/2012
+
