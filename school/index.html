@@ -1,128 +1,279 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Healthy School Buildings</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>School Profile</title>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/style/main.css" rel="stylesheet">
   <script src="//d3js.org/d3.v3.min.js"></script>
   <script src="../js/pdf.js"></script>
-  <style type="text/css">
 
-    .container {
-      max-width: 960px;
-      position: relative;
-      display: block;
-      margin: 0 auto;
-      padding: 0 10px;
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <script>
+    function reports (ulcs) {
+      PDFJS.getDocument('../data/pdf/report/' + ulcs + '.pdf').then(function (pdf) {
+        function handlePage (page) {
+          var viewport = page.getViewport(.5)
+            , canvas = document.createElement('canvas')
+            , context = canvas.getContext('2d')
+
+          canvas.style.display = 'block'
+          canvas.height = viewport.height
+          canvas.width = viewport.width
+
+          page.render({canvasContext: context, viewport: viewport})
+              .then(function () {
+                //context.fillRect( 0, 0, canvas.width, canvas.height )
+                //context.globalCompositeOperation = 'destination-over'
+                //context.fillStyle = '#fff'
+                //context.fillRect(0, 0, canvas.width, canvas.height)
+
+                d3.select('.reports')
+                  .append('div')
+                    .attr('class', 'col-sm-3 col-xs-6')
+                    .append('a')
+                      .attr('href', '../data/pdf/report/' + ulcs + '.pdf')
+                      .append('img')
+                      .attr('class', 'img-responsive')
+                      .attr('src', canvas.toDataURL())
+              })
+        }
+        pdf.getPage(1).then(handlePage)
+      }, function (err) {
+         // d3.select('.report-container').html('No Reports Found')
+      })
+    }
+    function demographics (data) {
+      var width = 700
+        , height = 400
+        , radius = Math.min(width, height) / 2
+        , labelR = radius + 10 * 2
+        , color = d3.scale.ordinal()
+                          .range(['#7dc61e', '#a9a10a', '#d17813', '#e85434', '#e73a62'])
+        , arc = d3.svg.arc()
+                      .outerRadius(radius - 10)
+                      .innerRadius(0)
+        , labelArc = d3.svg.arc()
+                           .outerRadius(radius - 40)
+                           .innerRadius(radius - 40)
+
+
+      var pie = d3.layout.pie()
+                         .sort(null)
+                         .value(function (d) {
+                           return d.count
+                         })
+
+      var svg = d3.select('.demographics-chart')
+                  .append('svg')
+                    .attr('width', width)
+                    .attr('height', height)
+                    .append('g')
+                      .attr('transform', 'translate(' + (width / 2 + 20) + ',' + height / 2 + ')')
+        , g = svg.selectAll('.arc')
+                 .data(pie(data))
+                 .enter()
+                 .append('g')
+                   .attr('class', 'arc')
+
+        g.append('path')
+           .attr('d', arc)
+           .style('fill', function (d) {
+             return color(d.data.count)
+           })
+
+        g.append('text')
+           .attr('transform', function (d) {
+            var c = arc.centroid(d)
+              , x = c[0]
+              , y = c[1],
+
+            h = Math.sqrt(x*x + y*y)
+            return 'translate(' + (x / h * labelR) + ',' + (y / h * labelR) + ')'
+           })
+           .attr('text-anchor', function (d) {
+             return (d.endAngle + d.startAngle)/2 > Math.PI ? 'end' : 'start'
+           })
+           .attr('dy', '.35em')
+           .text(function (d) {
+             return d.data.name + ' (' + d.data.percentage + ')'
+           })
     }
 
-    .school-image {
-      width: 242px;
-      height: 200px;
-      padding: 10px;
-      margin: 10px;
-      border: 1px solid black;
-    }
+    document.addEventListener('DOMContentLoaded', function(event) {
+      var url = window.location.href
+        , regex = /[?&]ulcs(=([^&#]*)|&|#|$)/
+        , results = regex.exec(url)
 
-  </style>
+      if (!results || !results[2]) {
+        document.querySelector('.container').innerHTML = 'No School Data Found'
+      } else {
+        var ulcs = decodeURIComponent(results[2].replace(/\+/g, ' '))
+        d3.json('/data/json/profile/' + ulcs + '.json', function (obj) {
+          console.log(obj)
+          d3.select('.school-name').text(obj.name)
+          d3.select('.region').text(obj.region)
+          d3.select('.address').text(obj.address)
+          d3.select('.level').text(obj.level)
+          d3.select('.councilmanic').text(obj.councilmanic)
+          d3.select('.principal').text(obj.Principal)
+
+
+          d3.select('.cac').text(obj['Condition Assessment Cost'])
+          d3.select('.replacement-cost').text(obj['Replacement Cost'])
+          d3.select('.fci').text(d3.format('%')(obj.fci))
+          demographics(obj.demographics)
+          reports(ulcs)
+        })
+      }
+    })
+  </script>
+
 </head>
 <body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+      <input type="checkbox" id="navbar-toggle-cbox">
+      <div class="navbar-header">
+        <label for="navbar-toggle-cbox" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </label>
+        <a class="navbar-brand" href="http://www.healthyschoolbuildings.com/">Healthy School Buildings</a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="/general.html">General</a>
+          </li>
+          <li>
+            <a href="/">Map</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
   <div class="container">
-    <h1>School Profile</h1>
-    <canvas id="profile" style="border:1px solid black;"></canvas>
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="page-header">School Profile
+          <small class="school-name"></small>
+        </h1>
+      </div>
+    </div>
 
-    <h1>Images</h1>
-    <div class="images-container"></div>
+    <div class="row">
+      <div class="col-md-4">
+        <h3>School Details</h3>
+        <dl>
+          <dt>Region</dt>
+          <dd class="region">foobar</dd>
+          <dt>Address</dt>
+          <dd class="address"></dd>
+          <dt>Level</dt>
+          <dd class="level"></dd>
+          <dt>Councilmanic</dt>
+          <dd class="councilmanic"></dd>
+          <dt>Principal</dt>
+          <dd class="principal"></dd>
+        </dl>
+        <hr />
+        <h4>Facilities Condition Index (FCI)
+          <small>** Preliminary CA and FCI calculations. Values subject to change.</small>
+        </h4>
+        <dl>
+          <dt>Conditions Assessment Cost</dt>
+          <dd class="cac"></dd>
+          <dt>Replacement Cost</dt>
+          <dd class="replacement-cost"></dd>
+          <dt>Facilities Condition Index</dt>
+          <dd class="fci"></dd>
+        </dl>
+      </div>
 
-    <hr />
+      <div class="col-md-8">
+        <h3>Demographics</h3>
+        <div class="demographics-chart"></div>
+      </div>
+    </div>
 
-    <h1>Reports</h1>
-    <div class="report-container"></div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h3 class="page-header">Images
+          <small>View images collected showing conditions at this school</small>
+        </h3>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="#">
+          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+        </a>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="#">
+          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+        </a>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="#">
+          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+        </a>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="#">
+          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+        </a>
+      </div>
+    </div>
+
+    <div class="row reports">
+      <div class="col-lg-12">
+        <h3 class="page-header">Reports
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12">
+        <h3 class="page-header">Other Relevant Information
+          <small>Articles, videos, newspaper reports, etc.</small>
+        </h3>
+      </div>
+      <ul>
+        <li><a href="#">Example One</a></li>
+        <li><a href="#">Example Two</a></li>
+        <li><a href="#">Example Three</a></li>
+        <li><a href="#">Example Four</a></li>
+      </ul>
+    </div>
+
+    <hr>
+
+    <footer>
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright &copy; Healthy School Buildings 2016</p>
+        </div>
+      </div>
+    </footer>
 
   </div>
 </body>
-<script>
-  var url = window.location.href
-    , regex = /[?&]ulcs(=([^&#]*)|&|#|$)/
-    , results = regex.exec(url)
 
-  function profile (ulcs) {
-    PDFJS.getDocument('../data/pdf/profile/' + ulcs + '.pdf').then(function (pdf) {
-      pdf.getPage(1).then(function (page) {
-        var scale = 1.5
-          , viewport = page.getViewport(scale)
-          , canvas = document.getElementById('profile')
-          , context = canvas.getContext('2d')
-
-        canvas.height = viewport.height
-        canvas.width = viewport.width
-
-        var renderContext = {
-          canvasContext: context,
-          viewport: viewport
-        }
-
-        page.render(renderContext)
-      })
-    })
-  }
-
-  function images (ulcs) {
-    d3.json('../data/image/' + ulcs + '/images.json', function (err, images) {
-      if (images) {
-        images.forEach(function (img) {
-          d3.select('.images-container')
-            .append('a')
-              .attr('href', '../data/image/' + ulcs + '/' + img)
-              .append('img')
-                .attr('class', 'school-image')
-                .attr('src', '../data/image/' + ulcs + '/' + img)
-        })
-      } else {
-        d3.select('.images-container').html('No Images Found')
-      }
-    })
-  }
-
-  function reports (ulcs) {
-    PDFJS.getDocument('../data/pdf/report/' + ulcs + '.pdf').then(function (pdf) {
-      var cur = 1
-
-      var handlePage = function (page) {
-        var viewport = page.getViewport(1.5)
-          , canvas = document.createElement('canvas')
-          , context = canvas.getContext('2d')
-
-        canvas.style.display = 'block'
-        canvas.height = viewport.height
-        canvas.width = viewport.width
-
-        //Draw it on the canvas
-        page.render({canvasContext: context, viewport: viewport})
-
-        //Add it to the web page
-        document.querySelector('.report-container')
-                .appendChild(canvas)
-
-        //Move to next page
-        cur++
-        if (pdf !== null && cur <= pdf.numPages) {
-          pdf.getPage(cur).then(handlePage)
-        }
-      }
-
-      pdf.getPage(cur).then(handlePage)
-    }, function (err) {
-      d3.select('.report-container').html('No Reports Found')
-    })
-  }
-
-  if (!results || !results[2]) {
-    document.querySelector('.container').innerHTML = 'No School Data Found'
-  } else {
-    var ulcs = decodeURIComponent(results[2].replace(/\+/g, ' '))
-    profile(ulcs)
-    reports(ulcs)
-    images(ulcs)
-  }
-
-</script>
+</html>
