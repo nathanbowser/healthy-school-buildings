@@ -51,9 +51,9 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="map-container">
-          <div class="buttons">
-            <button data-zoom="+1">Zoom In</button>
-            <button data-zoom="-1">Zoom Out</button>
+          <div class="zoom-buttons">
+            <div data-zoom="+1">+</div>
+            <div data-zoom="-1">-</div>
           </div>
           <div class="slider">
             <div class="min">
@@ -306,7 +306,7 @@
            .append('path')
              .attr('d', path)
 
-    d3.selectAll('button[data-zoom]')
+    d3.selectAll('div[data-zoom]')
       .on('click', function () {
         map.call(zoom.event)
         d3.event.preventDefault()
