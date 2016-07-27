@@ -21,6 +21,19 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
   <script>
+    function images (ulcs) {
+      d3.json('../data/image/' + ulcs + '/images.json', function (err, images) {
+        if (images) {
+          // TODO Hack until we get real images
+          var imgs = d3.selectAll('.images img').pop()
+          images.forEach(function (img, i) {
+            imgs[i].parentNode.href = '../data/image/' + ulcs + '/' + img
+            imgs[i].src = '../data/image/' + ulcs + '/' + img
+          })
+        }
+      })
+    }
+
     function reports (ulcs) {
       PDFJS.getDocument('../data/pdf/report/' + ulcs + '.pdf').then(function (pdf) {
         function handlePage (page) {
@@ -134,6 +147,7 @@
           d3.select('.fci').text(d3.format('%')(obj.fci))
           demographics(obj.demographics)
           reports(ulcs)
+          images(ulcs)
         })
       }
     })
@@ -213,7 +227,7 @@
       </div>
     </div>
 
-    <div class="row">
+    <div class="row images">
       <div class="col-lg-12">
         <h3 class="page-header">Images
           <small>View images collected showing conditions at this school</small>
