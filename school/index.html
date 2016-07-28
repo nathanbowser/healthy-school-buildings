@@ -23,14 +23,21 @@
   <script>
     function images (ulcs) {
       d3.json('../data/image/' + ulcs + '/images.json', function (err, images) {
-        if (images) {
-          // TODO Hack until we get real images
-          var imgs = d3.selectAll('.images img').pop()
-          images.forEach(function (img, i) {
-            imgs[i].parentNode.href = '../data/image/' + ulcs + '/' + img
-            imgs[i].src = '../data/image/' + ulcs + '/' + img
-          })
-        }
+        d3.select('.images')
+          .selectAll('.image')
+          .data(images)
+          .enter()
+            .append('div')
+              .attr('class', 'col-sm-3 col-xs-6 image')
+              .append('a')
+                .attr('href', function (d) {
+                  return '../data/image/' + ulcs + '/' + d
+                })
+                .append('img')
+                  .attr('class', 'img-responsive')
+                  .attr('src', function (d) {
+                    return '../data/image/' + ulcs + '/' + d
+                  })
       })
     }
 
@@ -232,26 +239,6 @@
         <h3 class="page-header">Images
           <small>View images collected showing conditions at this school</small>
         </h3>
-      </div>
-      <div class="col-sm-3 col-xs-6">
-        <a href="#">
-          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-        </a>
-      </div>
-      <div class="col-sm-3 col-xs-6">
-        <a href="#">
-          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-        </a>
-      </div>
-      <div class="col-sm-3 col-xs-6">
-        <a href="#">
-          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-        </a>
-      </div>
-      <div class="col-sm-3 col-xs-6">
-        <a href="#">
-          <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-        </a>
       </div>
     </div>
 
