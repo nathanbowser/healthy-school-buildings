@@ -15,7 +15,9 @@ fs.readdir(base, function (err, school) {
             if (err) {
               throw err
             }
-            fs.writeFileSync(path.join(d, 'images.json'), JSON.stringify(images))
+            fs.writeFileSync(path.join(d, 'images.json'), JSON.stringify(images.filter(function (i) {
+              return i !== 'images.json'
+            })))
           })
         })
 })
