@@ -203,6 +203,10 @@
                          return r.id
                        })
 
+    if (max === 1) {
+      max = Infinity
+    }
+
     schools.style('display', '')
            .filter(function (d, i) {
              var fci = d['facilityconditionindexfci-']
