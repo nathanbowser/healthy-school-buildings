@@ -360,8 +360,8 @@
 
     fetch(function (err, _schools) {
       var heatmap = d3.scale.threshold()
-                            .domain([.2, .4, .6, .8])
-                            .range(['#7dc61e', '#a9a10a', '#d17813', '#e85434', '#e73a62'])
+                            .domain([.15, .3, .6, .75])
+                            .range(['#4f7a28', '#f5ec00', '#ff8647', '#d95000', '#b51a00'])
         , size = d3.scale.linear()
                          .domain(d3.extent(_schools, function (d) {
                            return parseInt(d.totalofstudents, 10)
