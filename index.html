@@ -176,7 +176,7 @@
 
     d.select('#fci')
      .text(function (d) {
-      var fci = d['facilityconditionindexfci-']
+      var fci = d['facilityconditionindexfci']
       if (fci === 'UNKNOWN') {
         return fci
       }
@@ -184,7 +184,7 @@
     })
 
     d.select('#cac')
-     .text(function (d) { return d3.format('$')(d['conditionassessmentcostcac-inmillionsof']) })
+     .text(function (d) { return d3.format('$')(d['conditionassessmentcostcac']) })
 
     return d.html()
   }
@@ -224,7 +224,7 @@
 
     schools.style('display', '')
            .filter(function (d, i) {
-             var fci = d['facilityconditionindexfci-']
+             var fci = d['facilityconditionindexfci']
                , hidden = fci < min || fci >= max //|| fci == 'UNKNOWN'
 
              if (hidden) {
@@ -381,7 +381,7 @@
                  return size(d.totalofstudents)
                })
                .style('fill', function (d) {
-                 return heatmap(d['facilityconditionindexfci-'])
+                 return heatmap(d['facilityconditionindexfci'])
                })
                .attr('transform', transform)
                .on('mouseover', tip.show)
