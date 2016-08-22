@@ -30,13 +30,14 @@ footer {
 
 /* Tooltip Style */
 .d3-tip {
-  line-height: 1;
-  font-weight: bold;
   padding: 12px;
   background: rgba(0, 0, 0, 0.6);
   color: #fff;
   border-radius: 2px;
   pointer-events: none;
+  width: 50%;
+  height: 300px;
+  font-size: 16px;
 }
 
 /* Creates a small triangle extender for the tooltip */
@@ -45,7 +46,6 @@ footer {
   display: inline;
   font-size: 10px;
   width: 100%;
-  line-height: 1;
   color: rgba(0, 0, 0, 0.8);
   position: absolute;
   pointer-events: none;
@@ -57,6 +57,11 @@ footer {
   top: -8px;
   left: 0;
   text-align: center;
+}
+
+.d3-tip label {
+  font-weight: 400;
+  font-size: 17px;
 }
 
 .neighborhoods path {
