@@ -100,7 +100,7 @@
 
         <form id="details" class="hide container">
           <fieldset>
-            <legend class="school"></legend>
+            <legend class="school text-center"></legend>
             <div class="col-md-4">
               <div class="field">
                 <label for="year">Year Built -- </label>
@@ -158,7 +158,7 @@
 
     d.select('legend')
      .text(function (d) {
-      return d.schoolnameulcs + ' (' + d.schooltype + ')'
+      return d.schoolnameulcs + ' - ' + d.schooltype + ' - ULCS ' + d.ulcscode
     })
 
     d.select('#econ')
