@@ -153,7 +153,8 @@
 <script>
 
   function details (data) {
-    var d = d3.select('#details')
+    var currency = d3.format('$,')
+      , d = d3.select('#details')
               .datum(data)
 
     d.select('legend')
@@ -171,19 +172,21 @@
      .text(function (d) { return d.yearbuilt })
 
     d.select('#crv')
-     .text(function (d) { return d.replacementcostcrv })
+     .text(function (d) { return currency(d.replacementcostcrv) })
 
     d.select('#cac')
-     .text(function (d) { return d3.format('$')(d['conditionassessmentcostcac']) })
+     .text(function (d) {
+      return currency(d['conditionassessmentcostcac'])
+    })
 
     d.select('#size')
-     .text(function (d) { return d['sq.ft.building']})
+     .text(function (d) { return d3.format(',')(d['sq.ft.building'])})
 
     d.select('#ulcs')
      .text(function (d) { return d.ulcscode })
 
     d.select('#total-students')
-     .text(function (d) { return d.totalofstudents })
+     .text(function (d) { return d3.format(',')(d.totalofstudents) })
 
     d.select('#fci')
      .text(function (d) {
