@@ -35,8 +35,7 @@ footer {
   color: #fff;
   border-radius: 2px;
   pointer-events: none;
-  width: 50%;
-  height: 300px;
+  width: 800px;
   font-size: 16px;
 }
 
@@ -62,6 +61,16 @@ footer {
 .d3-tip label {
   font-weight: 400;
   font-size: 17px;
+}
+
+.d3-tip div.demographics {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.d3-tip div.demographics svg text {
+  fill: #fff;
 }
 
 .neighborhoods path {
