@@ -205,8 +205,14 @@
       return d
     })
 
+    var _data = demo.filter(function (d) {
+                      return d[1]
+                    })
+
     var x = d3.scale.linear()
-                    .domain([0, data.totalofstudents])
+                    .domain([0, d3.sum(_data, function (d) {
+                                    return d[1]
+                                  })])
                     .range([0, demoWidth])
       , legendRadius = 5
       , legendHeight = demo.length * 18 + 10
@@ -218,9 +224,6 @@
                 .attr('height', height)
                 .select('g.bar')
                 .attr('transform', 'translate(0, 0)')
-      , _data = demo.filter(function (d) {
-                      return d[1]
-                    })
       , rect = svg.selectAll('rect')
                   .data(_data)
       , legend = d3.select('#demographics')
