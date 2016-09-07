@@ -140,7 +140,6 @@
       } else {
         var ulcs = decodeURIComponent(results[2].replace(/\+/g, ' '))
         d3.json('../data/json/profile/' + ulcs + '.json', function (obj) {
-          console.log(obj)
           d3.select('.school-name').text(obj.name)
           d3.select('.region').text(obj.region)
           d3.select('.address').text(obj.address)
@@ -193,8 +192,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h1 class="page-header">School Profile
-          <small class="school-name"></small>
+        <h1 class="page-header"><span class="school-name"></span>
+          <br /><small>Profile</small>
         </h1>
       </div>
     </div>
