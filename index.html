@@ -61,11 +61,11 @@
           <div class="slider">
             <div class="min">
               <label>Min FCI (<span id="min-fci-output">0%</span>)</label>
-              <input type="range" id="min-fci" min="0" max="100" value="0">
+              <input type="range" id="min-fci" min="0" max="100">
             </div>
             <div class="max">
               <label>Max FCI (<span id="max-fci-output">100%</span>)</label>
-              <input type="range" id="max-fci" min="0" max="100" value="100">
+              <input type="range" id="max-fci" min="0" max="100">
             </div>
           </div>
 
@@ -163,7 +163,9 @@
   </div>
 </body>
 <script>
-  var heatmap = d3.scale.threshold()
+  var userMinFCI = localStorage.getItem('minFCI') || 0
+    , userMaxFCI = localStorage.getItem('maxFCI') || 100
+    , heatmap = d3.scale.threshold()
                         .domain([.15, .3, .6, .75])
                         .range([{
                           color: '#4f7a28',
@@ -335,6 +337,10 @@
   }
 
   function filterSchools () {
+    if (!sifter) {
+      return
+    }
+
     var min = document.querySelector('#min-fci').value / 100
       , max = document.querySelector('#max-fci').value / 100
       , term = document.querySelector('#search').value.trim()
@@ -378,18 +384,24 @@
     return 'translate(' + centroid(d) + ')'
   }
 
+  function onSlide (bound) {
+    var value = d3.select('#' + bound + '-fci').property('value')
+    d3.select('#' + bound + '-fci-output').text(value + '%')
+    localStorage.setItem(bound + 'FCI', value)
+    filterSchools()
+  }
+
   // Handle the slider
   d3.select('#min-fci')
-    .on('input', function () {
-      d3.select('#min-fci-output').text(this.value + '%')
-      filterSchools()
-    })
+    .on('input', onSlide.bind(null, 'min'))
+    .property('value', userMinFCI)
 
   d3.select('#max-fci')
-    .on('input', function () {
-      d3.select('#max-fci-output').text(this.value + '%')
-      filterSchools()
-    })
+    .on('input', onSlide.bind(null, 'max'))
+    .property('value', userMaxFCI)
+
+  onSlide('min')
+  onSlide('max')
 
   d3.select('#search')
     .on('keyup', function () {
@@ -514,6 +526,7 @@
                .on('click', function (d) {
                  window.open('school/index.html?ulcs=' + d.ulcscode + '', '_self', false)
                })
+      filterSchools()
     })
   })
 
