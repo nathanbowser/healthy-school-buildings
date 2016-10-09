@@ -149,6 +149,10 @@
             </div>
           </fieldset>
 
+          <div class="lead-data">
+
+          </div>
+
           <div class="demographics">
             <label>Demographics</label>
             <svg id="demographics">
@@ -220,7 +224,7 @@
                                   })])
                     .range([0, demoWidth])
       , legendRadius = 5
-      , legendHeight = demo.length * 18 + 10
+      , legendHeight = demo.length * 10 + 10
       , barHeight = 30
       , height = barHeight + legendHeight
       , z = d3.scale.category10()
@@ -265,12 +269,18 @@
         .attr('x', legendRadius * 2)
 
     legend.attr('transform', function (d, i) {
-            return 'translate(0, ' + (i * 18) + ')'
-           })
+            if (i % 2 == 0) {
+              return 'translate(0, ' + (i * 10) + ')'
+            } else {
+              return 'translate(450, ' + ((i - 1) * 10) + ')'
+            }
+          })
+
     legend.select('text')
           .text(function (d) {
             return d[0] + ' - ' + d[2]
           })
+
     legend.select('circle')
           .style('fill', function (d, i) {
             return z(i)
@@ -278,8 +288,27 @@
 
     d.select('legend')
      .text(function (d) {
-      return d.schoolnameulcs + ' - ' + d.schooltype + ' - ULCS ' + d.ulcscode
-    })
+       return d.schoolnameulcs + ' - ' + d.schooltype + ' - ULCS ' + d.ulcscode
+     })
+
+    // Fill in lead data
+    d.select('.lead-data')
+     .html(function (d) {
+       if (d.lead) {
+         return '<h4>Current SDP Action Level for Lead in water is 15 PPB</h4>' +
+                '<hr />' +
+                '<h5>Drinking water outlets above action level:</h4>' +
+                d.lead.map(function (l) {
+                  return '<p>' + l['numberelevated-aaof15ppb'] +
+                          ' [' + d3.format('%')(l['numberelevated-aaof15ppb'] / l.totalofsamplescollected) + ']' +
+                          ' - samples collected on ' + l.datesampled +
+                          '</p>'
+                }).join('')
+       } else {
+         return '* No lead data available'
+       }
+       return 'nathan'
+     })
 
     d.select('#econ')
       .text(function (d) { return d.cepeconomicallydisadvantagedrate })
@@ -320,19 +349,40 @@
   }
 
   function fetch (next) {
-    var url = 'https://spreadsheets.google.com/feeds/list/13lKZiT0nbnswab36cBlV37_Wb6ppikbHwzcx14Rvkog/default/public/values?alt=json'
+    var url = 'https://spreadsheets.google.com/feeds/list/13lKZiT0nbnswab36cBlV37_Wb6ppikbHwzcx14Rvkog/1/public/values?alt=json'
     d3.json(url, function (err, response) {
       if (err) {
         return next(err)
       }
-      next(null, response.feed.entry.map(function (entry) {
+
+      var schools = response.feed.entry.map(function (entry) {
         return Object.keys(entry).reduce(function (p, c) {
           if (c.indexOf('gsx$') === 0) {
             p[c.slice(4)] = entry[c].$t
           }
           return p
         }, {})
-      }))
+      })
+
+      // Lead data is in page 2
+      d3.json('https://spreadsheets.google.com/feeds/list/13lKZiT0nbnswab36cBlV37_Wb6ppikbHwzcx14Rvkog/2/public/values?alt=json', function (err, response) {
+        var lead = response.feed.entry.map(function (entry) {
+          return Object.keys(entry).reduce(function (p, c) {
+            if (c.indexOf('gsx$') === 0) {
+              p[c.slice(4)] = entry[c].$t
+            }
+            return p
+          }, {})
+        })
+        lead.forEach(function (d) {
+          var s = schools.filter(function (s) { return s.ulcscode == d.ulcs })[0]
+          if (s) {
+            s.lead = s.lead || []
+            s.lead.push(d) // Can have multiple sample dates
+          }
+        })
+        next(null, schools)
+      })
     })
   }
 

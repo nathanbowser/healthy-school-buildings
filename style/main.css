@@ -12,7 +12,7 @@ footer {
 }
 
 #navbar-toggle-cbox:checked ~ .collapse {
-    display: block;
+  display: block;
 }
 
 /* Page specific -- School */
@@ -63,10 +63,33 @@ footer {
   font-size: 17px;
 }
 
+.d3-tip .lead-data {
+  background-color: #eee;
+  border-radius: 10px;
+  padding: 10px;
+  color: #CD594A;
+}
+
+.d3-tip .lead-data hr {
+  margin-top: 0;
+  margin-bottom: 0;
+  border: 0;
+  border-top: 1px solid #ccc;
+}
+
+.d3-tip .lead-data h4 {
+  font-size: 17px;
+}
+
+.d3-tip .lead-data p {
+  margin: 0;
+  padding-left: 20px;
+}
+
 .d3-tip div.demographics {
   width: 100%;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .d3-tip div.demographics svg text {
