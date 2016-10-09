@@ -12,6 +12,8 @@
   <script src="//d3js.org/d3.v3.min.js"></script>
   <script src="js/sifter.min.js"></script>
   <script src="js/d3-tip.js"></script>
+  <script src="js/load-schools.js"></script>
+  <script src="js/demographics.js"></script>
 </head>
 <body>
   <!-- Navigation -->
@@ -196,30 +198,7 @@
       , d = d3.select('#details')
               .datum(data)
       , demoWidth = 800 - 30
-      , offset = 0
-
-    var demo = [
-      ['White', data['whitenothispanic-count'], data['whitenothispanic-percentage']],
-      ['Native Hawaiian or Other Pacific', data['nativehawaiianorotherpacificislandernothispanic-count'], data['nativehawaiianorotherpacificislandernothispanic-percentage']],
-      ['Multi Race/Other', data['multi-racetwoormoreracesnothispanic-count'], data['multi-racetwoormoreracesnothispanic-percentage']],
-      ['Hispanic', data['hispanicanyrace-count'], data['hispanicanyrace-percentage']],
-      ['African American', data['blackafricanamericannothispanic-count'], data['blackafricanamericannothispanic-percentage']],
-      ['Asian', data['asiannothispanic-count'], data['asiannothispanic-percentage']],
-      ['American Indian/Alaskan', data['americanindianalaskannativenothispanic-count'], data['americanindianalaskannativenothispanic-percentage']]
-    ].filter(function (d) {
-      return d[1]
-    }).sort(function (a, b) {
-      return b[1] - a[1]
-    }).map(function (d) {
-      d[3] = offset
-      d[1] = parseInt(d[1], 10)
-      offset += parseInt(d[1], 10)
-      return d
-    })
-
-    var _data = demo.filter(function (d) {
-                      return d[1]
-                    })
+      , _data = demographicsData(data)
 
     var x = d3.scale.linear()
                     .domain([0, d3.sum(_data, function (d) {
@@ -227,7 +206,7 @@
                                   })])
                     .range([0, demoWidth])
       , legendRadius = 5
-      , legendHeight = demo.length * 10 + 10
+      , legendHeight = _data.length * 10 + 10
       , barHeight = 30
       , height = barHeight + legendHeight
       , z = d3.scale.category10()
@@ -351,43 +330,7 @@
     return d.html()
   }
 
-  function fetch (next) {
-    var url = 'https://spreadsheets.google.com/feeds/list/13lKZiT0nbnswab36cBlV37_Wb6ppikbHwzcx14Rvkog/1/public/values?alt=json'
-    d3.json(url, function (err, response) {
-      if (err) {
-        return next(err)
-      }
 
-      var schools = response.feed.entry.map(function (entry) {
-        return Object.keys(entry).reduce(function (p, c) {
-          if (c.indexOf('gsx$') === 0) {
-            p[c.slice(4)] = entry[c].$t
-          }
-          return p
-        }, {})
-      })
-
-      // Lead data is in page 2
-      d3.json('https://spreadsheets.google.com/feeds/list/13lKZiT0nbnswab36cBlV37_Wb6ppikbHwzcx14Rvkog/2/public/values?alt=json', function (err, response) {
-        var lead = response.feed.entry.map(function (entry) {
-          return Object.keys(entry).reduce(function (p, c) {
-            if (c.indexOf('gsx$') === 0) {
-              p[c.slice(4)] = entry[c].$t
-            }
-            return p
-          }, {})
-        })
-        lead.forEach(function (d) {
-          var s = schools.filter(function (s) { return s.ulcscode == d.ulcs })[0]
-          if (s) {
-            s.lead = s.lead || []
-            s.lead.push(d) // Can have multiple sample dates
-          }
-        })
-        next(null, schools)
-      })
-    })
-  }
 
   function filterSchools () {
     if (!sifter) {
@@ -551,7 +494,7 @@
         map.transition().duration(350).call(zoom.event)
       })
 
-    fetch(function (err, _schools) {
+    loadSchools(function (err, _schools) {
       var size = d3.scale.linear()
                          .domain(d3.extent(_schools, function (d) {
                            return parseInt(d.totalofstudents, 10)
