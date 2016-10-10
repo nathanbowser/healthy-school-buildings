@@ -25,6 +25,9 @@
   <script>
     function images (ulcs) {
       d3.json('../data/image/' + ulcs + '/images.json', function (err, images) {
+        if (err || !images) {
+          return
+        }
         d3.select('.images')
           .selectAll('.image')
           .data(images)
@@ -43,8 +46,43 @@
       })
     }
 
-    function reports (ulcs) {
-      PDFJS.getDocument('../data/pdf/report/' + ulcs + '.pdf').then(function (pdf) {
+    function lead (ulcs, school) {
+      var container = d3.select('.lead').select('.data')
+      d3.json('../data/lead/' + ulcs + '/pdfs.json', function (err, pdfs) {
+        if (pdfs) {
+          ;(pdfs.results || []).forEach(function (p) {
+            pdfPreview('../data/lead/' + ulcs + '/' + p, d3.select('.lead-reports'))
+          })
+          if (pdfs.letter) {
+            pdfPreview('../data/lead/' + ulcs + '/' + pdfs.letter, d3.select('.lead-reports'))
+          }
+        }
+        if (school.lead) {
+          container.select('table tbody')
+                   .selectAll('tr')
+                   .data(school.lead)
+                   .enter()
+                   .append('tr')
+                   .selectAll('td')
+                   .data(function (d) {
+                     return [d.datesampled,
+                             d.numberbelowtheaaof15ppb,
+                             d['numberelevated-aaof15ppb'],
+                             d.numberofoutletstested,
+                             d.totalofsamplescollected]
+                   })
+                   .enter()
+                   .append('td')
+                   .html(String)
+
+        } else {
+         container.html('Lead data not available')
+        }
+      })
+    }
+
+    function pdfPreview (file, container) {
+      PDFJS.getDocument(file).then(function (pdf) {
         function handlePage (page) {
           var viewport = page.getViewport(.5)
             , canvas = document.createElement('canvas')
@@ -61,11 +99,11 @@
                 //context.fillStyle = '#fff'
                 //context.fillRect(0, 0, canvas.width, canvas.height)
 
-                d3.select('.reports')
+                container
                   .append('div')
                     .attr('class', 'col-sm-3 col-xs-6')
                     .append('a')
-                      .attr('href', '../data/pdf/report/' + ulcs + '.pdf')
+                      .attr('href', file)
                       .append('img')
                       .attr('class', 'img-responsive')
                       .attr('src', canvas.toDataURL())
@@ -75,6 +113,10 @@
       }, function (err) {
         // No reports
       })
+    }
+
+    function reports (ulcs) {
+      pdfPreview('../data/pdf/report/' + ulcs + '.pdf', d3.select('.reports'))
     }
 
     function demographics (data) {
@@ -159,6 +201,7 @@
             demographics(demographicsData(school))
             reports(ulcs)
             images(ulcs)
+            lead(ulcs, school)
           }
         })
 
@@ -242,6 +285,35 @@
         <div class="demographics-chart"></div>
       </div>
     </div>
+
+    <div class="row lead">
+      <div class="col-lg-12">
+        <h3 class="page-header">Lead Data</h3>
+        <div class="data">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Sample Date</th>
+                <th>Below 15 ppb</th>
+                <th>Above 15 ppb</th>
+                <th>Outlets tested</th>
+                <th>Samples Collected</th>
+              </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+        </div>
+        <div>
+          <h4>Letters and sampling results (PDFs)</h4>
+          <div class="lead-reports">
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
 
     <div class="row images">
       <div class="col-lg-12">
