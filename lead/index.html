@@ -10,8 +10,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
   <link href="../style/main.css" rel="stylesheet">
   <script src="//d3js.org/d3.v3.min.js"></script>
-  <script src="../js/pdf.js"></script>
-
+  <script src="../js/load-schools.js"></script>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -20,9 +19,22 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <script>
+  <style>
+    div.chart{
+      text-align: center;
+    }
+    .axis {
+      font: 10px sans-serif;
+    }
 
-  </script>
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+  </style>
 
 </head>
 <body>
@@ -61,6 +73,31 @@
     <div class="row">
       <div class="col-lg-12">
         <h1 class="page-header">Lead Data</h1>
+        <div class="chart">
+          <svg width="960" height="500"></svg>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12">
+        <table class="table table-striped table-hover">
+          <thead>
+            <tr>
+              <th>School Name</th>
+              <th>ULCS</th>
+              <th>Sample Date</th>
+              <th>Below 15 ppb</th>
+              <th>Above 15 ppb</th>
+              <th>Elevated Percentage</th>
+              <th>Outlets tested</th>
+              <th>Samples Collected</th>
+            </tr>
+          </thead>
+          <tbody>
+
+          </tbody>
+        </table>
       </div>
     </div>
 
@@ -101,3 +138,96 @@
 </body>
 
 </html>
+<script type="text/javascript">
+  loadSchools(function (err, schools) {
+    var data = schools.filter(function (s) {
+                        return s.lead
+                      })
+                      .reduce(function (p, c) {
+                        c.lead.forEach(function (l, i) {
+                          c._lead = c.lead[i]
+                          c._lead.percentElevated = c._lead['numberelevated-aaof15ppb'] / c._lead.totalofsamplescollected
+                          p.push(c)
+                        })
+                        return p
+                      }, [])
+
+    d3.select('.table tbody')
+      .selectAll('tr')
+      .data(data)
+      .enter()
+      .append('tr')
+      .sort(function (a, b) {
+        return b._lead.percentElevated - a._lead.percentElevated
+      })
+      .selectAll('td')
+      .data(function (d) {
+        return [d.schoolnameulcs,
+                d.ulcscode,
+                d._lead.datesampled,
+                d._lead.numberbelowtheaaof15ppb,
+                d._lead['numberelevated-aaof15ppb'],
+                d3.format('%')(d._lead.percentElevated),
+                d._lead.numberofoutletstested,
+                d._lead.totalofsamplescollected]
+        return
+      })
+      .enter()
+      .append('td')
+      .text(String)
+
+    var svg = d3.select('svg')
+      , margin = {top: 20, right: 20, bottom: 30, left: 40}
+      , width = +svg.attr('width') - margin.left - margin.right
+      , height = +svg.attr('height') - margin.top - margin.bottom
+      , x = d3.scale.ordinal()
+              .rangeRoundBands([0, width], .1)
+              .domain(data.map(function (d) {
+                return d.ulcscode
+              }))
+      , y = d3.scale.linear()
+                    .rangeRound([height, 0])
+                    .domain([0, d3.max(data, function (d) { return d._lead.percentElevated })])
+      , g = svg.append('g')
+                 .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+      , xAxis = d3.svg.axis()
+                      .scale(x)
+                      .orient("bottom")
+      , yAxis = d3.svg.axis()
+                     .scale(y)
+                     .orient('left')
+                     .ticks(10)
+                     .tickFormat(d3.format('%'))
+
+      g.append('g')
+            .attr('class', 'x axis')
+            .attr('transform', 'translate(0,' + height + ')')
+            .call(xAxis)
+          .selectAll('text')
+            .style('text-anchor', 'end')
+            .attr('dx', '-.8em')
+            .attr('dy', '-.55em')
+            .attr('transform', 'rotate(-90)')
+
+      g.append('g')
+           .attr('class', 'y axis')
+           .call(yAxis)
+         .append('text')
+           .attr('transform', 'rotate(-90)')
+           .attr('y', 6)
+           .attr('dy', '.71em')
+           .style('text-anchor', 'end')
+           .text('Percent Elevated (%)')
+
+
+      g.selectAll('bar')
+          .data(data)
+        .enter().append('rect')
+          .style('fill', 'steelblue')
+          .attr('x', function (d) { return x(d.ulcscode); })
+          .attr('width', x.rangeBand())
+          .attr('y', function (d) { return y(d._lead.percentElevated); })
+          .attr('height', function(d) { return height - y(d._lead.percentElevated); });
+
+  })
+</script>
