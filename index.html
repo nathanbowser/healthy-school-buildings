@@ -72,6 +72,10 @@
               <label>Max FCI (<span id="max-fci-output">100%</span>)</label>
               <input type="range" id="max-fci" min="0" max="100">
             </div>
+            <div class="lead-only">
+              <label for="lead-only">Lead Only</label>
+              <input type="checkbox" id="lead-only">
+            </div>
           </div>
 
           <div id="map"></div>
@@ -339,6 +343,7 @@
 
     var min = document.querySelector('#min-fci').value / 100
       , max = document.querySelector('#max-fci').value / 100
+      , leadOnly = document.querySelector('#lead-only').checked
       , term = document.querySelector('#search').value.trim()
       , sifted = sifter.search(term, {
                          fields: ['schoolnameulcs', '_schoolnameulcs', 'ulcs', 'streetaddress', 'zipcode']
@@ -359,6 +364,10 @@
 
              if (hidden) {
                return true
+             }
+
+             if (leadOnly) {
+               return !d.lead
              }
 
              return sifted.indexOf(i) === -1
@@ -399,10 +408,11 @@
   onSlide('min')
   onSlide('max')
 
+  d3.select('#lead-only')
+    .on('change',filterSchools)
+
   d3.select('#search')
-    .on('keyup', function () {
-      filterSchools()
-    })
+    .on('keyup', filterSchools)
 
   var width = document.querySelector('.map-container').offsetWidth
     , height = window.outerHeight - 300
