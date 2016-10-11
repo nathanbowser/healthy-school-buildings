@@ -175,6 +175,13 @@
       .enter()
       .append('td')
       .text(String)
+      .filter(function (d, i) {
+        return i === 0 || i === 1
+      })
+      .html(function (d) {
+        var ulcs = d3.select(this.parentNode).datum().ulcscode
+        return '<a href="../school/index.html?ulcs=' + ulcs + '">' + d + '</a>'
+      })
 
     var svg = d3.select('svg')
       , margin = {top: 20, right: 20, bottom: 30, left: 40}
@@ -218,7 +225,6 @@
            .attr('dy', '.71em')
            .style('text-anchor', 'end')
            .text('Percent Elevated (%)')
-
 
       g.selectAll('bar')
           .data(data)
