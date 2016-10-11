@@ -145,9 +145,17 @@
                       })
                       .reduce(function (p, c) {
                         c.lead.forEach(function (l, i) {
-                          c._lead = c.lead[i]
-                          c._lead.percentElevated = c._lead['numberelevated-aaof15ppb'] / c._lead.totalofsamplescollected
-                          p.push(c)
+                          p.push({
+                            ulcscode: c.ulcscode,
+                            schoolnameulcs: c.schoolnameulcs,
+                            id: c.ulcscode + '-' + i,
+                            datesampled: l.datesampled,
+                            below: l.numberbelowtheaaof15ppb,
+                            above: l['numberelevated-aaof15ppb'],
+                            percentElevated: l['numberelevated-aaof15ppb'] / l.totalofsamplescollected,
+                            numberofoutletstested: l.numberofoutletstested,
+                            totalofsamplescollected: l.totalofsamplescollected
+                          })
                         })
                         return p
                       }, [])
@@ -158,18 +166,18 @@
       .enter()
       .append('tr')
       .sort(function (a, b) {
-        return b._lead.percentElevated - a._lead.percentElevated
+        return b.percentElevated - a.percentElevated
       })
       .selectAll('td')
       .data(function (d) {
         return [d.schoolnameulcs,
                 d.ulcscode,
-                d._lead.datesampled,
-                d._lead.numberbelowtheaaof15ppb,
-                d._lead['numberelevated-aaof15ppb'],
-                d3.format('%')(d._lead.percentElevated),
-                d._lead.numberofoutletstested,
-                d._lead.totalofsamplescollected]
+                d.datesampled,
+                d.below,
+                d.above,
+                d3.format('%')(d.percentElevated),
+                d.numberofoutletstested,
+                d.totalofsamplescollected]
         return
       })
       .enter()
@@ -190,16 +198,20 @@
       , x = d3.scale.ordinal()
               .rangeRoundBands([0, width], .1)
               .domain(data.map(function (d) {
-                return d.ulcscode
+                console.log(d.id)
+                return d.id
               }))
       , y = d3.scale.linear()
                     .rangeRound([height, 0])
-                    .domain([0, d3.max(data, function (d) { return d._lead.percentElevated })])
+                    .domain([0, d3.max(data, function (d) { return d.percentElevated })])
       , g = svg.append('g')
                  .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
       , xAxis = d3.svg.axis()
                       .scale(x)
-                      .orient("bottom")
+                      .orient('bottom')
+                      .tickFormat(function (d) {
+                        return d.substring(0, 4)
+                      })
       , yAxis = d3.svg.axis()
                      .scale(y)
                      .orient('left')
@@ -230,10 +242,10 @@
           .data(data)
         .enter().append('rect')
           .style('fill', 'steelblue')
-          .attr('x', function (d) { return x(d.ulcscode); })
+          .attr('x', function (d) { return x(d.id) })
           .attr('width', x.rangeBand())
-          .attr('y', function (d) { return y(d._lead.percentElevated); })
-          .attr('height', function(d) { return height - y(d._lead.percentElevated); });
+          .attr('y', function (d) { return y(d.percentElevated) })
+          .attr('height', function(d) { return height - y(d.percentElevated) })
 
   })
 </script>
