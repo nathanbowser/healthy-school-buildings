@@ -146,29 +146,29 @@
                       .reduce(function (p, c) {
                         c.lead.forEach(function (l, i) {
                           p.push({
-                            ulcscode: c.ulcscode,
                             schoolnameulcs: c.schoolnameulcs,
-                            id: c.ulcscode + '-' + i,
+                            ulcscode: c.ulcscode,
                             datesampled: l.datesampled,
                             below: l.numberbelowtheaaof15ppb,
                             above: l['numberelevated-aaof15ppb'],
                             percentElevated: l['numberelevated-aaof15ppb'] / l.totalofsamplescollected,
                             numberofoutletstested: l.numberofoutletstested,
-                            totalofsamplescollected: l.totalofsamplescollected
+                            totalofsamplescollected: l.totalofsamplescollected,
+                            id: c.ulcscode + '-' + i
                           })
                         })
                         return p
                       }, [])
 
-    d3.select('.table tbody')
-      .selectAll('tr')
-      .data(data)
-      .enter()
-      .append('tr')
-      .sort(function (a, b) {
-        return b.percentElevated - a.percentElevated
-      })
-      .selectAll('td')
+    var tr = d3.select('.table tbody')
+               .selectAll('tr')
+               .data(data)
+               .enter()
+               .append('tr')
+               .sort(function (a, b) {
+                 return b.percentElevated - a.percentElevated
+               })
+    tr.selectAll('td')
       .data(function (d) {
         return [d.schoolnameulcs,
                 d.ulcscode,
@@ -178,7 +178,6 @@
                 d3.format('%')(d.percentElevated),
                 d.numberofoutletstested,
                 d.totalofsamplescollected]
-        return
       })
       .enter()
       .append('td')
@@ -191,6 +190,14 @@
         return '<a href="../school/index.html?ulcs=' + ulcs + '">' + d + '</a>'
       })
 
+    d3.selectAll('thead th')
+      .data(Object.keys(data[0]))
+      .on('click', function (k) {
+        tr.sort(function (a, b) {
+          return b[k] - a[k]
+        })
+      })
+
     var svg = d3.select('svg')
       , margin = {top: 20, right: 20, bottom: 30, left: 40}
       , width = +svg.attr('width') - margin.left - margin.right
@@ -198,7 +205,6 @@
       , x = d3.scale.ordinal()
               .rangeRoundBands([0, width], .1)
               .domain(data.map(function (d) {
-                console.log(d.id)
                 return d.id
               }))
       , y = d3.scale.linear()
