@@ -346,7 +346,7 @@
       , leadOnly = document.querySelector('#lead-only').checked
       , term = document.querySelector('#search').value.trim()
       , sifted = sifter.search(term, {
-                         fields: ['schoolnameulcs', '_schoolnameulcs', 'ulcs', 'streetaddress', 'zipcode']
+                         fields: ['schoolnameulcs', '_schoolnameulcs', 'ulcscode', 'streetaddress', 'zipcode']
                        })
                        .items
                        .map(function (r) {
