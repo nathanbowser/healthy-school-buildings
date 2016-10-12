@@ -11,6 +11,7 @@
   <link href="../style/main.css" rel="stylesheet">
   <script src="//d3js.org/d3.v3.min.js"></script>
   <script src="../js/load-schools.js"></script>
+  <script src="../js/d3-tip.js"></script>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -32,6 +33,10 @@
       fill: none;
       stroke: #000;
       shape-rendering: crispEdges;
+    }
+
+    .d3-tip {
+      width: 400px;
     }
 
   </style>
@@ -223,6 +228,15 @@
                      .orient('left')
                      .ticks(10)
                      .tickFormat(d3.format('%'))
+      , tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                  return '<strong>School name</strong> ' + d.schoolnameulcs + '<br />' +
+                         '<strong>Sample Date</strong> ' + d.datesampled
+                })
+
+      g.call(tip)
 
       g.append('g')
             .attr('class', 'x axis')
@@ -245,13 +259,16 @@
            .text('Percent Elevated (%)')
 
       g.selectAll('bar')
-          .data(data)
-        .enter().append('rect')
-          .style('fill', 'steelblue')
-          .attr('x', function (d) { return x(d.id) })
-          .attr('width', x.rangeBand())
-          .attr('y', function (d) { return y(d.percentElevated) })
-          .attr('height', function(d) { return height - y(d.percentElevated) })
+       .data(data)
+       .enter()
+       .append('rect')
+         .on('mouseover', tip.show)
+         .on('mouseout', tip.hide)
+         .style('fill', 'steelblue')
+         .attr('x', function (d) { return x(d.id) })
+         .attr('width', x.rangeBand())
+         .attr('y', function (d) { return y(d.percentElevated) })
+         .attr('height', function(d) { return height - y(d.percentElevated) })
 
   })
 </script>
