@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  {% include common/head %}
+  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base lead-summary">
+    <div class="mdl-layout__container">
+      <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+        {% include common/header %}
+
+        <main class="mdl-layout__content">
+          <h1>Lead Data</h1>
+
+          <div class="mdl-grid">
+            <div class="mdl-cell--12-col chart-container">
+              <div class="ct-chart ct-perfect-fourth"></div>
+            </div>
+          </div>
+
+          <div class="mdl-grid">
+            <div class="mdl-layout-spacer"></div>
+            <div class="mdl-cell--10-col ">
+              <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+                <thead>
+                  <tr>
+                    <th class="mdl-data-table__cell--non-numeric">School Name</th>
+                    <th>ULCS</th>
+                    <th class="mdl-data-table__cell--non-numeric">Sample Date</th>
+                    <th>Below 15 ppb</th>
+                    <th>Above 15 ppb</th>
+                    <th>Elevated Percentage</th>
+                    <th>Outlets tested</th>
+                    <th>Samples Collected</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for ld in lead-summary-2016 %}
+                    <tr>
+                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "School Name"}}</td>
+                      <td>{{ld | get: "ULCS"}}</td>
+                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Date Sampled"}}</td>
+                      <td>{{ld | get: "Below"}}</td>
+                      <td>{{ld | get: "Above"}}</td>
+                      <td>{{ld | get: "Elevated Percentage"}}</td>
+                      <td>{{ld | get: "Number of Outlets Tested"}}</td>
+                      <td>{{ld | get: "Total # of Samples Collected"}}</td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+            <div class="mdl-layout-spacer"></div>
+          </div>
+
+          <div class="row">
+            <h3 class="page-header">Other Relevant Information
+              <small>Articles, videos, newspaper reports, etc.</small>
+            </h3>
+            <ul>
+              <li>
+                <a href="http://www.nbcnews.com/news/us-news/lead-your-water-are-federal-tests-missing-poison-pipes-n621736">
+                  NBC News Story - August 2016 —  Lead in Your Water. Are Federal Tests Missing Poison in The Pipes
+                </a>
+              </li>
+              <li>
+                <a href="https://www.wbez.org/shows/wbez-news/is-cps-following-best-practices-when-it-comes-to-testing-school-water/08ef13d5-3197-442a-a799-b906c02e4407">
+                  May 10, 2016 news story about Chicago - Is it Following Best Practices?
+                </a>
+              </li>
+              <li>
+                <a href="/data/lead/lead-service-lines-study-20130723.pdf">
+                  2013 Report in the journal Environmental Science and Technology - This is a technical/scientific article looking in more detail at sampling and protocol issues
+                </a>
+              </li>
+            </ul>
+          </div>
+        </main>
+      </div>
+
+    </div>
+
+    {% include common/scripts %}
+  </body>
+</html>
+<script type="text/javascript">
+  window.data = {
+    lead: {{lead-summary-2016 | json}}
+  }
+</script>

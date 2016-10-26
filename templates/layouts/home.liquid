@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  {% include common/head %}
+  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base about">
+    <div class="mdl-layout__container">
+      <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+        {% include common/header %}
+        <main class="mdl-layout__content">
+
+          <div class="page-content">
+            <div class="mdl-grid">
+              <div class="mdl-layout-spacer"></div>
+              <a href="{{site.basedir}}/facility-conditions" class="mdl-navigation__link mdl-card mdl-shadow--2dp mdl-cell--3-col mdl-cell--12-col-phone mdl-cell--6-tablet map">
+                <div class="mdl-card__title mdl-card--expand"></div>
+                <div class="mdl-card__actions">
+                  <span>School Facility Conditions</span>
+                </div>
+              </a>
+              <div class="mdl-layout-spacer"></div>
+              <a href="{{site.basedir}}/lead" class="mdl-navigation__link mdl-card mdl-shadow--2dp mdl-cell--3-col mdl-cell--12-col-phone mdl-cell--6-tablet lead  ">
+                <div class="mdl-card__title mdl-card--expand"></div>
+                <div class="mdl-card__actions">
+                  <span>Lead Data</span>
+                </div>
+              </a>
+              <div class="mdl-layout-spacer"></div>
+              <a href="{{site.basedir}}/comparisons" class="mdl-navigation__link mdl-card mdl-shadow--2dp mdl-cell--3-col mdl-cell--12-col-phone mdl-cell--6-tablet comparisons  ">
+                <div class="mdl-card__title mdl-card--expand"></div>
+                <div class="mdl-card__actions">
+                  <span>US Comparisons</span>
+                </div>
+              </a>
+              <div class="mdl-layout-spacer"></div>
+            </div>
+            <div class="mdl-grid">
+              <div class="mdl-layout-spacer"></div>
+              <div class="mdl-grid mdl-cell--10-col">
+                {{contents}}
+              </div>
+              <div class="mdl-layout-spacer"></div>
+            </div>
+          </div>
+        </main>
+      </div>
+
+      <!-- {% include common/footer %} -->
+    </div>
+
+    {% include common/scripts %}
+  </body>
+</html>

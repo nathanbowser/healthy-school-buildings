@@ -1,0 +1,391 @@
+ULCS,School Name,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test Results
+1470,Locke ES,1470-03-WC-007,Outside girl's room,7/28/2016,0.59,BA
+1470,Locke ES,1470-03-WC-011,Outside boy's room,7/28/2016,3,BA
+1470,Locke ES,1470-02-WC-015,Across from Room 207,7/28/2016,0.64,BA
+1470,Locke ES,1470-02-WC-025,Across from Room 209,7/28/2016,3.1,BA
+1470,Locke ES,1470-01-WC-034,Outside boy's room,7/28/2016,5.5,BA
+1470,Locke ES,1470-01-DW-053,Room 117,7/28/2016,3.1,BA
+1470,Locke ES,1470-01-WC-057,In main entrance area - near auditorium,7/28/2016,0.48,BA
+1470,Locke ES,1470-01-DW-063,Gymnasium,7/28/2016,18.5,AA
+1490,Blankenburg,1490-00-DW-002,Outside Building Engineer's office - Left,8/11/2016,0.89,BA
+1490,Blankenburg,1490-00-DW-003,Outside Building Engineer's office - Center,8/11/2016,2.4,BA
+1490,Blankenburg,1490-00-DW-004,Outside Building Engineer's office - Right,8/11/2016,3,BA
+1490,Blankenburg,1490-00-DW-007,Across from Gym - Left - near Room 027,8/11/2016,5.8,BA
+1490,Blankenburg,1490-00-DW-009,Across From Gym - Right - near Room 027,8/11/2016,3.6,BA
+1490,Blankenburg,1490-00-DW-010,Across from Gym - Left - Near Room 030,8/11/2016,2.2,BA
+1490,Blankenburg,1490-00-DW-012,Across from Gym - Right - Near Room 030,8/11/2016,2.1,BA
+1490,Blankenburg,1490-00-DW-013,Across from IMC Room 003B - left,8/11/2016,9.5,BA
+1490,Blankenburg,1490-00-DW-015,Across from IMC Room 003B - right,8/11/2016,3.6,BA
+1490,Blankenburg,1490-01-WC-016,Outside Room 003,8/11/2016,0.59,BA
+1490,Blankenburg,1490-01-DW-024,In Room 004 (K-4),8/11/2016,1.3,BA
+1490,Blankenburg,1490-01-WC-028,Outside Room 005,8/11/2016,6.2,BA
+1490,Blankenburg,1490-02-DW-032,Outside Room 014,8/11/2016,3.5,BA
+1490,Blankenburg,1490-02-DW-038,Outside Room 010,8/11/2016,0.95,BA
+1490,Blankenburg,1490-03-DW-047,Outside Room 018,8/11/2016,3,BA
+1490,Blankenburg,1490-02-DW-051,Outside Room 026,8/11/2016,2.9,BA
+1490,Blankenburg,1490-00-DW-078N,Day Care Room 027,8/11/2016,0.81,BA
+1490,Blankenburg,1490-00-DW-079N,Day Care Room 029,8/11/2016,3.3,BA
+2010,Ben Franklin HS,2010-00-DW-006,Center of Lobby Area - Left - Used by Day Care,8/18/2016,7.4,BA
+2010,Ben Franklin HS,2010-00-DW-007,Center of Lobby Area - Right - Used by Day Care,8/18/2016,6.9,BA
+2010,Ben Franklin HS,2010-01-DW-015,Outside Room 100,8/18/2016,5.4,BA
+2010,Ben Franklin HS,2010-01-DW-021,Gymnasium - East End,8/18/2016,2.4,BA
+2010,Ben Franklin HS,2010-01-DW-031,Outside Room 115 - Left,8/18/2016,12.5,BA
+2010,Ben Franklin HS,2010-01-DW-032,Outside Room 115 - Right,8/18/2016,36,AA
+2010,Ben Franklin HS,2010-02-DW-041,Outside Room 211 - Left,8/18/2016,13.1,BA
+2010,Ben Franklin HS,2010-02-DW-042,Outside Room 211 - Right,8/18/2016,10.9,BA
+2010,Ben Franklin HS,2010-02-DW-045,Outside Room 203 - Left (right side has been removed),8/18/2016,5.8,BA
+2010,Ben Franklin HS,2010-03-DW-050,Outside Room 305 - Right (left side has been removed),8/18/2016,12,BA
+2010,Ben Franklin HS,2010-03-DW-051,Outside Room 317,8/18/2016,15.2,AA
+2010,Ben Franklin HS,2010-03-DW-053,Outside Room 321 - Right (left side has been removed),8/18/2016,28.1,AA
+2010,Ben Franklin HS,2010-04-DW-054,Outside Room 414,8/18/2016,13.2,BA
+2010,Ben Franklin HS,2010-04-DW-056,Outside Room 406,8/18/2016,7.6,BA
+2010,Ben Franklin HS,2010-04-DW-057,Across from Room 403,8/18/2016,6.9,BA
+2010,Ben Franklin HS,2010-05-DW-060,Outside Room 505,8/18/2016,7.4,BA
+2010,Ben Franklin HS,2010-05-DW-061,Across From Room 503,8/18/2016,16.6,AA
+2010,Ben Franklin HS,2010-06-DW-062,Cafeteria - Kitchen end of room,8/18/2016,16.2,AA
+2010,Ben Franklin HS,2010-06-WC-074,Cafeteria - Elevator end of room - facing kitchen,8/18/2016,15.2,AA
+2010,Ben Franklin HS,2010-06-DW-077,Teachers Lounge - Left,8/18/2016,32.8,AA
+2010,Ben Franklin HS,2010-00-DW-296N,Across from Room 7C - left,8/18/2016,7.9,BA
+2010,Ben Franklin HS,2010-00-DW-297N,Across from Room 7C - right,8/18/2016,5.4,BA
+2010,Ben Franklin HS,2010-00-DW-298N,Across from Room 13,8/18/2016,16,AA
+2010,Ben Franklin HS,2010-00-DW-299N,Outside of Room 17 - left,8/18/2016,19.7,AA
+2010,Ben Franklin HS,2010-00-DW-300N,Outside of Room 17 - right,8/18/2016,8.7,BA
+2010,Ben Franklin HS,2010-03-DW-301N,Across from Room 303,8/18/2016,12.9,BA
+2010,Ben Franklin HS,2010-05-DW-302N,Across From Room 508,8/18/2016,56.1,AA
+2010,Ben Franklin HS,2010-06-DW-303N,In the cafeteria - on the far wall past the kitchen,8/18/2016,22.1,AA
+2010,Ben Franklin HS,2010-01-DW-304N,On the west side of the gym,8/18/2016,5.8,BA
+2010,Ben Franklin HS,2010-01-DW-305N,Basement - outside of Room 5D,8/18/2016,36,AA
+2010,Ben Franklin HS,2010-01-HS-032,Outside Room 115 - Right,9/1/2016,0.054,BA
+2010,Ben Franklin HS,2010-03-DW-051,Outside Room 317,9/1/2016,0.18,BA
+2010,Ben Franklin HS,2010-03-HS-053,Outside Room 321 - Right (left side has been removed),9/1/2016,21.4,AA
+2010,Ben Franklin HS,2010-05-DW-061,Across From Room 503,9/1/2016,43,AA
+2010,Ben Franklin HS,2010-06-DW-062,Cafeteria - Kitchen end of room,9/1/2016,276,AA
+2010,Ben Franklin HS,2010-06-WC-074,Cafeteria - Elevator end of room - facing kitchen,9/1/2016,74.1,AA
+2010,Ben Franklin HS,2010-00-DW-298N,Across from Room 13,9/1/2016,18.2,AA
+2010,Ben Franklin HS,2010-00-DW-299N,Outside of Room 17 - left,9/1/2016,19.9,AA
+2010,Ben Franklin HS,2010-05-HS-302N,Across From Room 508,9/1/2016,0.057,BA
+2010,Ben Franklin HS,2010-06-HS-303N,In the cafeteria - on the far wall past the kitchen,9/1/2016,0.11,BA
+2010,Ben Franklin HS,2010-01-HS-305N,Basement - outside of Room 5D,9/1/2016,0.054,BA
+2210,Bache Martin ES,2210 - 00 - DW - 013,Basement lunch room,7/28/2016,3.8,BA
+2210,Bache Martin ES,2210 - 01 - WC - 023,1st Floor Hallway - between Rooms 4 & 5,7/28/2016,0.16,BA
+2210,Bache Martin ES,2210 - 01 - WC - 025,1st Floor Teachers Lounge,7/28/2016,0.52,BA
+2210,Bache Martin ES,2210 - 02 - WC - 029,2nd Floor Hallway - Across from Room 17,7/28/2016,0.47,BA
+2210,Bache Martin ES,2210 - 02 - WC - 030,2nd Floor Hallway - between rooms 13 & 14,7/28/2016,0.73,BA
+2210,Bache Martin ES,2210 - 03 - WC - 033,3rd Floor Hallway - between rooms 22 & 23,7/28/2016,0.11,BA
+2210,Bache Martin ES,2210 - 03 - WC - 035,3rd Floor Hallway - across from room 26,7/28/2016,2.2,BA
+4020,Overbrook HS,4020-00-DW-009,Locker Room above Gymnasium 4,8/18/2016,21.2,AA
+4020,Overbrook HS,4020-01-DW-024,"Outside ""B"" Cafeteria Site Map Room 114 - Left",8/18/2016,10.8,BA
+4020,Overbrook HS,4020-01-DW-025,"Outside ""B"" Cafeteria Site Map Room 114",8/18/2016,6.7,BA
+4020,Overbrook HS,4020-01-DW-026,"Outside ""B"" Cafeteria Site Map Room 114",8/18/2016,18.9,AA
+4020,Overbrook HS,4020-01-DW-028,"Outside ""B"" Cafeteria Site Map Room 114",8/18/2016,34.8,AA
+4020,Overbrook HS,4020-01-DW-029,"Outside ""B"" Cafeteria Site Map Room 114 - Right",8/18/2016,87,AA
+4020,Overbrook HS,4020-01-DW-056,Outside Room 100,8/18/2016,7.7,BA
+4020,Overbrook HS,4020-01-DW-057,Outside Room 100 -,8/18/2016,7.5,BA
+4020,Overbrook HS,4020-01-DW-064,Outside Men's Room - Across from Room 105,8/18/2016,11.4,BA
+4020,Overbrook HS,4020-02-DW-081,Outside Room 217 - Left,8/18/2016,7.8,BA
+4020,Overbrook HS,4020-02-DW-082,Outside Room 217 - Right,8/18/2016,7.9,BA
+4020,Overbrook HS,4020-02-DW-095,Outside Main Office - Left,8/18/2016,11.6,BA
+4020,Overbrook HS,4020-02-DW-096,Outside Main Office - Right,8/18/2016,9.4,BA
+4020,Overbrook HS,4020-03-DW-101,Outside Room 309 - Left,8/18/2016,14.2,BA
+4020,Overbrook HS,4020-03-DW-102,Outside Room 309 - Right,8/18/2016,14.3,BA
+4020,Overbrook HS,4020-03-DW-111,Outside Room 318 - Left,8/18/2016,16.3,AA
+4020,Overbrook HS,4020-03-DW-112,Outside Room 318 - Right,8/18/2016,4.3,BA
+4020,Overbrook HS,4020-03-DW-114,Outside Room 326 - Right,8/18/2016,6.3,BA
+4020,Overbrook HS,4020-01-DW-015,Outside of cafeteria - next to Room 112A - left,8/18/2016,6.3,BA
+4020,Overbrook HS,4020-01-DW-016,Outside of cafeteria - next to Room 112A -right,8/18/2016,9.8,BA
+4020,Overbrook HS,4020-00-DW-167,Inside Girl's Locker Room - Site Map Room 001A,8/18/2016,8.8,BA
+4020,Overbrook HS,4020-00-DW-171,Boy's Locker Room - Gym #2 - Site Map Room 010A,8/18/2016,11.2,BA
+4020,Overbrook HS,4020-01-DW-175,Inside Girls Gymnasium - Site Room Map 014A,8/18/2016,5.7,BA
+4020,Overbrook HS,4020-01-DW-177,Inside Boys Gymnasium - site Room Map 013A,8/18/2016,2.4,BA
+4020,Overbrook HS,4020-01-DW-178,Hallway outside of Boys Gymnasium - Site Map Rm 013A,8/18/2016,6.7,BA
+4020,Overbrook HS,4020-01-DW-181,Outside of Boys Gymnasium - Near Exit to Oxford Avenue,8/18/2016,9.3,BA
+4020,Overbrook HS,4020-00-WC-190,Adjacent to Kitchen (Child Care),8/18/2016,0.63,BA
+4020,Overbrook HS,4020-00-WC-191,South Classroom - 004 Site Map - Child Care,8/18/2016,0.85,BA
+4020,Overbrook HS,4020-00-DW-212,Bldg Engineer Offfice Area - companion to conventional sink,8/18/2016,33.6,AA
+4240,Cassidy ES,4240-00-DW-011,Outside cafeteria - left,8/4/2016,4.8,BA
+4240,Cassidy ES,4240-00-DW-012,Outside cafeteria - center left,8/4/2016,1.6,BA
+4240,Cassidy ES,4240-00-DW-013,Outside cafeteria - center right,8/4/2016,2.9,BA
+4240,Cassidy ES,4240-00-DW-014,Outside cafeteria - right,8/4/2016,1.9,BA
+4240,Cassidy ES,4240-01-DW-024,Now Outside Room 103,8/4/2016,1.7,BA
+4240,Cassidy ES,4240-01-DW-034,Outside Room 005,8/4/2016,5.6,BA
+4240,Cassidy ES,4240-02-DW-036,Now Room 210,8/4/2016,3.1,BA
+4240,Cassidy ES,4240-02-DW-042,Outside Room 204,8/4/2016,1.1,BA
+4240,Cassidy ES,4240-03-DW-047,Outside Room 304,8/4/2016,3.7,BA
+4240,Cassidy ES,4240-03-DW-052,Now Outside Room 312,8/4/2016,6.5,BA
+4280,Gompers ES,4280-01-DW-004,In Room 101,7/21/2016,12.6,BA
+4280,Gompers ES,4280-01-DW-009,Outside Room 103 - right,7/21/2016,151,AA
+4280,Gompers ES,4280-01-WC-018,Outside Main Office,7/21/2016,0.99,BA
+4280,Gompers ES,4280-02-DW-038,Outside Room 207 - Left,7/21/2016,3.3,BA
+4280,Gompers ES,4280-02-DW-039,Outside Room 207 - Right,7/21/2016,4.2,BA
+4280,Gompers ES,4280-02-DW-053,In Gym - on the hallway wall,7/21/2016,16.4,AA
+4280,Gompers ES,4280-02-DW-054,In Gym - outside of Boy's Room,7/21/2016,11.9,BA
+4280,Gompers ES,4280-02-DW-060,In Lunchroom,7/21/2016,4.9,BA
+4280,Gompers ES,4280-02-WC-067,Outside Room 203,7/21/2016,3,BA
+4280,Gompers ES,4280-01-WC-070,Element 2 - Left side - comprehensive day care room,7/21/2016,0.26,BA
+4280,Gompers ES,4280-01-WC-073,Element 2 - Right side - comprehensive day care room,7/21/2016,0.23,BA
+4280,Gompers ES,4280-01-WC-086,Element 4 - portable 2 - outside of bathrooms,7/21/2016,1.4,BA
+4280,Gompers ES,4280-01-WC-090,Principal's office - bottled water dispenser - Hot side,7/21/2016,0.054,BA
+4280,Gompers ES,4280-01-WC-091,Principal's office - bottled water dispenser - Cold side,7/21/2016,0.054,BA
+4380,Pierce TM ES,4380-00-DW-040,Outside Girl's Room - left,7/22/2016,2.4,BA
+4380,Pierce TM ES,4380-00-DW-041,Outside Girls Room,7/22/2016,2.7,BA
+4380,Pierce TM ES,4380-00-DW-042,Outside Girls Room,7/22/2016,4.7,BA
+4380,Pierce TM ES,4380-00-DW-043,Outside Girls Room,7/22/2016,4.1,BA
+4380,Pierce TM ES,4380-00-DW-044,Outside Girls Room,7/22/2016,1.3,BA
+4380,Pierce TM ES,4380-00-DW-045,Outside Girls Room - right,7/22/2016,1.7,BA
+4380,Pierce TM ES,4380-01-DW-058,Outside Room 7,7/22/2016,0.29,BA
+4380,Pierce TM ES,4380-02-DW-066,Across from IMC - Right,7/22/2016,0.34,BA
+4380,Pierce TM ES,4380-03-DW-072,Across from Room 33 - Right,7/22/2016,0.7,BA
+4380,Pierce TM ES,4380-02-DW-075,Next to Room 14 - Staff Lounge,7/22/2016,1.4,BA
+4380,Pierce TM ES,4380-00-WC-077N,Outside Boy's Room,7/22/2016,0.21,BA
+4560,Kelly W.D. ES,4560-01-DW-004,Outside auditorium,8/12/2016,2.8,BA
+4560,Kelly W.D. ES,4560-01-DW-007,Inside gymnasium,8/12/2016,7.6,BA
+4560,Kelly W.D. ES,4560-01-WC-012,Principal's office - conference room,8/12/2016,3.2,BA
+4560,Kelly W.D. ES,4560-01-DW-016,Across from 109,8/12/2016,0.42,BA
+4560,Kelly W.D. ES,4560-01-DW-035,Across from library,8/12/2016,0.6,BA
+4560,Kelly W.D. ES,4560-02-DW-043,Across from 204,8/12/2016,0.57,BA
+4560,Kelly W.D. ES,4560-02-DW-060,Across from 209,8/12/2016,0.82,BA
+4560,Kelly W.D. ES,4560-03-DW-067,Across from 309,8/12/2016,0.47,BA
+4560,Kelly W.D. ES,4560-03-DW-083,Across from 302,8/12/2016,0.59,BA
+4560,Kelly W.D. ES,4560-01-WC-090,Teacher's Dining Room,8/12/2016,4.2,BA
+4570,Meade ES,4570-00-DW-007,Outside Boys Room - Left,8/4/2016,6.8,BA
+4570,Meade ES,4570-00-DW-008,Outside Boys Room,8/4/2016,2.6,BA
+4570,Meade ES,4570-00-DW-010,Outside Boys Room,8/4/2016,2.6,BA
+4570,Meade ES,4570-00-DW-011,Outside Boys Room,8/4/2016,1.1,BA
+4570,Meade ES,4570-00-DW-012,Outside Boys Room - Right,8/4/2016,1.2,BA
+4570,Meade ES,4570-00-DW-015,Outside Lunch Room - Left,8/4/2016,1.1,BA
+4570,Meade ES,4570-00-DW-016,Outside Lunch Room,8/4/2016,1.1,BA
+4570,Meade ES,4570-00-DW-017,Outside Lunch Room,8/4/2016,0.37,BA
+4570,Meade ES,4570-00-DW-018,Outside Lunch Room,8/4/2016,1.5,BA
+4570,Meade ES,4570-00-DW-019,Outside Lunch Room,8/4/2016,0.67,BA
+4570,Meade ES,4570-00-DW-020,Outside Lunch Room - Right,8/4/2016,0.53,BA
+4570,Meade ES,4570-00-WC-037,Outside Room 16,8/4/2016,3.3,BA
+4570,Meade ES,4570-01-WC-046,Room 117,8/4/2016,0.3,BA
+4570,Meade ES,4570-01-WC-048,Outside Room 118,8/4/2016,1.8,BA
+4570,Meade ES,4570-01-WC-053,Room 115,8/4/2016,0.93,BA
+4570,Meade ES,4570-01-DW-060,Across from Room 108,8/4/2016,1.4,BA
+4570,Meade ES,4570-01-DW-063,Outside Clinic Bathroom,8/4/2016,0.58,BA
+4570,Meade ES,4570-02-DW-076,Across from Room 209 - Left (right has been removed),8/4/2016,1.7,BA
+4570,Meade ES,4570-02-DW-081,Across from Room 203,8/4/2016,0.77,BA
+4570,Meade ES,4570-02-DW-086,Outside Room 218 - Left,8/4/2016,3.1,BA
+4570,Meade ES,4570-02-DW-087,Outside Room 218 - Right,8/4/2016,1.9,BA
+4570,Meade ES,4570-03-DW-095,Outside Room 318 - Left,8/4/2016,3.1,BA
+4570,Meade ES,4570-03-DW-100,Across From Room 303 - Left,8/4/2016,2.6,BA
+4570,Meade ES,4570-03-WC-104,Outside of 309A,8/4/2016,0.46,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 01-WC-002,Cluster Office,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 01-WC-003,Outside 102B,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 01-WC-004,Outside 104,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 02-WC-005,Outside 207,5/13/2016,4.5,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 02-WC-006,Outside 204B,5/13/2016,6.13,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 02-WC-007,Outside 202,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 03-WC-008,Outside 302,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 03-WC-009,Outside 304,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 03-WC-010,Outside 308,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 03-WC-011,Up steps from Girl's Room,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 04-WC-012,Outside 410,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 04-WC-013,Outside 406,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 04-WC-014,Outside 402,5/13/2016,5.21,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 05-WC-015,Outside 502,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140- 05-WC-026,Teachers office,5/13/2016,<3.00,BA
+5140,Stoddart-Fleisher - Parkway Center City,5140-05-WC-027,Outside Room 504A,5/13/2016,<3.00,BA
+5210,Brown HA ES,5210-03-DW-029,Right Fountain across from S/M 313,4/21/2016,42.6,BA
+5210,Brown HA ES,5210-01-DW-010,Across from S/M 113 Left Fountain,3/24/2016,<3.0,BA
+5210,Brown HA ES,5210-01-DW-011,Across from S/M 113 Right Fountain,3/24/2016,3.7,BA
+5210,Brown HA ES,5210-02-DW-018,Across from S/M 213 - Left Fountain,3/24/2016,<3.0,BA
+5210,Brown HA ES,5210-02-DW-019,Across from S/M 213 - Right Fountain,3/24/2016,<3.0,BA
+5210,Brown HA ES,5210-03-DW-028,Left Fountain across from S/M 313,3/24/2016,4,BA
+5340,Ludlow ES,5340-00-WC-011,Caféteria - Right,8/19/2016,2.8,BA
+5340,Ludlow ES,5340-01-WC-022,Across from Room 105,8/19/2016,1.2,BA
+5340,Ludlow ES,5340-02-WC-030,Across from Room 203,8/19/2016,3.6,BA
+5340,Ludlow ES,5340-02-WC-034,Across from Room 207,8/19/2016,1.3,BA
+5340,Ludlow ES,5340-03-WC-038,Across from Room 307,8/19/2016,2.9,BA
+5340,Ludlow ES,5340-03-WC-041,Across From Room 303,8/19/2016,0.48,BA
+5340,Ludlow ES,5340-00-WC-043N,Cafeteria - conventional outlet part of bottle filling station,8/19/2016,0.084,BA
+5340,Ludlow ES,5340-00-WC-044N,Cafeteria - outlet that is the bottle filling station,8/19/2016,0.054,BA
+5340,Ludlow ES,5340-01-WC-045N,Outside Rm 102 - conventional outlet part of bottle filling station,8/19/2016,0.054,BA
+5340,Ludlow ES,5340-01-WC-046N,Outside Rm 102 - outlet that is the bottle filling station,8/19/2016,0.054,BA
+5340,Ludlow ES,5341-01-DW-007,Outside of Girl's Locker Room - Annex,8/19/2016,3.2,BA
+5340,Ludlow ES,5341-01-WC-010,Outside of Girl's Room - Left - Annex,8/19/2016,3,BA
+5340,Ludlow ES,5341-01-WC-011,Outside of Girl's Room - Right - Annex,8/19/2016,2.6,BA
+5470,Cramp ES,5470-01-DW-003,Room 110,8/19/2016,20.9,AA
+5470,Cramp ES,5470-01-DW-006,Room 108,8/19/2016,141,AA
+5470,Cramp ES,5470-01-DW-009,Room 106,8/19/2016,37.9,AA
+5470,Cramp ES,5470-01-WC-018,Main Office,8/19/2016,1.7,BA
+5470,Cramp ES,5470-01-WC-019,Cafeteria,8/19/2016,2.9,BA
+5470,Cramp ES,5470-01-WC-024,Kitchen - Next to Hand Sink,8/19/2016,4.9,BA
+5470,Cramp ES,5470-01-DW-037,Gym,8/19/2016,5,BA
+5470,Cramp ES,5470-01-DW-046,Room 13B Classroom,8/19/2016,4.3,BA
+5470,Cramp ES,5470-01-DW-050,Room 109,8/19/2016,189,AA
+5470,Cramp ES,5470-01-DW-054,Room 111,8/19/2016,36.9,AA
+5470,Cramp ES,5470-01-DW-058,Room 113,8/19/2016,11.5,BA
+5470,Cramp ES,5470-02-DW-066,Room 211,8/19/2016,5.8,BA
+5470,Cramp ES,5470-02-DW-068,Room 209,8/19/2016,1.3,BA
+5470,Cramp ES,5470-02-DW-070,Room 207,8/19/2016,13.6,BA
+5470,Cramp ES,5470-02-DW-074,Room 201,8/19/2016,16.2,AA
+5470,Cramp ES,5470-02-DW-077,Room 200,8/19/2016,0.9,ND
+5470,Cramp ES,5470-02-DW-080,Room 204,8/19/2016,1.7,BA
+5470,Cramp ES,5470-02-DW-082,Room 206,8/19/2016,10.8,BA
+5470,Cramp ES,5470-02-DW-084,Room 208,8/19/2016,20.6,AA
+5470,Cramp ES,5470-02-DW-086,Room 210,8/19/2016,0.64,ND
+5470,Cramp ES,5470-03-DW-096,Room 311,8/19/2016,2.3,BA
+5470,Cramp ES,5470-03-DW-098,Room 309,8/19/2016,18.6,AA
+5470,Cramp ES,5470-03-DW-100,Room 307,8/19/2016,2.1,BA
+5470,Cramp ES,5470-03-DW-102,Room 305,8/19/2016,5.4,BA
+5470,Cramp ES,5470-03-DW-104,Room 301,8/19/2016,116,AA
+5470,Cramp ES,5470-03-DW-106,Room 300,8/19/2016,3.5,BA
+5470,Cramp ES,5470-03-DW-108,Room 304,8/19/2016,12.1,BA
+5470,Cramp ES,5470-03-DW-110,Room 306,8/19/2016,26.8,AA
+5470,Cramp ES,5470-03-DW-112,Room 308,8/19/2016,12.5,BA
+5470,Cramp ES,5470-03-DW-114,Room 310,8/19/2016,9.3,BA
+5470,Cramp ES,5470-01-DW-003,Room 110,9/1/2016,10,BA
+5470,Cramp ES,5470-01-DW-006,Room 108,9/1/2016,111,AA
+5470,Cramp ES,5470-01-DW-009,Room 106,9/1/2016,43.5,AA
+5470,Cramp ES,5470-01-DW-050,Room 109,9/1/2016,92.9,AA
+5470,Cramp ES,5470-01-DW-054,Room 111,9/1/2016,14.8,BA
+5470,Cramp ES,5470-02-DW-072,Room 205,9/1/2016,9.8,BA
+5470,Cramp ES,5470-02-DW-074,Room 201,9/1/2016,13.5,BA
+5470,Cramp ES,5470-02-DW-084,Room 208,9/1/2016,13.5,BA
+5470,Cramp ES,5470-03-DW-098,Room 309,9/1/2016,8.9,BA
+5470,Cramp ES,5470-03-DW-104,Room 301,9/1/2016,13.1,BA
+5470,Cramp ES,5470-03-DW-110,Room 306,9/1/2016,15.5,AA
+5560,Spring Garden ES,5560-01-DW-017,Outside main office,7/21/2016,0.89,BA
+5560,Spring Garden ES,5560-01-DW-022,Outside Room 105,7/21/2016,0.76,BA
+5560,Spring Garden ES,5560-02-DW-027,Across from Room 201 - left,7/21/2016,0.81,BA
+5560,Spring Garden ES,5560-02-DW-028,Across from Room 201 - right,7/21/2016,9.3,BA
+5560,Spring Garden ES,5560-03-DW-041,Outside Room 302,7/21/2016,3.6,BA
+5560,Spring Garden ES,5560-03-DW-043,Outside Room 307 - left,7/21/2016,1.4,BA
+5560,Spring Garden ES,5560-03-DW-044,Outside Room 307 - right,7/21/2016,1.6,BA
+5560,Spring Garden ES,5560-00-WC-049N,Outside kitchen,7/21/2016,0.8,BA
+5560,Spring Garden ES,5560-00-WC-050N,Outside girls room,7/21/2016,0.7,BA
+6390,Steel ES,6390-01-DW-001,in Gymnasium,8/5/2016,0.31,BA
+6390,Steel ES,6390-01-WC-002,Room 113,8/5/2016,0.58,BA
+6390,Steel ES,6390-01-WC-005,Room 107,8/5/2016,0.61,BA
+6390,Steel ES,6390-01-WC-007,Across from Room 105,8/5/2016,0.17,BA
+6390,Steel ES,6390-01-WC-008,Cafeteria - opposite kitchen,8/5/2016,0.098,BA
+6390,Steel ES,6390-01-WC-009,"Cafeteria - kitchen side (near wall outside of teacher's
+dining room)",8/5/2016,0.19,BA
+6390,Steel ES,6390-01-WC-010,Across from Main Office,8/5/2016,0.97,BA
+6390,Steel ES,6390-01-DW-012,Teachers Dining Room,8/5/2016,0.097,BA
+6390,Steel ES,6390-02-WC-020,Outside Room 214,8/5/2016,0.93,BA
+6390,Steel ES,6390-02-WC-033,Outside Room 211,8/5/2016,0.2,BA
+6390,Steel ES,6390-03-WC-034,Outside Room 311,8/5/2016,0.39,BA
+6390,Steel ES,6390-03-WC-047,Outside Room 314,8/5/2016,0.43,BA
+7460,Ziegler ES,7460-01-DW-004,Outside Room 104 Left,7/29/2016,0.19,ND
+7460,Ziegler ES,7460-01-DW-005,Outside Room 104 Right,7/29/2016,0.57,ND
+7460,Ziegler ES,7460-01-DW-016,In Room 103,7/29/2016,5.1,BA
+7460,Ziegler ES,7460-02-DW-034,Outside Room 206 Left,7/29/2016,0.41,ND
+7460,Ziegler ES,7460-02-DW-035,Outside Room 206 Right,7/29/2016,0.49,ND
+7460,Ziegler ES,7460-01-DW-038N,Outside of Cafeteria - Left,7/29/2016,0.13,ND
+7460,Ziegler ES,7460-01-DW-039N,Outside of Cafeteria - Right,7/29/2016,0.13,ND
+7460,Ziegler ES,7460-01-DW-040N,Gmnasium - Left,7/29/2016,3.8,BA
+7460,Ziegler ES,7460-01-DW-041N,Gymnasium - Right,7/29/2016,2.3,BA
+7460,Ziegler ES,7460-02-DW-042N,Outside Room 220 - Left,7/29/2016,0.054,ND
+7460,Ziegler ES,7460-02-DW-043N,Outside Room 220 - Right,7/29/2016,0.054,ND
+7460,Ziegler ES,7460-01-DW-044N,Room 104,7/29/2016,0.38,ND
+7460,Ziegler ES,7460-01-DW-045N,Room 105,7/29/2016,3.1,BA
+7510,Bethune ES,7510-00-DW-006,Room 5,7/29/2016,2.4,BA
+7510,Bethune ES,7510-00-DW-009,Room 1,7/29/2016,6.9,BA
+7510,Bethune ES,7510-00-DW-012,Room 2,7/29/2016,5.9,BA
+7510,Bethune ES,7510-00-DW-015,Room 3,7/29/2016,3.8,BA
+7510,Bethune ES,7510-00-DW-018,Room 4,7/29/2016,64.3,AA
+7510,Bethune ES,7510-01-WC-022,Outside Room 105,7/29/2016,1.6,BA
+7510,Bethune ES,7510-01-DW-029,Room 102,7/29/2016,6.3,BA
+7510,Bethune ES,7510-01-WC-039,By Stairway D,7/29/2016,1.2,BA
+7510,Bethune ES,7510-01-WC-045,Inside of Cafeteria,7/29/2016,4.3,BA
+7510,Bethune ES,7510-01-WC-048,Outside of Cafeteria - in main lobby,7/29/2016,1.1,BA
+7510,Bethune ES,7510-01-WC-055,Outside of Gymnasium,7/29/2016,2.6,BA
+7510,Bethune ES,7510-01-DW-059,Room 114,7/29/2016,10.2,BA
+7510,Bethune ES,7510-01-DW-069,Room 111,7/29/2016,12.9,BA
+7510,Bethune ES,7510-01-WC-076,Across from Room 110,7/29/2016,3.4,BA
+7510,Bethune ES,7510-01-DW-077,Room 109,7/29/2016,5,BA
+7510,Bethune ES,7510-01-DW-083,Room 106,7/29/2016,4.6,BA
+7510,Bethune ES,7510-02-WC-086,Top of Stairway B - near Room 210,7/29/2016,0.59,BA
+7510,Bethune ES,7510-02-DW-091,Room 207,7/29/2016,19.7,AA
+7510,Bethune ES,7510-02-WC-095,Across from Room 205 - in hall,7/29/2016,0.49,BA
+7510,Bethune ES,7510-02-DW-105,Room 201,7/29/2016,11.8,BA
+7510,Bethune ES,7510-02-WC-120,In hallway; near stairs; outside Room 218B,7/29/2016,7.7,BA
+7510,Bethune ES,7510-02-WC-127,Outside Rooms 216 and 215,7/29/2016,8,BA
+7510,Bethune ES,7510-02-DW-136,Room 212,7/29/2016,11.1,BA
+8240,Disston ES,8240-00-DW-009,Outside Gym/Lunchroom - right side of the wall - left,8/19/2016,5.9,BA
+8240,Disston ES,8240-00-DW-010,Outside Gym/Lunchroom - right side of the wall - center,8/19/2016,11.2,BA
+8240,Disston ES,8240-00-DW-011,Outside Gym/Lunchroom - right side of the wall - right,8/19/2016,7.1,BA
+8240,Disston ES,8240-01-DW-033,Outside Room 103,8/19/2016,1.3,BA
+8240,Disston ES,8240-01-DW-042,Outside Room 106,8/19/2016,5.8,BA
+8240,Disston ES,8240-02-DW-046,Outside Rooms 206 and 207,8/19/2016,9.9,BA
+8240,Disston ES,8240-02-DW-051,Outside Room 203,8/19/2016,2.5,BA
+8240,Disston ES,8240-03-DW-059,Outside Room 303,8/19/2016,1.3,BA
+8240,Disston ES,8240-03-DW-065,Outside Room 311,8/19/2016,4.5,BA
+8240,Disston ES,8240-01-DW-077N,Room 105 - combined with classroom faucet,8/19/2016,5.2,BA
+8240,Disston ES,8240-00-DW-081,Across from Room B6 - left,8/19/2016,4.6,BA
+8240,Disston ES,8240-00-DW-082,Across from Room B6 - right,8/19/2016,4.7,BA
+8240,Disston ES,8240-00-DW-083,"Outside of Gymnasium (near 009, 010 & 011)",8/19/2016,7,BA
+8240,Disston ES,8240-00-DW-084,Outside Room B-1 (near staircase) - left,8/19/2016,1.7,BA
+8240,Disston ES,8240-00-DW-085,Outside Room B-1 (near staircase) - right,8/19/2016,1.7,BA
+8240,Disston ES,8240-02-DW-087N,Deans Office - Room 203A,8/19/2016,1.3,BA
+8270,Holme ES,8270-00-DW-009,Room 001 - Head Start,8/12/2016,53.4,AA
+8270,Holme ES,8270-00-DW-011,Room 002 - Head Start,8/12/2016,26.2,AA
+8270,Holme ES,8270-00-WC-016,Outside Lunch Room - across from Room 001,8/12/2016,5.9,BA
+8270,Holme ES,8270-00-DW-017,Outside of Gymnasium,8/12/2016,10.6,BA
+8270,Holme ES,8270-00-WC-020,inside IMC,8/12/2016,5.3,BA
+8270,Holme ES,8270-01-DW-033,Outside Room 108 - Left,8/12/2016,53.1,AA
+8270,Holme ES,8270-01-DW-034,Outside Room 108 - Right,8/12/2016,18,AA
+8270,Holme ES,8270-01-WC-039,Dressing Room B - (115),8/12/2016,26.9,AA
+8270,Holme ES,8270-01-DW-041,Across from Room 112,8/12/2016,12.2,BA
+8270,Holme ES,8270-01-DW-051,Across from Room 101 - Left,8/12/2016,25.6,AA
+8270,Holme ES,8270-01-DW-052,Across from Room 101 - Right,8/12/2016,25.5,AA
+8270,Holme ES,8270-02-DW-074,Outside Room 207 - Left (right has been removed),8/12/2016,20.3,AA
+8270,Holme ES,8270-02-DW-082,Across from Room 213 - Left,8/12/2016,14.1,BA
+8270,Holme ES,8270-02-DW-083,Across from Room 213 - Right,8/12/2016,20.1,AA
+8270,Holme ES,8270-02-WC-085,Teacher's Lounge,8/12/2016,5.1,BA
+8270,Holme ES,8270-02-DW-092,Outside Room 209 - Left,8/12/2016,19.1,AA
+8270,Holme ES,8270-02-DW-093,Outside Room 209 - Right,8/12/2016,31.4,AA
+8270,Holme ES,8270-01-WC-099,Element 3 - Room 064 (Room 004 on Drawing),8/12/2016,1.8,BA
+8270,Holme ES,8270-01-WC-102,Element 3 - Room 61 (room 001 on Drawing),8/12/2016,2.8,BA
+8270,Holme ES,8270-01-WC-105,Element 3 - Head Start - Room 62 (Room 002 on Drawing),8/12/2016,2.6,BA
+8270,Holme ES,8270-01-WC-108,Element 3 - Head Start - Room 65 (Room 005 on Drawing),8/12/2016,2,BA
+8270,Holme ES,8270-01-WC-111,Element 3 - Head Start - Room 66 (Room 006 on Drawing),8/12/2016,3.1,BA
+8270,Holme ES,8270-01-WC-114,Element 3 - Head Start - Room 63 (Room 003 on Drawing),8/12/2016,4.1,BA
+8270,Holme ES,8270-00-DW-009,Room 001 - Head Start,8/27/2016,114,AA
+8270,Holme ES,8270-00-DW-011,Room 002 - Head Start,8/27/2016,17.3,AA
+8270,Holme ES,8270-01-DW-033,Outside Room 108 - Left,8/27/2016,6.6,BA
+8270,Holme ES,8270-01-DW-034,Outside Room 108 - Right,8/27/2016,3.5,BA
+8270,Holme ES,8270-01-WC-039,Dressing Room B - (115),8/27/2016,6.1,BA
+8270,Holme ES,8270-01-DW-051,Across from Room 101 - Left,8/27/2016,11.7,BA
+8270,Holme ES,8270-01-DW-052,Across from Room 101 - Right,8/27/2016,10.3,BA
+8270,Holme ES,8270-02-DW-074,Outside Room 207 - Left (right has been removed),8/27/2016,12.5,BA
+8270,Holme ES,8270-02-DW-082,Across from Room 213 - Left,8/27/2016,23.1,AA
+8270,Holme ES,8270-02-DW-083,Across from Room 213 - Right,8/27/2016,13.1,BA
+8270,Holme ES,8270-02-DW-092,Outside Room 209 - Left,8/27/2016,12.1,BA
+8270,Holme ES,8270-02-DW-093,Outside Room 209 - Right,8/27/2016,12.2,BA
+8410,Pollock ES,8410-01-WC-010,In cafeteria - near exit to parking lot - left,8/5/2016,1.2,BA
+8410,Pollock ES,8410-01-WC-011,In cafeteria - near exit to parking lot - right,8/5/2016,5.8,BA
+8410,Pollock ES,8410-01-DW-012,In cafeteria - near cafeteria exit - left (center is no longer),8/5/2016,2.6,BA
+8410,Pollock ES,8410-01-DW-014,In cafeteria - near cafeteria exit - right (center is no longer),8/5/2016,2.1,BA
+8410,Pollock ES,8410-01-WC-015,Across from Room 10,8/5/2016,0.16,BA
+8410,Pollock ES,8410-01-WC-020,Across from Room 17,8/5/2016,7.7,BA
+8410,Pollock ES,8410-01-WC-036,Outside boy's room,8/5/2016,2.8,BA
+8410,Pollock ES,8410-02-DW-040,Room 100,8/5/2016,7.9,BA
+8410,Pollock ES,8410-02-DW-045,Room 101,8/5/2016,9.1,BA
+8410,Pollock ES,8410-02-WC-049,Across from Room 105,8/5/2016,3.4,BA
+8410,Pollock ES,8410-02-WC-059,Across from Main Office,8/5/2016,35,AA
+8410,Pollock ES,8410-02-DW-063,In Gymnasium,8/5/2016,9.8,BA
+8410,Pollock ES,8410-02-WC-067,Outside Room 111,8/5/2016,0.34,BA
+8410,Pollock ES,8410-02-WC-072,Across from Room 119,8/5/2016,0.64,BA
+8410,Pollock ES,8410-01-WC-077,Element 2 - Portable Building - Room 005,8/5/2016,0.88,BA
+8410,Pollock ES,8410-01-WC-079,Element 2 - Room 006M Bright Futures area (middle room),8/5/2016,0.54,BA
+8410,Pollock ES,8410-01-WC-085,Element 2 - Room 007,8/5/2016,0.46,BA
+8420,Decatur ES,8420-00-DW-012,Outside bathrooms - near kitchen,7/22/2016,2.1,BA
+8420,Decatur ES,8420-00-DW-018,In Gym,7/22/2016,5.6,BA
+8420,Decatur ES,8420-01-DW-021,In IMC - element 2,7/22/2016,0.38,BA
+8420,Decatur ES,8420-01-WC-022,In IMC - element 2,7/22/2016,0.3,BA
+8420,Decatur ES,8420-01-DW-040,Across from Main Office,7/22/2016,4.6,BA
+8420,Decatur ES,8420-01-DW-054,Outside bathrooms (element 1),7/22/2016,2.9,BA
+8420,Decatur ES,8420-02-DW-062,Across from Rooms 200 & 202,7/22/2016,4.8,BA
+8420,Decatur ES,8420-02-DW-068,Across from Room 214,7/22/2016,2.9,BA
+8420,Decatur ES,8420-02-DW-073,Outside Room 220,7/22/2016,3.9,BA
+8420,Decatur ES,8420-03-DW-082,Across from Room 320,7/22/2016,4.2,BA
+8420,Decatur ES,8420-03-DW-087,Across from Room 314,7/22/2016,4.2,BA
+8420,Decatur ES,8420-03-DW-093,Across from Rooms 300 & 302,7/22/2016,2.8,BA
+8420,Decatur ES,8420-01-WC-101,Outside bathrooms - element 4,7/22/2016,1.7,BA
+8420,Decatur ES,8420-01-WC-108,Outside Room A10 - Element 4,7/22/2016,2,BA
+8420,Decatur ES,8420-01-WC-115N,Home and School Room - Element 3,7/22/2016,16.5,AA
+8420,Decatur ES,8420-01-WC-116N,Music/Psychology Room - Element 3,7/22/2016,2.2,BA
