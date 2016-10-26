@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  {% include common/head %}
+  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base facility-conditions">
+    <div class="mdl-layout__container">
+
+      <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+        {% include common/header %}
+
+        <main class="mdl-layout__content">
+
+        <div class="page-content">
+          <div class="mdl-grid facility-conditions-viewport">
+            <div class="mdl-cell mdl-cell--5-col">
+              <div id="map"></div>
+            </div>
+            <div class="mdl-cell mdl-cell--7-col right">
+              {% include school-filtering %}
+              {% include school-profile %}
+            </div>
+          </div>
+        </div>
+
+        </main>
+      </div>
+
+      <!-- {% include common/footer %} -->
+    </div>
+
+    {% include common/scripts %}
+  </body>
+</html>
+
+<script type="text/javascript">
+  window.data = {
+    schools: {{school-conditions | json}},
+    lead: {{lead-summary-2016 | json }}
+  }
+
+  window.data.leadByUlcs = data.lead.reduce(function (p, c) {
+    if (p[c.ULCS]) {
+      p[c.ULCS].push(c)
+    } else {
+      p[c.ULCS] = [c]
+    }
+    return p
+  },{})
+
+</script>
