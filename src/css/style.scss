@@ -83,7 +83,7 @@ body {
     margin-bottom: 40px;
 
     &.map {
-      background: url('/images/map-card.jpg') center / cover;
+      background: url('{{site.basedir}}/images/map-card.jpg') center / cover;
     }
 
     > .mdl-card__actions {
