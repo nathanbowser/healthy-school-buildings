@@ -38,8 +38,8 @@ module.exports = function () {
 
     var data = this.options._data
 
-    document.querySelector('.school-name').innerHTML = data['schoolnameulcs']
-    document.querySelector('.ulcs').innerHTML = data['ulcscode']
+    document.querySelector('.school-name').innerHTML = data['School Name (ULCS)']
+    document.querySelector('.ulcs').innerHTML = data['ULCS Code']
     document.querySelector('.region').innerHTML = data['Planning Area']
     document.querySelector('.address').innerHTML = data['Street Address']
     document.querySelector('.level').innerHTML = data['School Type']
