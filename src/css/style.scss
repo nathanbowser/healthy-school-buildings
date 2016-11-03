@@ -6,7 +6,11 @@
 }
 
 body {
-  height:100%;
+  height: 100%;
+}
+
+p {
+  font-size: 16px;
 }
 
 .mdl-layout__header-row {
@@ -66,10 +70,29 @@ body {
 
       .demographics-chart {
         height: 400px;
+
+        .ct-label {
+          font-size: 1.5rem;
+        }
       }
 
       h2 {
         margin-top: 0;
+      }
+
+      .label {
+        font-size: 20px;
+        line-height: 40px;
+        font-weight: 600;
+        padding-top: 3px;
+        padding-bottom: 3px;
+
+        + div {
+          font-size: 18px;
+          line-height: 40px;
+          padding-top: 3px;
+          padding-bottom: 3px;
+        }
       }
     }
   }
@@ -82,8 +105,17 @@ body {
     height: 400px;
     margin-bottom: 40px;
 
-    &.map {
-      background: url('{{site.basedir}}/images/map-card.jpg') center / cover;
+    &.map > .mdl-card__title {
+      //background: url('{{site.basedir}}/images/map-card.jpg') center / cover;
+    }
+
+    .icon {
+      font-size: 164px;
+      text-align: center;
+    }
+
+    .mdl-card__supporting-text {
+      min-height: 100px;
     }
 
     > .mdl-card__actions {
@@ -103,11 +135,22 @@ body {
 
 .lead-summary {
   .chart-container {
-    height: 500px;
+    height: 750px;
 
     .ct-chart {
       height: 100%;
+
+      .ct-label {
+        font-size: 1.25rem;
+      }
     }
+  }
+
+  .table {
+    table {
+      width: 100%;
+    }
+    margin-top: 50px;
   }
 }
 
