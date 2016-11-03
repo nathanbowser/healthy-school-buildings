@@ -1,6 +1,59 @@
-<div class="mdl-grid mdl-cell--12-col mdl-cell school-profile-default">
+<div class="mdl-grid mdl-cell--12-col mdl-cell school-profile-default mdl-typography--display-3">
   <div class="mdl-grid mdl-cell mdl-cell--12-col">
     <h3>Select a school from the map...</h3>
+  </div>
+  <div class="mdl-grid mdl-cell mdl-cell--12-col">
+    <p>
+      You can download a master copy of this data <a href="{{site.basedir}}/data/school-conditions.csv">here</a>.
+    </p>
+    <p>
+      View schools on the Facility Conditions page by clicking one of the bubbles on the map.
+    </p>
+
+    <p>
+      Bubble size reflects school student population as of the 2015-2016 school year.
+    </p>
+
+    <p>
+    Bubble color is related to the <em>"Facility Condition Index" [FCI]</em>, an industry-standard
+    measurement of a facility's condition and is typically expressed as a percent.
+    The FCI is the ratio of the cost to correct a facility's deficiencies called
+    the <em>“Condition Assessment Cost” [CAC]</em>, (i.e.the amount in millions of $$
+    required to adequately fix the school) to the Current Replacement Value (CRV),
+    also referred to as the <em>"Replacement Value."</em> The CRV represents the
+    hypothetical total cost of rebuilding or replacing an existing facility in current
+    dollars to its optimal condition under current codes and construction methods.
+    </p>
+
+    <div>
+      <ul class="mdl-list">
+        <li class="mdl-list__item">
+          <span class="mdl-list__item-primary-content">
+            &lt; 15% is considered good condition;
+          </span>
+        </li>
+        <li class="mdl-list__item">
+          <span class="mdl-list__item-primary-content">
+            15% - 30% is fair condition;
+          </span>
+        </li>
+        <li class="mdl-list__item">
+          <span class="mdl-list__item-primary-content">
+            31% - 60% is poor;
+          </span>
+        </li>
+        <li class="mdl-list__item">
+          <span class="mdl-list__item-primary-content">
+            60% - 75% is very poor condition;
+          </span>
+        </li>
+        <li class="mdl-list__item">
+          <span class="mdl-list__item-primary-content">
+            &gt; 75% is critical condition
+          </span>
+        </li>
+      </ul>
+    </div>
   </div>
 </div>
 
@@ -11,47 +64,74 @@
   </h2>
 
   <div class="mdl-grid mdl-cell mdl-cell--12-col">
-    <div class="mdl-cell--6-col">
-      <dl>
-        <dt>Region</dt>
-        <dd class="region"></dd>
-        <dt>Address</dt>
-        <dd class="address"></dd>
-        <dt>Level</dt>
-        <dd class="level"></dd>
-      </dl>
-    </div>
-    <div class="mdl-cell--6-col">
-      <dl>
-        <dt>Councilmanic</dt>
-        <dd class="councilmanic"></dd>
-        <dt>Principal</dt>
-        <dd class="principal"></dd>
-        <dt>Year Built</dt>
-        <dd class="year"></dd>
-        <dt>Size [sq ft]</dt>
-        <dd class="size"></dd>
-        <dt># of Student</dt>
-        <dd class="student-count"></dd>
-      </dl>
-    </div>
+    <div class="mdl-cell--6-col label">Region</div>
+    <div class="mdl-cell--6-col region"></div>
+
+    <div class="mdl-cell--6-col label">Address</div>
+    <div class="mdl-cell--6-col address"></div>
+
+    <div class="mdl-cell--6-col label">Level</div>
+    <div class="mdl-cell--6-col level"></div>
+
+    <div class="mdl-cell--6-col label">Councilmanic</div>
+    <div class="mdl-cell--6-col councilmanic"></div>
+
+    <div class="mdl-cell--6-col label">Managed By</div>
+    <div class="mdl-cell--6-col managed"></div>
+
+    <div class="mdl-cell--6-col label">Principal</div>
+    <div class="mdl-cell--6-col principal"></div>
+
+    <div class="mdl-cell--6-col label">Year Built</div>
+    <div class="mdl-cell--6-col year"></div>
+
+    <div class="mdl-cell--6-col label">Size [sq ft]</div>
+    <div class="mdl-cell--6-col size"></div>
+
+    <div class="mdl-cell--6-col label"># of Student</div>
+    <div class="mdl-cell--6-col student-count"></div>
   </div>
 
   <div class="mdl-grid mdl-cell mdl-cell--12-col">
-    <div class="mdl-cell--6-col">
-      <dl>
-        <dt>FCI Rating</dt>
-        <dd class="fci"></dd>
-        <dt>Econ. Disadvantaged</dt>
-        <dd class="econ"</dd>
-        <dt>Special Needs Students</dt>
-        <dd class="special-needs"></dd>
-        <dt>CRV</dt>
-        <dd class="crv">CRV</dd>
-        <dt>CAC</dt>
-        <dd class="cac">CAC</dd>
-      </dl>
+    <div class="mdl-cell--6-col label">
+      FCI Rating
+      <i id="fci-help" class="icon material-icons">help</i>
+      <div class="mdl-tooltip mdl-tooltip--large" data-mdl-for="fci-help">
+        Bubble color is related to the <em>"Facility Condition Index" [FCI]</em>, an industry-standard
+        measurement of a facility's condition and is typically expressed as a percent.
+        The FCI is the ratio of the cost to correct a facility's deficiencies to the replacement value.
+      </div>
     </div>
+    <div class="mdl-cell--6-col fci"></div>
+
+    <div class="mdl-cell--6-col label">Econ. Disadvantaged</div>
+    <div class="mdl-cell--6-col econ"></div>
+
+    <div class="mdl-cell--6-col label">Special Needs Students</div>
+    <div class="mdl-cell--6-col special-needs"></div>
+
+    <div class="mdl-cell--6-col label">
+      CRV
+      <i id="crv-help" class="icon material-icons">help</i>
+      <div class="mdl-tooltip mdl-tooltip--large" data-mdl-for="crv-help">
+        Current Replacement Value (CRV), also referred to as the <em>"Replacement Value."</em>
+        The CRV represents the hypothetical total cost of rebuilding or replacing an existing facility in current
+        dollars to its optimal condition under current codes and construction methods.
+      </div>
+    </div>
+    <div class="mdl-cell--6-col crv"></div>
+
+    <div class="mdl-cell--6-col label">
+      CAC
+      <i id="cac-help" class="icon material-icons">help</i>
+      <div class="mdl-tooltip mdl-tooltip--large" data-mdl-for="cac-help">
+        The cost to correct a facility's deficiencies is called the
+        <em>“Condition Assessment Cost” [CAC]</em>, (i.e.the amount in millions of $$
+        required to adequately fix the school)
+      </div>
+    </div>
+    <div class="mdl-cell--6-col cac"></div>
+
   </div>
 
   <div class="mdl-grid mdl-cell mdl-cell--12-col">
@@ -71,6 +151,7 @@
            * No lead data available
         </div>
         <div class="lead-data">
+          <a>View school complete lead data</a>
           <h4>Current SDP Action Level for Lead in water is 15 PPB</h4>
           <h5>Drinking water outlets above action level:</h5>
           <ul class="outlets"></ul>
