@@ -1,15 +1,42 @@
 <!DOCTYPE html>
 <html>
   {% include common/head %}
-  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base lead-summary">
+  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base lead-detail">
     <div class="mdl-layout__container">
       <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
         {% include common/header %}
 
         <main class="mdl-layout__content">
-          <h1>School specific Lead Data</h1>
+          <h1>{{name}} <small>({{ulcs}})</small></h1>
 
-          Coming soon!
+          <div class="mdl-grid table">
+            <div class="mdl-layout-spacer"></div>
+            <div class="mdl-cell--10-col">
+              <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+                <thead>
+                  <tr>
+                    <th class="mdl-data-table__cell--non-numeric">Outlet ID</th>
+                    <th class="mdl-data-table__cell--non-numeric">Outlet Location</th>
+                    <th class="mdl-data-table__cell--non-numeric">Collection Date</th>
+                    <th>Test Result (ppb)</th>
+                    <th>Test Result</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for ld in data %}
+                    <tr>
+                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Outlet ID #"}}</td>
+                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Outlet Location"}}</td>
+                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Sample Collection Date"}}</td>
+                      <td>{{ld | get: "Test Result (ppb)"}}</td>
+                      <td>{{ld | get: "Test Results"}}</td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+            <div class="mdl-layout-spacer"></div>
+          </div>
         </main>
       </div>
 
@@ -19,11 +46,5 @@
   </body>
 </html>
 <script type="text/javascript">
-  window.data = {
-    lead: {{lead-summary-2016 | json}}
-          .map(function (d) {
-            d.elevatedPercentage = d.Above / d['Total # of Samples Collected']
-            return d
-          })
-  }
+  window.data = {{data |json}}
 </script>

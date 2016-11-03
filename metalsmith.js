@@ -44,7 +44,9 @@ Metalsmith(__dirname)
       files['lead/' + ulcs + '.html'] = {
         contents: '',
         layout: 'lead-detail.liquid',
-        data: byUlcs[ulcs]
+        data: byUlcs[ulcs],
+        name: byUlcs[ulcs][0]['School Name'],
+        ulcs: ulcs
       }
     })
 
