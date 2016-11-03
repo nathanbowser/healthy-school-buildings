@@ -7,7 +7,7 @@
     "url": "git+https://github.com/nathanbowser/healthy-school-buildings.git"
   },
   "scripts": {
-    "build": "metalsmith"
+    "build": "node metalsmith.js"
   },
   "author": "Nathan Bowser <nbowser@gmail.com>",
   "license": "ISC",
