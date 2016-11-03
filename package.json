@@ -19,6 +19,7 @@
     "bootstrap": "^4.0.0-alpha.5",
     "browserify": "^13.1.0",
     "chartist": "^0.9.8",
+    "chartist-plugin-axistitle": "0.0.1",
     "csv-streamify": "^3.0.4",
     "csv-stringify": "^1.0.4",
     "d3": "^3.5.17",

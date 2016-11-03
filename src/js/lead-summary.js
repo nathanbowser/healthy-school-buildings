@@ -1,20 +1,62 @@
 var Chartist = require('chartist')
 
+window.Chartist = Chartist
+require('chartist-plugin-axistitle')
+
 module.exports = function () {
-  var chartData = window.data.lead.map(function (l) {
-    return {
-      ulcs: l.ULCS,
-      percentage: l.Above / l['Total # of Samples Collected']
+  var reduced =window.data.lead.reduce(function (p, c) {
+    if (p[c.ULCS]) {
+      p[c.ULCS].samples += parseInt(c['Total # of Samples Collected'], 10)
+      p[c.ULCS].above += parseInt(c.Above, 10)
+    } else {
+      p[c.ULCS] = {
+        ulcs: c.ULCS,
+        name: c['School Name'],
+        samples: parseInt(c['Total # of Samples Collected'], 10),
+        above: parseInt(c.Above, 10)
+      }
     }
+    return p
+  }, {})
+
+  var _data = Object.keys(reduced).map(function (key) {
+    return reduced[key]
   })
 
   new Chartist.Bar('.ct-chart', {
-    labels: chartData.map(function (l) {
-      return l.ulcs
+    labels: _data.map(function (l) {
+      return l.name + ' (' + l.ulcs + ')'
     }),
-    series: [chartData.map(function (l) {
-      return l.percentage
+    series: [_data.map(function (l) {
+      return l.above / l.samples
     })]
+  }, {
+    chartPadding: {
+      bottom: 20
+    },
+    horizontalBars: true,
+    seriesBarDistance: 100,
+    axisX: {
+      onlyInteger: true,
+      low: 0,
+      high: 1
+    },
+    axisY: {
+      offset: 250
+    },
+    plugins: [
+      Chartist.plugins.ctAxisTitle({
+        axisX: {
+            axisTitle: 'Percentage of Samples Elevated',
+            axisClass: 'ct-axis-title',
+            offset: {
+                x: 0,
+                y: 20
+            },
+            textAnchor: 'middle'
+        },
+        axisY: {}
+      })
+   ]
   })
-
 }
