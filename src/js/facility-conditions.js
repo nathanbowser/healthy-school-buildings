@@ -27,8 +27,12 @@ module.exports = function () {
                       return d[1]
                     }),
       labels: _data.map(function (d) {
-                      return d[0]
+                      return d[0] + '(' + d[2] + ')'
                     })
+    }, {
+      labelOffset: 100,
+      chartPadding: 50,
+      labelDirection: 'explode'
     })
   }
 
@@ -44,15 +48,16 @@ module.exports = function () {
     document.querySelector('.address').innerHTML = data['Street Address']
     document.querySelector('.level').innerHTML = data['School Type']
     document.querySelector('.councilmanic').innerHTML = data['Councilmanic District & Rep']
+    document.querySelector('.managed').innerHTML = data['Managed']
     document.querySelector('.principal').innerHTML = data['Principal']
     document.querySelector('.year').innerHTML = data['Year Built']
     document.querySelector('.size').innerHTML = data['Sq. Ft. (Building)']
     document.querySelector('.student-count').innerHTML = data['Total # of Students']
-    document.querySelector('.fci').innerHTML = data['Facility Condition Index [FCI]']
+    document.querySelector('.fci').innerHTML = d3.format('%')(data['Facility Condition Index [FCI]'])
     document.querySelector('.econ').innerHTML = data['CEP Economically Disadvantaged Rate']
     document.querySelector('.special-needs').innerHTML = data['Special Needs - Percentage']
-    document.querySelector('.crv').innerHTML = data['Replacement Cost [CRV]']
-    document.querySelector('.cac').innerHTML = data['Condition Assessment Cost [CAC]']
+    document.querySelector('.crv').innerHTML = d3.format('$,')(data['Replacement Cost [CRV]'])
+    document.querySelector('.cac').innerHTML = d3.format('$,')(data['Condition Assessment Cost [CAC]'])
 
     demographics(data)
 
@@ -60,6 +65,7 @@ module.exports = function () {
       , lc = document.querySelector('.lead-container')
 
     if (lead) {
+      lc.querySelector('a').href = '../lead/' + data['ULCS Code']
       lc.querySelector('.lead-data').classList.remove('hide')
       lc.querySelector('.no-lead').classList.add('hide')
 
