@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {% include common/head %}
+  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base lead-summary">
+    <div class="mdl-layout__container">
+      <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+        {% include common/header %}
+
+        <main class="mdl-layout__content">
+          <h1>Lead Data</h1>
+        </main>
+      </div>
+
+    </div>
+
+    {% include common/scripts %}
+  </body>
+</html>
+<script type="text/javascript">
+  window.data = {
+    lead: {{lead-summary-2016 | json}}
+          .map(function (d) {
+            d.elevatedPercentage = d.Above / d['Total # of Samples Collected']
+            return d
+          })
+  }
+</script>
