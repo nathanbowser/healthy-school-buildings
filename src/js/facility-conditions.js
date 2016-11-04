@@ -81,11 +81,23 @@ module.exports = function () {
       lc.querySelector('.lead-data').classList.remove('hide')
       lc.querySelector('.no-lead').classList.add('hide')
 
+      var total = lead.reduce(function (p, c) {
+        p.Above = parseInt(p.Above, 10) + parseInt(c.Above, 10)
+        p['Total # of Samples Collected'] = parseInt(p['Total # of Samples Collected'], 10) +  parseInt(c['Total # of Samples Collected'], 10)
+        return p
+      })
+
+      if (total.Above) {
+        lc.querySelector('.lead-summary').innerHTML = 'There ' + (total.Above > 1 ? 'were ' : 'was ') +  total.Above + ' drinking water outlet(s) out of ' + total['Total # of Samples Collected'] +
+                                                     ' samples that was found to be above the 15 ppb AL.'
+      } else {
+        lc.querySelector('.lead-summary').innerHTML = 'Of the ' + total['Total # of Samples Collected'] + ' drinking water outlets sampled none showed lead about the 15 ppb AL.'
+
+      }
+
       var ul = lc.querySelector('.lead-data ul')
       ul.innerHTML = ''
-      console.log(lead)
       lead.forEach(function (l) {
-        console.log(l)
         ul.innerHTML += ('<li>' + l['Above']
                                        + '[' + (l['Above'] / l['Total # of Samples Collected']) + ']'
                                        + ' - samples collected on ' + l['Date Sampled'] + '</li>')
@@ -160,7 +172,7 @@ module.exports = function () {
                      }))
                      .range([300, 1000])
     , heatmap = d3.scale.threshold()
-                        .domain([.15, .3, .6, .75])
+                        .domain([.15, .25, .45, .60])
                         .range([{
                           color: '#4f7a28',
                           text: 'Good'
