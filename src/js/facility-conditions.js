@@ -202,7 +202,10 @@ module.exports = function () {
   document.querySelector('#max-fci')
           .addEventListener('input', onSlide.bind(null, 'max'))
   document.querySelector('#lead-only')
-          .addEventListener('change', filterSchools)
+          .addEventListener('change', function () {
+            d3.select('#map').classed('lead-only', this.checked)
+            filterSchools()
+          })
   document.querySelector('#search')
           .addEventListener('keyup', filterSchools)
 
