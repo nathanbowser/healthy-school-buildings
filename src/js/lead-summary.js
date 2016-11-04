@@ -1,7 +1,9 @@
 var Chartist = require('chartist')
+  , d3 = require('d3')
 
 window.Chartist = Chartist
 require('chartist-plugin-axistitle')
+require('chartist-plugin-tooltips')
 
 module.exports = function () {
   var reduced =window.data.lead.reduce(function (p, c) {
@@ -37,21 +39,26 @@ module.exports = function () {
     horizontalBars: true,
     seriesBarDistance: 100,
     axisX: {
-      onlyInteger: true,
-      low: 0,
-      high: 1
+      scaleMinSpace: 40,
+      labelInterpolationFnc: d3.format('%')
     },
     axisY: {
       offset: 250
     },
     plugins: [
+      Chartist.plugins.tooltip({
+        class: 'chartist-tooltip',
+        tooltipFnc: function(_, value) {
+          return d3.format('%')(value)
+        }
+      }),
       Chartist.plugins.ctAxisTitle({
         axisX: {
             axisTitle: 'Percentage of Samples Elevated',
             axisClass: 'ct-axis-title',
             offset: {
                 x: 0,
-                y: 20
+                y: 40
             },
             textAnchor: 'middle'
         },
