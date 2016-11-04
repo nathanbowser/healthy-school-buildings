@@ -84,6 +84,11 @@ p {
       right: 16px;
     }
 
+    .school-profile-default {
+      overflow-y: scroll;
+      height: 100%;
+    }
+
     .school-profile {
       overflow-y: scroll;
       height: calc(100% - 60px);
