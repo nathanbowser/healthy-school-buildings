@@ -20,6 +20,8 @@
     "browserify": "^13.1.0",
     "chartist": "^0.9.8",
     "chartist-plugin-axistitle": "0.0.1",
+    "chartist-plugin-legend": "^0.5.0",
+    "chartist-plugin-tooltips": "0.0.17",
     "csv-streamify": "^3.0.4",
     "csv-stringify": "^1.0.4",
     "d3": "^3.5.17",
