@@ -1,5 +1,9 @@
+@import "chart-colors.scss";
+
 @import "leaflet";
 @import "node_modules/chartist/dist/scss/chartist.scss";
+@import "chartist-plugin-tooltip";
+@import "ct-legend";
 
 ::-webkit-scrollbar {
   display: none;
@@ -18,7 +22,7 @@ p {
 
   .material-icons {
     font-size: 64px;
-    padding-right: 20px;
+    padding-right: 14px;
   }
 
   .mdl-layout-title {
@@ -42,6 +46,22 @@ p {
 
   #map {
     height: 100vh;
+
+    #lead-only-message {
+      top: 0;
+      position: absolute;
+      right: 0;
+      font-size: 18px;
+      color: red;
+      z-index: 444;
+      display: none;
+    }
+
+    &.lead-only {
+      #lead-only-message {
+        display: block;
+      }
+    }
   }
 
   .right {
@@ -72,8 +92,9 @@ p {
         height: 400px;
 
         .ct-label {
-          font-size: 1.5rem;
+          font-size: .80rem;
         }
+        padding-bottom: 50px;
       }
 
       h2 {
@@ -81,15 +102,17 @@ p {
       }
 
       .label {
-        font-size: 20px;
-        line-height: 40px;
+        font-size: 16px;
         font-weight: 600;
         padding-top: 3px;
         padding-bottom: 3px;
 
+        i.material-icons {
+          font-size: 16px;
+        }
+
         + div {
-          font-size: 18px;
-          line-height: 40px;
+          font-size: 16px;
           padding-top: 3px;
           padding-bottom: 3px;
         }
