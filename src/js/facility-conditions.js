@@ -3,6 +3,10 @@ var L = require('leaflet')
   , Sifter = require('sifter')
   , Chartist = require('chartist')
 
+window.Chartist = Chartist
+
+require('chartist-plugin-legend')
+
 module.exports = function () {
   var map = L.map('map', { zoomControl: true }).setView([39.9629, -75.1185], 11)
     , dots = []
@@ -30,9 +34,17 @@ module.exports = function () {
                       return d[0] + '(' + d[2] + ')'
                     })
     }, {
-      labelOffset: 100,
-      chartPadding: 50,
-      labelDirection: 'explode'
+      showLabel: false,
+      plugins: [
+        Chartist.plugins.legend({
+          position: 'top'
+        })
+      ],
+      chartPadding: {
+        top: 0,
+        bottom: 50,
+        left: 100
+      }
     })
   }
 
