@@ -17,9 +17,22 @@ Metalsmith(__dirname)
     files:[
       'data/school-conditions.csv',
       'data/lead-samples-2016.csv',
-      'data/lead-summary-2016.csv'
+      'data/lead-summary-2016.csv',
+      'data/lead-samples-2010.csv'
     ]
   }))
+  .use(function (files, metalsmith, next) {
+    // Remove invalid data from old 2010 csv
+    var md = metalsmith.metadata()
+      , actives = md['school-conditions'].map(function (s) {
+                                           return s['ULCS Code']
+                                         })
+    md['lead-samples-2010'] = md['lead-samples-2010'].filter(function (l) {
+      // Remove invalid samples; as well as samples part of a ULCS that we never long have
+      return l.valid == 'true' && actives.indexOf(l.ulcs) !== -1
+    })
+    next()
+  })
   .use(inplace({
     engine: 'liquid',
     partials: 'templates/includes'
