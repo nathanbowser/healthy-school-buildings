@@ -6,7 +6,7 @@ require('chartist-plugin-axistitle')
 require('chartist-plugin-tooltips')
 
 module.exports = function () {
-  var reduced =window.data.lead.reduce(function (p, c) {
+  var reduced = window.data.lead[2016].reduce(function (p, c) {
     if (p[c.ULCS]) {
       p[c.ULCS].samples += parseInt(c['Total # of Samples Collected'], 10)
       p[c.ULCS].above += parseInt(c.Above, 10)
