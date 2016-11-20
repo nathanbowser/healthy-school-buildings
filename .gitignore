@@ -2,3 +2,5 @@ node_modules
 _site
 health-school-buildings
 healthy-school-buildings
+npm-debug
+npm-debug.log
