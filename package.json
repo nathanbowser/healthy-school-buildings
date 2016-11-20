@@ -25,6 +25,7 @@
     "csv-streamify": "^3.0.4",
     "csv-stringify": "^1.0.4",
     "d3": "^3.5.17",
+    "d3-scale": "^1.0.3",
     "event-stream": "^3.3.3",
     "leaflet": "^1.0.1",
     "metalsmith": "^2.2.0",

@@ -92,12 +92,14 @@
 <script type="text/javascript">
   window.data = {
     lead: {
-      2010: {{lead-samples-2010 | json}},
-      2016: {{lead-summary-2016 | json}}
-            .map(function (d) {
-              d.elevatedPercentage = d.Above / d['Total # of Samples Collected']
-              return d
-            })
+      2010: {
+        samples: {{lead-samples-2010 | json}},
+      },
+      2016: {
+        samples: {{lead-samples-2016 | json }},
+        summary: {{lead-summary-2016 | json}}
+      }
     }
   }
+
 </script>

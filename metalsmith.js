@@ -8,6 +8,7 @@ var csv = require('metalsmith-csv')
   , metadata = require('metalsmith-metadata')
   , browserify = require('metalsmith-browserify')
   , permalinks = require('metalsmith-permalinks')
+  , scale = require('d3-scale')
 
 Metalsmith(__dirname)
   .source('./src')
@@ -17,13 +18,15 @@ Metalsmith(__dirname)
     files:[
       'data/school-conditions.csv',
       'data/lead-samples-2016.csv',
-      'data/lead-summary-2016.csv',
       'data/lead-samples-2010.csv'
     ]
   }))
   .use(function (files, metalsmith, next) {
     // Remove invalid data from old 2010 csv
     var md = metalsmith.metadata()
+      , s = scale.scaleThreshold().domain([3, 5, 10, 15, 20])
+                                  .range(['Less than 3', '3 - 5', '5 - 10', '10 - 15', '15 - 20', 'More than 20'])
+
       , actives = md['school-conditions'].map(function (s) {
                                            return s['ULCS Code']
                                          })
@@ -31,6 +34,27 @@ Metalsmith(__dirname)
       // Remove invalid samples; as well as samples part of a ULCS that we never long have
       return l.valid == 'true' && actives.indexOf(l.ulcs) !== -1
     })
+
+    // Add summary data
+    md['lead-summary-2016'] = md['lead-samples-2016'].reduce(function (p, c) {
+      if (!p[c['School Name']]) {
+        p[c['School Name']] = {
+          collected: 0,
+          ulcs: c['ULCS']
+        }
+        s.range().forEach(function (r) {
+          p[c['School Name']][r] = 0
+        })
+        // School Name,ULCS,Date Sampled,Total # of Samples Collected,Number of Outlets Tested,Above,Below
+      }
+      var result = c['Test Result (ppb)']
+      if (result.indexOf('<') === 0) {
+        result = result.substring(1)
+      }
+      p[c['School Name']].collected++
+      p[c['School Name']][s(result)]++
+      return p
+    }, {})
     next()
   })
   .use(inplace({
