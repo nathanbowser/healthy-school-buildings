@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  {% include common/head %}
+  <style>
+
+    .container {
+      max-width: calc(100% - 20px);
+      margin: 0 auto;
+    }
+
+    #vis {
+      border: 1px solid black;
+      width: 100%;
+      height: 900px;
+      clear: both;
+      margin-bottom: 10px;
+    }
+
+  </style>
+  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base lead-totals-by-ppb">
+    <div class="mdl-layout__container">
+      <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+        <main class="mdl-layout__content">
+          <div class="container">
+            <h4>Show sample totals of collected data based on ppb in {{year}}</h4>
+            <div>
+              <div id="thresholds-selector">
+                <label for="thresholds">Filter by ppb</label><select id="thresholds"></select>
+              </div>
+            </div>
+            <div id="vis"></div>
+          </div>
+        </main>
+      </div>
+    </div>
+
+    {% include common/scripts %}
+  </body>
+</html>
+<script type="text/javascript">
+
+  {% if year == 2010 %}
+    window.data = { lead: {{lead-summary-2010 | json}} }
+  {% else %}
+    window.data = { lead: {{lead-summary-2016 | json}} }
+  {% endif %}
+
+</script>
