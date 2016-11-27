@@ -36,6 +36,19 @@ Metalsmith(__dirname)
       return l.valid == 'true' && actives.indexOf(l.ulcs) !== -1
     })
 
+    md['lead-samples-2016'] = md['lead-samples-2016'].map(function (sample) {
+      // Normalize to match old data
+      sample.ulcs = sample.ULCS
+      sample.name = sample['School Name']
+      sample.id = sample['Outlet ID #']
+      var result = sample['Test Result (ppb)']
+      if (result.indexOf('<') === 0) {
+        result = result.substring(1)
+      }
+      sample.lead = result
+      return sample
+    })
+
     md['lead-summary-2010'] = values(md['lead-samples-2010'].reduce(function (p, c) {
       if (!p[c.name]) {
         p[c.name] = {
@@ -55,23 +68,19 @@ Metalsmith(__dirname)
 
     // Add summary data
     md['lead-summary-2016'] = values(md['lead-samples-2016'].reduce(function (p, c) {
-      if (!p[c['School Name']]) {
-        p[c['School Name']] = {
+      if (!p[c.name]) {
+        p[c.name] = {
           collected: 0,
           ulcs: c['ULCS'],
           year: 2016,
-          name: c['School Name']
+          name: c.name
         }
         s.range().forEach(function (r) {
-          p[c['School Name']][r] = 0
+          p[c.name][r] = 0
         })
       }
-      var result = c['Test Result (ppb)']
-      if (result.indexOf('<') === 0) {
-        result = result.substring(1)
-      }
-      p[c['School Name']].collected++
-      p[c['School Name']][s(result)]++
+      p[c.name].collected++
+      p[c.name][s(c.lead)]++
       return p
     }, {}))
 
