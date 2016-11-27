@@ -28,6 +28,7 @@
     "d3-scale": "^1.0.3",
     "event-stream": "^3.3.3",
     "leaflet": "^1.0.1",
+    "lodash.values": "^4.3.0",
     "metalsmith": "^2.2.0",
     "metalsmith-browserify": "^0.1.0",
     "metalsmith-csv": "^1.0.2",

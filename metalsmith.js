@@ -9,6 +9,7 @@ var csv = require('metalsmith-csv')
   , browserify = require('metalsmith-browserify')
   , permalinks = require('metalsmith-permalinks')
   , scale = require('d3-scale')
+  , values = require('lodash.values')
 
 Metalsmith(__dirname)
   .source('./src')
@@ -35,17 +36,35 @@ Metalsmith(__dirname)
       return l.valid == 'true' && actives.indexOf(l.ulcs) !== -1
     })
 
+    md['lead-summary-2010'] = values(md['lead-samples-2010'].reduce(function (p, c) {
+      if (!p[c.name]) {
+        p[c.name] = {
+          collected: 0,
+          ulcs: c.ulcs,
+          name: c.name,
+          year: 2010
+        }
+        s.range().forEach(function (r) {
+          p[c.name][r] = 0
+        })
+      }
+      p[c.name].collected++
+      p[c.name][s(c.lead)]++
+      return p
+    }, {}))
+
     // Add summary data
-    md['lead-summary-2016'] = md['lead-samples-2016'].reduce(function (p, c) {
+    md['lead-summary-2016'] = values(md['lead-samples-2016'].reduce(function (p, c) {
       if (!p[c['School Name']]) {
         p[c['School Name']] = {
           collected: 0,
-          ulcs: c['ULCS']
+          ulcs: c['ULCS'],
+          year: 2016,
+          name: c['School Name']
         }
         s.range().forEach(function (r) {
           p[c['School Name']][r] = 0
         })
-        // School Name,ULCS,Date Sampled,Total # of Samples Collected,Number of Outlets Tested,Above,Below
       }
       var result = c['Test Result (ppb)']
       if (result.indexOf('<') === 0) {
@@ -54,7 +73,9 @@ Metalsmith(__dirname)
       p[c['School Name']].collected++
       p[c['School Name']][s(result)]++
       return p
-    }, {})
+    }, {}))
+
+
     next()
   })
   .use(inplace({

@@ -1,89 +1,65 @@
 <!DOCTYPE html>
 <html>
   {% include common/head %}
+  <style>
+
+    .container {
+      max-width: calc(100% - 20px);
+      margin: 0 auto;
+    }
+
+    #vis {
+      border: 1px solid black;
+      width: 100%;
+      height: 900px;
+      clear: both;
+      margin-bottom: 10px;
+    }
+
+    .tooltip {
+      position: absolute;
+      top: 100px;
+      left: 100px;
+      -moz-border-radius:5px;
+      border-radius: 5px;
+      border: 2px solid #000;
+      background: #fff;
+      opacity: .9;
+      color: black;
+      padding: 10px;
+      width: 300px;
+      font-size: 12px;
+      z-index: 10;
+    }
+
+    .tooltip .title {
+      font-size: 13px;
+    }
+
+    .tooltip .name {
+      font-weight:bold;
+    }
+
+  </style>
   <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base lead-summary">
     <div class="mdl-layout__container">
       <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
-
         <main class="mdl-layout__content">
-          <h4>Lead Data
-            <small>
-              <a class="mdl-navigation__link" href="{{site.basedir}}/data/lead-samples-2016.csv">Download Source Data</a>
-            </small>
-          </h4>
-
-          <div class="mdl-grid">
-            <div class="mdl-cell--12-col chart-container">
-              <div class="ct-chart ct-perfect-fourth"></div>
+          <div class="container">
+            <h4>Total Number of Samples collected per School <br />
+                <small>
+                  * 2000-2010 Sample data shown in red <br />
+                  * 2016 Sample data show in green <br />
+                </small>
+            </h4>
+            <div>
+              <a href="#" id="all" class="button active">All Schools</a>
+              <a href="#" id="split" class="button">Split by Sampling Year</a>
             </div>
-          </div>
-
-          <div class="mdl-grid table">
-            <div class="mdl-layout-spacer"></div>
-            <div class="mdl-cell--10-col">
-              <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
-                <thead>
-                  <tr>
-                    <th class="mdl-data-table__cell--non-numeric">School Name</th>
-                    <th>ULCS</th>
-                    <th class="mdl-data-table__cell--non-numeric">Sample Date</th>
-                    <th>Outlets tested</th>
-                    <th>Samples Collected</th>
-                    <th>Below 15 ppb</th>
-                    <th>Above 15 ppb</th>
-                    <th>Elevated Percentage</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {% for ld in lead-summary-2016 %}
-                    <tr>
-                      <td class="mdl-data-table__cell--non-numeric">
-                        <a href="{{ld | get: 'ULCS'}}/">{{ld | get: "School Name"}}</a>
-                      </td>
-                      <td>{{ld | get: "ULCS"}}</td>
-                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Date Sampled"}}</td>
-                      <td>{{ld | get: "Number of Outlets Tested"}}</td>
-                      <td>{{ld | get: "Total # of Samples Collected"}}</td>
-                      <td>{{ld | get: "Below"}}</td>
-                      <td class="mdl-color--red-100">{{ld | get: "Above"}}</td>
-                      {% capture samples %}
-                        {{ld | get: "Total # of Samples Collected"}}
-                      {% endcapture %}
-
-                      <td>{{ld | get: "Above" | divided_by: samples | round: 2}}</td>
-                    </tr>
-                  {% endfor %}
-                </tbody>
-              </table>
-            </div>
-            <div class="mdl-layout-spacer"></div>
-          </div>
-
-          <div class="row">
-            <h3 class="page-header">Other Relevant Information
-              <small>Articles, videos, newspaper reports, etc.</small>
-            </h3>
-            <ul>
-              <li>
-                <a href="http://www.nbcnews.com/news/us-news/lead-your-water-are-federal-tests-missing-poison-pipes-n621736">
-                  NBC News Story - August 2016 —  Lead in Your Water. Are Federal Tests Missing Poison in The Pipes
-                </a>
-              </li>
-              <li>
-                <a href="https://www.wbez.org/shows/wbez-news/is-cps-following-best-practices-when-it-comes-to-testing-school-water/08ef13d5-3197-442a-a799-b906c02e4407">
-                  May 10, 2016 news story about Chicago - Is it Following Best Practices?
-                </a>
-              </li>
-              <li>
-                <a href="/data/lead/lead-service-lines-study-20130723.pdf">
-                  2013 Report in the journal Environmental Science and Technology - This is a technical/scientific article looking in more detail at sampling and protocol issues
-                </a>
-              </li>
-            </ul>
+            <div id="vis"></div>
           </div>
         </main>
       </div>
-
     </div>
 
     {% include common/scripts %}
@@ -94,6 +70,7 @@
     lead: {
       2010: {
         samples: {{lead-samples-2010 | json}},
+        summary: {{lead-summary-2010 | json}}
       },
       2016: {
         samples: {{lead-samples-2016 | json }},
