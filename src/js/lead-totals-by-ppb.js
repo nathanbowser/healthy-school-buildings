@@ -1,8 +1,10 @@
 var d3 = require('d3')
+  , _tooltip = require('./tooltip')
 
 module.exports = function () {
   var s = d3.scale.threshold().domain([3, 5, 10, 15, 20])
                               .range(['Less than 3', '3 - 5', '5 - 10', '10 - 15', '15 - 20', 'More than 20'])
+    , tooltip = _tooltip('school-sample-summary', 300)
     , range = d3.select('#thresholds')
                 .on('change', draw)
 
@@ -45,6 +47,19 @@ module.exports = function () {
 
     enter.append('circle')
          .attr('fill', '#beccae')
+         .on('mouseover', function (d) {
+           d3.select(this).attr('stroke', 'black')
+           var html = '<span class="name">School: </span><span class="value">' + d.name + ' (' + d.ulcs + ')</span><br/>' +
+                      '<span class="name">Year: </span><span class="value">' + d.year + '</span><br />' +
+                      '<span class="name">Value: </span><span class="value">' + d[range.node().value] + '</span><br/>'
+
+           tooltip.show(html, d3.event)
+         })
+         .on('mouseout', function (d) {
+           d3.select(this)
+             .attr('stroke', '')
+           tooltip.hide()
+         })
 
     node.exit().remove()
 
@@ -64,7 +79,7 @@ module.exports = function () {
 
     node.select('text')
         .text(function (d) {
-          return d.name.substring(0, d.r / 4) + ' (' + d.ulcs + ')' //+ ' -- ' + d[range.node().value]
+          return d[range.node().value]
         })
   }
 
