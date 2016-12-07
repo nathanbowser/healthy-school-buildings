@@ -2,8 +2,10 @@
 
 @import "leaflet";
 @import "node_modules/chartist/dist/scss/chartist.scss";
+@import "dialog-polyfill";
 @import "chartist-plugin-tooltip";
 @import "ct-legend";
+@import "immybox";
 
 ::-webkit-scrollbar {
   display: none;
@@ -15,6 +17,10 @@ body {
 
 p {
   font-size: 16px;
+}
+
+.immybox.immybox_witharrow {
+  background-image: none;
 }
 
 .mdl-layout__header-row {
@@ -47,6 +53,10 @@ p {
   #map {
     height: 100vh;
 
+    .leaflet-popup .leaflet-popup-close-button {
+      display: none;
+    }
+
     #lead-only-message {
       top: 0;
       position: absolute;
@@ -64,8 +74,23 @@ p {
     }
   }
 
-  .right {
-    height: 100%;
+  @media (max-width: 479px) {
+    height: 100vh;
+    position: relative;
+
+    #map {
+      height: 400px;
+    }
+  }
+
+  @media (min-width: 480px) {
+    .left {
+      overflow-y: scroll;
+      height: 100%;
+    }
+  }
+
+  .left {
     padding-top: 0;
     margin-top: 0;
 
@@ -73,55 +98,60 @@ p {
       padding-top: 0;
     }
 
-    hr {
-      padding: 0;
-      margin: 0;
-    }
-
-    #settings-menu {
-      box-sizing: border-box;
-      position: absolute;
-      right: 16px;
-    }
-
-    .school-profile-default {
-      overflow-y: scroll;
-      height: 100%;
-    }
-
-    .school-profile {
-      overflow-y: scroll;
-      height: 100%;
-
-      .demographics-chart {
-        height: 400px;
-
-        .ct-label {
-          font-size: .80rem;
-        }
-        padding-bottom: 50px;
+    .school-search {
+      .mdl-textfield {
+        width: calc(100% - 15px);
       }
 
-      h2 {
+      i.material-icons {
+        margin-left: -50px;
+      }
+
+      .filter {
+        font-size: 26px;
+        line-height: 100px;
+      }
+
+    }
+
+    &.school-selected {
+      .school-header, .mdl-tabs {
+        display: block;
+      }
+
+      .school-header {
         margin-top: 0;
+        margin-left: 20px;
+
+        small {
+          vertical-align: top;
+        }
+
+        i.material-icons.clear {
+          float: right;
+          cursor: pointer;
+        }
+      }
+
+      .tab-pane-section-header {
+        text-transform: uppercase;
       }
 
       .label {
         font-size: 16px;
         font-weight: 600;
-        padding-top: 3px;
-        padding-bottom: 3px;
+        line-height: 24px;
+      }
 
-        i.material-icons {
-          font-size: 16px;
-        }
-
-        + div {
-          font-size: 16px;
-          padding-top: 3px;
-          padding-bottom: 3px;
+      #profile-panel {
+        .demographics-chart {
+          height: 300px;
         }
       }
+    }
+
+    .school-header, .mdl-tabs {
+      display: none;
     }
   }
 }

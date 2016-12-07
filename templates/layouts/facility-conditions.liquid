@@ -10,14 +10,21 @@
 
         <div class="page-content">
           <div class="mdl-grid facility-conditions-viewport">
-            <div class="mdl-cell mdl-cell--7-col">
+            <div class="mdl-cell mdl-cell--5-col-desktop mdl-cell--4-col-tablet left mdl-cell--order-1 mdl-cell--order-2-phone">
+
+              {% include facility-conditions/search %}
+
+              {% include facility-conditions/instructions %}
+
+              {% include facility-conditions/header %}
+
+              {% include facility-conditions/tabs %}
+
+            </div>
+            <div class="mdl-cell mdl-cell--7-col-desktop mdl-cell--4-col-tablet mdl-cell--order-2 mdl-cell--order-1-phone">
               <div id="map">
                 <div id="lead-only-message">*Schools w/ lead data</div>
               </div>
-            </div>
-            <div class="mdl-cell mdl-cell--5-col right">
-              {% include school-filtering %}
-              {% include school-profile %}
             </div>
           </div>
         </div>
@@ -27,6 +34,8 @@
 
       <!-- {% include common/footer %} -->
     </div>
+
+    {% include facility-conditions/filter-dialog %}
 
     {% include common/scripts %}
   </body>
@@ -39,10 +48,10 @@
   }
 
   window.data.leadByUlcs = data.lead.reduce(function (p, c) {
-    if (p[c.ULCS]) {
-      p[c.ULCS].push(c)
+    if (p[c.ulcs]) {
+      p[c.ulcs].push(c)
     } else {
-      p[c.ULCS] = [c]
+      p[c.ulcs] = [c]
     }
     return p
   },{})

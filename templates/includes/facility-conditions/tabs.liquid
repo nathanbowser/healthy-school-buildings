@@ -1,0 +1,21 @@
+<div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
+  <div class="mdl-tabs__tab-bar">
+      <a href="#profile-panel" class="mdl-tabs__tab is-active">Profile</a>
+      <a href="#conditions" class="mdl-tabs__tab">Conditions</a>
+      <a href="#data-reports" class="mdl-tabs__tab">Reports</a>
+      <a href="#lead" class="mdl-tabs__tab">Lead</a>
+  </div>
+
+  <div class="mdl-tabs__panel is-active" id="profile-panel">
+    {% include facility-conditions/profile %}
+  </div>
+  <div class="mdl-tabs__panel" id="conditions">
+    {% include facility-conditions/conditions %}
+  </div>
+  <div class="mdl-tabs__panel" id="data-reports">
+    {% include facility-conditions/data-reports %}
+  </div>
+  <div class="mdl-tabs__panel" id="lead">
+    {% include facility-conditions/lead %}
+  </div>
+</div>

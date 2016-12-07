@@ -1,15 +1,28 @@
 var L = require('leaflet')
   , d3 = require('d3')
-  , Sifter = require('sifter')
   , Chartist = require('chartist')
+  , dp = require('dialog-polyfill')
+  , $ = require('jquery')
 
 window.Chartist = Chartist
+
+// Just because of this stupid plugin
+window.jQuery = $
+require('./vendor/immybox')
 
 require('chartist-plugin-legend')
 
 module.exports = function () {
-  var map = L.map('map', { zoomControl: true }).setView([39.9629, -75.1185], 11)
+  var map = L.map('map', {
+                zoomControl: true,
+                closePopupOnClick: false,
+                center: [39.9629, -75.1185],
+                zoom: 10
+              })
     , dots = []
+    , selectedMarker = null
+
+  map.zoomControl.setPosition('topright')
 
   function demographics (data) {
     var offset = 0
@@ -26,7 +39,9 @@ module.exports = function () {
       return d[1]
     })
 
-    new Chartist.Pie('.ct-chart', {
+    document.querySelector('.demo-container .legend-container').innerHTML = ''
+
+    var pie = new Chartist.Pie('.ct-chart', {
       series: _data.map(function (d) {
                       return d[1]
                     }),
@@ -36,23 +51,22 @@ module.exports = function () {
     }, {
       showLabel: false,
       plugins: [
-        Chartist.plugins.legend({
-          position: 'top'
-        })
-      ],
-      chartPadding: {
-        top: 0,
-        bottom: 50,
-        left: 100
-      }
+        Chartist.plugins.legend({clickable: false, position: document.querySelector('.demo-container .legend-container')})
+      ]
     })
   }
 
-  var loadSchool = function (dot) {
-    document.querySelector('.school-profile').classList.remove('hide')
-    document.querySelector('.school-profile-default').classList.add('hide')
+  var loadSchool = function (data) {
+    if (selectedMarker) {
+      map.removeLayer(selectedMarker)
+    }
 
-    var data = this.options._data
+    selectedMarker = L.marker(data.Coordinates.split(',').map(Number).reverse())
+                      .addTo(map)
+                      .bindPopup('<b>' + data['School Name (ULCS)'] + '</b> (' + data['ULCS Code'] + ')').openPopup()
+
+    document.querySelector('.left').classList.add('school-selected')
+    document.querySelector('.instructions').classList.add('hide')
 
     document.querySelector('.school-name').innerHTML = data['School Name (ULCS)']
     document.querySelector('.ulcs').innerHTML = data['ULCS Code']
@@ -109,25 +123,15 @@ module.exports = function () {
   }
 
   function filterSchools () {
-    if (!sifter) {
-      return
-    }
-
     var min = document.querySelector('#min-fci').value / 100
       , max = document.querySelector('#max-fci').value / 100
       , leadOnly = document.querySelector('#lead-only').checked
-      , term = document.querySelector('#search').value.trim()
-      , sifted = sifter.search(term, {
-                         fields: ['schoolnameulcs', '_schoolnameulcs', 'ulcscode', 'streetaddress', 'zipcode']
-                       })
-                       .items
-                       .map(function (r) {
-                         return r.id
-                       })
 
     if (max === 1) {
       max = Infinity
     }
+
+    console.log('leadOnly', leadOnly)
 
     dots.forEach(function (dot, i) {
       var fci = dot.options._data['Facility Condition Index [FCI]']
@@ -137,9 +141,6 @@ module.exports = function () {
         hidden = !data.leadByUlcs[dot.options._data['ULCS Code']]
       }
 
-      if (!hidden) {
-        hidden = sifted.indexOf(i) === -1
-      }
 
       if (hidden) {
         dot._path.classList.add('hide')
@@ -149,12 +150,6 @@ module.exports = function () {
 
       return
     })
-
-    // schools.style('display', '')
-    //        .filter(function (d, i) {
-
-    //        })
-    //        .style('display', 'none')
   }
 
   // Draw Philly
@@ -162,11 +157,7 @@ module.exports = function () {
     attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
   }).addTo(map)
 
-  var sifter = new Sifter(window.data.schools.map(function (_school) {
-                    _school._schoolnameulcs = _school['School Name (ULCS)'].replace(/\s/g, '')
-                    return _school
-                  }))
-    , size = d3.scale.linear()
+  var size = d3.scale.linear()
                      .domain(d3.extent(window.data.schools, function (d) {
                        return parseInt(d['Total # of Students'], 10)
                      }))
@@ -198,43 +189,103 @@ module.exports = function () {
                   radius: size(d['Total # of Students']),
                   _data: d
                 })
-                .bindPopup(d['School Name (ULCS)'])
+                .bindPopup('<b>' + d['School Name (ULCS)'] + '</b> (' + d['ULCS Code'] + ')')
                 .on('mouseover', function (e) {
                   this.openPopup()
                 })
                 .on('mouseout', function (e) {
                   this.closePopup()
                 })
-                .on('click', loadSchool)
+                .on('click', function () {
+                  loadSchool(this.options._data)
+                })
                 .addTo(map)
 
     dots.push(dot)
   })
 
-
   function onSlide (bound) {
     var value = document.querySelector('#' + bound + '-fci').value
     document.querySelector('#' + bound + '-fci-output').innerHTML = value + '%'
-    filterSchools()
   }
 
-  onSlide('min')
-  onSlide('max')
-  // Handle the slider
+  d3.select('.clear')
+    .on('click', function () {
+      d3.select('.left').classed('school-selected', false)
+      d3.select('.instructions').classed('hide', false)
+      d3.select('#search').node().value = ''
+
+      if (selectedMarker) {
+        map.removeLayer(selectedMarker)
+        delete selectedMarker
+      }
+    })
+
+  var dialog = document.querySelector('dialog')
+
+  if (!dialog.showModal) {
+    dp.registerDialog(dialog)
+  }
+
+  d3.select('#filter-options')
+    .on('click', function () {
+      onSlide('min')
+      onSlide('max')
+      dialog.showModal()
+    })
+
+  d3.select('dialog .close')
+    .on('click', function () {
+      d3.select('#map').classed('lead-only', document.querySelector('#lead-only').checked)
+      filterSchools()
+      dialog.close()
+    })
+
+  d3.select('dialog .clear')
+    .on('click', function () {
+      document.querySelector('#min-fci').MaterialSlider.change(0)
+      document.querySelector('#max-fci').MaterialSlider.change(100)
+      if (document.querySelector('#lead-only').checked) {
+        document.querySelector('#lead-only').click()
+      }
+      d3.select('#map').classed('lead-only', false)
+      filterSchools()
+      dialog.close()
+    })
+
+  // Only use jquery because of immybox
+  $('#search').immybox({
+    choices: window.data.schools.map(function (school) {
+      return {
+        text: school['School Name (ULCS)'],
+        value: school['ULCS Code'],
+        zipcode: school['Zip Code']
+      }
+    }),
+    filterFn: function (query) {
+      var query = query.toLowerCase()
+      return function (choice) {
+        return choice.text.toLowerCase().indexOf(query) >= 0 ||
+               choice.value.indexOf(query) >= 0 ||
+               choice.zipcode.indexOf(query) >= 0
+      }
+    },
+    openOnClick: false
+  })
+
+  $('#search').on('update', function (e, ulcs) {
+    // Event fired by immmybox
+    if (!ulcs) {
+      return
+    }
+    loadSchool(window.data.schools.filter(function (s) {
+      return s['ULCS Code'] == ulcs
+    })[0])
+  })
+
+  // Handle the slider label updates
   document.querySelector('#min-fci')
           .addEventListener('input', onSlide.bind(null, 'min'))
   document.querySelector('#max-fci')
           .addEventListener('input', onSlide.bind(null, 'max'))
-  document.querySelector('#lead-only')
-          .addEventListener('change', function () {
-            d3.select('#map').classed('lead-only', this.checked)
-            filterSchools()
-          })
-  document.querySelector('#search')
-          .addEventListener('keyup', filterSchools)
-
-  document.querySelector('.mdl-menu')
-          .addEventListener('click', function (e) {
-            e.stopPropagation()
-          })
 }
