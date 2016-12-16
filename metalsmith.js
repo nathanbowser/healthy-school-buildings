@@ -1,4 +1,5 @@
 var csv = require('metalsmith-csv')
+  , slug = require('slug')
   , sass = require('metalsmith-sass')
   , Metalsmith = require('metalsmith')
   , watch = require('metalsmith-watch')
@@ -10,6 +11,7 @@ var csv = require('metalsmith-csv')
   , permalinks = require('metalsmith-permalinks')
   , scale = require('d3-scale')
   , values = require('lodash.values')
+  , d3 = require('d3')
 
 Metalsmith(__dirname)
   .source('./src')
@@ -83,8 +85,6 @@ Metalsmith(__dirname)
       p[c.name][s(c.lead)]++
       return p
     }, {}))
-
-
     next()
   })
   .use(inplace({
@@ -97,26 +97,74 @@ Metalsmith(__dirname)
   .use(markdown())
   .use(function (files, metalsmith, next) {
     var metadata = metalsmith.metadata()
-      , detail = files['lead-detail.html']
-      , byUlcs = metadata['lead-samples-2016'].reduce(function (p, c) {
-                   if (p[c.ULCS]) {
-                     p[c.ULCS].push(c)
-                   } else {
-                     p[c.ULCS] = [c]
-                   }
-                   return p
-                 }, {})
+    metadata.byUlcs = metadata['school-conditions'].reduce(function (p, c) {
+                                                      p[c['ULCS Code']] = c
+                                                      p[c['ULCS Code']].lead = {}
+                                                      return p
+                                                    }, {})
 
-    Object.keys(byUlcs).forEach(function (ulcs) {
-      files['lead/' + ulcs + '.html'] = {
-        contents: '',
-        layout: 'lead-detail.liquid',
-        data: byUlcs[ulcs],
-        name: byUlcs[ulcs][0]['School Name'],
-        ulcs: ulcs
+    // Add 2016 lead data to each of these schools
+    metadata['lead-samples-2016'].forEach(function (sample) {
+      if (metadata.byUlcs[sample.ulcs].lead[2016]) {
+        metadata.byUlcs[sample.ulcs].lead[2016].push(sample)
+      } else {
+        metadata.byUlcs[sample.ulcs].lead[2016] = [sample]
       }
     })
 
+    // Add 2010 lead data to each of these schools
+    metadata['lead-samples-2010'].forEach(function (sample) {
+      if (metadata.byUlcs[sample.ulcs].lead[2010]) {
+        metadata.byUlcs[sample.ulcs].lead[2010].push(sample)
+      } else {
+        metadata.byUlcs[sample.ulcs].lead[2010] = [sample]
+      }
+    })
+
+    next()
+  })
+  .use(function (files, metalsmith, next) {
+    var byUlcs = metalsmith.metadata().byUlcs
+
+    // Generate a facility page for each school
+    Object.keys(byUlcs).forEach(function (ulcs) {
+      var school = byUlcs[ulcs]
+      school.slug = slug(school['School Name (ULCS)']).toLowerCase()
+      files[school.slug + '.html'] = {
+        contents: '',
+        layout: 'facility-conditions.liquid',
+        school: school,
+        name: school['School Name (ULCS)'],
+        ulcs: ulcs
+      }
+
+      // Give it a lead page, too
+      files[school.slug + '/lead.html'] = {
+        contents: '',
+        layout: 'lead-detail.liquid',
+        data: school,
+        name: school['School Name'],
+        ulcs: school['ULCS Code']
+      }
+    })
+    next()
+  })
+  .use(function (files, metalsmith, next) {
+    // Generate an array of all schools and information we need to generate the search/map
+    var metadata = metalsmith.metadata()
+
+    metadata.allSchools = metadata['school-conditions'].map(function (school) {
+      return {
+        'School Name (ULCS)': school['School Name (ULCS)'],
+        'ULCS Code': school['ULCS Code'],
+        'Facility Condition Index [FCI]': school['Facility Condition Index [FCI]'],
+        'Total # of Students': school['Total # of Students'],
+        'Coordinates': school['Coordinates'],
+        'Zip Code': school['Zip Code'],
+        slug: school.slug,
+        lead2016: school.lead[2016]
+      }
+    })
     next()
   })
   .use(permalinks({
@@ -130,7 +178,11 @@ Metalsmith(__dirname)
   .use(layouts({
     engine: 'liquid',
     directory: 'templates/layouts',
-    includeDir: 'templates/includes'
+    includeDir: 'templates/includes',
+    filters: {
+      percentage: function (v) { return d3.format('%')(v) },
+      currency: function (v) { return d3.format('$,')(v) }
+    }
   }))
   .use(sass({
     outputStyle: 'expanded'

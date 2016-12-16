@@ -2,22 +2,23 @@
   <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Details:</h6>
 
   <div class="mdl-cell--7-col label">FCI Rating</div>
-  <div class="mdl-cell--5-col fci"></div>
+  <div class="mdl-cell--5-col">{{school | get: 'Facility Condition Index [FCI]' | percentage}}</div>
 
   <div class="mdl-cell--7-col label">Econ. Disadvantaged</div>
-  <div class="mdl-cell--5-col econ"></div>
+  <div class="mdl-cell--5-col">{{school | get: 'CEP Economically Disadvantaged Rate'}}</div>
 
   <div class="mdl-cell--7-col label">Special Needs Students</div>
-  <div class="mdl-cell--5-col special-needs"></div>
+  <div class="mdl-cell--5-col">{{school | get: 'Special Needs - Percentage'}}</div>
 
   <div class="mdl-cell--7-col label">CRV</div>
-  <div class="mdl-cell--5-col crv"></div>
+  <div class="mdl-cell--5-col">{{school | get: 'Replacement Cost [CRV]' | currency }}</div>
 
   <div class="mdl-cell--7-col label">CAC</div>
-  <div class="mdl-cell--5-col cac"></div>
+  <div class="mdl-cell--5-col">{{school | get: 'Condition Assessment Cost [CAC]' | currency}}</div>
 </div>
 
 <hr />
+
 <p>
 The FCI is the ratio of the cost to correct a facility's deficiencies called either the “Condition Assessment Cost” [CAC],
 (i.e.the amount in millions of $$ required to adequately fix the school) or the Current Needed Repairs [NR] to

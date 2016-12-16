@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html>
   {% include common/head %}
+
+  <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+
+  {% if school %}
+    <link rel="stylesheet" href="../css/style.css">
+    <script defer src="../js/bundle.js"></script>
+  {% else %}
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="js/bundle.js"></script>
+  {% endif %}
+
   <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base facility-conditions">
     <div class="mdl-layout__container">
 
@@ -11,14 +22,14 @@
         <div class="page-content">
           <div class="mdl-grid facility-conditions-viewport">
             <div class="mdl-cell mdl-cell--5-col-desktop mdl-cell--4-col-tablet left mdl-cell--order-1 mdl-cell--order-2-phone">
-
               {% include facility-conditions/search %}
 
-              {% include facility-conditions/instructions %}
-
-              {% include facility-conditions/header %}
-
-              {% include facility-conditions/tabs %}
+              {% if school %}
+                {% include facility-conditions/header %}
+                {% include facility-conditions/tabs %}
+              {% else %}
+                {% include facility-conditions/instructions %}
+              {% endif %}
 
             </div>
             <div class="mdl-cell mdl-cell--7-col-desktop mdl-cell--4-col-tablet mdl-cell--order-2 mdl-cell--order-1-phone">
@@ -37,23 +48,13 @@
 
     {% include facility-conditions/filter-dialog %}
 
-    {% include common/scripts %}
   </body>
 </html>
 
 <script type="text/javascript">
   window.data = {
-    schools: {{school-conditions | json}},
-    lead: {{lead-summary-2016 | json }}
+    all: {{allSchools | json}},
+    school: {{school | json}}
   }
-
-  window.data.leadByUlcs = data.lead.reduce(function (p, c) {
-    if (p[c.ulcs]) {
-      p[c.ulcs].push(c)
-    } else {
-      p[c.ulcs] = [c]
-    }
-    return p
-  },{})
 
 </script>

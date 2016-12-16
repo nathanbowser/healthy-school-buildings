@@ -4,13 +4,19 @@
   </h4>
   <div class="mdl-grid mdl-cell mdl-cell--12-col">
     <div class="mdl-cell--12-col lead-container">
-      <div class="no-lead">* No lead data available</div>
-      <div class="lead-data">
-        <a>View school complete lead data</a>
-        <p class="lead-summary"></p>
-        <h5>Drinking water outlets above action level:</h5>
-        <ul class="outlets"></ul>
-      </div>
+
+      {% if school.lead.2016 %}
+        <div class="lead-data">
+          <a href="lead">View school complete lead data</a>
+          <p class="lead-summary"></p>
+          <h5>Drinking water outlets above action level:</h5>
+          <ul class="outlets">
+          </ul>
+        </div>
+      {% else %}
+        <div class="no-lead">* No lead data available</div>
+      {% endif %}
+
     </div>
   </div>
 </div>

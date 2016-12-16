@@ -11,8 +11,13 @@
   display: none;
 }
 
+
 body {
   height: 100%;
+}
+
+.hide {
+  display: none;
 }
 
 p {
@@ -45,10 +50,6 @@ p {
   height: 100vh;
   width: 100%;
   position: fixed;
-
-  .hide {
-    display: none;
-  }
 
   #map {
     height: 100vh;
@@ -114,44 +115,34 @@ p {
 
     }
 
-    &.school-selected {
-      .school-header, .mdl-tabs {
-        display: block;
+    .school-header {
+      margin-top: 0;
+      margin-left: 20px;
+
+      small {
+        vertical-align: top;
       }
 
-      .school-header {
-        margin-top: 0;
-        margin-left: 20px;
-
-        small {
-          vertical-align: top;
-        }
-
-        i.material-icons.clear {
-          float: right;
-          cursor: pointer;
-        }
-      }
-
-      .tab-pane-section-header {
-        text-transform: uppercase;
-      }
-
-      .label {
-        font-size: 16px;
-        font-weight: 600;
-        line-height: 24px;
-      }
-
-      #profile-panel {
-        .demographics-chart {
-          height: 300px;
-        }
+      i.material-icons.clear {
+        float: right;
+        cursor: pointer;
       }
     }
 
-    .school-header, .mdl-tabs {
-      display: none;
+    .tab-pane-section-header {
+      text-transform: uppercase;
+    }
+
+    .label {
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 24px;
+    }
+
+    #profile-panel {
+      .demographics-chart {
+        height: 300px;
+      }
     }
   }
 }
