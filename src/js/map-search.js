@@ -28,12 +28,30 @@ module.exports = function () {
     attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
   }).addTo(map)
 
+  // Add a reset button
+  var control = new L.Control({ position: 'topright' })
+  control.onAdd = function (map) {
+    var reset = L.DomUtil.create('a','resetzoom')
+    reset.innerHTML = 'Reset Zoom'
+    L.DomEvent.disableClickPropagation(reset)
+              .addListener(reset, 'click', function () {
+                map.setView(map.options.center, map.options.zoom)
+              }, reset)
+    return reset
+  }
+  control.addTo(map)
+
+
   var school = window.data.school
   if (school) {
     // We're showing a school. Pin it
-    L.marker(school.Coordinates.split(',').map(Number).reverse())
-     .addTo(map)
-     .bindPopup('<b>' + school['School Name (ULCS)'] + '</b> (' + school['ULCS Code'] + ')').openPopup()
+    var marker = L.marker(school.Coordinates.split(',').map(Number).reverse())
+                  .addTo(map)
+                  .bindPopup('<b>' + school['School Name (ULCS)'] + '</b> (' + school['ULCS Code'] + ')').openPopup()
+      , cM = map.project(marker._latlng)
+
+    cM.y -= marker._popup._container.clientHeight / 2
+    map.setView(map.unproject(cM), 12, {animate: true})
   }
 
   var size = d3.scale.linear()
@@ -161,6 +179,7 @@ module.exports = function () {
     var min = document.querySelector('#min-fci').value / 100
       , max = document.querySelector('#max-fci').value / 100
       , leadOnly = document.querySelector('#lead-only').checked
+      , type = document.querySelector('#school-type').value
 
     if (max === 1) {
       max = Infinity
@@ -172,6 +191,10 @@ module.exports = function () {
 
       if (!hidden && leadOnly) {
         hidden = !dot.options._data.lead2016
+      }
+
+      if (type && dot.options._data['School Type'] !== type) {
+        hidden = true
       }
 
       if (hidden) {

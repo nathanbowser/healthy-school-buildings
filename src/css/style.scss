@@ -12,6 +12,10 @@
 }
 
 
+.mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after, .mdl-textfield__label:after {
+  background: #77bcb7;
+}
+
 body {
   height: 100%;
 }
@@ -50,6 +54,12 @@ p {
   height: 100vh;
   width: 100%;
   position: fixed;
+
+  .search {
+    font-weight: 700;
+    font-size: 1.8rem;
+    line-height: 22px;
+  }
 
   #map {
     height: 100vh;

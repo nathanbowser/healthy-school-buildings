@@ -161,10 +161,18 @@ Metalsmith(__dirname)
         'Total # of Students': school['Total # of Students'],
         'Coordinates': school['Coordinates'],
         'Zip Code': school['Zip Code'],
+        'School Type': school['School Type'],
         slug: school.slug,
         lead2016: school.lead[2016]
       }
     })
+
+    metadata.schoolTypes = metadata.allSchools.map(function (s) {
+                                                return s['School Type']
+                                              })
+                                              .filter(function (type, i, all) {
+                                                return all.indexOf(type) === i
+                                              })
     next()
   })
   .use(permalinks({

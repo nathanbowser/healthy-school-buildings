@@ -1,18 +1,25 @@
 <dialog class="mdl-dialog">
   <h4 class="mdl-dialog__title">Filter Schools</h4>
   <div class="mdl-dialog__content">
-    <p>You use the sliders provided to narrow search criteria to only schools with a defined range of FCI values.</p>
-
     <div>
       <div class="mdl-switch__label">Min FCI (<span id="min-fci-output"></span>)</div>
       <input id="min-fci" class="mdl-slider mdl-js-slider" type="range" min="0" max="100" value="0">
     </div>
+
     <div>
       <div class="mdl-switch__label">Max FCI (<span id="max-fci-output"></span>)</div>
       <input id="max-fci" class="mdl-slider mdl-js-slider" type="range" min="0" max="100" value="100">
     </div>
 
-    <p>Select to search for only those schools [29 in total] that have been tested for lead in water so far this year.</p>
+    <div>
+      <div class="mdl-switch__label">School Type</div>
+      <select id="school-type">
+        <option value="">All</option>
+        {% for type in schoolTypes %}
+          <option>{{type}}</option>
+        {% endfor %}
+      </select>
+    </div>
 
     <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="lead-only">
       <input type="checkbox" id="lead-only" class="mdl-switch__input">
