@@ -1,1 +1,35 @@
-Coming soon!
+<div class="mdl-grid mdl-cell mdl-cell--12-col">
+  <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">School Profile:</h6>
+
+  <a mdl-cell mdl-cell--6-col href="../data/pdf/profile/{{school | get: 'ULCS Code' }}.pdf">
+    <i class="material-icons pdf-icon">picture_as_pdf</i>
+  </a>
+
+  <div class="mdl-layout-spacer"></div>
+
+  <hr />
+
+  <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Reports:</h6>
+
+  {% for report in school.reports %}
+    <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone mdl-shadow--2dp report-pdf">
+      <a href="../data/pdf/report/{{school | get: 'ULCS Code'}}/{{report}}">
+        <i class="material-icons pdf-icon">picture_as_pdf</i>
+        <br />
+        {{report}}
+      </a>
+    </div>
+  {% endfor %}
+
+  <hr />
+
+  <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Images:</h6>
+
+  {% for img in school.images %}
+    <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone mdl-shadow--2dp thumb"">
+      <a href="../data/image/{{school | get: 'ULCS Code'}}/{{img}}"
+         style="background-image: url('../data/image/{{school | get: 'ULCS Code'}}/{{img}}')"></a>
+    </div>
+  {% endfor %}
+
+</div>

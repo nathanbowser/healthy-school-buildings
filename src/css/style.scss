@@ -6,10 +6,25 @@
 @import "chartist-plugin-tooltip";
 @import "ct-legend";
 @import "immybox";
+@import "fci-gauge";
 
 ::-webkit-scrollbar {
   display: none;
 }
+
+.thumb > a {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.report-pdf .pdf-icon {
+  font-size: 175px;
+}
+
 
 header.mdl-layout__header {
   background-color: #f8f8f8;
@@ -110,7 +125,7 @@ p {
   @media (min-width: 480px) {
     .left {
       overflow-y: scroll;
-      height: 100%;
+      height: calc(100% - 60px);
     }
   }
 

@@ -1,5 +1,7 @@
 var Chartist = require('chartist')
   , map = require('./map-search')
+  , d3 = require('d3')
+  , fciScale = require('./fci-scale')
 
 window.Chartist = Chartist
 require('chartist-plugin-legend')
@@ -39,6 +41,56 @@ function demographics (data) {
   })
 }
 
+function fci (data) {
+  var svg = d3.select('.fci-gauge svg')
+    , margin = 25
+    , g = svg.append('g')
+             .attr('transform', 'translate(' + margin + ',' + margin + ')')
+    , width = d3.select('.fci-gauge').node().offsetWidth - (margin * 2)
+    , x = d3.scale.linear()
+                  .domain([0, 1])
+                  .range([0, width])
+    , axis = g.append('g').attr('class', 'axis')
+                          .attr('transform', 'translate(0, 40)')
+    , scale = fciScale()
+    , xAxis = d3.svg.axis()
+                    .scale(x)
+                    .orient('bottom')
+                    .tickSize(13)
+                    .tickValues(scale.domain())
+                    .tickFormat(d3.format('%'))
+    , rect = g.selectAll('rect')
+              .data(scale.range().map(function (color) {
+                var d = scale.invertExtent(color)
+                if (d[0] == null) d[0] = x.domain()[0]
+                if (d[1] == null) d[1] = x.domain()[1]
+                return d
+              }))
+
+  rect.exit().remove()
+  rect.enter()
+      .append('rect')
+        .attr('y', 0)
+        .attr('height', 40)
+
+  rect.attr('x', function (d) { return x(d[0]) })
+      .attr('width', function (d) { return x(d[1]) - x(d[0]) })
+      .style('fill', function (d) { return scale(d[0]).color })
+
+  g.append('path')
+   .attr('transform', function () {
+     return 'translate(' + x(data['Facility Condition Index [FCI]']) + ',40)'
+   })
+   .attr('d', d3.svg.symbol().type('triangle-up').size(200))
+
+  axis.call(xAxis)
+     .append('text')
+     .attr('y', -45)
+     .text('FCI Thresholds')
+
+  axis.select('path.domain').remove()
+}
+
 module.exports = function () {
   map()
 
@@ -47,5 +99,6 @@ module.exports = function () {
   if (school) {
     // Draw demographics for this school
     demographics(window.data.school)
+    fci(window.data.school)
   }
 }

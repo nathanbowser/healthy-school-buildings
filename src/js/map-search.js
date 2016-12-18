@@ -2,6 +2,7 @@ var d3 = require('d3')
   , L = require('leaflet')
   , dp = require('dialog-polyfill')
   , $ = require('jquery')
+  , fciScale = require('./fci-scale')
 
 var loadSchool = function (data) {
   window.location.href = window.data.school ? ('../' + data.slug) : data.slug
@@ -60,24 +61,7 @@ module.exports = function () {
                      }))
                      .range([300, 1000])
 
-    , heatmap = d3.scale.threshold()
-                        .domain([.15, .25, .45, .60])
-                        .range([{
-                          color: '#4f7a28',
-                          text: 'Good'
-                        }, {
-                          color: '#f5ec00',
-                          text: 'Fair'
-                        }, {
-                          color: '#ff8647',
-                          text: 'Poor'
-                        }, {
-                          color: '#d95000',
-                          text: 'Very Poor'
-                        }, {
-                          color: '#b51a00',
-                          text: 'Critical'
-                        }])
+    , heatmap = fciScale()
 
   window.data.all.forEach(function (d) {
     var dot = L.circle(d.Coordinates.split(',').map(Number).reverse(), {

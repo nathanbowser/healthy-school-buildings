@@ -1,0 +1,13 @@
+
+.fci-gauge {
+  height: 200px;
+
+  svg {
+    width: 100%;
+    height: 100%;
+
+    .needle, .needle-center {
+      fill: #464A4F;
+    }
+  }
+}
