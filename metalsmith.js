@@ -16,7 +16,7 @@ var csv = require('metalsmith-csv')
 
 Metalsmith(__dirname)
   .source('./src')
-  .destination('./healthy-school-buildings')
+  .destination('./out')
   .clean(true)
   .use(csv({
     files:[
