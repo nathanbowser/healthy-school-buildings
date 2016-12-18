@@ -11,6 +11,19 @@
   display: none;
 }
 
+header.mdl-layout__header {
+  background-color: #f8f8f8;
+
+  .mdl-layout__header-row .mdl-navigation__link {
+    color: #232323;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+    transition: 0.2s linear;
+    -webkit-transition: 0.2s linear;
+    -moz-transition: 0.2s linear;
+  }
+}
 
 .mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after, .mdl-textfield__label:after {
   background: #77bcb7;
