@@ -1,5 +1,6 @@
 var csv = require('metalsmith-csv')
   , slug = require('slug')
+  , fs = require('fs')
   , sass = require('metalsmith-sass')
   , Metalsmith = require('metalsmith')
   , watch = require('metalsmith-watch')
@@ -119,6 +120,30 @@ Metalsmith(__dirname)
       } else {
         metadata.byUlcs[sample.ulcs].lead[2010] = [sample]
       }
+    })
+
+    // Add reports, data pdfs, and images to the schools
+    metadata['school-conditions'].forEach(function (school) {
+      // Images
+      if (fs.existsSync(__dirname + '/src/data/image/' + school['ULCS Code'])) {
+        school.images = fs.readdirSync(__dirname + '/src/data/image/' + school['ULCS Code'])
+      }
+
+      // profile
+      if (fs.existsSync(__dirname + '/src/data/pdf/profile/' + school['ULCS Code'] + '.pdf')) {
+        school.profilePdf = school['ULCS Code'] + '.pdf'
+      }
+
+      // profile
+      if (fs.existsSync(__dirname + '/src/data/pdf/report/' + school['ULCS Code'])) {
+        school.reports = fs.readdirSync(__dirname + '/src/data/pdf/report/' + school['ULCS Code'])
+      }
+
+      // Lead
+      if (fs.existsSync(__dirname + '/src/data/lead/' + school['ULCS Code'])) {
+        school.leadReports = fs.readdirSync(__dirname + '/src/data/lead/' + school['ULCS Code'])
+      }
+
     })
 
     next()
