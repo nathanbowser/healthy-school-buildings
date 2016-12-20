@@ -1,59 +1,74 @@
-<div class="mdl-grid mdl-cell mdl-cell--12-col">
-  <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Details:</h6>
+<div class="mdl-grid mdl-grid--no-spacing mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Ratings &amp; Costs:</h4>
 
-  <div class="mdl-cell--7-col label">CRV</div>
-  <div class="mdl-cell--5-col">{{school | get: 'Replacement Cost [CRV]' | currency }}</div>
+  <div class="mdl-cell--2-col label">CAC</div>
+  <div class="mdl-cell--3-col">{{school | get: 'Condition Assessment Cost [CAC]' | currency}}</div>
 
-  <div class="mdl-cell--7-col label">CAC</div>
-  <div class="mdl-cell--5-col">{{school | get: 'Condition Assessment Cost [CAC]' | currency}}</div>
+  <div class="mdl-cell--2-col label">CRV</div>
+  <div class="mdl-cell--3-col">{{school | get: 'Replacement Cost [CRV]' | currency }}</div>
 
-  <div class="mdl-cell--7-col label">FCI Rating</div>
-  <div class="mdl-cell--5-col">{{school | get: 'Facility Condition Index [FCI]' | percentage}}</div>
+  <div class="fci mdl-cell--5-col label">FCI Rating <span class="fci-rating-rank">FAIR</span></div>
+  <div class="fci mdl-cell--6-col fci-rating">{{school | get: 'Facility Condition Index [FCI]' | percentage}}</div>
 
+  <div class="mdl-cell mdl-cell--12-col fci-gauge"><svg></svg></div>
+
+  The FCI Rating is the ratio of the Condition Assessment Cost (CAC) to the Current Replacement Value (CRV).
 </div>
-
-<div class="mdl-cell mdl-cell--12-col fci-gauge"><svg></svg></div>
 
 <hr />
 
-<p>
-The FCI is the ratio of the cost to correct a facility's deficiencies called either the “Condition Assessment Cost” [CAC],
-(i.e.the amount in millions of $$ required to adequately fix the school) or the Current Needed Repairs [NR] to
-something referred to as the Current Replacement Value (CRV), also referred to as the “Replacement  in Kind Value” [RV]. The RV
-represents the hypothetical total cost of rebuilding or replacing an existing facility in current dollars to its
-optimal condition under current codes and construction methods.
-</p>
+<div class="mdl-grid mdl-grid--no-spacing mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Asbestos:</h4>
 
-<div>
-  <p>
-    To better understand FCI values the following definitions being used by the SDP should help:
-  </p>
+  Asbestos values are not currently available for this school.
+</div>
 
-  <ul class="mdl-list">
-    <li class="mdl-list__item">
-      <span class="mdl-list__item-primary-content">
-        &lt; 15% -- Minimal current capital funding required [Good Condition]
-      </span>
-    </li>
-    <li class="mdl-list__item">
-      <span class="mdl-list__item-primary-content">
-        15% - 25% -- Refurbish Systems [Fair Condition]
-      </span>
-    </li>
-    <li class="mdl-list__item">
-      <span class="mdl-list__item-primary-content">
-        25% - 45% -- Replace Systems [Poor Condition]
-      </span>
-    </li>
-    <li class="mdl-list__item">
-      <span class="mdl-list__item-primary-content">
-        45% - 60% -- Funding Becomes Unsustainable - Renovate [Very Poor Condition]
-      </span>
-    </li>
-    <li class="mdl-list__item">
-      <span class="mdl-list__item-primary-content">
-        &gt; 60% -- Critical Condition
-      </span>
-    </li>
-  </ul>
+<hr />
+
+<div class="mdl-grid mdl-grid--no-spacing mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Lead in Paint:</h4>
+
+  Lead in Paint values are not currently available for this school.
+</div>
+
+<hr />
+
+<div class="mdl-grid mdl-grid--no-spacing mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Lead in Water:</h4>
+
+
+  NOT YET IMPLEMENTED
+  {% comment %}
+  <div class="mdl-grid mdl-cell mdl-cell--12-col">
+    <h4>Lead Data
+      <small>Current SDP Action Level [AL] for Lead in Water is 15 parts per billion [ppb]</small>
+    </h4>
+    <div class="mdl-grid mdl-cell mdl-cell--12-col">
+      <div class="mdl-cell--12-col lead-container">
+
+        {% if school.lead.2016 %}
+          <div class="lead-data">
+            <a href="lead">View school complete lead data</a>
+            <p class="lead-summary"></p>
+            <h5>Drinking water outlets above action level:</h5>
+            <ul class="outlets">
+            </ul>
+          </div>
+        {% else %}
+          <div class="no-lead">* No lead data available</div>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+
+  {% endcomment %}
+</div>
+
+<hr />
+
+<div class="mdl-grid mdl-grid--no-spacing mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Mold:</h4>
+
+  Mold values are not currently available for this school.
 </div>

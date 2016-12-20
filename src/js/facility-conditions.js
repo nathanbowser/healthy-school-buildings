@@ -32,6 +32,9 @@ function demographics (data) {
                   })
   }, {
     showLabel: false,
+    chartPadding: {
+      top: 20
+    },
     plugins: [
       Chartist.plugins.legend({
         clickable: false,
@@ -44,28 +47,53 @@ function demographics (data) {
 function fci (data) {
   var svg = d3.select('.fci-gauge svg')
     , margin = 25
-    , g = svg.append('g')
-             .attr('transform', 'translate(' + margin + ',' + margin + ')')
     , width = d3.select('.fci-gauge').node().offsetWidth - (margin * 2)
+
+  svg.append('defs')
+     .append('clipPath')
+       // .attr('transform', 'translate(' + margin + ',' + margin + ')')
+       .attr('id', 'rect-clip')
+       .append('rect')
+         .attr('height', 40)
+         .attr('width', width)
+         .attr('rx', 10)
+         .attr('ry', 10)
+
+  var g = svg.append('g')
+             .attr('transform', 'translate(' + margin + ',' + margin + ')')
     , x = d3.scale.linear()
                   .domain([0, 1])
                   .range([0, width])
     , axis = g.append('g').attr('class', 'axis')
-                          .attr('transform', 'translate(0, 40)')
+                          .attr('transform', 'translate(0, 45)')
     , scale = fciScale()
-    , xAxis = d3.svg.axis()
+    , ticks = [0, 1]
+
+  ticks.splice.apply(ticks, [1, 0].concat(scale.domain()))
+
+  var xAxis = d3.svg.axis()
                     .scale(x)
                     .orient('bottom')
                     .tickSize(13)
-                    .tickValues(scale.domain())
+                    .tickValues(ticks)
                     .tickFormat(d3.format('%'))
-    , rect = g.selectAll('rect')
-              .data(scale.range().map(function (color) {
-                var d = scale.invertExtent(color)
-                if (d[0] == null) d[0] = x.domain()[0]
-                if (d[1] == null) d[1] = x.domain()[1]
-                return d
-              }))
+    , rectGrp = g.selectAll('g.rect')
+                 .data(function (d) { return [d] })
+
+  rectGrp.enter()
+         .append('g')
+         .attr('class', 'rect')
+         .attr('clip-path', 'url(#rect-clip)')
+
+  var rect = rectGrp.selectAll('rect')
+                    .data(scale.range().map(function (color) {
+                      var d = scale.invertExtent(color)
+                      if (d[0] == null) d[0] = x.domain()[0]
+                      if (d[1] == null) d[1] = x.domain()[1]
+                      return d
+                    }))
+
+              console.log(ticks)
 
   rect.exit().remove()
   rect.enter()
@@ -78,17 +106,17 @@ function fci (data) {
       .style('fill', function (d) { return scale(d[0]).color })
 
   g.append('path')
+   .classed('needle', true)
    .attr('transform', function () {
-     return 'translate(' + x(data['Facility Condition Index [FCI]']) + ',40)'
+     return 'translate(' + x(data['Facility Condition Index [FCI]']) + ',35)'
    })
    .attr('d', d3.svg.symbol().type('triangle-up').size(200))
 
   axis.call(xAxis)
-     .append('text')
-     .attr('y', -45)
-     .text('FCI Thresholds')
 
-  axis.select('path.domain').remove()
+  d3.select('.fci-rating-rank')
+    .text(scale(data['Facility Condition Index [FCI]']).text)
+    .style('color', scale(data['Facility Condition Index [FCI]']).color)
 }
 
 module.exports = function () {

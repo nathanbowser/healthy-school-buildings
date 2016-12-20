@@ -1,29 +1,29 @@
 <div class="mdl-grid mdl-cell mdl-cell--12-col">
-  <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">School Profile:</h6>
-
-  <a mdl-cell mdl-cell--6-col href="../data/pdf/profile/{{school | get: 'ULCS Code' }}.pdf">
-    <i class="material-icons pdf-icon">picture_as_pdf</i>
-  </a>
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">School Profile:</h4>
 
   <div class="mdl-layout-spacer"></div>
 
-  <hr />
+  <a class="pdf-img mdl-cell mdl-cell--6-col" href="../data/pdf/profile/{{school | get: 'ULCS Code' }}.pdf"></a>
 
-  <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Reports:</h6>
+</div>
+
+<hr />
+
+<div class="mdl-grid mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Reports:</h4>
+
+  <div class="mdl-layout-spacer"></div>
 
   {% for report in school.reports %}
-    <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone mdl-shadow--2dp report-pdf">
-      <a href="../data/pdf/report/{{school | get: 'ULCS Code'}}/{{report}}">
-        <i class="material-icons pdf-icon">picture_as_pdf</i>
-        <br />
-        {{report}}
-      </a>
-    </div>
+    <a class="pdf-img mdl-cell mdl-cell--3-col" href="../data/pdf/report/{{school | get: 'ULCS Code'}}/{{report}}"></a>
   {% endfor %}
 
-  <hr />
+</div>
 
-  <h6 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Images:</h6>
+<hr />
+
+<div class="mdl-grid mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Images:</h4>
 
   {% for img in school.images %}
     <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone mdl-shadow--2dp thumb"">
@@ -33,3 +33,10 @@
   {% endfor %}
 
 </div>
+
+<hr />
+
+<div class="mdl-grid mdl-cell mdl-cell--12-col">
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Resources:</h4>
+</div>
+

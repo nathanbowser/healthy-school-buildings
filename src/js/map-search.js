@@ -33,7 +33,7 @@ module.exports = function () {
   var control = new L.Control({ position: 'topright' })
   control.onAdd = function (map) {
     var reset = L.DomUtil.create('a','resetzoom')
-    reset.innerHTML = 'Reset Zoom'
+    reset.innerHTML = '<i class="reset-icon material-icons">location_searching</i>'
     L.DomEvent.disableClickPropagation(reset)
               .addListener(reset, 'click', function () {
                 map.setView(map.options.center, map.options.zoom)
@@ -48,7 +48,7 @@ module.exports = function () {
     // We're showing a school. Pin it
     var marker = L.marker(school.Coordinates.split(',').map(Number).reverse())
                   .addTo(map)
-                  .bindPopup('<b>' + school['School Name (ULCS)'] + '</b> (' + school['ULCS Code'] + ')').openPopup()
+                  .bindPopup(school['School Name (ULCS)'] + '<br /> <span class="ulcs">' + school['ULCS Code'] + '</span>').openPopup()
       , cM = map.project(marker._latlng)
 
     cM.y -= marker._popup._container.clientHeight / 2
@@ -71,7 +71,7 @@ module.exports = function () {
                   radius: size(d['Total # of Students']),
                   _data: d
                 })
-                .bindPopup('<b>' + d['School Name (ULCS)'] + '</b> (' + d['ULCS Code'] + ')')
+                .bindPopup(d['School Name (ULCS)'] + '<br /> <span class="ulcs">' + d['ULCS Code'] + '</span>')
                 .on('mouseover', function (e) {
                   this.openPopup()
                 })

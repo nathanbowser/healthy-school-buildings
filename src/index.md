@@ -2,17 +2,26 @@
 layout: facility-conditions.liquid
 ---
 
-View schools on the map by clicking one of the school bubbles.
+#### How to Search:
 
-The bubble size on the map reflects the school student population as of the 2015-2016 school year;  bubble color is related to a number called the "Facility Condition Index" [FCI], an industry-standard measurement of a facility's condition. It is typically expressed as a percent; the higher the value the worse the school condition is.
+To search and view a specific school, type the school name in the "**Find a School**" search bar above and then select that school from the list. Search also allows you to search by a school's ULCS Code.
 
-You can type in a school name to search for a specific school.
+You can also click any bubbles inside the map to select a school. By using the "+" and "-" icons in the top right corner of the map you can zoom in and out.
 
-It is also possible to narrow search criteria by selecting filter options.
+* * *
 
-You can download a master copy of this data <a href="{{site.basedir}}/data/school-conditions.csv">here</a>.
+#### Filters:
 
-*This site is a work in progress and is part of the Healthy School Buildings Initiative.
-It has been designed to provide real, and near real time data & information
-about Philadelphia school building conditions, including a look at the
-lead in water testing currently being undertaken.
+To filter schools, click the "**Filter**" link to the right of the search bar.
+
+**Facility Condition Index (FCI)**: Use the slider provided to narrow search criteria to only schools with a defined range of FCI values.
+
+**Lead in Water**: Select to search for only those schools that have been tested for water so far this year.
+
+* * *
+
+#### FCI Ratings:
+
+The Facility Condition Index (FCI) is the ratio of the cost to correct a facility's deficiences. It is typically expressed as a percentage; the higher the value the worse the school condition is.
+
+The bubble size on the map reflects the school student population as of the 2015-2016 school year; the bubble color is related to the FCI (See color detail below):
