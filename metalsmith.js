@@ -149,6 +149,32 @@ Metalsmith(__dirname)
     next()
   })
   .use(function (files, metalsmith, next) {
+    // Generate lead summary for a school (Used on school conditions page)
+    var metadata = metalsmith.metadata()
+
+    Object.keys(metadata.byUlcs).forEach(function (ulcs) {
+      var school = metadata.byUlcs[ulcs]
+      if (school.lead[2016]) {
+        school.lead2016Average = d3.format('.2f')(school.lead[2016].map(function (s) {
+                                                         return s.lead
+                                                       })
+                                                       .reduce(function (p, c) {
+                                                         return p + parseInt(c, 10)
+                                                       }, 0) / school.lead[2016].length)
+
+      }
+      if (school.lead[2010]) {
+        school.lead2010Average = d3.format('.2f')(school.lead[2010].map(function (s) {
+                                                         return s.lead
+                                                       })
+                                                       .reduce(function (p, c) {
+                                                         return p + parseInt(c, 10)
+                                                       }, 0) / school.lead[2010].length)
+      }
+    })
+    next()
+  })
+  .use(function (files, metalsmith, next) {
     var byUlcs = metalsmith.metadata().byUlcs
 
     // Generate a facility page for each school
