@@ -2,6 +2,7 @@ var facilityConditions = require('./facility-conditions')
   , leadsummary = require('./lead-summary')
   , leadByPpb = require('./lead-by-ppb')
   , leadTotalsByPpb = require('./lead-totals-by-ppb')
+  , leadDetail = require('./lead-detail')
 
 if (document.querySelector('.facility-conditions')) {
   facilityConditions()
@@ -11,4 +12,6 @@ if (document.querySelector('.facility-conditions')) {
   leadByPpb()
 } else if (document.querySelector('body.lead-totals-by-ppb')) {
   leadTotalsByPpb()
+} else if (document.querySelector('body.lead-detail')) {
+  leadDetail()
 }

@@ -39,6 +39,8 @@ Metalsmith(__dirname)
       return l.valid == 'true' && actives.indexOf(l.ulcs) !== -1
     })
 
+    md.ppbThresholds = s.range()
+
     md['lead-samples-2016'] = md['lead-samples-2016'].map(function (sample) {
       // Normalize to match old data
       sample.ulcs = sample.ULCS
@@ -48,44 +50,50 @@ Metalsmith(__dirname)
       if (result.indexOf('<') === 0) {
         result = result.substring(1)
       }
+      if (result.indexOf('ND<') === 0) {
+        result = result.substring(3)
+      }
       sample.lead = result
       return sample
     })
 
-    md['lead-summary-2010'] = values(md['lead-samples-2010'].reduce(function (p, c) {
-      if (!p[c.name]) {
-        p[c.name] = {
+    md['lead-summary-2010-obj'] = md['lead-samples-2010'].reduce(function (p, c) {
+      if (!p[c.ulcs]) {
+        p[c.ulcs] = {
           collected: 0,
           ulcs: c.ulcs,
           name: c.name,
           year: 2010
         }
         s.range().forEach(function (r) {
-          p[c.name][r] = 0
+          p[c.ulcs][r] = 0
         })
       }
-      p[c.name].collected++
-      p[c.name][s(c.lead)]++
+      p[c.ulcs].collected++
+      p[c.ulcs][s(c.lead)]++
       return p
-    }, {}))
+    }, {})
 
-    // Add summary data
-    md['lead-summary-2016'] = values(md['lead-samples-2016'].reduce(function (p, c) {
-      if (!p[c.name]) {
-        p[c.name] = {
+    md['lead-summary-2010'] = values(md['lead-summary-2010-obj'])
+
+    md['lead-summary-2016-obj'] = md['lead-samples-2016'].reduce(function (p, c) {
+      if (!p[c.ulcs]) {
+        p[c.ulcs] = {
           collected: 0,
           ulcs: c['ULCS'],
           year: 2016,
           name: c.name
         }
         s.range().forEach(function (r) {
-          p[c.name][r] = 0
+          p[c.ulcs][r] = 0
         })
       }
-      p[c.name].collected++
-      p[c.name][s(c.lead)]++
+      p[c.ulcs].collected++
+      p[c.ulcs][s(c.lead)]++
       return p
-    }, {}))
+    }, {})
+    // Add summary data
+    md['lead-summary-2016'] = values(md['lead-summary-2016-obj'])
     next()
   })
   .use(inplace({
@@ -155,15 +163,20 @@ Metalsmith(__dirname)
     Object.keys(metadata.byUlcs).forEach(function (ulcs) {
       var school = metadata.byUlcs[ulcs]
       if (school.lead[2016]) {
+        school.lead2016Summary = metadata['lead-summary-2016-obj'][school['ULCS Code']]
         school.lead2016Average = d3.format('.2f')(school.lead[2016].map(function (s) {
                                                          return s.lead
                                                        })
                                                        .reduce(function (p, c) {
+                                                         if (ulcs == 8300) {
+                                                          console.log(p, c)
+                                                         }
                                                          return p + parseInt(c, 10)
                                                        }, 0) / school.lead[2016].length)
 
       }
       if (school.lead[2010]) {
+        school.lead2010Summary = metadata['lead-summary-2010-obj'][school['ULCS Code']]
         school.lead2010Average = d3.format('.2f')(school.lead[2010].map(function (s) {
                                                          return s.lead
                                                        })
@@ -193,9 +206,9 @@ Metalsmith(__dirname)
       files[school.slug + '/lead.html'] = {
         contents: '',
         layout: 'lead-detail.liquid',
-        data: school,
-        name: school['School Name'],
-        ulcs: school['ULCS Code']
+        school: school,
+        ulcs: ulcs,
+        name: school['School Name (ULCS)']
       }
     })
     next()

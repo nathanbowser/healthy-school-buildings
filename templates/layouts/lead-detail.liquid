@@ -1,46 +1,117 @@
 <!DOCTYPE html>
 <html>
   {% include common/head %}
-  <body class="mdl-color--grey-100 mdl-color-text--grey-700 mdl-base lead-detail">
+
+  <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+  <link rel="stylesheet" href="../../css/style.css">
+  <script defer src="../../js/bundle.js"></script>
+
+  <body class="mdl-color-text--grey-700 mdl-base lead-detail">
+
     <div class="mdl-layout__container">
       <div class="mdl-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+        {% include common/header %}
         <main class="mdl-layout__content">
-          <h1>{{name}} <small>({{ulcs}})</small></h1>
 
-          <div class="mdl-grid table">
+        <div class="page-content">
+          <div class="mdl-grid">
             <div class="mdl-layout-spacer"></div>
-            <div class="mdl-cell--10-col">
+            <h2 class="mdl-cell mdl-cell--8-col mdl-typography--text-center">
+              {{school | get: 'School Name (ULCS)'}}
+              <small>{{school | get: 'ULCS Code'}}</small>
+            </h2>
+            <div class="mdl-layout-spacer"></div>
+          </div>
+
+          <div class="mdl-grid">
+            <a class="mdl-cell mdl-cell--2-col" href="../">Back to School Profile</a>
+            <div class="mdl-layout-spacer"></div>
+          </div>
+
+          <hr />
+
+          <div class="mdl-grid">
+            <div class="mdl-layout-spacer"></div>
+            <div class="mdl-cell mdl-cell--10-col mdl-typography--text-center">
               <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
                 <thead>
                   <tr>
-                    <th class="mdl-data-table__cell--non-numeric">Outlet ID</th>
-                    <th class="mdl-data-table__cell--non-numeric">Outlet Location</th>
-                    <th class="mdl-data-table__cell--non-numeric">Collection Date</th>
-                    <th>Test Result (ppb)</th>
-                    <th>Test Result</th>
+                    <th class="mdl-data-table__cell">Year</th>
+                    {% for threshold in ppbThresholds %}
+                      <th class="mdl-data-table__cell">{{threshold}}</th>
+                    {% endfor %}
+                    <th class="mdl-data-table__cell">Total</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {% for ld in data %}
+                  {% if school.lead.2016 %}
                     <tr>
-                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Outlet ID #"}}</td>
-                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Outlet Location"}}</td>
-                      <td class="mdl-data-table__cell--non-numeric">{{ld | get: "Sample Collection Date"}}</td>
-                      <td>{{ld | get: "Test Result (ppb)"}}</td>
-                      <td>{{ld | get: "Test Results"}}</td>
+                      <td>2016</td>
+
+                      {% for threshold in ppbThresholds %}
+                        <td class="mdl-data-table__cell">{{ school.lead2016Summary | get: threshold }}</td>
+                      {% endfor %}
+                      <td class="mdl-data-table__cell">{{ school.lead2016Summary | get: 'collected' }}</td>
                     </tr>
-                  {% endfor %}
+                  {% endif %}
+                  {% if school.lead.2010 %}
+                    <tr>
+                      <td>2010</td>
+                      {% for threshold in ppbThresholds %}
+                        <td class="mdl-data-table__cell">{{ school.lead2010Summary | get: threshold }}</td>
+                      {% endfor %}
+                      <td class="mdl-data-table__cell">{{ school.lead2010Summary | get: 'collected' }}</td>
+                    </tr>
+                  {% endif %}
                 </tbody>
               </table>
             </div>
             <div class="mdl-layout-spacer"></div>
           </div>
+
+          <hr />
+
+          <div class="mdl-grid">
+            <div class="mdl-layout-spacer"></div>
+            <div class="mdl-grid mdl-cell mdl-cell--10-col">
+              <div class="mdl-cell mdl-cell--4">
+                <h6>Percentage of samples between min and max ppb</h6>
+
+                <div>
+                  <div class="mdl-switch__label">Min ppb (<span id="min-ppb-output"></span>)</div>
+                  <input id="min-ppb" class="mdl-slider mdl-js-slider" type="range" min="0" max="100" value="15">
+                </div>
+
+                <br />
+
+                <div>
+                  <div class="mdl-switch__label">Max ppb (<span id="max-ppb-output"></span>)</div>
+                  <input id="max-ppb" class="mdl-slider mdl-js-slider" type="range" min="0" max="100" value="20">
+                </div>
+              </div>
+
+              <div class="mdl-cell mdl-cell--4-col vis">
+                <h4>2010 Samples</h4>
+                <svg id="gauge-2010"></svg>
+              </div>
+              <div class="mdl-layout-spacer"></div>
+              <div class="mdl-cell mdl-cell--4-col vis">
+                <h4>2016 Samples</h4>
+                <svg id="gauge-2016"></svg>
+              </div>
+            </div>
+            <div class="mdl-layout-spacer"></div>
+          </div>
+        </div>
         </main>
       </div>
-
     </div>
   </body>
 </html>
+
 <script type="text/javascript">
-  window.data = {{data |json}}
+  window.data = {
+    ppbThresholds: {{ ppbThresholds | json }},
+    school: {{school | json}}
+  }
 </script>
