@@ -103,15 +103,23 @@
 
               <div class="mdl-grid mdl-cell mdl-cell--12-col">
                 <div class="mdl-layout-spacer"></div>
-                <div class="mdl-cell mdl-cell--4-col vis">
-                  <h4>2010 Samples</h4>
-                  <svg id="gauge-2010"></svg>
-                </div>
+
+                {% if school.lead.2010 %}
+                  <div class="mdl-cell mdl-cell--4-col vis">
+                    <h4>2010 Samples</h4>
+                    <svg id="gauge-2010"></svg>
+                  </div>
+                {% endif %}
+
                 <div class="mdl-layout-spacer"></div>
-                <div class="mdl-cell mdl-cell--4-col vis">
-                  <h4>2016 Samples</h4>
-                  <svg id="gauge-2016"></svg>
-                </div>
+                {% if school.lead.2016 %}
+                  <div class="mdl-cell mdl-cell--4-col vis">
+
+                    <h4>2016 Samples</h4>
+                    <svg id="gauge-2016"></svg>
+
+                  </div>
+                {% endif %}
                 <div class="mdl-layout-spacer"></div>
               </div>
             </div>
