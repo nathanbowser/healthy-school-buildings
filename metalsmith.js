@@ -29,7 +29,34 @@ Metalsmith(__dirname)
     // Remove invalid data from old 2010 csv
     var md = metalsmith.metadata()
       , s = scale.scaleThreshold().domain([3, 5, 10, 15, 20])
-                                  .range(['Less than 3', '3 - 5', '5 - 10', '10 - 15', '15 - 20', 'More than 20'])
+                                  .range([{
+                                    label: 'Less than 3',
+                                    min: 0,
+                                    max: 3
+                                  }, {
+                                    label: '3 - 5',
+                                    min: 3,
+                                    max: 5
+                                  }, {
+                                    label: '5 - 10',
+                                    min: 5,
+                                    max: 10
+                                  }, {
+                                    label: '10 - 15',
+                                    min: 10,
+                                    max: 15,
+                                    clazz: 'above-threshold'
+                                  }, {
+                                    label: '15 - 20',
+                                    min: 15,
+                                    max: 20,
+                                    clazz: 'above-threshold'
+                                  }, {
+                                    label: 'More than 20',
+                                    min: 20,
+                                    max: 100,
+                                    clazz: 'above-threshold'
+                                  }])
 
       , actives = md['school-conditions'].map(function (s) {
                                            return s['ULCS Code']
@@ -38,7 +65,6 @@ Metalsmith(__dirname)
       // Remove invalid samples; as well as samples part of a ULCS that we never long have
       return l.valid == 'true' && actives.indexOf(l.ulcs) !== -1
     })
-
     md.ppbThresholds = s.range()
 
     md['lead-samples-2016'] = md['lead-samples-2016'].map(function (sample) {
@@ -66,11 +92,11 @@ Metalsmith(__dirname)
           year: 2010
         }
         s.range().forEach(function (r) {
-          p[c.ulcs][r] = 0
+          p[c.ulcs][r.label] = 0
         })
       }
       p[c.ulcs].collected++
-      p[c.ulcs][s(c.lead)]++
+      p[c.ulcs][s(c.lead).label]++
       return p
     }, {})
 
@@ -85,11 +111,11 @@ Metalsmith(__dirname)
           name: c.name
         }
         s.range().forEach(function (r) {
-          p[c.ulcs][r] = 0
+          p[c.ulcs][r.label] = 0
         })
       }
       p[c.ulcs].collected++
-      p[c.ulcs][s(c.lead)]++
+      p[c.ulcs][s(c.lead).label]++
       return p
     }, {})
     // Add summary data
@@ -159,30 +185,22 @@ Metalsmith(__dirname)
   .use(function (files, metalsmith, next) {
     // Generate lead summary for a school (Used on school conditions page)
     var metadata = metalsmith.metadata()
+      , ppbThreshold = 10
 
     Object.keys(metadata.byUlcs).forEach(function (ulcs) {
       var school = metadata.byUlcs[ulcs]
       if (school.lead[2016]) {
         school.lead2016Summary = metadata['lead-summary-2016-obj'][school['ULCS Code']]
-        school.lead2016Average = d3.format('.2f')(school.lead[2016].map(function (s) {
-                                                         return s.lead
-                                                       })
-                                                       .reduce(function (p, c) {
-                                                         if (ulcs == 8300) {
-                                                          console.log(p, c)
-                                                         }
-                                                         return p + parseInt(c, 10)
-                                                       }, 0) / school.lead[2016].length)
+        school.lead2016Elevated = school.lead[2016].filter(function (s) {
+                                                     return s.lead >= ppbThreshold
+                                                   }).length
 
       }
       if (school.lead[2010]) {
         school.lead2010Summary = metadata['lead-summary-2010-obj'][school['ULCS Code']]
-        school.lead2010Average = d3.format('.2f')(school.lead[2010].map(function (s) {
-                                                         return s.lead
-                                                       })
-                                                       .reduce(function (p, c) {
-                                                         return p + parseInt(c, 10)
-                                                       }, 0) / school.lead[2010].length)
+        school.lead2010Elevated = school.lead[2010].filter(function (s) {
+                                                     return s.lead >= ppbThreshold
+                                                   }).length
       }
     })
     next()
