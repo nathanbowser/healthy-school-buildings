@@ -36,21 +36,29 @@
 <div class="mdl-grid mdl-grid--no-spacing mdl-cell mdl-cell--12-col">
   <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Lead in Water:</h4>
 
+  {% if school.lead.2010 %}
+    <div class="mdl-cell--7-col label">Total # Samples in 2010</div>
+    <div class="mdl-cell--4-col">
+      <a href="lead">{{school.lead.2010 | size}}</a>
+    </div>
+    <div class="mdl-cell--7-col label">Total # Elevated</div>
+    <div class="mdl-cell--4-col">
+      <a href="lead">{{school.lead2010Elevated}}</a>
+    </div>
+  {% endif %}
   {% if school.lead.2016 %}
-    <div class="mdl-cell--7-col label">Average of all samples for 2016</div>
-    <div class="mdl-cell--4-col">{{school.lead2016Average}} ppb</div>
-    <div class="mdl-cell--7-col label">Total Samples in 2016</div>
-    <div class="mdl-cell--4-col">{{school.lead.2016 | size}}</div>
+    <div class="mdl-cell--7-col label">Total # Samples in 2016</div>
+    <div class="mdl-cell--4-col">
+      <a href="lead">{{school.lead.2016 | size}}</a>
+    </div>
+    <div class="mdl-cell--7-col label">Total # Elevated</div>
+    <div class="mdl-cell--4-col">
+      <a href="lead">{{school.lead2016Elevated}}</a>
+    </div>
     <hr />
   {% endif %}
-  {% if school.lead.2010 %}
-    <div class="mdl-cell--7-col label">Average of all samples for 2010</div>
-    <div class="mdl-cell--4-col">{{school.lead2010Average}} ppb</div>
-    <div class="mdl-cell--7-col label">Total Samples in 2010</div>
-    <div class="mdl-cell--4-col">{{school.lead.2010 | size}}</div>
-  {% endif %}
 
-  <a href="lead">View all lead samples data</a>
+  <a href="lead">View Lead-in-Water Testing Summary</a>
 </div>
 
 <hr />
