@@ -9,13 +9,18 @@ module.exports = function () {
   config.textVertPosition = 0.2
   config.waveAnimateTime = 2000
 
-  var gauge2010 = gauge.load('gauge-2010', 100, config)
-    , gauge2016 = gauge.load('gauge-2016', 100, config)
-
   document.querySelector('#min-ppb')
           .addEventListener('input', onSlide.bind(null, 'min'))
   document.querySelector('#max-ppb')
           .addEventListener('input', onSlide.bind(null, 'max'))
+
+  if (school.lead[2010]) {
+    var gauge2010 = gauge.load('gauge-2010', 100, config)
+  }
+
+  if (school.lead[2016]) {
+    var gauge2016 = gauge.load('gauge-2016', 100, config)
+  }
 
   onSlide('min')
   onSlide('max')
@@ -27,17 +32,21 @@ module.exports = function () {
     var min = document.querySelector('#min-ppb').value
       , max = document.querySelector('#max-ppb').value
 
-    var p1 = school.lead[2010].filter(function (sample) {
-               var l = parseFloat(sample.lead)
-               return l >= min && l < max
-             }).length / school.lead[2010].length
-      , p2 = school.lead[2016].filter(function (sample) {
+    if (gauge2010) {
+      var p1 = school.lead[2010].filter(function (sample) {
+                 var l = parseFloat(sample.lead)
+                 return l >= min && l < max
+               }).length / school.lead[2010].length
+      gauge2010.update(Math.round(p1 * 100))
+    }
+
+    if (gauge2016) {
+      var p2 = school.lead[2016].filter(function (sample) {
                var l = parseFloat(sample.lead)
                return l >= min && l < max
              }).length / school.lead[2016].length
-
-    gauge2010.update(Math.round(p1 * 100))
-    gauge2016.update(Math.round(p2 * 100))
+      gauge2016.update(Math.round(p2 * 100))
+    }
   }
 
   d3.selectAll('thead th.threshold')
