@@ -26,6 +26,15 @@ Metalsmith(__dirname)
     ]
   }))
   .use(function (files, metalsmith, next) {
+    var metadata = metalsmith.metadata()
+    metadata.byUlcs = metadata['school-conditions'].reduce(function (p, c) {
+                                                      p[c['ULCS Code']] = c
+                                                      p[c['ULCS Code']].lead = {}
+                                                      return p
+                                                    }, {})
+    next()
+  })
+  .use(function (files, metalsmith, next) {
     // Remove invalid data from old 2010 csv
     var md = metalsmith.metadata()
       , s = scale.scaleThreshold().domain([3, 5, 10, 15, 20])
@@ -70,7 +79,7 @@ Metalsmith(__dirname)
     md['lead-samples-2016'] = md['lead-samples-2016'].map(function (sample) {
       // Normalize to match old data
       sample.ulcs = sample.ULCS
-      sample.name = sample['School Name']
+      sample.name = md.byUlcs[sample.ULCS]['School Name (ULCS)']
       sample.id = sample['Outlet ID #']
       var result = sample['Test Result (ppb)']
       if (result.indexOf('<') === 0) {
@@ -132,11 +141,6 @@ Metalsmith(__dirname)
   .use(markdown())
   .use(function (files, metalsmith, next) {
     var metadata = metalsmith.metadata()
-    metadata.byUlcs = metadata['school-conditions'].reduce(function (p, c) {
-                                                      p[c['ULCS Code']] = c
-                                                      p[c['ULCS Code']].lead = {}
-                                                      return p
-                                                    }, {})
 
     // Add 2016 lead data to each of these schools
     metadata['lead-samples-2016'].forEach(function (sample) {
@@ -175,7 +179,8 @@ Metalsmith(__dirname)
 
       // Lead
       if (fs.existsSync(__dirname + '/src/data/lead/' + school['ULCS Code'])) {
-        school.leadReports = fs.readdirSync(__dirname + '/src/data/lead/' + school['ULCS Code'])
+        school.leadResults = fs.readdirSync(__dirname + '/src/data/lead/' + school['ULCS Code'] + '/results')
+        school.leadReports = fs.readdirSync(__dirname + '/src/data/lead/' + school['ULCS Code'] + '/reports')
       }
 
     })

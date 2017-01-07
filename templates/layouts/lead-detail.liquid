@@ -30,7 +30,7 @@
 
           <div class="mdl-grid">
             <a class="mdl-cell mdl-cell--2-col" href="../">Back to School Profile</a>
-            <div class="mdl-layout-spacer"></div>
+            <div class="mdl-layout-spacer mdl-cell--6"></div>
           </div>
 
           <hr />
@@ -124,6 +124,31 @@
               </div>
             </div>
             <div class="mdl-layout-spacer"></div>
+          </div>
+
+
+          <div class="mdl-grid mdl-cell mdl-cell--12-col">
+            <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Lead Results:</h4>
+
+            <div class="mdl-layout-spacer"></div>
+            {% for result in school.leadResults %}
+              <a class="pdf-img mdl-cell mdl-cell--2-col" href="../../data/lead/{{school | get: 'ULCS Code'}}/results/{{result}}"></a>
+            {% endfor %}
+
+            <div class="mdl-layout-spacer"></div>
+
+          </div>
+
+          <hr />
+
+          <div class="mdl-grid mdl-cell mdl-cell--12-col">
+            <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Lead School Letters:</h4>
+
+            <div class="mdl-layout-spacer"></div>
+            {% for report in school.leadReports %}
+              <a class="pdf-img mdl-cell mdl-cell--2-col" href="../../data/lead/{{school | get: 'ULCS Code'}}/reports/{{report}}"></a>
+            {% endfor %}
+
           </div>
         </div>
         </main>
