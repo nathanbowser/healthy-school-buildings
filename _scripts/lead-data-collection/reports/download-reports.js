@@ -1,0 +1,73 @@
+var fs = require('fs')
+  , request = require('request')
+  , path = require('path')
+
+var urls = [
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/catharine-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/comly-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1260-comegys-web-ltr-12212016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/dick-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/day-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/cook-wiss-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/childs-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/crossan-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/edmonds-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/carnell-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/barton-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/blaine-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/bregy-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/bridesburg-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/barry-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/arthur-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/anderson-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/ethan-allen-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/brown-jh-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/richmond-letter2.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/nebinger-letter2.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/kelly-letter2.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/ethel-allen-letter2.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/dunbar-letter2.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/dunbar-letter2.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/adaire-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/wright-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/houston-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/penn-alexander-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/elwood-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/mcdaniel-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/feltonville-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/bryant-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/mayfair-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/mayfair-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/patterson-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/hopkinson-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1470-locke-letter-single-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1490-blankenburg-no-exceed-letter-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1470-locke-letter-single-.docx",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/2210-bache--no-exceed-letter-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4020-overbrook-hs-letter-multi-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4240-cassidy--no-exceed-letter-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4280-gompers-letter-multi-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4380-pierce--no-exceed-letter-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4560-wd-kelley--no-exceed-letter-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4570-meade-no-exceed-letter-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5140-stoddart-fleisher---parkway-center-city-no-exceed-ltr.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5210-ha-brown-letter-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5340-5341-ludlow-es-and-annex-no-exceed-ltr.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5470-cramp-letter-multi-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5560-spring-garden-no-exceed-ltr.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/6390-steel-no-exceed-ltr.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/7460-ziegler-no-exceed-ltr.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/7510-bethune-letter-multi-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8240-disston-no-exceed-ltr.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8270-holme-letter-multi-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8410-pollock-letter-single-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8420-decatur-letter-single-.pdf" ]
+
+urls.forEach(function (u) {
+  var r = request(u)
+  r.on('response', function (res) {
+    res.pipe(fs.createWriteStream('./originals/' + path.basename(res.request.path)))
+  })
+})

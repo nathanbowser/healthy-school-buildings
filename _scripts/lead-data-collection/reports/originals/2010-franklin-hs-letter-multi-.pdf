@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<script language="javascript" type="text/javascript" src="/theme/iamsdp/headtags.js"></script>
+<head>
+	<title>2010-Franklin-HS-letter-multi-.pdf - School District of Philadelphia</title>
+
+<meta name="generator" content="WebGUI 7.4.21" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<script type="text/javascript">
+function getWebguiProperty (propName) {
+var props = new Array();
+props["extrasURL"] = "/extras/";
+props["pageURL"] = "/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf";
+return props[propName];
+}
+</script>
+<style type="text/css" media="all">
+h1.hide {display:block;}
+</style>
+<meta http-equiv="Cache-Control" content="must-revalidate" />
+
+<style type="text/css">
+.widthFix, #content {width:90%;margin:0px auto;}
+
+</style>
+<link href="/css/layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="container" class="wsgo">
+<script language="javascript" type="text/javascript" src="/theme/iamsdp/subhdr.js"></script>
+
+<!-- END HEADER -->
+<!-- Crumbtrail menu -->	
+<div class="crumbTrail" style="background-color:#e5e5e5;"><div class="widthFix">
+<div class="l" style="margin:5px;">		
+
+		
+		
+<span class="crumbTrail">
+
+<a class="crumbTrail" 
+     href="http://www.philasd.org">Home</a>
+   
+
+</span></div>
+		
+<div class="r" style="margin:5px;">
+		<a class="loginToggleLink" href="/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf?op=auth;method=init"> </a><img src="/extras/spacer.gif" width="5" height="1" style="border-style:none;" alt="[]" />
+			
+	
+</div>	<div class="clear"></div>
+		</div>
+		
+</div>
+  
+<div class="wsgoheader" style="background:url(/uploads/83/o3/83o35N5GuaRsLYyeplmCjw/wsbg.jpg) repeat-x;margin-top:28px;">
+<div id="content">
+
+
+
+
+
+<!-- PAGE CONTENT BEGIN -->
+
+<p>&nbsp;</p>
+
+		<h2>
+   Log In
+</h2>
+
+
+<form action="/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf" enctype="multipart/form-data" method="post" ><div class="formContents">
+<table >
+<input type="hidden" name="op" value="auth"  />
+<input type="hidden" name="method" value="login"  />
+
+<tr>
+   <td class="formDescription" valign="top">Username</td>
+   <td class="tableData"><input id="username_formId" type="text" name="username" value="" size="50" maxlength="255"  /></td>
+</tr>
+<tr>
+   <td class="formDescription" valign="top">Password</td>
+   <td class="tableData"><input type="password" name="identifier" value="" size="30" id="identifier_formId" maxlength="35"  /></td>
+</tr>
+<tr>
+   <td class="formDescription" valign="top"></td>
+   <td class="tableData"><input type="submit" value="login" class="forwardButton" /></td>
+</tr>
+</table>
+</div></form>
+
+
+
+<div class="accountOptions">
+   <ul>
+             
+
+   </ul>
+</div>
+
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- PAGE CONTENT END -->
+<!-- footer information goes here -->
+<table cellpadding="5" cellspacing="0" width="100%" border="0" summary="This area contains footer information."  class="footer">
+	<tr bgcolor="#d9e0e8">
+		<td width="100%">&nbsp;Copyright
+   			<script language="JavaScript" type="text/javascript">
+		<!-- Begin
+		// Get today's current date.
+		var now = new Date();
+		
+		// Join it all together
+		today = (now.getFullYear()) ;
+		
+		// Print out the data.
+		document.write("" +today+ "");
+		//  End -->
+		</script>
+			School District of Philadelphia. All Rights Reserved. </td>
+		<td align="right" class="iconBox" nowrap="nowrap"><a href="/home/root/home2"><img border="0" src="/extras/styles/webgui6/icon_home.gif" title="Go Home" alt="home" /></a> <a href="/tell_a_friend"><img border="0" src="/extras/styles/webgui6/icon_email.gif" alt="Email" title="Email a friend about this site." /></a> <a href="/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf?op=makePrintable;"><img border="0" src="/extras/styles/webgui6/icon_print.gif" alt="Print" title="Make page printable." /></a> <a href="/site_map"><img border="0" src="/extras/styles/webgui6/icon_site_map.gif" title="View the site map." alt="Site Map" /></a> </td>
+		<td align="right" class="iconBox" bgcolor="#336699"><div  style="border-left:#ffffff;"><a href="/home/website-go"><img src="/extras/styles/sdp/wsg_micro.gif" border="0" title="WebSite Go HomePage" alt="WebSite GO" /></a></div></td>
+	</tr>
+</table>
+
+</div>
+</body>
+</html>
