@@ -42,7 +42,7 @@
   <div class="mdl-layout-spacer"></div>
 
   {% for report in school.reports %}
-    <a class="pdf-img mdl-cell mdl-cell--3-col" href="../data/pdf/report/{{school | get: 'ULCS Code'}}/{{report}}"></a>
+    <a class="{{report | split: '.' | last}}-img mdl-cell mdl-cell--3-col" href="../data/pdf/report/{{school.reportsDir}}/{{report}}"></a>
   {% endfor %}
 
 </div>
