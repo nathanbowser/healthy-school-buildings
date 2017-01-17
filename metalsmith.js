@@ -169,12 +169,27 @@ Metalsmith(__dirname)
                        }
                        return p
                      }, {})
-
+      , _images = fs.readdirSync(__dirname + '/src/data/image')
+                    .reduce(function (p, c) {
+                      var ulcs = parseInt(c, 10)
+                      if (ulcs) {
+                        p[ulcs] = c
+                      }
+                      return p
+                    }, {})
     // Add reports, data pdfs, and images to the schools
     metadata['school-conditions'].forEach(function (school) {
       // Images
-      if (fs.existsSync(__dirname + '/src/data/image/' + school['ULCS Code'])) {
-        school.images = fs.readdirSync(__dirname + '/src/data/image/' + school['ULCS Code'])
+      if (_images[school['ULCS Code']]) {
+        school.imagesDir = _images[school['ULCS Code']]
+        var _dir = __dirname + '/src/data/image/' + _reports[school['ULCS Code']]
+        school.images = fs.readdirSync(_dir)
+                          .filter(function (file) {
+                            return !fs.statSync(path.join(_dir, file)).isDirectory() &&
+                                   (path.extname(file).toLowerCase() == '.png' ||
+                                    path.extname(file).toLowerCase() == '.jpg' ||
+                                    path.extname(file).toLowerCase() == '.jpeg')
+                          })
       }
 
       // profile

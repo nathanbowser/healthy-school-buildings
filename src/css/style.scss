@@ -129,13 +129,25 @@
   }
 }
 
-.thumb > a {
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
+.images {
+  .image-container {
+    height: 200px;
+    margin-bottom: 80px;
+
+    .thumb {
+      height: 100%;
+      width: 100%;
+
+      > a {
+        width: 100%;
+        height: 100%;
+        vertical-align: middle;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+    }
+  }
 }
 
 .report-pdf .pdf-icon {

@@ -49,13 +49,16 @@
 
 <hr />
 
-<div class="mdl-grid mdl-cell mdl-cell--12-col">
+<div class="mdl-grid mdl-cell mdl-cell--12-col images">
   <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Images:</h4>
 
   {% for img in school.images %}
-    <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone mdl-shadow--2dp thumb"">
-      <a href="../data/image/{{school | get: 'ULCS Code'}}/{{img}}"
-         style="background-image: url('../data/image/{{school | get: 'ULCS Code'}}/{{img}}')"></a>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone mdl-shadow--2dp image-container mdl-typography--text-center">
+      <div class="mdl-card thumb"">
+        <a href="../data/image/{{school.imagesDir}}/{{img}}"
+           style="background-image: url('../data/image/{{school.imagesDir}}/{{img}}')"></a>
+      </div>
+      <span>{{img}}</span>
     </div>
   {% endfor %}
 
