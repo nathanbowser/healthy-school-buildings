@@ -3,6 +3,25 @@ var fs = require('fs')
   , path = require('path')
 
 var urls = [
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8430-greenberg-web-ltr-01192017.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4530-gideon-web-ltr-01192017.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8250-forrest-web-ltr-01192017.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8400-frank-web-ltr-01172016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8390-fitzpatrick-web-ltr-01172017-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8380-farrell-web-ltr-12302016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8260-fox-chase-web-ltr-01172017-.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/7270-finletter-web-ltr-01062017.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/7100-cooke-web-ltr.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/6450-dobson-web-ltr-dec-2016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/6230-fitler-web-ltr-01052017--2.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/6220-emlen-web-ltr-dec-2016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5490-cayuga-web-based-letter.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5290-u-school-web-ltr-12192016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4460-duckrey-web-ltr-12282016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5260-elkin-web-ltr-12302016.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/5170-de-burgos-web-ltr-12282016docx.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/4370-overbrook-web-ltr-01052017.pdf",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/2190-fell-web-ltr-01052017---.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/catharine-letter.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/comly-letter.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1260-comegys-web-ltr-12212016.pdf",
@@ -42,7 +61,7 @@ var urls = [
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/hopkinson-letter.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1470-locke-letter-single-.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1490-blankenburg-no-exceed-letter-.pdf",
-  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1470-locke-letter-single-.docx",
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/1490-blankenburg-no-exceed-letter-.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/2010-franklin-hs-letter-multi-.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/2210-bache--no-exceed-letter-.pdf",
@@ -63,7 +82,8 @@ var urls = [
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8240-disston-no-exceed-ltr.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8270-holme-letter-multi-.pdf",
   "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8410-pollock-letter-single-.pdf",
-  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8420-decatur-letter-single-.pdf" ]
+  "http://webgui.phila.k12.pa.us/offices/e/environmental/documents/8420-decatur-letter-single-.pdf"
+]
 
 urls.forEach(function (u) {
   var r = request(u)
