@@ -215,6 +215,19 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 2010,2010-06-DW-303N,In the cafeteria - on the far wall past the kitchen,8/18/2016,22.1,AA
 2010,2010-01-DW-304N,On the west side of the gym,8/18/2016,5.8,BA
 2010,2010-01-DW-305N,Basement - outside of Room 5D,8/18/2016,36.0,AA
+2190,2190-00-KC-012,Lunchroom kitchennette,12/22/2016,0.65,BA
+2190,2190-01-DW-020,Room 107 - kindergarten,12/22/2016,5.3,BA
+2190,2190-01-DW-022,Outside Room 107,12/22/2016,3.9,BA
+2190,2190-01-DW-027,Outside Girl's Room,12/22/2016,2.5,BA
+2190,2190-02-DW-034,Outside Girl's Room,12/22/2016,2.1,BA
+2190,2190-02-DW-039,Outside Room 207,12/22/2016,2.6,BA
+2190,2190-02-BF-040,Nurse's Office bathroom,12/22/2016,3.5,BA
+2190,2190-03-DW-042,Outside Room 302,12/22/2016,2.6,BA
+2190,2190-01-DW-046,Room 100 - kindergarten,12/22/2016,2.1,BA
+2190,2190-00-DW-058,Outside Girl's Room - Left,12/22/2016,0.70,BA
+2190,2190-00-DW-059,Outside Girl's Room - Right,12/22/2016,1.1,BA
+2190,2190-00-DW-060,Outside Boy's Room - Left,12/22/2016,0.36,BA
+2190,2190-00-DW-061,Outside Boy's Room - Right,12/22/2016,0.68,BA
 2210,2210 - 00 - DW - 013,Basement lunch room,7/28/2016,3.8,BA
 2210,2210 - 01 - WC - 023,1st Floor Hallway - between Rooms 4 & 5,7/28/2016,0.16,BA
 2210,2210 - 01 - WC - 025,1st Floor Teachers Lounge,7/28/2016,0.52,BA
@@ -318,7 +331,7 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 4020,4020-01-DW-026,"Outside ""B"" Cafeteria Site Map Room 114",8/18/2016,18.9,AA
 4020,4020-01-DW-028,"Outside ""B"" Cafeteria Site Map Room 114",8/18/2016,34.8,AA
 4020,4020-01-DW-029,"Outside ""B"" Cafeteria Site Map Room 114 -  Right",8/18/2016,87.0,AA
-4020,4020-01-DW-056,Outside Room 100,8/18/2016,7.7,BA,
+4020,4020-01-DW-056,Outside Room 100,8/18/2016,7.7,BA
 4020,4020-01-DW-057,Outside Room 100 -,8/18/2016,7.5,BA
 4020,4020-01-DW-064,Outside Men's Room - Across from Room 105,8/18/2016,11.4,BA
 4020,4020-02-DW-081,Outside Room 217 - Left,8/18/2016,7.8,BA
@@ -388,6 +401,13 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 4280,4280-01-WC-086,Element 4 - portable 2 - outside of bathrooms,7/21/2016,1.4,BA
 4280,4280-01-WC-090,Principal's office - bottled water dispenser - Hot side,7/21/2016,0.054,BA
 4280,4280-01-WC-091,Principal's office - bottled water dispenser - Cold side,7/21/2016,0.054,BA
+4370,4370-00-HS-005,Outside boy's room,12/22/2016,0.054,BA
+4370,4370-00-WC-007,Outside girl's room,12/22/2016,0.70,BA
+4370,4370-00-KC-011,In Cafeteria,12/22/2016,3.6,BA
+4370,4370-01-WC-014,Outside main office,12/22/2016,0.50,BA
+4370,4370-01-HS-018,Outside Room 006,12/22/2016,0.054,BA
+4370,4370-02-HS-026,Outside Teachers Room - Room 20C,12/22/2016,0.054,BA
+4370,4370-02-BF-028,Nurse's Office - mezzanine level on stairwell,12/22/2016,3.7,BA
 4380,4380-00-DW-040,Outside Girl's Room - left,7/22/2016,2.4,BA
 4380,4380-00-DW-041,Outside Girls Room,7/22/2016,2.7,BA
 4380,4380-00-DW-042,Outside Girls Room,7/22/2016,4.7,BA
@@ -428,6 +448,31 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 4440,4440-02-DW-148,Room 210 - on the sink,10/14/2016,8.6,BA
 4440,4440-01-WC-149,Gymnasium - outside of Boy's room - right water cooler,10/14/2016,1.1,BA
 4440,4440-02-HS-150,Outside Room 202 - hydration station,10/14/2016,<0.054,BA
+4460,4460-00-HS-002,"In hallway, outside creative arts room; across from Room 029",12/16/2016,0.054,BA
+4460,4460-01-DW-010,Room 119,12/16/2016,0.80,BA
+4460,4460-01-DW-014,Room 111,12/16/2016,1.0,BA
+4460,4460-01-KC-016,Kitchen - on wall - left,12/16/2016,0.15,BA
+4460,4460-01-KC-018,Kitchen - on wall - right,12/16/2016,0.15,BA
+4460,4460-01-KC-020,Kitchen rinse sink,12/16/2016,0.089,BA
+4460,4460-01-KC-022,Kitchen island sink,12/16/2016,0.074,BA
+4460,4460-01-HS-024,Outside of Kitchen,12/16/2016,0.054,BA
+4460,4460-01-CF-028,Nurse's Office,12/16/2016,1.4,BA
+4460,4460-01-DW-035,Inside Gymnasium,12/16/2016,0.53,BA
+4460,4460-01-WC-045,"In hallway, outside of Gymnasium",12/16/2016,0.1,BA
+4460,4460-01-DW-049,Room 120,12/16/2016,1.2,BA
+4460,4460-01-DW-053,Room 124,12/16/2016,1.3,BA
+4460,4460-01-DW-056,Room 126,12/16/2016,1.7,BA
+4460,4460-01-DW-058,Room 130,12/16/2016,1.6,BA
+4460,4460-01-DW-062,Room 128,12/16/2016,0.89,BA
+4460,4460-02-DW-066,Room 222,12/16/2016,19.6,AA
+4460,4460-02-DW-075,Room 212,12/16/2016,6.1,BA
+4460,4460-02-WC-081,Outside of IMC - across from Room 204,12/16/2016,5.2,BA
+4460,4460-02-HS-095,Outside Room 201,12/16/2016,0.054,BA
+4460,4460-02-DW-099,Room 207,12/16/2016,3.4,BA
+4460,4460-02-DW-100,Room 209,12/16/2016,2.5,BA
+4460,4460-02-DW-102,Room 211,12/16/2016,1.7,BA
+4460,4460-02-DW-107,Room 215,12/16/2016,17.2,AA
+4460,4460-02-DW-110,Room 223,12/16/2016,9.9,BA
 4470,4470-01-WC-006,In Café-Auditorium - near Room 104A,10/27/2016,1.3,BA
 4470,4470-01-WC-007,In Café-Auditorium - near Room 101B,10/27/2016,1.3,BA
 4470,4470-01-WC-011,Cooler outside Womens Room,10/27/2016,0.42,BA
@@ -449,6 +494,17 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 4470,4470-02-DW-109,Room 205,10/27/2016,5.6,BA
 4470,4470-02-DW-116,Room 203,10/27/2016,3.6,BA
 4470,4470-01-DW-123,Room 114,10/27/2016,2.6,BA
+4530,4530-01-DW-009,Outside Bathroom - Left,1/12/2017,5.9,BA
+4530,4530-01-DW-010,Outside Bathroom - Right,1/12/2017,5.4,BA
+4530,4530-01-DW-017,"Inside Room 103, Head-Start Room (room not currently used)",1/12/2017,58.9,AA
+4530,4530-01-KC-022,Teacher's Dining Room - single lever faucet,1/12/2017,3.6,BA
+4530,4530-01-CF-029,Front Room of Nurse's Office,1/12/2017,2.1,BA
+4530,4530-01-HS-039,"In hallway, outside Girl's Bathroom",1/12/2017,0.054,BA
+4530,4530-02-HS-048,"In hallway, across from Room 207",1/12/2017,0.054,BA
+4530,4530-03-WC-065,Outside Room 308,1/12/2017,3.3,BA
+4530,4530-03-HS-074,"In hallway, outside Men's and Women's bathroom",1/12/2017,0.054,BA
+4530,4530-03-KC-079,"Room 316 A, Kitchen",1/12/2017,2.2,BA
+4530,4530-01-DW-086N,"Room 104, kindergarten",1/12/2017,12.8,AA
 4560,4560-01-DW-004,Outside auditorium,8/12/2016,2.8,BA
 4560,4560-01-DW-007,Inside gymnasium,8/12/2016,7.6,BA
 4560,4560-01-WC-012,Principal's office - conference room,8/12/2016,3.2,BA
@@ -499,6 +555,47 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 5080,5140- 05-WC-015,Outside 502,5/13/2016,<3.00,BA
 5080,5140- 05-WC-026,Teachers office,5/13/2016,<3.00,BA
 5080,5140-05-WC-027,Outside Room 504A,5/13/2016,<3.00,BA
+5080,5140- 01-WC-002,Cluster Office,5/13/2016,<3.00,BA
+5080,5140- 01-WC-003,Outside 102B,5/13/2016,<3.00,BA
+5080,5140- 01-WC-004,Outside 104,5/13/2016,<3.00,BA
+5080,5140- 02-WC-005,Outside 207,5/13/2016,4.50,BA
+5080,5140- 02-WC-006,Outside 204B,5/13/2016,6.13,BA
+5080,5140- 02-WC-007,Outside 202,5/13/2016,<3.00,BA
+5080,5140- 03-WC-008,Outside 302,5/13/2016,<3.00,BA
+5080,5140- 03-WC-009,Outside 304,5/13/2016,<3.00,BA
+5080,5140- 03-WC-010,Outside 308,5/13/2016,<3.00,BA
+5080,5140- 03-WC-011,Up steps from Girl's Room,5/13/2016,<3.00,BA
+5080,5140- 04-WC-012,Outside 410,5/13/2016,<3.00,BA
+5080,5140- 04-WC-013,Outside 406,5/13/2016,<3.00,BA
+5080,5140- 04-WC-014,Outside 402,5/13/2016,5.21,BA
+5080,5140- 05-WC-015,Outside 502,5/13/2016,<3.00,BA
+5080,5140- 05-WC-026,Teachers office,5/13/2016,<3.00,BA
+5080,5140-05-WC-027,Outside Room 504A,5/13/2016,<3.00,BA
+5170,5170-01-DW-001,Hallway at Room 102- Left,12/15/2016,0.16,BA
+5170,5170-01-DW-002,Hallway at Room 102,12/15/2016,0.22,BA
+5170,5170-01-DW-003,Hallway at Room 102,12/15/2016,0.18,BA
+5170,5170-01-DW-004,Hallway at Room 102-Right,12/15/2016,0.12,BA
+5170,5170-02-DW-007,Across from Room 213-Left,12/15/2016,0.28,BA
+5170,5170-02-DW-008,Across from Room 213-Right,12/15/2016,0.23,BA
+5170,5170-03-DW-009,Across from Room 312-Left,12/15/2016,0.32,BA
+5170,5170-03-DW-010,Across from Room 312-Right,12/15/2016,0.35,BA
+5170,5170-01-KC-011,Room 102 Teacher's Lounge,12/15/2016,0.32,BA
+5170,5170-01-IM-012,Cafeteria Kitchen Ice Machine,12/15/2016,0.054,BA
+5170,5170-01-KC-013,Cafeteria Kitchen at Entrance-Left,12/15/2016,6.3,BA
+5170,5170-01-KC-014,Cafeteria Kitchen at Entrance-Center Pot Fill,12/15/2016,0.76,BA
+5170,5170-01-KC-015,Cafeteria Kitchen at Entrance-Right,12/15/2016,0.76,BA
+5170,5170-01-KC-016,Cafeteria Kitchen-Far Wall,12/15/2016,0.36,BA
+5170,5170-01-CF-017,Room 151C-Nurse's Exam Room,12/15/2016,0.3,BA
+5170,5170-01-CF-018,Room120-Kindergarten,12/15/2016,0.26,BA
+5170,5170-01-CF-019,Room 121-Kindergarten,12/15/2016,0.71,BA
+5170,5170-01-CF-020,Room 123-Autistic Support,12/15/2016,0.42,BA
+5170,5170-01-CF-021,Room 125-Kindergarten,12/15/2016,1.7,BA
+5170,5170-01-CF-022,Room 129-Special Ed Life Skills,12/15/2016,0.33,BA
+5170,5170-01-CF-023,Room 130-Special Ed Life Skills,12/15/2016,0.89,BA
+5170,5170-01-CF-024,Room 132-Autistic Support,12/15/2016,0.64,BA
+5170,5170-01-CF-025,Room 133-Autistic Support,12/15/2016,1.7,BA
+5170,5170-01-CF-026,Room 135-Kindergarten,12/15/2016,0.38,BA
+5170,5170-01-CF-027,Room 136-Kindergarten,12/15/2016,0.30,BA
 5200,5200-01-HS-009,Outside Room 101,10/28/2016,<0.054,BA
 5200,5200-01-HS-026,Outside Room 104 - Left,10/28/2016,<0.054,BA
 5200,5200-01-DW-032,In room 109,10/28/2016,0.58,BA
@@ -509,12 +606,12 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 5200,5200-01-DW-060,Bubbler in gym - opposite side of gym from DW-060,10/28/2016,5.2,BA
 5200,5200-01-WC-063N,In lobby - near auditorium - conventional water outlet,10/28/2016,3.2,BA
 5200,5200-01-WC-064N,In lobby - near auditorium - cup filler,10/28/2016,3.2,BA
-5210,5210-03-DW-029 Right Fountain across from S/M 313,4/21/2016,42.6,BA
 5210,5210-01-DW-010,Across from S/M 113 Left Fountain,3/24/2016,<3.0,BA
 5210,5210-01-DW-011,Across from S/M 113 Right Fountain,3/24/2016,3.7,BA
 5210,5210-02-DW-018,Across  from S/M 213 - Left Fountain,3/24/2016,<3.0,BA
 5210,5210-02-DW-019,Across from S/M 213 - Right Fountain,3/24/2016,<3.0,BA
 5210,5210-03-DW-028,Left Fountain across from S/M 313,3/24/2016,4.0,BA
+5210,5210-03-DW-029, Right Fountain across from S/M 313,4/21/2016,42.6,BA
 5250,5250-00-DW-005,Outside physical education office,10/21/2016,1.2,BA
 5250,5250-00-DW-013,Outside boys room - left,10/21/2016,0.93,BA
 5250,5250-00-DW-015,Outside boys room - middle,10/21/2016,1.7,BA
@@ -529,6 +626,70 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 5250,5250-03-HS-050,Across from IMC - right of DW-049,10/21/2016,<0.054,BA
 5250,5250-04-DW-068,Room 401 - girls side roof top horitculture,10/21/2016,1.1,BA
 5250,5250-02-HS-069N,Outside Room 203,10/21/2016,<0.054,BA
+5260,5260-01-HS-004,Outside of the Lunch Room,12/20/2016,0.054,BA
+5260,5260-01-DW-007,Room B02,12/20/2016,2.8,BA
+5260,5260-01-DW-008,Outside Room B01,12/20/2016,2.7,BA
+5260,5260-01-DW-013,Lunch Room,12/20/2016,0.24,BA
+5260,5260-01-KC-024,Kitchen - left,12/20/2016,2.5,BA
+5260,5260-01-KC-025,Kitchen - right,12/20/2016,1.4,BA
+5260,5260-01-WC-026,Teachers Lounge,12/20/2016,10.2,AA
+5260,5260-01-DW-030,Gymnasium,12/20/2016,0.76,BA
+5260,5260-02-DW-037,Security Office,12/20/2016,15.2,AA
+5260,5260-02-HS-045,Outside of Room 111,12/20/2016,0.054,BA
+5260,5260-02-DW-049,Room 114,12/20/2016,6.3,BA
+5260,5260-02-DW-054,Room 109,12/20/2016,5.0,BA
+5260,5260-02-DW-058,Room 110,12/20/2016,3.3,BA
+5260,5260-02-WC-059,Outside Room 107,12/20/2016,0.37,BA
+5260,5260-02-DW-064,Room 108,12/20/2016,5.4,BA
+5260,5260-02-CF-078,Nurse's Office,12/20/2016,1.8,BA
+5260,5260-03-HS-092,Outside Room 213,12/20/2016,0.054,BA
+5260,5260-03-DW-103,Outside Room 209,12/20/2016,1.1,BA
+5260,5260-03-DW-104,Room 209,12/20/2016,3.0,BA
+5260,5260-03-DW-108,Room 207,12/20/2016,5.2,BA
+5260,5260-03-DW-113,Room 205,12/20/2016,13.5,AA
+5260,5260-02-DW-126,Room 115,12/20/2016,56.2,AA
+5260,5260-02-DW-129,Room 105,12/20/2016,10.4,AA
+5260,5260-02-DW-130,Room 104,12/20/2016,4.7,BA
+5260,5260-02-DW-131,Room 103,12/20/2016,16.4,AA
+5260,5260-02-DW-132,Room 102,12/20/2016,5.7,BA
+5260,5260-01-HS-137N,Across from Multi-Purpose Room - left,12/20/2016,0.054,BA
+5260,5260-01-WC-138N,Across from Multi-Purpose Room - right,12/20/2016,0.070,BA
+5260,5260-01-DW-139N,Little School House - Classroom 1,12/20/2016,2.6,BA
+5260,5260-01-DW-140N,Little School House - Classroom 2,12/20/2016,0.45,BA
+5260,5260-01-DW-141N,Little School House - Classroom 3,12/20/2016,0.68,BA
+5260,5260-01-DW-142N,Little School House - Classroom 4,12/20/2016,8.8,BA
+5260,5260-01-DW-143N,Little School House - Classroom 5,12/20/2016,0.25,BA
+5260,5260-01-DW-144N,Little School House - Classroom 6,12/20/2016,0.38,BA
+5260,5260-01-DW-145N,Little School House - Classroom 7,12/20/2016,36.3,AA
+5260,5260-01-DW-146N,Little School House - Classroom 8,12/20/2016,0.41,BA
+5260,5260-01-KC-147N,Little School House - Kitchen - left,12/20/2016,1.2,BA
+5260,5260-01-KC-148N,Little School House - Kitchen - right,12/20/2016,1.2,BA
+5260,5290-01-WC-034,Across from Room 102,12/6/2016,6.0,BA
+5260,5290-01-BF-035,Nurse's Office - bathroom,12/6/2016,1.9,BA
+5260,5290-01-WC-039,Room 103,12/6/2016,1.5,BA
+5260,5290-01-WC-043,Across from Room 107,12/6/2016,1.1,BA
+5260,5290-02-WC-044,Across from Room 206,12/6/2016,2.1,BA
+5260,5290-03-WC-056,Across from Room 306,12/6/2016,10.5,AA
+5260,5290-00-DW-057N,Outside Building Engineer's office - left,12/6/2016,5.1,BA
+5260,5290-00-DW-058N,Outside Girl's Room - far right side,12/6/2016,130,AA
+5260,5290-00-DW-059N,Element 2 - across from Girl's Room,12/6/2016,1.6,BA
+5260,5290-01-WC-061N,Element 2 - outside Boy's Room - right side,12/6/2016,1.8,BA
+5260,5290-02-WC-063N,Across from Room 202,12/6/2016,1.8,BA
+5260,5290-03-WC-064N,Across from Room 302,12/6/2016,4.7,BA
+5260,5290-03-HS-065N,Element 2 - outside utility closet,12/6/2016,0.074,BA
+5260,5290-00-DW-069N,Outside kitchen - right side,12/6/2016,2.6,BA
+5260,5290-00-DW-070N,Outside Building Engineer's office - 2nd from the left,12/6/2016,4.1,BA
+5260,5290-00-DW-071N,Outside Building Engineer's office - 3rd from the left,12/6/2016,41.7,AA
+5260,5290-00-DW-072N,Outside Building Engineer's office - right,12/6/2016,96.3,AA
+5260,5290-00-DW-073N,Outside Girl's Room - left,12/6/2016,286,AA
+5260,5290-00-DW-074N,Outside Girl's Room - middle,12/6/2016,70.8,AA
+5260,5290-01-HS-076N,Element 2 - outside Boy's Room - left side,12/6/2016,0.15,BA
+5260,5290-02-WC-078N,Main office,12/6/2016,7.8,BA
+5260,5290-02-KC-081N,Main Office - kitchenette,12/6/2016,8.2,BA
+5260,5290-02-HS-082N,Element 2 - outside Boy's Room - right side,12/6/2016,0.074,BA
+5260,5290-03-WC-083N,Element 2 - outside Boy's Room - right side,12/6/2016,9.4,BA
+5260,5290-00-KC-131N,Kitchen - left,12/6/2016,1.3,BA
+5260,5290-00-KC-132N,Kitchen - right,12/6/2016,1.1,BA
 5340,5340-00-WC-011,Caféteria - Right,8/19/2016,2.8,BA
 5340,5340-01-WC-022,Across from Room 105,8/19/2016,1.2,BA
 5340,5340-02-WC-030,Across from Room 203,8/19/2016,3.6,BA
@@ -546,7 +707,7 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 5400,5400-00-DW-008,Outside Girl's Room,10/20/2016,1.3,BA
 5400,5400-00-DW-009,Outside Girl's Room,10/20/2016,1.7,BA
 5400,5400-00-DW-010,Outside Girl's Room,10/20/2016,1.5,BA
-5400,5400-00-DW-011,Outside Girl's Room,,1.1,BA
+5400,5400-00-DW-011,Outside Girl's Room,10/20/2016,1.1,BA
 5400,5400-00-DW-012,Outside Girl's Room,10/20/2016,3.3,BA
 5400,5400-00-DW-017,Outside Girls Room - Right,10/20/2016,2.0,BA
 5400,5400-00-DW-018,Outside Boy's Room - Left,10/20/2016,1.0,BA
@@ -602,6 +763,23 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 5470,5470-03-DW-098,Room 309,9/1/2016,8.9,BA
 5470,5470-03-DW-104,Room 301,9/1/2016,13.1,BA
 5470,5470-03-DW-110,Room 306,9/1/2016,15.5,AA
+5490,5490-00-DW-002,Gymnasium - Left,12/8/2016,0.48,BA
+5490,5490-00-DW-003,Gymnasium - Right,12/8/2016,0.21,BA
+5490,5490-00-DW-006,Café adjacent to Boys Room - Left,12/8/2016,0.065,BA
+5490,5490-00-DW-007,Café adjacent to Boys Room - Right,12/8/2016,0.054,BA
+5490,5490-00-KC-012,Cafeteria Kitchen - left,12/8/2016,0.96,BA
+5490,5490-00-KC-014,Cafeteria Kitchen - right,12/8/2016,2.3,BA
+5490,5490-01-DW-017,Room 120 - kindergarten,12/8/2016,4.5,BA
+5490,5490-01-DW-020,Room 119 - kindergarten,12/8/2016,7.9,BA
+5490,5490-01-DW-023,Room 117 - kindergarten,12/8/2016,15.5,AA
+5490,5490-01-DW-026,Room 118 - kindergarten,12/8/2016,3.3,BA
+5490,5490-01-DW-030,Adjacent Elevator - Left,12/8/2016,0.20,BA
+5490,5490-01-DW-031,Adjacent Elevator - Right,12/8/2016,0.11,BA
+5490,5490-01-BF-037,Nurse's Suite - Bathroom,12/8/2016,1.8,BA
+5490,5490-02-DW-038,Adjacent Elevator - Left,12/8/2016,0.082,BA
+5490,5490-02-DW-039,Adjacent Elevator - Right,12/8/2016,0.31,BA
+5490,5490-03-DW-046,Adjacent Elevators - Left,12/8/2016,0.054,BA
+5490,5490-03-DW-047,Adjacent Elevators - Right,12/8/2016,0.054,BA
 5560,5560-01-DW-017,Outside main office,7/21/2016,0.89,BA
 5560,5560-01-DW-022,Outside Room 105,7/21/2016,0.76,BA
 5560,5560-02-DW-027,Across from Room 201 - left,7/21/2016,0.81,BA
@@ -642,6 +820,36 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 6210,6210-02-HS-087,Outside Room 212 - left,12/16/2016,0.054,BA
 6210,6210-02-DW-098,Outside Room 217A,12/16/2016,6.9,BA
 6210,6210-00-WC-108N,Outside Room 126 - left,12/16/2016,0.054,BA
+6220,6220-00-DW-007,Outside Boy's Room - center,12/20/2016,2.6,BA
+6220,6220-00-DW-008,Outside Boy's Room - right,12/20/2016,2.2,BA
+6220,6220-01-HS-014,Outside Food Services (Portable),12/20/2016,0.074,BA
+6220,6220-00-DW-026,Outside Girl's Room - immediately left of 027,12/20/2016,5.2,BA
+6220,6220-00-DW-027,Outside Girl's Room - immediately left of 028,12/20/2016,2.0,BA
+6220,6220-00-DW-028,Outside Girl's Room - furthest right,12/20/2016,2.4,BA
+6220,6220-01-WC-032,Room 107 - classroom,12/20/2016,1.9,BA
+6220,6220-01-HS-034,Outside Room 105 - daycare rooom,12/20/2016,0.074,BA
+6220,6220-01-KC-035,Room 106,12/20/2016,1.2,BA
+6220,6220-01-WC-039,Inside of Main Office,12/20/2016,1.3,BA
+6220,6220-01-WC-041,Room 109 - Kindergarten,12/20/2016,1.2,BA
+6220,6220-01-CF-043,Nurse's Office,12/20/2016,6.6,BA
+6220,6220-01-CF-044,Nurse's Exam Room,12/20/2016,3.1,BA
+6220,6220-01-WC-045,Outside Nurse's Office; near daycare room,12/20/2016,0.43,BA
+6220,6220-01-CF-049,Room 101 - Head Start,12/20/2016,5.8,BA
+6220,6220-02-WC-057,Outside Room 204,12/20/2016,0.40,BA
+6220,6220-02-CF-059,Teacher's Lounge - between Rooms 204 & 205,12/20/2016,3.6,BA
+6220,6220-02-HS-060,Outside Room 206,12/20/2016,0.054,BA
+6220,6220-03-HS-065,Outside Room 306,12/20/2016,0.054,BA
+6220,6220-03-WC-068,Outside Room 304,12/20/2016,0.60,BA
+6220,6220-01-CF-076N,Room 103 - Head Start,12/20/2016,0.57,BA
+6220,6220-01-KC-077N,Room 102,12/20/2016,1.2,BA
+6230,6230-00-WC-001,Outside Boy's Room,12/23/2016,9.9,BA
+6230,6230-01-HS-003,Across from the Main Office,12/23/2016,0.054,BA
+6230,6230-01-WC-004,Across from Room 104 (Library),12/23/2016,0.13,BA
+6230,6230-01-WC-005,In Room 105,12/23/2016,0.58,BA
+6230,6230-02-HS-008,Across from Rooms 204 and 205,12/23/2016,0.15,BA
+6230,6230-02-KC-009,Teacher's Lounge,12/23/2016,1.6,BA
+6230,6230-02-WC-010,Across from Room 201,12/23/2016,0.99,BA
+6230,6230-03-WC-011,Across from Room 301,12/23/2016,0.85,BA
 6260,6260-00-DW-001,Outside boy's room - left,10/20/2016,3.6,BA
 6260,6260-00-DW-002,Outside boy's room - right,10/20/2016,1.1,BA
 6260,6260-00-DW-003,Outside girl's  room - left,10/20/2016,2.4,BA
@@ -696,6 +904,20 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 6410,6410-­‐02-­‐WC-­‐090,Outside Room 206,12/13/16,0.96,BA
 6410,6410-­‐02-­‐KC-­‐095,Room 212 -­‐ Special Needs,12/13/16,2.3,BA
 6410,6410-­‐02-­‐HS-­‐097,Outside Room 212,12/13/16,0.054,BA
+6450,6450-00-KC-012,Kitchen/Lunch Room,12/21/2016,3.0,BA
+6450,6450-01-HS-027,Outside Room 101,12/21/2016,0.054,BA
+6450,6450-01-CF-028,Nurse's Office,12/21/2016,0.75,BA
+6450,6450-01-KC-033,Room 106 - special needs,12/21/2016,1.0,BA
+6450,6450-01-WC-037,Outside Room 108,12/21/2016,0.34,BA
+6450,6450-02-WC-039,Outside Room 209,12/21/2016,0.62,BA
+6450,6450-02-HS-042,Outside Room 202,12/21/2016,0.054,BA
+6450,6450-03-HS-043,Outside Room 302,12/21/2016,0.054,BA
+6450,6450-03-KC-047,Teacher's Lounge,12/21/2016,1.2,BA
+6450,6450-03-WC-049,Outside Room 308,12/21/2016,0.18,BA
+6450,6450-00-DW-057,Outside Building Engineer's Office - left,12/21/2016,1.8,BA
+6450,6450-00-DW-058,Outside Building Engineer's Office - right,12/21/2016,1.7,BA
+6450,6450-00-DW-059,Outside Basement boy's room - left,12/21/2016,0.76,BA
+6450,6450-00-DW-060,Outside Basement boy's room - right,12/21/2016,1.1,BA
 6470,6470-01-DW-001,K-6 location,10/27/2016,3.0,BA
 6470,6470-01-DW-002,K-5 location,10/27/2016,3.8,BA
 6470,6470-01-DW-003,Gym,10/27/2016,0.41,BA
@@ -714,6 +936,29 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 6470,6470-02-HS-018,Outside Room 209,10/27/2016,<0.054,BA
 6470,6470-02-WC-019,Outside Room 205,10/27/2016,0.61,BA
 6470,6470-02-WC-020,Outside Room 201,10/27/2016,0.65,BA
+7100,7100-01-DW-002,Outside Room 106 - Family Health Center,12/13/2016,1.7,BA
+7100,7100-01-WC-003,Room 104 - Kindergarten,12/13/2016,0.22,BA
+7100,7100-01-HS-004,Outside Room 103,12/13/2016,0.054,BA
+7100,7100-01-WC-005,Room 103,12/13/2016,0.21,BA
+7100,7100-01-DW-006,Outside Boys Cafeteria - Left,12/13/2016,1.3,BA
+7100,7100-01-DW-007,Outside Boys Cafeteria,12/13/2016,0.63,BA
+7100,7100-01-DW-008,Outside Boys Cafeteria,12/13/2016,1.6,BA
+7100,7100-01-DW-009,Outside Boys Cafeteria,12/13/2016,2.2,BA
+7100,7100-01-DW-010,Outside Boys Cafeteria,12/13/2016,2.1,BA
+7100,7100-01-DW-011,Outside Boys Cafeteria - Right,12/13/2016,2.1,BA
+7100,7100-01-KC-013,Kitchen - Faucet Associated with Sprayer,12/13/2016,0.84,BA
+7100,7100-02-DW-026,Outside 216,12/13/2016,1.0,BA
+7100,7100-02-DW-027,Outside 211,12/13/2016,1.8,BA
+7100,7100-02-WC -028,Teachers Lounge - across from Room 209,12/13/2016,8.3,BA
+7100,7100-02-DW-029,Outside Room 204 (IMC),12/13/2016,1.2,BA
+7100,7100-02-HS-030,Outside Nurse's Office/Counsellor,12/13/2016,0.054,BA
+7100,7100-03-DW-031,Outside Room 321,12/13/2016,2.1,BA
+7100,7100-03-DW-032,Outside Room 316,12/13/2016,1.7,BA
+7100,7100-03-DW-033,Outside Room 310,12/13/2016,2.7,BA
+7100,7100-03-HS-034,Outside Room 305,12/13/2016,0.054,BA
+7100,7100-01-KC-054,Between Rooms 103 & 104 - Childcare,12/13/2016,2.7,BA
+7100,7100-02-CF-064,Nurse's Office,12/13/2016,2.0,BA
+7100,7100-01-DW-085,Hallway outside of girls cafeteria,12/13/2016,1.9,BA
 7200,7200-00-KC-011,Kitchen - left,12/1/2016,8.0,BA
 7200,7200-00-KC-013,Kitchen - right,12/1/2016,4.5,BA
 7200,7200-01-WC-037,Room 111,12/1/2016,1.8,BA
@@ -789,6 +1034,36 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 7260,7260-02-HS-014,Across from 204,10/8/2016,<0.054,BA
 7260,7260-02-DW-017,Across from 208 - Right,10/8/2016,1.6,BA
 7260,7260-02-DW-020,Ouside Boys Room - Right,10/8/2016,1.1,BA
+7270,7270-00-KC-013,Cafeteria Kitchen,12/23/2016,0.35,BA
+7270,7270-01-DW-032,Outside Boy's Room,12/23/2016,1.8,BA
+7270,7270-01-HS-035,Outside Room 104,12/23/2016,0.054,BA
+7270,7270-01-CF-038,Room 102 - Special Education,12/23/2016,2.2,BA
+7270,7270-01-DW-042,Room 101,12/23/2016,3.7,BA
+7270,7270-02-CF-044,Nurse's Office,12/23/2016,3.6,BA
+7270,7270-02-HS-048,Outside Room 204,12/23/2016,0.054,BA
+7270,7270-02-WC-049,Outside Room 207,12/23/2016,0.76,BA
+7270,7270-02-CF-052,Room 210 - Special Education,12/23/2016,6.6,BA
+7270,7270-03-HS-055,Outside Room 307,12/23/2016,0.074,BA
+7270,7270-01-WC-060,Portable,12/23/2016,30.4,AA
+7270,7270-00-WC-062,"In the hallway, outside of the Girl's Room - right",12/23/2016,0.13,BA
+7270,7270-00-WC-063,"In the hallway, outside of the Girl's Room - left",12/23/2016,0.27,BA
+7270,7270-00-WC-064,"In the hallway, outside of the Boy's Room - right",12/23/2016,0.39,BA
+7270,7270-00-WC-065,"In the hallway, outside of the Boy's Room - left",12/23/2016,0.47,BA
+7270,7270-01-DW-068N,Room K-2; Kindergarten,12/23/2016,0.23,BA
+7270,7270-01-DW-069N,Room K-3; Kindergarten,12/23/2016,2.9,BA
+7270,7270-01-DW-070N,Room K-4; Kindergarten,12/23/2016,0.19,BA
+7270,7270-01-WC-071N,Outside Multi-Purpose Room - left,12/23/2016,0.099,BA
+7270,7270-01-HS-072N,Outside Multi-Purpose Room - right,12/23/2016,0.074,BA
+7270,7270-01-KC-073N,Multi-Purpose Room Kitchen- left,12/23/2016,1.5,BA
+7270,7270-01-KC-074N,Multi-Purpose Room Kitchen- right,12/23/2016,10.8,AA
+7270,7270-01-DW-075N,Room A-5; 1st Grade,12/23/2016,0.13,BA
+7270,7270-01-DW-076N,Room A-6; 1st Grade,12/23/2016,0.18,BA
+7270,7270-01-DW-077N,Room A-7; 1st Grade,12/23/2016,0.33,BA
+7270,7270-01-DW-078N,Room A-8; 1st Grade,12/23/2016,0.28,BA
+7270,7270-01-DW-079N,Room A-9; 2nd Grade,12/23/2016,0.13,BA
+7270,7270-01-DW-080N,Room A-10; Second Grade,12/23/2016,0.13,BA
+7270,7270-01-DW-081N,Room A-11; Second Grade,12/23/2016,0.18,BA
+7270,7270-01-DW-082N,Room A-12; Second Grade,12/23/2016,0.20,BA
 7300,7300-00-DW-007,Outside Girl's Room - left,9/29/2016,16.9,AA
 7300,7300-00-DW-009,Outside Girls Room - right,9/29/2016,3.0,BA
 7300,7300-00-DW-021,Outside Boy's Room - Left,9/29/2016,5.1,BA
@@ -935,6 +1210,47 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 8240,8240-00-DW-084,Outside Room B-1 (near staircase) - left,8/19/2016,1.7,BA
 8240,8240-00-DW-085,Outside Room B-1 (near staircase) - right,8/19/2016,1.7,BA
 8240,8240-02-DW-087N,Deans Office - Room 203A,8/19/2016,1.3,BA
+8250,8250-00-WC-001,Outside girl's room - left,1/10/2017,1.5,BA
+8250,8250-00-WC-002,Outside girl's room - right,1/10/2017,0.36,BA
+8250,8250-00-DW-003,Inside Room B-1,1/10/2017,3.1,BA
+8250,8250-00-WC-008,Outside Boy's Room; Across from B-3,1/10/2017,1.1,BA
+8250,8250-01-WC-009,Between Boy's Room and Room 107,1/10/2017,3.0,BA
+8250,8250-01-HS-010,Between Girl's Room and Room 104,1/10/2017,0.054,BA
+8250,8250-01-WC-011,Room 103,1/10/2017,2.2,BA
+8250,8250-02-WC-013,"Teacher's Lounge, Room 213",1/10/2017,0.25,BA
+8250,8250-02-HS-016,Between Girl's Room and Room 204,1/10/2017,0.054,BA
+8250,8250-02-WC-017,Between Boy's Room and Room 207,1/10/2017,0.80,BA
+8250,8250-03-WC-018,Between Boy's Room and Room 307,1/10/2017,0.70,BA
+8250,8250-03-HS-019,Between Girl's Room and Room 304,1/10/2017,0.054,BA
+8250,8250-01-DW-020,Within Modular Building - near bathroom,1/10/2017,1.6,BA
+8250,8025-02-CF-055,Nurse's Office,1/10/2017,2.4,BA
+8250,8250-01-WC-070N,In PEC Bldg - all purpose room - left,1/10/2017,0.057,BA
+8250,8250-01-WC-071N,In PEC Bldg - all purpose room - right,1/10/2017,0.13,BA
+8250,8250-01-HS-072N,In PEC Bldg - outside bathroom - left,1/10/2017,0.054,BA
+8250,8250-01-WC-074N,In PEC Bldg - between P9 & P11 - left,1/10/2017,0.082,BA
+8250,8250-01-WC-075N,In PEC Bldg - between P9 & P11 - right,1/10/2017,0.090,BA
+8250,8250-01-WC-076N,In PEC Bldg - Room P1,1/10/2017,0.11,BA
+8250,8250-01-WC-077N,In PEC Bldg - Room P2,1/10/2017,0.16,BA
+8250,8250-01-WC-078N,In PEC Bldg - Room P3,1/10/2017,0.36,BA
+8250,8250-01-WC-079N,In PEC Bldg - Room P4,1/10/2017,0.18,BA
+8250,8250-01-WC-080N,In PEC Bldg - Room P5,1/10/2017,0.061,BA
+8250,8250-01-KC-081N,In PEC Bldg - Kitchen left,1/10/2017,0.62,BA
+8250,8250-01-KC-082N,In PEC Bldg - Kitchen right,1/10/2017,8.2,BA
+8250,8250-01-KC-083N,In PEC Bldg - Teacher's Lounge,1/10/2017,0.37,BA
+8260,8260-00-WC-004,In Element 2 - Laboratory A,1/11/2017,0.83,BA
+8260,8260-00-KC-013,Kitchen - right side,1/11/2017,7.2,BA
+8260,8260-00-DW-015,Inside Cafeteria,1/11/2017,1.7,BA
+8260,8260-00-WC-023,In Element 3 - outside of Room A4,1/11/2017,1.1,BA
+8260,8260-00-WC-024,In Element 3 - outside of Room A5,1/11/2017,1.2,BA
+8260,8260-00-DW-035,Outside of the Gym office and Boy's Room,1/11/2017,2.0,BA
+8260,8260-01-CF-048,Nurse's Office,1/11/2017,4.6,BA
+8260,8260-01-DW-050,Across from the main Office,1/11/2017,1.1,BA
+8260,8260-01-KC-054,Teacher's Lounge,1/11/2017,4.2,BA
+8260,8260-01-DW-058,Room 102 at door to Room 101,1/11/2017,2.2,BA
+8260,8260-01-CF-063,Room 103 - kindergarten,1/11/2017,6.9,BA
+8260,8260-01-CF-065,Room 104 - kindergarten,1/11/2017,3.7,BA
+8260,8260-02-DW-077,Outside Room 205,1/11/2017,1.2,BA
+8260,8260-00-DW-085N,Inside IMC/Music Room,1/11/2017,3.6,BA
 8270,8270-00-DW-009,Room 001 - Head Start,8/12/2016,53.4,AA
 8270,8270-00-DW-011,Room 002 - Head Start,8/12/2016,26.2,AA
 8270,8270-00-WC-016,Outside Lunch Room - across from Room 001,8/12/2016,5.9,BA
@@ -1011,6 +1327,85 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 8370,8370-01-HS-079,Front Lobby,12/9/2016,0.074,BA
 8370,8370-01-WC-087,Gym,12/9/2016,1.7,BA
 8370,8370-02-HS-090,Across from Room 202,12/9/2016,0.074,BA
+8380,8380-01-KC-003,Room 113 - Special Education,12/21/2016,0.99,BA
+8380,8380-01-KC-009,Kitchen - Backwall - Left,12/21/2016,4.6,BA
+8380,8380-01-KC-011,Kitchen - Backwall - Right,12/21/2016,1.9,BA
+8380,8380-01-DW-013,In Gymnasium,12/21/2016,0.25,BA
+8380,8380-01-DW-016,Outside of the Main Office - left,12/21/2016,1.0,BA
+8380,8380-01-DW-017,Outside of the Main Office - right,12/21/2016,0.92,BA
+8380,8380-01-BF-021,Nurse's Bathroom,12/21/2016,0.92,BA
+8380,8380-01-DW-029,Outside Girl's Room; Across from Room 105,12/21/2016,1.1,BA
+8380,8380-01-DW-038,Room 100 - Kindergarten,12/21/2016,1.4,BA
+8380,8380-01-DW-041,Room 101 - Kindergarten,12/21/2016,2.1,BA
+8380,8380-01-WC-044,Room A2,12/21/2016,92.4,AA
+8380,8380-01-WC-046,Inside of IMC,12/21/2016,0.17,BA
+8380,8380-01-WC-049,Room A4 - Learning Support,12/21/2016,17.0,AA
+8380,8380-01-WC-051,Room A6,12/21/2016,2.4,BA
+8380,8380-01-WC-053,Room A3,12/21/2016,1.4,BA
+8380,8380-02-DW-057,Across from Room 205,12/21/2016,2.5,BA
+8380,8380-02-DW-063,Outside Room 209 - left side (see outlet 076),12/21/2016,0.94,BA
+8380,8380-03-DW-066,Outside Room 309 - left (see outlet 077),12/21/2016,0.62,BA
+8380,8380-03-DW-072,Outside Room 305,12/21/2016,0.83,BA
+8380,8380-02-DW-076,Outside Room 209 - right side (see outlet 063),12/21/2016,0.86,BA
+8380,8380-03-DW-077,Outside Room 309 - right  (see outlet 066),12/21/2016,0.56,BA
+8380,8380-01-CF-078,Room 110 - Teacher's Lounge,12/21/2016,1.1,BA
+8380,8380-01-DW-086,Inside of Lunchroom,12/21/2016,2.1,BA
+8380,8380-01-KC-090N,Room 112 - Special Education,12/21/2016,1.5,BA
+8390,8390-00-WC-006,Kindergarten Room B1,1/10/2017,1.8,BA
+8390,8390-00-DW-007,Kindergarten Room B2,1/10/2017,8.1,BA
+8390,8390-00-WC-011,Across from Room B6,1/10/2017,3.4,BA
+8390,8390-00-WC-015,Inside of Cafeteria - Right,1/10/2017,1.3,BA
+8390,8390-00-KC-019,Kitchen - left,1/10/2017,1.7,BA
+8390,8390-00-KC-021,Kitchen - right,1/10/2017,1.1,BA
+8390,8390-00-DW-032,Far side of Gymnasium - Left,1/10/2017,1.5,BA
+8390,8390-00-DW-033,Far side of Gymnasium - Right,1/10/2017,1.3,BA
+8390,8390-01-WC-037,Across from Room 106,1/10/2017,0.73,BA
+8390,8390-01-DW-039,Outside of the Auditorium,1/10/2017,0.89,BA
+8390,8390-01-CF-046,Nurse's Office,1/10/2017,1.1,BA
+8390,8390-01-CF-047,Room 109 - Special Needs,1/10/2017,0.50,BA
+8390,8390-02-DW-053,Across from Room 212,1/10/2017,1.3,BA
+8390,8390-03-DW-064,Across from Room 312,1/10/2017,1.9,BA
+8390,8390-03-DW-067,Across from Room 304,1/10/2017,0.99,BA
+8390,8390-01-WC-072,Education Office,1/10/2017,0.40,BA
+8390,8390-01-WC-078,Main Office,1/10/2017,1.5,BA
+8390,8390-01-WC-081,Conference Room,1/10/2017,0.19,BA
+8390,8390-01-WC-085,Room 9 - kindergarten,1/10/2017,0.53,BA
+8390,8390-01-WC-087,Room 10 - kindergarten,1/10/2017,4.3,BA
+8390,8390-01-WC-090,Room 11 - kindergarten,1/10/2017,0.35,BA
+8390,8390-01-WC-093,Room 12 - kindergarten,1/10/2017,1.6,BA
+8400,8400-01-CF-008,Nurse's Office,1/11/20107,1.3,BA
+8400,8400-01-WC-009,"Teacher's Lounge, Room 125",1/11/2017,0.60,BA
+8400,8400-01-DW-015,Room 109,1/11/2017,2.4,BA
+8400,8400-01-DW-025,Hallway adjacent to Boy's Room,1/11/2017,1.6,BA
+8400,8400-01-KC-028,Kitchen,1/11/2017,2.2,BA
+8400,8400-01-KC-029,Kitchen - prep table,1/11/2017,4.1,BA
+8400,8400-01-DW-031,"Cafeteria, Room 105 - left",1/11/2017,2.4,BA
+8400,8400-01-DW-032,"Cafeteria, Room 105",1/11/2017,3.4,BA
+8400,8400-01-DW-033,Cafeteria Room 105,1/11/2017,2.5,BA
+8400,8400-01-DW-034,Cafeteria Room 105 - right,1/11/2017,2.5,BA
+8400,8400-01-DW-037,Gymnasium Boy's Room,1/11/2017,0.83,BA
+8400,8400-03-DW-051,Adjacent to the Boy's Room,1/11/2017,2.0,BA
+8400,8400-03-DW-056,Adjacent to the service closet,1/11/2017,1.1,BA
+8400,8400-01-WC-063,"Element 3, Room 007",1/11/2017,31.7,AA
+8400,8400-01-WC-066,"Element 3, Room 008",1/11/2017,31.6,AA
+8400,8400-01-DW-073,Outside of the Nurse's Office,1/11/2017,2.9,BA
+8400,8400-01-DW-074,Across from the Main Office,1/11/2017,1.8,BA
+8400,8400-01-WC-075N,"Between the bathrooms, across from Cafeteria - left",1/11/2017,0.074,BA
+8400,8400-01-WC-076N,"Between the bathrooms, across from Cafeteria - right",1/11/2017,0.11,BA
+8400,8400-01-DW-077N,Room 1,1/11/2017,1.3,BA
+8400,8400-01-DW-078N,Room 2,1/11/2017,0.17,BA
+8400,8400-01-DW-079N,Room 3,1/11/2017,0.25,BA
+8400,8400-01-DW-080N,Room 4,1/11/2017,0.30,BA
+8400,8400-01-DW-081N,Room 5,1/11/2017,0.16,BA
+8400,8400-01-DW-082N,Room 6,1/11/2017,1.0,BA
+8400,8400-01-DW-083N,Room 7,1/11/2017,0.36,BA
+8400,8400-01-DW-084N,Room 8,1/11/2017,0.23,BA
+8400,8400-01-DW-085N,Room 9,1/11/2017,1.0,BA
+8400,8400-01-DW-086N,Room 10,1/11/2017,0.22,BA
+8400,8400-01-DW-087N,Room 11,1/11/2017,0.22,BA
+8400,8400-01-DW-088N,Room 12,1/11/2017,0.87,BA
+8400,8400-01-KC-089N,Kitchen - left,1/11/2017,1.2,BA
+8400,8400-01-KC-090N,Kitchen - right,1/11/2017,0.85,BA
 8410,8410-01-WC-010,In cafeteria - near exit to parking lot - left,8/5/2016,1.2,BA
 8410,8410-01-WC-011,In cafeteria - near exit to parking lot - right,8/5/2016,5.8,BA
 8410,8410-01-DW-012,In cafeteria - near cafeteria exit - left (center is no longer),8/5/2016,2.6,BA
@@ -1044,3 +1439,19 @@ ULCS,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test R
 8420,8240-01-WC-108,Outside Room A10 - Element 4,7/22/2016,2.0,BA
 8420,8240-01-WC-115N,Home and School Room - Element 3,7/22/2016,16.5,AA
 8420,8240-01-WC-116N,Music/Psychology Room - Element 3,7/22/2016,2.2,BA
+8430,8430-00-KC-011,Double sink in Kitchen - left,1/13/2017,7.5,BA
+8430,8430-00-KC-013,Double sink in Kitchen - right,1/13/2017,7.0,BA
+8430,8430-00-WC-015,Cafeteria - left unit,1/13/2017,1.7,BA
+8430,8430-00-WC-016,Cafeteria - right unit,1/13/2017,5.8,BA
+8430,8430-01-WC-018,Outside kindergarten Room 108,1/13/2017,7.8,BA
+8430,8430-01-WC-019,In kindergarten Room 108,1/13/2017,0.29,BA
+8430,8430-01-DW-028,Gymnasium,1/13/2017,0.80,BA
+8430,8430-01-WC-033,Across from bathrooms - left,1/13/2017,3.3,BA
+8430,8430-01-CF-046,Teacher's Lounge,1/13/2017,2.5,BA
+8430,8430-01-CF-047,Nurse's Sink,1/13/2017,0.86,BA
+8430,8430-01-WC-048,Across from Room 103,1/13/2017,4.3,BA
+8430,8430-02-WC-049,Across from Room 203,1/13/2017,2.9,BA
+8430,8430-02-WC-060,Across from Room 211,1/13/2017,0.37,BA
+8430,8430-02-WC-063,Across from Room 217,1/13/2017,13.7,AA
+8430,8430-03-WC-064,Across from Room 321,1/13/2017,1.6,BA
+8430,8430-03-WC-075,Across from Room 303,1/13/2017,9.8,BA

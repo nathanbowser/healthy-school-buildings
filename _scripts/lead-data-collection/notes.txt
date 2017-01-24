@@ -8,7 +8,7 @@ Gives us an array of urls
 
 Do the same thing for the results:
 
-Array.prototype.slice.call($('.contentBlox')[1].querySelectorAll('a'), 2).map(function (a) { return a.href })
+Array.prototype.slice.call($('.contentBlox')[2].querySelectorAll('a'), 1).map(function (a) { return a.href })
 
 Now you can run cleanup to generate a school structure in `schools/ULCS/{results,reports}`
 
@@ -17,6 +17,11 @@ The script will warn you for things you need to do manually.
 ** Check pdf sizes, for some reason some of the links don't work on the school district's page. Surprise **
 
 
+PDFs with wrong ULCS:
+
  ** Childs has the wrong ULCS on its results pdf, so ended up in the wrong directory. Move to 2260 **
+ ** 5140 from School district is actually 5080 **
+ ** 5290 in school district data is our 5260 **
+
 
 * Investigate output CSV because things like 4020-overbrook mess things up... what's w/ the arrow"
