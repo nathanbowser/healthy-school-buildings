@@ -192,7 +192,7 @@ Metalsmith(__dirname)
                           })
       }
 
-      // profile
+      // profile pages
       if (_reports[school['ULCS Code']]) {
         school.reportsDir = _reports[school['ULCS Code']]
         var _dir = __dirname + '/src/data/pdf/report/' + _reports[school['ULCS Code']]
@@ -202,8 +202,12 @@ Metalsmith(__dirname)
                            })
       }
 
-      if (fs.existsSync(__dirname + '/src/data/pdf/profile/' + school['ULCS Code'] + '.pdf')) {
-        school.profilePdf = school['ULCS Code'] + '.pdf'
+      if (fs.existsSync(__dirname + '/src/data/pdf/profile/2012/' + school['ULCS Code'] + '.pdf')) {
+        school.profile2012Pdf = school['ULCS Code'] + '.pdf'
+      }
+
+      if (fs.existsSync(__dirname + '/src/data/pdf/profile/2015/' + school['ULCS Code'] + '.pdf')) {
+        school.profile2015Pdf = school['ULCS Code'] + '.pdf'
       }
 
       // profile

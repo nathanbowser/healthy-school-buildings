@@ -3,7 +3,19 @@
 
   <div class="mdl-layout-spacer"></div>
 
-  <a class="pdf-img mdl-cell mdl-cell--6-col" href="../data/pdf/profile/{{school | get: 'ULCS Code' }}.pdf"></a>
+  {% if school.profile2012Pdf %}
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
+      <a class="pdf-img" href="../data/pdf/profile/2012/{{school | get: 'ULCS Code' }}.pdf"></a>
+      <span>2012</span>
+    </div>
+  {% endif %}
+
+  {% if school.profile2015Pdf %}
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
+      <a class="pdf-img" href="../data/pdf/profile/2015/{{school | get: 'ULCS Code' }}.pdf"></a>
+      <span>2015</span>
+    </div>
+  {% endif %}
 
 </div>
 
