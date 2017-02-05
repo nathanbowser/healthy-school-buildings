@@ -8,6 +8,22 @@ var loadSchool = function (data) {
   window.location.href = window.data.school ? ('../' + data.slug) : data.slug
 }
 
+var popupHtml = function (school) {
+  return '<h6>' + school['School Name (ULCS)'] + '</h6>' +
+         school['School Type'] + '<br />' +
+         '*********************************<br />' +
+         '<em>2015 Data</em>:<br />' +
+         'Facility Condition Index: ' + d3.format('%')(school['2015 Facility Condition Index [FCI]']) + '<br />' +
+         'Repair Costs: ' + d3.format('$,')(school['2015 Condition Assessment Cost [CAC]']) + '<br />' +
+         'Replacement Costs: ' + d3.format('$,')(school['2015 Replacement Cost [CRV]']) + '<br />' +
+         '*********************************<br />' +
+         '<em>2012 Data</em>:<br />' +
+         'Facility Condition Index: ' + d3.format('%')(school['2012 Facility Condition Index [FCI]']) + '<br />' +
+         'Repair Costs: ' + d3.format('$,')(school['2012 Condition Assessment Cost [CAC]']) + '<br />' +
+         'Replacement Costs: ' + d3.format('$,')(school['2012 Replacement Cost [CRV]']) + '<br />'
+
+}
+
 // Just because of this stupid plugin
 window.jQuery = $
 require('./vendor/immybox')
@@ -48,7 +64,7 @@ module.exports = function () {
     // We're showing a school. Pin it
     var marker = L.marker(school.Coordinates.split(',').map(Number).reverse())
                   .addTo(map)
-                  .bindPopup(school['School Name (ULCS)'] + '<br /> <span class="ulcs">' + school['ULCS Code'] + '</span>').openPopup()
+                  .bindPopup(popupHtml(school)).openPopup()
       , cM = map.project(marker._latlng)
 
     cM.y -= marker._popup._container.clientHeight / 2
@@ -66,12 +82,12 @@ module.exports = function () {
   window.data.all.forEach(function (d) {
     var dot = L.circle(d.Coordinates.split(',').map(Number).reverse(), {
                   stroke: 0,
-                  fillColor: heatmap(d['Facility Condition Index [FCI]']).color,
+                  fillColor: heatmap(d['2012 Facility Condition Index [FCI]']).color,
                   fillOpacity: .8,
                   radius: size(d['Total # of Students']),
                   _data: d
                 })
-                .bindPopup(d['School Name (ULCS)'] + '<br /> <span class="ulcs">' + d['ULCS Code'] + '</span>')
+                .bindPopup(popupHtml(d))
                 .on('mouseover', function (e) {
                   this.openPopup()
                 })

@@ -282,7 +282,12 @@ Metalsmith(__dirname)
       return {
         'School Name (ULCS)': school['School Name (ULCS)'],
         'ULCS Code': school['ULCS Code'],
-        'Facility Condition Index [FCI]': school['Facility Condition Index [FCI]'],
+        '2012 Facility Condition Index [FCI]': school['2012 Facility Condition Index [FCI]'],
+        '2012 Condition Assessment Cost [CAC]': school['2012 Condition Assessment Cost [CAC]'],
+        '2012 Replacement Cost [CRV]': school['2012 Replacement Cost [CRV]'],
+        '2015 Facility Condition Index [FCI]': school['2015 Facility Condition Index [FCI]'],
+        '2015 Condition Assessment Cost [CAC]': school['2015 Condition Assessment Cost [CAC]'],
+        '2015 Replacement Cost [CRV]': school['2015 Replacement Cost [CRV]'],
         'Total # of Students': school['Total # of Students'],
         'Coordinates': school['Coordinates'],
         'Zip Code': school['Zip Code'],

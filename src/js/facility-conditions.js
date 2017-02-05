@@ -93,8 +93,6 @@ function fci (data) {
                       return d
                     }))
 
-              console.log(ticks)
-
   rect.exit().remove()
   rect.enter()
       .append('rect')
@@ -108,15 +106,15 @@ function fci (data) {
   g.append('path')
    .classed('needle', true)
    .attr('transform', function () {
-     return 'translate(' + x(data['Facility Condition Index [FCI]']) + ',35)'
+     return 'translate(' + x(data['2012 Facility Condition Index [FCI]']) + ',35)'
    })
    .attr('d', d3.svg.symbol().type('triangle-up').size(200))
 
   axis.call(xAxis)
 
   d3.select('.fci-rating-rank')
-    .text(scale(data['Facility Condition Index [FCI]']).text)
-    .style('color', scale(data['Facility Condition Index [FCI]']).color)
+    .text(scale(data['2012 Facility Condition Index [FCI]']).text)
+    .style('color', scale(data['2012 Facility Condition Index [FCI]']).color)
 }
 
 module.exports = function () {
