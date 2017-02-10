@@ -1,14 +1,23 @@
 <div class="mdl-grid mdl-grid--no-spacing mdl-cell mdl-cell--12-col">
-  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Ratings &amp; Costs [as per SDP 2012 data]:</h4>
+  <h4 class="mdl-cell mdl-cell--12-col tab-pane-section-header">Ratings &amp; Costs [as per SDP 2015 data]:</h4>
 
   <div class="mdl-cell--2-col label">CAC</div>
-  <div class="mdl-cell--3-col">{{school | get: '2012 Condition Assessment Cost [CAC]' | currency}}</div>
+  <div class="mdl-cell--3-col">
+    {{school | get: '2012 Condition Assessment Cost [CAC]' | currency}} (2012) <br />
+    {{school | get: '2015 Condition Assessment Cost [CAC]' | currency}} (2015)
+  </div>
 
   <div class="mdl-cell--2-col label">CRV</div>
-  <div class="mdl-cell--3-col">{{school | get: '2012 Replacement Cost [CRV]' | currency }}</div>
+  <div class="mdl-cell--3-col">
+    {{school | get: '2012 Replacement Cost [CRV]' | currency }} (2012) <br />
+    {{school | get: '2015 Replacement Cost [CRV]' | currency}} (2015)
+  </div>
 
-  <div class="fci mdl-cell--5-col label">FCI Rating <span class="fci-rating-rank">FAIR</span></div>
-  <div class="fci mdl-cell--6-col fci-rating">{{school | get: '2012 Facility Condition Index [FCI]' | percentage}}</div>
+  <div class="fci mdl-cell--2-col label">FCI Rating</div>
+  <div class="fci mdl-cell--6-col fci-rating">
+    2012: {{school | get: '2012 Facility Condition Index [FCI]' | percentage}} <span class="fci-rating-rank fci-rating-rank-2012"></span><br />
+    2015: {{school | get: '2015 Facility Condition Index [FCI]' | percentage}} <span class="fci-rating-rank fci-rating-rank-2015"></span>
+  </div>
 
   <div class="mdl-cell mdl-cell--12-col fci-gauge"><svg></svg></div>
 

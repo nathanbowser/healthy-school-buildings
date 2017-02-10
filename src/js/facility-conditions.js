@@ -103,18 +103,41 @@ function fci (data) {
       .attr('width', function (d) { return x(d[1]) - x(d[0]) })
       .style('fill', function (d) { return scale(d[0]).color })
 
-  g.append('path')
-   .classed('needle', true)
-   .attr('transform', function () {
-     return 'translate(' + x(data['2012 Facility Condition Index [FCI]']) + ',35)'
-   })
-   .attr('d', d3.svg.symbol().type('triangle-up').size(200))
+  var needles = g.selectAll('g.needle')
+                 .data(function (d) {
+                   return [2012, 2015].map(function (year) {
+                     return {
+                       year: year,
+                       fci: x(data[year + ' Facility Condition Index [FCI]'])
+                     }
+                   })
+                 })
+                 .enter()
+                 .append('g')
+                 .classed('needle', true)
+                 .attr('transform', function (d) {
+                   return 'translate(' + d.fci + ',35)'
+                 })
+
+  needles.append('path')
+         .attr('d', d3.svg.symbol().type('triangle-up').size(200))
+
+  needles.append('text')
+         .text(function (d) {
+           return d.year
+         })
+         .attr('y', -10)
+         .attr('x', -10)
 
   axis.call(xAxis)
 
-  d3.select('.fci-rating-rank')
+  d3.select('.fci-rating-rank-2012')
     .text(scale(data['2012 Facility Condition Index [FCI]']).text)
     .style('color', scale(data['2012 Facility Condition Index [FCI]']).color)
+
+  d3.select('.fci-rating-rank-2015')
+    .text(scale(data['2015 Facility Condition Index [FCI]']).text)
+    .style('color', scale(data['2015 Facility Condition Index [FCI]']).color)
 }
 
 module.exports = function () {

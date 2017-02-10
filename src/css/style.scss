@@ -48,8 +48,14 @@
       }
 
       &.fci-rating {
-        font-size: 22px;
+        font-size: 16px;
         font-weight: 600;
+      }
+    }
+    g.needle {
+      text {
+        fill: white;
+        font-size: 10px;
       }
     }
   }
