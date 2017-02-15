@@ -1,0 +1,20 @@
+Memphis-Street-Academy
+"",FCI,Repair Costs,Replacement Cost
+Overall,44.63%,"$26,421,649","$59,204,515"
+Building,45.58 %,"$26,363,318","$57,842,410"
+Grounds,04.26 %,"$58,331","$1,369,185"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),89.59 %,"$982,578","$1,096,780"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),12.50 %,"$645,789","$5,166,040"
+Windows (Shows functionality of exterior windows),100.57 %,"$2,539,658","$2,525,200"
+Exterior Doors (Shows condition of exterior doors),106.46 %,"$182,146","$171,100"
+Interior Doors (Classroom doors),334.03 %,"$1,383,470","$414,180"
+Interior Walls (Paint and Finishes),05.86 %,"$67,739","$1,156,740"
+Plumbing Fixtures,00.00 %,$0,"$1,595,360"
+Boilers,00.00 %,$0,"$2,203,060"
+Chillers/Cooling Towers,67.94 %,"$1,962,508","$2,888,640"
+Radiators/Unit Ventilators/HVAC,123.56 %,"$6,268,181","$5,072,820"
+Heating/Cooling Controls,132.68 %,"$2,113,546","$1,593,000"
+Electrical Service and Distribution,114.55 %,"$1,311,140","$1,144,600"
+Lighting,37.82 %,"$1,547,810","$4,092,240"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",32.60 %,"$499,718","$1,532,820"

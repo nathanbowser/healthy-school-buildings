@@ -1,0 +1,20 @@
+Workshop-School
+"",FCI,Repair Costs,Replacement Cost
+Overall,13.98%,"$2,734,342","$19,562,232"
+Building,13.99 %,"$2,734,342","$19,546,730"
+Grounds,00.00 %,$0,"$90,550"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),00.00 %,$0,"$1,202,019"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.00 %,$0,"$976,249"
+Windows (Shows functionality of exterior windows),00.00 %,$0,"$426,210"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$52,221"
+Interior Doors (Classroom doors),00.00 %,$0,"$117,575"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$413,077"
+Plumbing Fixtures,01.54 %,"$15,158","$987,507"
+Boilers,10.10 %,"$58,946","$583,811"
+Chillers/Cooling Towers,00.00 %,$0,"$765,490"
+Radiators/Unit Ventilators/HVAC,125.60 %,"$1,688,417","$1,344,297"
+Heating/Cooling Controls,00.00 %,$0,"$422,145"
+Electrical Service and Distribution,00.00 %,$0,"$303,319"
+Lighting,17.34 %,"$188,017","$1,084,444"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",16.50 %,"$67,007","$406,197"

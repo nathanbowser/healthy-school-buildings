@@ -1,0 +1,20 @@
+Camelot-Academy-Boone
+"",FCI,Repair Costs,Replacement Cost
+Overall,42.76%,"$14,073,391","$32,914,101"
+Building,42.33 %,"$13,653,608","$32,258,817"
+Grounds,56.95 %,"$373,154","$655,284"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),02.89 %,"$24,415","$843,719"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.57 %,"$10,033","$1,756,593"
+Windows (Shows functionality of exterior windows),116.91 %,"$896,554","$766,892"
+Exterior Doors (Shows condition of exterior doors),43.08 %,"$40,480","$93,963"
+Interior Doors (Classroom doors),151.97 %,"$321,492","$211,556"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$1,106,732"
+Plumbing Fixtures,16.07 %,"$285,570","$1,776,849"
+Boilers,00.00 %,$0,"$1,050,468"
+Chillers/Cooling Towers,63.58 %,"$875,775","$1,377,367"
+Radiators/Unit Ventilators/HVAC,232.99 %,"$5,635,581","$2,418,832"
+Heating/Cooling Controls,158.90 %,"$1,207,002","$759,578"
+Electrical Service and Distribution,101.00 %,"$551,203","$545,771"
+Lighting,33.98 %,"$663,027","$1,951,270"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",61.42 %,"$448,938","$730,882"

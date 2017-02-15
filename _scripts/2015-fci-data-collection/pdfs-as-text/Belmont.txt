@@ -1,0 +1,21 @@
+Belmont
+"",,,replacement,
+"",FCI,Repair Costs,Replacement Cost
+Overall,53.04%,"$23,347,324","$44,020,819"
+Building,52.81 %,"$22,072,223","$41,795,790"
+Grounds,57.26 %,"$1,275,101","$2,226,769"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),89.59 %,"$745,404","$832,040"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),10.06 %,"$322,895","$3,211,170"
+Windows (Shows functionality of exterior windows),00.00 %,$0,"$1,566,870"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$126,150"
+Interior Doors (Classroom doors),312.45 %,"$954,117","$305,370"
+Interior Walls (Paint and Finishes),14.45 %,"$135,478","$937,670"
+Plumbing Fixtures,34.28 %,"$403,177","$1,176,240"
+Boilers,32.27 %,"$524,194","$1,624,290"
+Chillers/Cooling Towers,65.60 %,"$1,397,167","$2,129,760"
+Radiators/Unit Ventilators/HVAC,139.78 %,"$5,227,847","$3,740,130"
+Heating/Cooling Controls,158.90 %,"$1,866,332","$1,174,500"
+Electrical Service and Distribution,268.29 %,"$2,264,097","$843,900"
+Lighting,54.55 %,"$1,645,984","$3,017,160"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",40.94 %,"$462,644","$1,130,130"

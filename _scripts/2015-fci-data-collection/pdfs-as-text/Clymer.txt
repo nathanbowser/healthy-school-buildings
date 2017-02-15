@@ -1,0 +1,20 @@
+Clymer
+"",FCI,Repair Costs,Replacement Cost
+Overall,40.66%,"$14,812,216","$36,426,518"
+Building,39.48 %,"$14,046,720","$35,581,925"
+Grounds,90.48 %,"$765,496","$846,046"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),89.59 %,"$779,286","$869,860"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.00 %,$0,"$2,681,253"
+Windows (Shows functionality of exterior windows),84.07 %,"$1,099,882","$1,308,300"
+Exterior Doors (Shows condition of exterior doors),302.62 %,"$318,756","$105,332"
+Interior Doors (Classroom doors),65.48 %,"$166,971","$254,977"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$952,811"
+Plumbing Fixtures,57.28 %,"$562,549","$982,133"
+Boilers,00.00 %,$0,"$1,356,245"
+Chillers/Cooling Towers,65.60 %,"$1,166,613","$1,778,301"
+Radiators/Unit Ventilators/HVAC,126.18 %,"$3,940,466","$3,122,923"
+Heating/Cooling Controls,00.00 %,$0,"$980,681"
+Electrical Service and Distribution,92.51 %,"$651,833","$704,637"
+Lighting,38.10 %,"$959,824","$2,519,259"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",00.00 %,$0,"$943,633"

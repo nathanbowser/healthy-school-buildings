@@ -1,0 +1,20 @@
+Stetson
+"",FCI,Repair Costs,Replacement Cost
+Overall,39.80%,"$28,492,562","$71,583,500"
+Building,39.82 %,"$28,355,337","$71,215,130"
+Grounds,36.42 %,"$137,225","$376,770"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),86.71 %,"$914,814","$1,055,030"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),12.42 %,"$761,070","$6,129,200"
+Windows (Shows functionality of exterior windows),00.00 %,$0,"$2,996,000"
+Exterior Doors (Shows condition of exterior doors),53.84 %,"$109,288","$203,000"
+Interior Doors (Classroom doors),76.20 %,"$374,431","$491,400"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$2,217,600"
+Plumbing Fixtures,02.42 %,"$45,810","$1,892,800"
+Boilers,00.00 %,$0,"$2,613,800"
+Chillers/Cooling Towers,67.94 %,"$2,328,420","$3,427,200"
+Radiators/Unit Ventilators/HVAC,158.70 %,"$9,551,421","$6,018,600"
+Heating/Cooling Controls,132.68 %,"$2,507,596","$1,890,000"
+Electrical Service and Distribution,168.70 %,"$2,290,935","$1,358,000"
+Lighting,49.04 %,"$2,381,183","$4,855,200"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",26.79 %,"$487,218","$1,818,600"

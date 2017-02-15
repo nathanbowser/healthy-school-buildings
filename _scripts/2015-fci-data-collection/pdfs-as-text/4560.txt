@@ -1,0 +1,20 @@
+4560
+"",FCI,Repair Costs,Replacement Cost
+Overall,28.51%,"$12,045,221","$42,247,638"
+Building,28.64 %,"$11,827,447","$41,298,632"
+Grounds,15.11 %,"$217,773","$1,441,486"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),00.54 %,"$6,711","$1,234,700"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.31 %,"$6,935","$2,247,840"
+Windows (Shows functionality of exterior windows),00.00 %,$0,"$981,360"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$120,240"
+Interior Doors (Classroom doors),17.48 %,"$47,308","$270,720"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$1,416,240"
+Plumbing Fixtures,16.91 %,"$384,422","$2,273,760"
+Boilers,12.02 %,"$161,581","$1,344,240"
+Chillers/Cooling Towers,63.72 %,"$1,123,153","$1,762,560"
+Radiators/Unit Ventilators/HVAC,121.14 %,"$3,749,614","$3,095,280"
+Heating/Cooling Controls,158.90 %,"$1,544,551","$972,000"
+Electrical Service and Distribution,115.08 %,"$803,750","$698,400"
+Lighting,34.04 %,"$850,069","$2,496,960"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",67.61 %,"$632,327","$935,280"

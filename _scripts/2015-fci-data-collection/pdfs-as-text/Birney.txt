@@ -1,0 +1,20 @@
+Birney
+"",FCI,Repair Costs,Replacement Cost
+Overall,43.30%,"$13,399,870","$30,943,240"
+Building,50.58 %,"$13,024,478","$25,751,772"
+Grounds,28.78 %,"$375,392","$1,304,276"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),92.40 %,"$447,879","$484,700"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),09.84 %,"$187,453","$1,905,056"
+Windows (Shows functionality of exterior windows),166.14 %,"$1,545,191","$930,032"
+Exterior Doors (Shows condition of exterior doors),149.07 %,"$111,196","$74,592"
+Interior Doors (Classroom doors),480.85 %,"$853,997","$177,600"
+Interior Walls (Paint and Finishes),03.36 %,"$26,966","$801,568"
+Plumbing Fixtures,01.87 %,"$13,267","$708,624"
+Boilers,14.51 %,"$142,120","$979,168"
+Chillers/Cooling Towers,66.45 %,"$853,284","$1,284,048"
+Radiators/Unit Ventilators/HVAC,95.57 %,"$2,154,010","$2,253,744"
+Heating/Cooling Controls,155.54 %,"$1,100,337","$707,440"
+Electrical Service and Distribution,53.44 %,"$246,776","$461,760"
+Lighting,61.75 %,"$1,020,602","$1,652,864"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",65.13 %,"$403,314","$619,232"

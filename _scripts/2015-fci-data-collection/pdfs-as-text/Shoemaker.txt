@@ -1,0 +1,20 @@
+Shoemaker
+"",FCI,Repair Costs,Replacement Cost
+Overall,20.47%,"$16,126,310","$78,780,234"
+Building,20.21 %,"$15,836,843","$78,356,060"
+Grounds,68.24 %,"$289,467","$424,174"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),77.49 %,"$1,119,365","$1,444,470"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),02.44 %,"$161,447","$6,627,720"
+Windows (Shows functionality of exterior windows),18.04 %,"$584,036","$3,236,640"
+Exterior Doors (Shows condition of exterior doors),107.42 %,"$236,790","$220,440"
+Interior Doors (Classroom doors),85.79 %,"$465,434","$542,520"
+Interior Walls (Paint and Finishes),28.54 %,"$698,162","$2,445,960"
+Plumbing Fixtures,00.00 %,$0,"$2,014,320"
+Boilers,00.00 %,$0,"$2,781,240"
+Chillers/Cooling Towers,00.00 %,$0,"$3,647,160"
+Radiators/Unit Ventilators/HVAC,00.00 %,$0,"$6,405,960"
+Heating/Cooling Controls,00.00 %,$0,"$2,011,680"
+Electrical Service and Distribution,01.38 %,"$21,935","$1,590,600"
+Lighting,03.16 %,"$179,884","$5,685,240"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",00.00 %,$0,"$2,129,160"

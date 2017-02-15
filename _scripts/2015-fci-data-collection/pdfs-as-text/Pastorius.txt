@@ -1,0 +1,20 @@
+Pastorius
+"",FCI,Repair Costs,Replacement Cost
+Overall,34.59%,"$13,024,703","$37,650,787"
+Building,35.13 %,"$12,682,674","$36,104,668"
+Grounds,22.12 %,"$342,029","$1,546,119"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),89.59 %,"$847,050","$945,500"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),05.81 %,"$161,447","$2,779,987"
+Windows (Shows functionality of exterior windows),121.63 %,"$1,649,822","$1,356,477"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$109,211"
+Interior Doors (Classroom doors),00.00 %,$0,"$264,366"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$994,951"
+Plumbing Fixtures,00.00 %,$0,"$1,018,299"
+Boilers,00.00 %,$0,"$1,406,187"
+Chillers/Cooling Towers,65.60 %,"$1,209,544","$1,843,785"
+Radiators/Unit Ventilators/HVAC,141.45 %,"$4,580,133","$3,237,921"
+Heating/Cooling Controls,158.90 %,"$1,615,727","$1,016,793"
+Electrical Service and Distribution,40.68 %,"$297,226","$730,585"
+Lighting,00.00 %,$0,"$2,612,028"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",00.56 %,"$5,456","$978,381"

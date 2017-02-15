@@ -1,0 +1,20 @@
+Harrity
+"",FCI,Repair Costs,Replacement Cost
+Overall,38.00%,"$14,304,632","$37,640,973"
+Building,38.42 %,"$13,977,388","$36,382,306"
+Grounds,25.97 %,"$327,244","$1,260,105"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),02.99 %,"$20,346","$680,760"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.00 %,$0,"$2,654,087"
+Windows (Shows functionality of exterior windows),106.16 %,"$1,374,852","$1,295,045"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$104,265"
+Interior Doors (Classroom doors),378.03 %,"$954,117","$252,394"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$1,139,006"
+Plumbing Fixtures,04.71 %,"$45,810","$972,183"
+Boilers,00.00 %,$0,"$1,342,504"
+Chillers/Cooling Towers,65.60 %,"$1,154,800","$1,760,283"
+Radiators/Unit Ventilators/HVAC,128.47 %,"$3,971,512","$3,091,282"
+Heating/Cooling Controls,158.90 %,"$1,542,557","$970,745"
+Electrical Service and Distribution,143.93 %,"$1,003,883","$697,498"
+Lighting,08.00 %,"$199,459","$2,493,735"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",10.15 %,"$94,824","$934,072"

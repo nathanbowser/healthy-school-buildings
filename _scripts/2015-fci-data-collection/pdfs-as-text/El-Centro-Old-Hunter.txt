@@ -1,0 +1,20 @@
+El-Centro-Old-Hunter
+"",FCI,Repair Costs,Replacement Cost
+Overall,53.82%,"$9,614,315","$17,863,596"
+Building,52.08 %,"$9,284,938","$17,827,484"
+Grounds,131.83 %,"$180,691","$137,067"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),00.00 %,$0,"$484,344"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.00 %,$0,"$952,210"
+Windows (Shows functionality of exterior windows),123.81 %,"$514,707","$415,715"
+Exterior Doors (Shows condition of exterior doors),41.38 %,"$21,076","$50,935"
+Interior Doors (Classroom doors),00.00 %,$0,"$114,680"
+Interior Walls (Paint and Finishes),02.55 %,"$10,280","$402,905"
+Plumbing Fixtures,51.92 %,"$500,112","$963,190"
+Boilers,00.00 %,$0,"$569,435"
+Chillers/Cooling Towers,70.37 %,"$525,446","$746,640"
+Radiators/Unit Ventilators/HVAC,212.05 %,"$2,780,371","$1,311,195"
+Heating/Cooling Controls,158.90 %,"$654,291","$411,750"
+Electrical Service and Distribution,256.01 %,"$757,391","$295,850"
+Lighting,37.84 %,"$400,243","$1,057,740"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",108.80 %,"$431,071","$396,195"

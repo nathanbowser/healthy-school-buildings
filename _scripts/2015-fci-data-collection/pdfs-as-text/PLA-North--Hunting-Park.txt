@@ -1,0 +1,20 @@
+PLA-North--Hunting-Park
+"",FCI,Repair Costs,Replacement Cost
+Overall,03.06%,"$2,612,808","$85,267,232"
+Building,03.09 %,"$2,612,808","$84,628,500"
+Grounds,00.00 %,$0,"$638,732"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),00.00 %,$0,"$6,202,480"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.00 %,$0,"$7,179,920"
+Windows (Shows functionality of exterior windows),00.00 %,$0,"$3,509,600"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$237,800"
+Interior Doors (Classroom doors),00.00 %,$0,"$575,640"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$2,597,760"
+Plumbing Fixtures,00.00 %,$0,"$2,217,280"
+Boilers,"#DIV/0! %",$0,$0
+Chillers/Cooling Towers,00.00 %,$0,"$4,014,720"
+Radiators/Unit Ventilators/HVAC,00.00 %,$0,"$7,050,360"
+Heating/Cooling Controls,107.99 %,"$2,390,828","$2,214,000"
+Electrical Service and Distribution,00.00 %,$0,"$1,590,800"
+Lighting,02.64 %,"$150,265","$5,687,520"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",00.45 %,"$9,632","$2,130,360"

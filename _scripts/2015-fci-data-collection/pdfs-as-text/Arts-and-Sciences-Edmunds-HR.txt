@@ -1,0 +1,20 @@
+Arts-and-Sciences-Edmunds-HR
+"",FCI,Repair Costs,Replacement Cost
+Overall,24.46%,"$16,382,054","$66,971,711"
+Building,24.75 %,"$16,321,516","$65,938,529"
+Grounds,05.84 %,"$60,539","$1,035,886"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),89.59 %,"$1,151,988","$1,285,880"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),27.89 %,"$1,391,763","$4,990,527"
+Windows (Shows functionality of exterior windows),51.39 %,"$1,251,506","$2,435,096"
+Exterior Doors (Shows condition of exterior doors),46.45 %,"$91,073","$196,052"
+Interior Doors (Classroom doors),49.04 %,"$232,717","$474,580"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$1,791,358"
+Plumbing Fixtures,22.90 %,"$418,590","$1,828,012"
+Boilers,01.06 %,"$26,678","$2,524,333"
+Chillers/Cooling Towers,33.96 %,"$1,124,144","$3,309,892"
+Radiators/Unit Ventilators/HVAC,49.37 %,"$2,869,835","$5,812,592"
+Heating/Cooling Controls,132.68 %,"$2,421,767","$1,825,308"
+Electrical Service and Distribution,04.33 %,"$56,809","$1,311,518"
+Lighting,27.58 %,"$1,293,449","$4,689,013"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",10.24 %,"$179,841","$1,756,352"

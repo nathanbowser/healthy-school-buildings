@@ -1,0 +1,20 @@
+5070
+"",FCI,Repair Costs,Replacement Cost
+"",,,
+"",,,
+"",,,
+Building System,System FCI,Repair Costs,Replacement Cost
+"(Shows physical condition of roof)",,,
+"(Shows condition of the structural condition of the exterior facade)",,,
+"(Shows functionality of exterior windows)",,,
+"(Shows condition of exterior doors)",,,
+"(Classroom doors)",,,
+"(Paint and Finishes)",,,
+"",,,
+"",,,
+"",,,
+"",,,
+"",,,
+"",,,
+"",,,
+"(Cameras, Pa System and Fire Alarm)",,,

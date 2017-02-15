@@ -1,0 +1,20 @@
+Audenried
+"",FCI,Repair Costs,Replacement Cost
+Overall,00.10%,"$105,992","$108,511,539"
+Building,00.08 %,"$87,140","$107,457,855"
+Grounds,01.79 %,"$18,853","$1,053,684"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),00.00 %,$0,"$3,965,329"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.00 %,$0,"$9,137,448"
+Windows (Shows functionality of exterior windows),00.00 %,$0,"$5,820,893"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$245,357"
+Interior Doors (Classroom doors),00.00 %,$0,"$795,296"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$2,794,113"
+Plumbing Fixtures,00.00 %,$0,"$2,859,683"
+Boilers,00.00 %,$0,"$3,948,985"
+Chillers/Cooling Towers,00.00 %,$0,"$5,177,887"
+Radiators/Unit Ventilators/HVAC,00.00 %,$0,"$9,093,030"
+Heating/Cooling Controls,00.00 %,$0,"$2,855,453"
+Electrical Service and Distribution,00.00 %,$0,"$2,051,696"
+Lighting,00.91 %,"$66,520","$7,335,340"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",00.00 %,$0,"$2,747,580"

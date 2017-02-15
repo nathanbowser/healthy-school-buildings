@@ -1,0 +1,20 @@
+Olney-High
+"",FCI,Repair Costs,Replacement Cost
+Overall,38.30%,"$68,554,582","$179,014,131"
+Building,37.13 %,"$62,705,508","$168,884,158"
+Grounds,57.71 %,"$2,924,537","$5,067,758"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),89.59 %,"$1,863,511","$2,080,100"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),01.13 %,"$161,447","$14,350,392"
+Windows (Shows functionality of exterior windows),29.06 %,"$2,656,495","$9,141,731"
+Exterior Doors (Shows condition of exterior doors),107.91 %,"$415,796","$385,335"
+Interior Doors (Classroom doors),114.58 %,"$1,431,176","$1,249,016"
+Interior Walls (Paint and Finishes),11.76 %,"$366,669","$3,118,564"
+Plumbing Fixtures,00.00 %,$0,"$4,491,141"
+Boilers,00.00 %,$0,"$6,201,894"
+Chillers/Cooling Towers,69.19 %,"$5,626,151","$8,131,889"
+Radiators/Unit Ventilators/HVAC,73.30 %,"$10,467,750","$14,280,633"
+Heating/Cooling Controls,136.47 %,"$6,119,992","$4,484,498"
+Electrical Service and Distribution,98.53 %,"$3,174,773","$3,222,195"
+Lighting,41.98 %,"$4,835,912","$11,520,176"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",14.31 %,"$617,600","$4,315,083"

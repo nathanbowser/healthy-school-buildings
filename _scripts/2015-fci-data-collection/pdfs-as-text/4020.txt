@@ -1,0 +1,20 @@
+4020
+"",FCI,Repair Costs,Replacement Cost
+Overall,49.31%,"$85,820,026","$174,048,975"
+Building,49.87 %,"$85,836,175","$172,113,276"
+Grounds,12.21 %,"$236,297","$1,935,699"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),05.25 %,"$203,458","$3,874,733"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),15.75 %,"$2,200,406","$13,967,251"
+Windows (Shows functionality of exterior windows),82.06 %,"$7,301,516","$8,897,656"
+Exterior Doors (Shows condition of exterior doors),113.79 %,"$426,764","$375,047"
+Interior Doors (Classroom doors),98.41 %,"$1,196,323","$1,215,668"
+Interior Walls (Paint and Finishes),00.37 %,"$23,447","$6,362,859"
+Plumbing Fixtures,12.25 %,"$535,416","$4,371,232"
+Boilers,00.00 %,$0,"$6,036,310"
+Chillers/Cooling Towers,36.77 %,"$2,910,504","$7,914,776"
+Radiators/Unit Ventilators/HVAC,27.93 %,"$3,881,479","$13,899,355"
+Heating/Cooling Controls,103.12 %,"$4,501,115","$4,364,766"
+Electrical Service and Distribution,26.37 %,"$827,141","$3,136,165"
+Lighting,16.39 %,"$1,837,687","$11,212,599"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",07.28 %,"$305,912","$4,199,875"

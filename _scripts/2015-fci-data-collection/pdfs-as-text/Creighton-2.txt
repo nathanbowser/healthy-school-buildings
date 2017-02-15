@@ -1,0 +1,20 @@
+Creighton-2
+"",FCI,Repair Costs,Replacement Cost
+Overall,00.82%,"$119,879","$14,630,387"
+Building,00.07 %,"$9,197","$13,433,297"
+Grounds,09.25 %,"$110,682","$1,197,090"
+Building System,System FCI,Repair Costs,Replacement Cost
+Roof (Shows physical condition of roof),00.00 %,$0,"$896,499"
+Exterior Walls (Shows condition of the structural condition of the exterior facade),00.00 %,$0,"$710,193"
+Windows (Shows functionality of exterior windows),00.00 %,$0,"$310,055"
+Exterior Doors (Shows condition of exterior doors),00.00 %,$0,"$37,989"
+Interior Doors (Classroom doors),00.00 %,$0,"$85,532"
+Interior Walls (Paint and Finishes),00.00 %,$0,"$360,328"
+Plumbing Fixtures,00.00 %,$0,"$718,382"
+Boilers,00.00 %,$0,"$424,705"
+Chillers/Cooling Towers,00.00 %,$0,"$556,871"
+Radiators/Unit Ventilators/HVAC,00.00 %,$0,"$977,937"
+Heating/Cooling Controls,00.00 %,$0,"$307,098"
+Electrical Service and Distribution,00.00 %,$0,"$220,656"
+Lighting,00.96 %,"$7,576","$788,901"
+"Communications and Security (Cameras, Pa System and Fire Alarm)",00.24 %,$696,"$295,497"
