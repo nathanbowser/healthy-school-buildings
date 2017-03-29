@@ -1,0 +1,1417 @@
+ULCS,SCHOOL,Outlet ID #,Outlet Location,Sample Collection Date,Test Result (ppb),Test Results
+1460,Anderson ES,1460-01-DW-006,Outside Room 100,42703,1.5,BA
+1460,Anderson ES,1460-01-KC-008,Cafeteria - Service Closet,42703,1.1,BA
+1460,Anderson ES,1460-01-DW-011,Cafeteria,42703,1.7,BA
+1460,Anderson ES,1460-01-HS-018,Across from Room 102,42703,0.054,BA
+1460,Anderson ES,1460-01-DW-027,Room 105 - Kindergarten,42703,2.2,BA
+1460,Anderson ES,1460-01-WC-030,Room 108 - Kindergarten,42703,0.36,BA
+1460,Anderson ES,1460-01-CF-035,Nurse's office,42703,3.1,BA
+1460,Anderson ES,1460-02-CF-037,Room 205 - Teacher's Lounge,42703,1.7,BA
+1460,Anderson ES,1460-02-HS-040,Across from Room 206,42703,0.054,BA
+1460,Anderson ES,1460-02-WC-049,Outside Room 212,42703,2.8,BA
+1460,Anderson ES,1460-03-HS-050,Outside Room 312,42703,0.054,BA
+1460,Anderson ES,1460-01-DW-063N,Caféteria - Cup Fill Companion to Outlet 011,42703,3.7,BA
+8200,Ethan Allen ES,8200-00-DW-009,Bubbler across from the girl's room - Left,42703,0.86,BA
+8200,Ethan Allen ES,8200-00-DW-010,Bubbler across from the girl's room,42703,0.25,BA
+8200,Ethan Allen ES,8200-00-DW-011,Bubbler across from the girl's room,42703,0.35,BA
+8200,Ethan Allen ES,8200-00-DW-012,Bubbler across from the girl's room,42703,0.17,BA
+8200,Ethan Allen ES,8200-00-DW-013,Bubbler across from the girl's room - Right,42703,0.31,BA
+8200,Ethan Allen ES,8200-00-KC-016,Kitchen,42703,0.48,BA
+8200,Ethan Allen ES,8200-00-DW-017,Gym - Left,42703,2.4,BA
+8200,Ethan Allen ES,8200-00-DW-018,Gym - Right,42703,2.2,BA
+8200,Ethan Allen ES,8200-00-DW-026,Bubblers outside room 04 - Left,42703,1.3,BA
+8200,Ethan Allen ES,8200-00-DW-027,Bubblers outside room 04,42703,1.4,BA
+8200,Ethan Allen ES,8200-00-DW-028,Bubblers outside room 04,42703,1.4,BA
+8200,Ethan Allen ES,8200-00-DW-029,Bubblers outside room 04,42703,2.5,BA
+8200,Ethan Allen ES,8200-00-DW-030,Bubblers outside room 04 - Right,42703,1,BA
+8200,Ethan Allen ES,8200-01-DW-034,Room 108,42703,12.1,AA
+8200,Ethan Allen ES,8200-01-DW-038,Outside Room 107,42703,0.93,BA
+8200,Ethan Allen ES,8200-01-DW-041,Outside Room 104,42703,0.51,BA
+8200,Ethan Allen ES,8200-01-DW-044,Room 101,42703,0.13,BA
+8200,Ethan Allen ES,8200-02-CF-047,Nurse's office,42703,2,BA
+8200,Ethan Allen ES,8200-02-DW-051,Outside Room 204,42703,0.48,BA
+8200,Ethan Allen ES,8200-02-DW-052,Outside Room 207,42703,0.61,BA
+8200,Ethan Allen ES,8200-03-DW-057,Outside Room 307,42703,0.51,BA
+8200,Ethan Allen ES,8200-03-DW-058,Outside Room304,42703,0.45,BA
+2480,Arthur ES,2480-03-DW-003,Across from Room 306,42704,1.8,BA
+2480,Arthur ES,2480-03-DW-008,Across from Room 302,42704,1.7,BA
+2480,Arthur ES,2480-02-DW-015,Across from Room 202,42704,1.8,BA
+2480,Arthur ES,2480-02-DW-021,Across from Room 204,42704,1.1,BA
+2480,Arthur ES,2480-01-DW-025,Outside of the Main Office,42704,0.63,BA
+2480,Arthur ES,2480-01-CF-028,Room 110 - Nurse's Office - main,42704,1.4,BA
+2480,Arthur ES,2480-01-CF-029,Room 109 - Nurse's Office - rear office,42704,7.4,BA
+2480,Arthur ES,2480-01-CF-031,Teacher's Lounge,42704,0.52,BA
+2480,Arthur ES,2480-01-DW-032,Across from Room 104,42704,0.96,BA
+2480,Arthur ES,2480-01-KC-033,Room 106 - Special Education FSK,42704,0.72,BA
+2480,Arthur ES,2480-00-DW-050,Gymnasium,42704,0.78,BA
+1200,Barry ES,1200-01-WC-001,Main Lobby across from Main Office – Left Side,42704,0.55,BA
+1200,Barry ES,1200-01-WC-002,Main Lobby across from Main Office – Right Side,42704,0.58,BA
+1200,Barry ES,1200-01-WC-003,Hall at Boys Restroom and Room 109 – Left Side,42704,0.32,BA
+1200,Barry ES,1200-01-WC-004,Hall at Boys Restroom and Room 109 – Right Side,42704,0.34,BA
+1200,Barry ES,1200-01-WC-005,Room 109 – Left Side,42704,0.16,BA
+1200,Barry ES,1200-01-WC-006,Room 109 – Right Side,42704,0.16,BA
+1200,Barry ES,1200-01-WC-007,Room 108,42704,0.18,BA
+1200,Barry ES,1200-01-WC-008,Room 107,42704,0.18,BA
+1200,Barry ES,1200-01-WC-009,Room 106,42704,0.2,BA
+1200,Barry ES,1200-01-WC-010,Room 105,42704,0.44,BA
+1200,Barry ES,1200-01-WC-011,Room 104,42704,0.16,BA
+1200,Barry ES,1200-01-WC-012,Cafetorium – Left Side,42704,0.37,BA
+1200,Barry ES,1200-01-WC-013,Cafetorium – Right Side,42704,0.46,BA
+1200,Barry ES,1200-02-WC-014,Between Restrooms – North Side of Building – Left,42704,0.11,BA
+1200,Barry ES,1200-02-WC-015,Between Restrooms – North Side of Building – Right,42704,0.11,BA
+1200,Barry ES,1200-02-WC-016,Room 203,42704,0.58,BA
+1200,Barry ES,1200-02-WC-017,Room 202,42704,0.56,BA
+1200,Barry ES,1200-03-WC-018,Hallway B/T Rooms 311 & 310 – B/T Restrooms – Left,42704,0.64,BA
+1200,Barry ES,1200-03-WC-019,Hallway B/T Rooms 311 & 310 – B/T Restrooms – Right,42704,0.96,BA
+1200,Barry ES,1200-03-WC-020,Room 320,42704,0.17,BA
+1200,Barry ES,1200-03-WC-021,Room 303,42704,0.21,BA
+1200,Barry ES,1200-03-WC-022,Room 301,42704,0.15,BA
+1200,Barry ES,1200-04-WC-023,Hallway at Room 406 – B/T Restrooms – Left,42704,0.53,BA
+1200,Barry ES,1200-04-WC-024,Hallway at Room 406 – B/T Restrooms – Right Side,42704,0.65,BA
+1200,Barry ES,1200-04-WC-025,Room 401,42704,0.15,BA
+1200,Barry ES,1200-04-WC-026,Room 407,42704,0.2,BA
+1200,Barry ES,1200-01-KC-027,Cafetorium - Kitchen - Rear Wall,42704,1.2,BA
+1200,Barry ES,1200-01-KC-029,Cafetorium - Kitchen - Right Wall - Sink - Left,42704,1.2,BA
+1200,Barry ES,1200-01-KC-030,Cafetorium - Kitchen - Right Wall - Sink - Right,42704,18.7,AA
+1200,Barry ES,1200-02-CF-032,Room 211 - Kindergarten,42704,0.4,BA
+1200,Barry ES,1200-02-CF-033,Nurse's Office Exam Room,42704,1.5,BA
+1200,Barry ES,1200-04-CF-034,Room 402 - Teacher's Lounge,42704,0.71,BA
+4220,Blaine ES,4220-01-KC-004,Kitchen - off of main gymnasium,42705,1.3,BA
+4220,Blaine ES,4220-01-DW-005,In main cafeteria,42705,0.55,BA
+4220,Blaine ES,4220-01-HS-008,In main lobby,42705,0.054,BA
+4220,Blaine ES,4220-01-CF-012,Nurse's office,42705,3.5,BA
+4220,Blaine ES,4220-01-DW-016,Room 107 - left,42705,2.2,BA
+4220,Blaine ES,4220-01-DW-017,Room 107 - right,42705,4.7,BA
+4220,Blaine ES,4220-01-KC-019,Room 105 - Lounge/Parent's Room,42705,0.74,BA
+4220,Blaine ES,4220-01-DW-023,"Room 108, Teacher's lounge",42705,1,BA
+4220,Blaine ES,4220-01-DW-046,Room 100,42705,4.1,BA
+4220,Blaine ES,4220-02-HS-063,Outside bathroom - across from Rooms 208 & 209,42705,0.074,BA
+4220,Blaine ES,4220-03-HS-082,Outside Room 312,42705,0.074,BA
+4220,Blaine ES,4220-03-DW-090,Between boys and girls rooms - outside room 308A,42705,2,BA
+7200,Clara Barton ES,7200-00-KC-011,Kitchen - left,42705,8,BA
+7200,Clara Barton ES,7200-00-KC-013,Kitchen - right,42705,4.5,BA
+7200,Clara Barton ES,7200-01-WC-037,Room 111,42705,1.8,BA
+7200,Clara Barton ES,7200-01-CF-039,Nurse's Office - next to Room 111,42705,1.5,BA
+7200,Clara Barton ES,7200-01-WC-040,"Outside of Room 110, by nurse",42705,18.7,AA
+7200,Clara Barton ES,7200-01-WC-046,Outside of Room 104 (between Rooms 103 & 104),42705,0.56,BA
+7200,Clara Barton ES,7200-01-KC-054,Room 214 - Teacher's Lounge,42705,3.7,BA
+7200,Clara Barton ES,7200-02-WC-056,Outside of Room 203,42705,9.8,BA
+7200,Clara Barton ES,7200-02-WC-059,Outside of Room 210,42705,1,BA
+7200,Clara Barton ES,7200-03-WC-062,Next to Room 311,42705,4.2,BA
+7200,Clara Barton ES,7200-03-WC-065,Next to Room 307B,42705,0.41,BA
+7200,Clara Barton ES,7200-03-WC-066,Outside of Room 304,42705,6.4,BA
+7200,Clara Barton ES,7200-02-WC-072,Teacher's Lounge - next to soda machine; across from Room 201,42705,9.3,BA
+7200,Clara Barton ES,7200-00-DW-075N,Outside boy's room and room B-8 - left,42705,0.81,BA
+7200,Clara Barton ES,7200-00-DW-076N,Outside boy's room and room B-8 - center,42705,0.81,BA
+7200,Clara Barton ES,7200-00-DW-077N,Outside boy's room and room B-8 - right,42705,0.77,BA
+7200,Clara Barton ES,7200-00-WC-078N,Inside Gymnasium - left,42705,0.3,BA
+7200,Clara Barton ES,7200-00-WC-079N,Inside Gymnasium - middle,42705,2.5,BA
+7200,Clara Barton ES,7200-00-WC-080N,Inside Gymnasium -right,42705,0.44,BA
+7200,Clara Barton ES,7200-02-WC-081N,Outside Room 206,42705,0.21,BA
+7200,Clara Barton ES,7200-00-WC-082N,"Outside the Cafeteria, by Boy's Room - left",42705,3.5,BA
+7200,Clara Barton ES,7200-00-WC-083N,"Outside the Cafeteria, by Boy's Room -center",42705,2,BA
+7200,Clara Barton ES,7200-00-WC-084N,"Outside the Cafeteria, by Boy's Room - right",42705,2.5,BA
+7470,Bridesburg ES,7470-01-HS-001,Cafeteria - Left,42706,0.074,BA
+7470,Bridesburg ES,7470-01-HS-003,Outside Room 109 - Left,42706,0.074,BA
+7470,Bridesburg ES,7470-01-WC-005,By Boys Room by Gym - Left,42706,17.5,AA
+7470,Bridesburg ES,7470-01-WC-006,By Boys Room by Gym - Right,42706,11.1,AA
+7470,Bridesburg ES,7470-01-DW-007,Gym - Left,42706,7.6,BA
+7470,Bridesburg ES,7470-01-DW-008,Gym - Right,42706,6.9,BA
+7470,Bridesburg ES,7470-01-WC-009,Kindergarten Room 102,42706,0.063,BA
+7470,Bridesburg ES,7470-01-WC-010,Kindergarten Room 104,42706,0.067,BA
+7470,Bridesburg ES,7470-01-WC-011,Kindergarten Room 106,42706,0.097,BA
+7470,Bridesburg ES,7470-02-HS-012,Outside Room 205 by Staircase,42706,0.054,BA
+7470,Bridesburg ES,7470-02-WC-013,Across from Room 208 - left,42706,0.15,BA
+7470,Bridesburg ES,7470-01-KC-014,Kitchen,42706,0.6,BA
+7470,Bridesburg ES,7470-01-CF-015,Nurse's Front Office,42706,0.32,BA
+7470,Bridesburg ES,7470-01-CF-016,Nurse's Rear Office,42706,1.4,BA
+7470,Bridesburg ES,7470-02-WC-017,Across from Room 208 - right,42706,0.2,BA
+2240,Bregy ES,2240-00-WC-008,Basement hall bubbler - near Room 010X,42706,1.1,BA
+2240,Bregy ES,2240-00-KC-010,Cafeteria - left sink,42706,4,BA
+2240,Bregy ES,2240-00-KC-011,Cafeteria - right sink,42706,3,BA
+2240,Bregy ES,2240-00-WC-015,Basement bubbler - outside Room 008 - left,42706,0.96,BA
+2240,Bregy ES,2240-01-DW-020,1st floor kindergarten -Room 001K,42706,1.1,BA
+2240,Bregy ES,2240-01-DW-022,Outside of Room 001K,42706,1.1,BA
+2240,Bregy ES,2240-01-DW-025,Room No. 3,42706,1.2,BA
+2240,Bregy ES,2240-01-WC-031,In hallway - outside Rooms 5 & 6,42706,1.4,BA
+2240,Bregy ES,2240-02-DW-035,Outside Room 14,42706,1.5,BA
+2240,Bregy ES,2240-02-WC-039,Outside Room 10,42706,0.52,BA
+2240,Bregy ES,2240-03-WC-048,Outside Room 27,42706,1.3,BA
+2240,Bregy ES,2240-01-CF-054,Room 004; Pre-Kindergarten,42706,2,BA
+2240,Bregy ES,2240-00-DW-060,Outside basement boys room - near Room 005X - left,42706,2.1,BA
+2240,Bregy ES,2240-00-DW-061,Outside basement boys room - near Room 005X - middle,42706,1.2,BA
+2240,Bregy ES,2240-00-DW-062,Outside basement boys room - near Room 005X - right,42706,1,BA
+2240,Bregy ES,2240-01-CF-063N,Room 001 - Autistic Support,42706,0.6,BA
+2240,Bregy ES,2240-01-CF-064N,Room 002 - Autistic Support,42706,0.71,BA
+8210,JH Brown ES,8210-00-KC-012,Cafeteria - kitchen left,42710,2.3,BA
+8210,JH Brown ES,8210-00-KC-013,Cafeteria - kitchen center,42710,1.9,BA
+8210,JH Brown ES,8210-00-KC-014,Cafeteria - kitchen right,42710,7.2,BA
+8210,JH Brown ES,8210-01-DW-024,Room 108 - kindergarten,42710,3.3,BA
+8210,JH Brown ES,8210-01-DW-027,Room 107 - kindergarten,42710,2.6,BA
+8210,JH Brown ES,8210-01-DW-031,Room 106 - kindergarten,42710,3.8,BA
+8210,JH Brown ES,8210-01-DW-035,Outside Room 111,42710,0.89,BA
+8210,JH Brown ES,8210-01-DW-038,Across from Room 102,42710,4.4,BA
+8210,JH Brown ES,8210-02-DW-043,Across from Room 203 - left (right has been removed),42710,1.2,BA
+8210,JH Brown ES,8210-02-DW-049,Across from Rm 206 & 207 - left (right removed),42710,0.88,BA
+8210,JH Brown ES,8210-03-DW-057,Outside Room 307,42710,9.5,BA
+8210,JH Brown ES,8210-03-DW-062,Outside Room 306 - across from Room 303,42710,1.5,BA
+8210,JH Brown ES,8210-01-CF-064N,Room 110 - Nurse's Office,42710,5.5,BA
+8210,JH Brown ES,8210-02-WC-065N,Teacher's Lounge - next to sink; next to Room 201,42710,11.2,AA
+8210,JH Brown ES,8210-00-DW-066,Outside boy's room - left,42710,0.16,BA
+8210,JH Brown ES,8210-00-DW-067,Outside boy's room - center,42710,0.13,BA
+8210,JH Brown ES,8210-00-DW-068,Outside boy's room - right,42710,0.22,BA
+8210,JH Brown ES,8210-00-DW-069,Outside girl's room - left,42710,0.16,BA
+8210,JH Brown ES,8210-00-DW-070,Outside girl's room - center,42710,0.22,BA
+8210,JH Brown ES,8210-00-DW-071,Outside girl's room - right,42710,0.21,BA
+8210,JH Brown ES,8210-03-DW-072,Outside Room 308,42710,0.91,BA
+5260,The U School,5290-01-WC-034,Across from Room 102,42710,6,BA
+5260,The U School,5290-01-BF-035,Nurse's Office - bathroom,42710,1.9,BA
+5260,The U School,5290-01-WC-039,Room 103,42710,1.5,BA
+5260,The U School,5290-01-WC-043,Across from Room 107,42710,1.1,BA
+5260,The U School,5290-02-WC-044,Across from Room 206,42710,2.1,BA
+5260,The U School,5290-03-WC-056,Across from Room 306,42710,10.5,AA
+5260,The U School,5290-00-DW-057N,Outside Building Engineer's office - left,42710,5.1,BA
+5260,The U School,5290-00-DW-058N,Outside Girl's Room - far right side,42710,130,AA
+5260,The U School,5290-00-DW-059N,Element 2 - across from Girl's Room,42710,1.6,BA
+5260,The U School,5290-01-WC-061N,Element 2 - outside Boy's Room - right side,42710,1.8,BA
+5260,The U School,5290-02-WC-063N,Across from Room 202,42710,1.8,BA
+5260,The U School,5290-03-WC-064N,Across from Room 302,42710,4.7,BA
+5260,The U School,5290-03-HS-065N,Element 2 - outside utility closet,42710,0.074,BA
+5260,The U School,5290-00-DW-069N,Outside kitchen - right side,42710,2.6,BA
+5260,The U School,5290-00-DW-070N,Outside Building Engineer's office - 2nd from the left,42710,4.1,BA
+5260,The U School,5290-00-DW-071N,Outside Building Engineer's office - 3rd from the left,42710,41.7,AA
+5260,The U School,5290-00-DW-072N,Outside Building Engineer's office - right,42710,96.3,AA
+5260,The U School,5290-00-DW-073N,Outside Girl's Room - left,42710,286,AA
+5260,The U School,5290-00-DW-074N,Outside Girl's Room - middle,42710,70.8,AA
+5260,The U School,5290-01-HS-076N,Element 2 - outside Boy's Room - left side,42710,0.15,BA
+5260,The U School,5290-02-WC-078N,Main office,42710,7.8,BA
+5260,The U School,5290-02-KC-081N,Main Office - kitchenette,42710,8.2,BA
+5260,The U School,5290-02-HS-082N,Element 2 - outside Boy's Room - right side,42710,0.074,BA
+5260,The U School,5290-03-WC-083N,Element 2 - outside Boy's Room - right side,42710,9.4,BA
+5260,The U School,5290-00-KC-131N,Kitchen - left,42710,1.3,BA
+5260,The U School,5290-00-KC-132N,Kitchen - right,42710,1.1,BA
+7220,Carnell ES,7220-00-KC-003,Cafeteria Kitchen,42711,0.56,BA
+7220,Carnell ES,7220-00-DW-005,Room 2,42711,4.5,BA
+7220,Carnell ES,7200-00-DW-006,Outside Girl's Room - left,42711,1.1,BA
+7220,Carnell ES,7220-00-DW-007,Outside Girl's Room,42711,0.52,BA
+7220,Carnell ES,7220-00-DW-008,Outside Girl's Room,42711,0.8,BA
+7220,Carnell ES,7220-00-DW-009,Outside Girl's Room,42711,1.6,BA
+7220,Carnell ES,7220-00-DW-010,Outside Girl's Room,42711,0.4,BA
+7220,Carnell ES,7220-00-DW-011,Outside Girl's Room - right,42711,0.83,BA
+7220,Carnell ES,7220-00-DW-020,Outside Room B4- left,42711,1.2,BA
+7220,Carnell ES,7220-00-DW-022,Outside Room B4,42711,1.4,BA
+7220,Carnell ES,7220-00-DW-024,Outside Room B4,42711,0.94,BA
+7220,Carnell ES,7200-00-DW-025,Outside Room B4 - right,42711,1.1,BA
+7220,Carnell ES,7200-00-DW-033,Across from Room 5,42711,7.7,BA
+7220,Carnell ES,7220-00-DW-037,Element 2 - Room 7 - right side,42711,3.4,BA
+7220,Carnell ES,7220-01-DW-041,Across from Room 111 - right,42711,3.5,BA
+7220,Carnell ES,7220-01-DW-046,"Hallway, outside Room 107",42711,2.3,BA
+7220,Carnell ES,7220-01-HS-049,Outside Room 104,42711,0.054,BA
+7220,Carnell ES,7220-01-DW-050,Room 104,42711,4.1,BA
+7220,Carnell ES,7220-01-DW-055,Inside Room 103 - classroom,42711,0.75,BA
+7220,Carnell ES,7220-01-DW-060,Inside Room 101 - kindergarten,42711,2.1,BA
+7220,Carnell ES,7220-02-KC-062,Outside Girl's Room at IMC,42711,5.1,BA
+7220,Carnell ES,7220-02-HS-066,Outside Girl's Room at IMC,42711,0.054,BA
+7220,Carnell ES,7220-02-CF-071,Nurse's Office - across from Room 202,42711,2.6,BA
+7220,Carnell ES,7220-03-DW-077,Element 2 - Hallway at Room 312 - left,42711,5.8,BA
+7220,Carnell ES,7220-03-DW-078,Element 2 - Hallway at Room 312 - right,42711,0.054,BA
+7220,Carnell ES,7220-03-DW-083,Outside Room 307,42711,3.4,BA
+7220,Carnell ES,7220-03-HS-084,Outside Room 304,42711,0.054,BA
+7220,Carnell ES,7220-01-HS-090N,Hallway Outside Multi-Purpose Room - left,42711,0.054,BA
+7220,Carnell ES,7220-01-WC-091N,Hallway Outside Multi-Purpose Room - right,42711,0.054,BA
+7220,Carnell ES,7220-01-KC-092N,Cafeteria Kitchen - left,42711,3.7,BA
+7220,Carnell ES,7220-01-KC-093N,Cafeteria Kitchen - right,42711,1.1,BA
+7220,Carnell ES,7220-01-DW-094N,Room A1 - Special Education,42711,0.52,BA
+7220,Carnell ES,7220-01-DW-095N,Room A2 - Special Education,42711,0.2,BA
+7220,Carnell ES,7220-01-DW-096N,Room A3 - Special Education,42711,0.27,BA
+7220,Carnell ES,7220-01-DW-097N,Room A4 - Special Education,42711,0.28,BA
+7220,Carnell ES,7220-01-DW-098N,Room A5 - Special Education,42711,0.19,BA
+7220,Carnell ES,7220-01-DW-099N,Room A6 - Special Education,42711,0.3,BA
+7220,Carnell ES,7220-01-DW-100N,Room A7 - Special Education,42711,0.18,BA
+7220,Carnell ES,7220-01-DW-101N,Room A8 - Special Education,42711,0.33,BA
+7220,Carnell ES,7220-01-DW-104N,Room A11 - Special Education,42711,0.22,BA
+7220,Carnell ES,7220-01-DW-105N,Room A-12 - Special Education,42711,0.12,BA
+1250,Catharine ES,1250-03-HS-006,Across from Room 303,42711,0.074,BA
+1250,Catharine ES,1250-02-CF-012,Teacher's Lounge,42711,2.1,BA
+1250,Catharine ES,1250-02-HS-015,Across from Room 207,42711,0.074,BA
+1250,Catharine ES,1250-01-WC-018,Room 108,42711,0.24,BA
+1250,Catharine ES,1250-01-WC-020,Room 107,42711,8.5,BA
+1250,Catharine ES,1250-01-BF-026,Nurse's Office,42711,1.7,BA
+1250,Catharine ES,1250-01-HS-028,Outside Counselor's Office,42711,0.054,BA
+1250,Catharine ES,1250-01-DW-032,Across from Room 102,42711,0.54,BA
+1250,Catharine ES,1250-01-WC-035,Room 103,42711,46.4,AA
+1250,Catharine ES,1250-01-WC-038,Room 104,42711,0.28,BA
+1250,Catharine ES,1250-00-CF-047,Cafeteria,42711,1.5,BA
+1250,Catharine ES,1250-00-WC-048,Outside Boy's Room - left,42711,1.1,BA
+1250,Catharine ES,1250-00-WC-049,Outside Boy's Room - right,42711,7.7,BA
+1250,Catharine ES,1250-00-DW-059,Outside Girl's Room,42711,1.2,BA
+2260,Childs ES,2110-00-CF-002,Room 1 - Head Start,42717,3.9,BA
+2260,Childs ES,2110-00-DW-005,Room 013 - Upper Locker Room - grey gym,42717,0.054,BA
+2260,Childs ES,2100-00-WC-007,Outside Room 1,42717,0.054,BA
+2260,Childs ES,2100-00-CF-008,Room 2 - Head Start,42717,0.054,BA
+2260,Childs ES,2110-00-WC-014,Outside Boy's Room in Gymnasium - maroon gym - west side,42717,0.054,BA
+2260,Childs ES,2110-00-WC-016,Outside Room 8,42717,0.054,BA
+2260,Childs ES,2110-01-WC-053,Around the corner from the Boy's Room,42717,0.054,BA
+2260,Childs ES,2110-01-CF-054,Room 119 - Nurse's Office - outside of the bathroom,42717,0.054,BA
+2260,Childs ES,2110-01-CF-055,Room 119 - Nurse's Office - exam room,42717,0.054,BA
+2260,Childs ES,2110-01-WC-056,Outside Room 101,42717,0.054,BA
+2260,Childs ES,2110-02-WC-061,Outside Room 201,42717,0.054,BA
+2260,Childs ES,2110-02-WC-062,Outside Room 224A - around the corner,42717,0.054,BA
+2260,Childs ES,2110-02-HS-065,Outside Room 215,42717,0.054,BA
+2260,Childs ES,2110-03-WC-071,Outside Room 311,42717,0.054,BA
+2260,Childs ES,2110-03-WC-075,Outside Room 315A (Boy's Room),42717,0.054,BA
+2260,Childs ES,2110-03-KC-080,Kitchen Sink,42717,0.054,BA
+2260,Childs ES,2110-03-DW-086,Outside Room 301 and Fire Tower,42717,0.054,BA
+2260,Childs ES,2110-03-CF-087,Room 301A - teacher's lounge,42717,0.054,BA
+2260,Childs ES,2110-04-CF-089,Room 401A - teacher's lounge,42717,0.054,BA
+2260,Childs ES,2110-04-WC-097,Outside Room 407,42717,0.054,BA
+2260,Childs ES,2110-04-WC-100,Outside Room 412 and Fire Tower,42717,0.054,BA
+2260,Childs ES,2110-00-HS-103,Outside Room 4,42717,0.054,BA
+2260,Childs ES,2110-00-DW-104,In maroon gym - upper locker room,42717,0.054,BA
+2260,Childs ES,2110-00-DW-105,In grey gym - lower locker room,42717,0.054,BA
+2260,Childs ES,2110-03-IM-112,Ice maker in kitchen,42717,0.54,BA
+2260,Childs ES,2110-04-WC-115,Outside northwest stairwell and elevator; near Room 404,42717,0.054,BA
+2260,Childs ES,2110-02-CF-135N,Room 222 - Special Education Room,42717,0.054,BA
+2260,Childs ES,2110-01-HS-136N,Outside of Principal's Office,42717,0.054,BA
+2260,Childs ES,2110-03-CF-137N,Room 314 - Special Education Room,42717,0.054,BA
+5490,Cayuga ES,5490-00-DW-002,Gymnasium - Left,42712,0.48,BA
+5490,Cayuga ES,5490-00-DW-003,Gymnasium - Right,42712,0.21,BA
+5490,Cayuga ES,5490-00-DW-006,Café adjacent to Boys Room - Left,42712,0.065,BA
+5490,Cayuga ES,5490-00-DW-007,Café adjacent to Boys Room - Right,42712,0.054,BA
+5490,Cayuga ES,5490-00-KC-012,Cafeteria Kitchen - left,42712,0.96,BA
+5490,Cayuga ES,5490-00-KC-014,Cafeteria Kitchen - right,42712,2.3,BA
+5490,Cayuga ES,5490-01-DW-017,Room 120 - kindergarten,42712,4.5,BA
+5490,Cayuga ES,5490-01-DW-020,Room 119 - kindergarten,42712,7.9,BA
+5490,Cayuga ES,5490-01-DW-023,Room 117 - kindergarten,42712,15.5,AA
+5490,Cayuga ES,5490-01-DW-026,Room 118 - kindergarten,42712,3.3,BA
+5490,Cayuga ES,5490-01-DW-030,Adjacent Elevator - Left,42712,0.2,BA
+5490,Cayuga ES,5490-01-DW-031,Adjacent Elevator - Right,42712,0.11,BA
+5490,Cayuga ES,5490-01-BF-037,Nurse's Suite - Bathroom,42712,1.8,BA
+5490,Cayuga ES,5490-02-DW-038,Adjacent Elevator - Left,42712,0.082,BA
+5490,Cayuga ES,5490-02-DW-039,Adjacent Elevator - Right,42712,0.31,BA
+5490,Cayuga ES,5490-03-DW-046,Adjacent Elevators - Left,42712,0.054,BA
+5490,Cayuga ES,5490-03-DW-047,Adjacent Elevators - Right,42712,0.054,BA
+8370,Comley ES,8370-00-DW-003,In Cafeteria - Left (right has been removed),42713,2.3,BA
+8370,Comley ES,8370-00-KC-006,Kitchen - left,42713,1.6,BA
+8370,Comley ES,8370-00-KC-008,Kitchen - right,42713,1.4,BA
+8370,Comley ES,8370-01-DW-014,Across from Room 102 - Left,42713,3.9,BA
+8370,Comley ES,8370-01-DW-015,Across from 102 - Right,42713,3.9,BA
+8370,Comley ES,8370-01-DW-017,Outside of Room 104 - Left,42713,8.8,BA
+8370,Comley ES,8370-01-DW-018,Outside of Room 104 - Right,42713,5.8,BA
+8370,Comley ES,8370-01-DW-025,Adjacent to Best Lock Entrance,42713,23,AA
+8370,Comley ES,8370-01-DW-028,Adjacent to Room 105 -Left,42713,3.5,BA
+8370,Comley ES,8370-01-DW-029,Adjacent to Room 105 - Right,42713,2.8,BA
+8370,Comley ES,8370-01-DW-036,Outside  Room 108 - Left,42713,7.2,BA
+8370,Comley ES,8370-01-DW-039,Outside Room 108 - Right,42713,3.4,BA
+8370,Comley ES,8370-02-DW-044,Adjacent to Room 206,42713,2.8,BA
+8370,Comley ES,8370-02-DW-053,Outside Room 210 - Left,42713,5.2,BA
+8370,Comley ES,8370-02-DW-054,Outside Room 210 - Right,42713,3.5,BA
+8370,Comley ES,8370-02-DW-057,Room 211 - special needs classroom,42713,19.7,AA
+8370,Comley ES,8370-02-DW-058,Room 212,42713,6.2,BA
+8370,Comley ES,8370-02-DW-061,Room 213,42713,7.7,BA
+8370,Comley ES,8370-02-DW-063,Room 216,42713,733,AA
+8370,Comley ES,8370-02-DW-065,Room 215,42713,11.1,AA
+8370,Comley ES,8370-02-HS-071,Across from Room 214,42713,0.074,BA
+8370,Comley ES,8370-01-CF-077,Nurse's Office,42713,4.1,BA
+8370,Comley ES,8370-01-HS-079,Front Lobby,42713,0.074,BA
+8370,Comley ES,8370-01-WC-087,Gym,42713,1.7,BA
+8370,Comley ES,8370-02-HS-090,Across from Room 202,42713,0.074,BA
+1260,Comegys ES,1260-03-DW-009,Outside Room 301,42713,2.5,BA
+1260,Comegys ES,1260-03-HS-014,Outside Room 302,42713,0.074,BA
+1260,Comegys ES,1260-02-DW-018,Outside Room 208,42713,1.1,BA
+1260,Comegys ES,1260-02-DW-019,Outside Room 209,42713,1.5,BA
+1260,Comegys ES,1260-01-HS-029,Between Auditorium and Stairway 2,42713,0.074,BA
+1260,Comegys ES,1260-01-CF-035,Nurse's Office,42713,1.2,BA
+1260,Comegys ES,1260-01-DW-038,Gymnasium - nearest kitchen,42713,118,AA
+1260,Comegys ES,1260-01-DW-039,Gymnasium - opposite wall from kitchen,42713,1.1,BA
+1260,Comegys ES,1260-02-HS-047,Outside Room 206,42713,0.054,BA
+1260,Comegys ES,1260-02-DW-048,Outside Room 201,42713,1.5,BA
+1260,Comegys ES,1260-01-DW-050,Across from Room 104,42713,0.96,BA
+1260,Comegys ES,1260-01-DW-051,Across from Room 106,42713,1,BA
+1260,Comegys ES,1260-00-DW-054,Outside Art Room - left,42713,2.1,BA
+1260,Comegys ES,1260-00-DW-055,Outside Art Room - center,42713,2.2,BA
+1260,Comegys ES,1260-00-DW-066,Kindergarten Room K-1,42713,2.5,BA
+1260,Comegys ES,1260-00-DW-067,Kindergarten Room K-2,42713,3.3,BA
+1260,Comegys ES,1260-00-DW-072,Across from Boy's Room - left outlet group - furthest right,42713,275,AA
+1260,Comegys ES,1260-00-DW-073,Across from Boy's Room - right outlet group - furthest left,42713,6.3,BA
+1260,Comegys ES,1260-00-DW-074,Across from Boy's Room - right outlet group - 2nd from left,42713,12.3,AA
+1260,Comegys ES,1260-02-WC-087,Inside Teacher's Lounge,42713,0.19,BA
+6410,Cooke Wissahickon,6410-00-WC-004,Outside boy's room; across from Boiler Room,42717,1.1,BA
+6410,Cooke Wissahickon,6410-00-KC-007,Kitchen Cold - Left,42717,2.9,BA
+6410,Cooke Wissahickon,6410-00-KC-008,Kitchen Cold - Right,42717,1.5,BA
+6410,Cooke Wissahickon,6410-00-CF-009,Staff Lounge Kitchenette,42717,1.8,BA
+6410,Cooke Wissahickon,6410-00-WC-010,Staff Lounge,42717,89.1,AA
+6410,Cooke Wissahickon,6410-00-HS-011,Outside Staff dining room,42717,0.054,BA
+6410,Cooke Wissahickon,6410-00-DW-030,In gymnasium - next to spittoon,42717,0.26,BA
+6410,Cooke Wissahickon,6410-00-HS-031,Outside Rom 3,42717,0.054,BA
+6410,Cooke Wissahickon,6410-00-DW-034,Room 3,42717,3.9,BA
+6410,Cooke Wissahickon,6410-00-DW-037,Room 2,42717,3.2,BA
+6410,Cooke Wissahickon,6410-00-DW-041,Room K-1,42717,2.6,BA
+6410,Cooke Wissahickon,6410-00-WC-043,Outside Room K-1,42717,8,BA
+6410,Cooke Wissahickon,6410-01-CF-044,Nurse's Office,42717,3.6,BA
+6410,Cooke Wissahickon,6410-01-WC-047,Across from Room 101,42717,2.1,BA
+6410,Cooke Wissahickon,6410-01-HS-049,Across from Room 103,42717,0.054,BA
+6410,Cooke Wissahickon,6410-01-WC-059,Outside Room 106,42717,0.97,BA
+6410,Cooke Wissahickon,6410-01-CF-060,Room 108 - Special Needs,42717,39.8,AA
+6410,Cooke Wissahickon,6410-01-HS-063,Outside Room 110,42717,0.054,BA
+6410,Cooke Wissahickon,6410-02-WC-075,Room 200A; Outside Women's Room,42717,2.8,BA
+6410,Cooke Wissahickon,6410-02-HS-079,Outside Room 204; Women's Room,42717,0.33,BA
+6410,Cooke Wissahickon,6410-02-WC-090,Outside Room 206,42717,0.96,BA
+6410,Cooke Wissahickon,6410-02-KC-095,Room 212 - Special Needs,42717,2.3,BA
+6410,Cooke Wissahickon,6410-02-HS-097,Outside Room 212,42717,0.054,BA
+7100,Cooke ES,7100-01-DW-002,Outside Room 106 - Family Health Center,42717,1.7,BA
+7100,Cooke ES,7100-01-WC-003,Room 104 - Kindergarten,42717,0.22,BA
+7100,Cooke ES,7100-01-HS-004,Outside Room 103,42717,0.054,BA
+7100,Cooke ES,7100-01-WC-005,Room 103,42717,0.21,BA
+7100,Cooke ES,7100-01-DW-006,Outside Boys Cafeteria - Left,42717,1.3,BA
+7100,Cooke ES,7100-01-DW-007,Outside Boys Cafeteria,42717,0.63,BA
+7100,Cooke ES,7100-01-DW-008,Outside Boys Cafeteria,42717,1.6,BA
+7100,Cooke ES,7100-01-DW-009,Outside Boys Cafeteria,42717,2.2,BA
+7100,Cooke ES,7100-01-DW-010,Outside Boys Cafeteria,42717,2.1,BA
+7100,Cooke ES,7100-01-DW-011,Outside Boys Cafeteria - Right,42717,2.1,BA
+7100,Cooke ES,7100-01-KC-013,Kitchen - Faucet Associated with Sprayer,42717,0.84,BA
+7100,Cooke ES,7100-02-DW-026,Outside 216,42717,1,BA
+7100,Cooke ES,7100-02-DW-027,Outside 211,42717,1.8,BA
+7100,Cooke ES,7100-02-WC -028,Teachers Lounge - across from Room 209,42717,8.3,BA
+7100,Cooke ES,7100-02-DW-029,Outside Room 204 (IMC),42717,1.2,BA
+7100,Cooke ES,7100-02-HS-030,Outside Nurse's Office/Counsellor,42717,0.054,BA
+7100,Cooke ES,7100-03-DW-031,Outside Room 321,42717,2.1,BA
+7100,Cooke ES,7100-03-DW-032,Outside Room 316,42717,1.7,BA
+7100,Cooke ES,7100-03-DW-033,Outside Room 310,42717,2.7,BA
+7100,Cooke ES,7100-03-HS-034,Outside Room 305,42717,0.054,BA
+7100,Cooke ES,7100-01-KC-054,Between Rooms 103 & 104 - Childcare,42717,2.7,BA
+7100,Cooke ES,7100-02-CF-064,Nurse's Office,42717,2,BA
+7100,Cooke ES,7100-01-DW-085,Hallway outside of girls cafeteria,42717,1.9,BA
+8230,Crosson ES,8230-00-DW-005,Outside of Girls Room - Left,42718,2.5,BA
+8230,Crosson ES,8230-00-DW-006,Outside of Girls Room - Right,42718,3.3,BA
+8230,Crosson ES,8230-00-DW-009,Outside of Boys Room - Left,42718,12,AA
+8230,Crosson ES,8230-00-DW-010,Outside of Boys Room - Right,42718,1.4,BA
+8230,Crosson ES,8230-01-DW-011,In Portable - pre-kindergarten,42718,9,BA
+8230,Crosson ES,8230-01-WC-014,Outside of Room 6,42718,0.28,BA
+8230,Crosson ES,8230-01-WC-020,Outside of Room 3,42718,0.19,BA
+8230,Crosson ES,8230-01-CF-022,Nurse's Office,42718,1.8,BA
+8230,Crosson ES,8230-01-WC-024,Room 1 - kindergarten,42718,1.7,BA
+8230,Crosson ES,8230-02-WC-026,Outside of Room 9,42718,0.62,BA
+8230,Crosson ES,8230-02-WC-031,Outside of Room 13,42718,0.65,BA
+6200,Day ES,6200-01-DW-021,Outside Room 104,42718,2.5,BA
+6200,Day ES,6200-01-CF-030,Nurse's Office,42718,200%,BA
+6200,Day ES,6200-01-HS-034,"In the hallway, outside of nurse's office",42718,0.054,BA
+6200,Day ES,6200-01-HS-035,"In the hallway, next to auditorium - right",42718,0.062,BA
+6200,Day ES,6200-01-KC-037,Kitchen,42718,2.4,BA
+6200,Day ES,6200-01-DW-038,Within the gymnasium,42718,3.6,BA
+6200,Day ES,6200-01-HS-057N,Outside girl's bathroom and teachers lounge - left,42718,0.054,BA
+6200,Day ES,6200-01-WC-058N,Outside girl's bathroom and teachers lounge - right,42718,0.063,BA
+6200,Day ES,6200-01-DW-059N,Room 9,42718,0.25,BA
+6200,Day ES,6200-01-DW-061N,Room 11,42718,0.26,BA
+6200,Day ES,6200-01-DW-062N,Room 12,42718,0.12,BA
+6200,Day ES,6200-01-DW-063N,Room 8,42718,0.15,BA
+6200,Day ES,6200-01-DW-064N,Room 7,42718,0.27,BA
+6200,Day ES,6200-01-DW-068N,Room 3 - kindergarten,42718,0.23,BA
+6200,Day ES,6200-01-DW-069N,Room 2 - head start,42718,0.13,BA
+6200,Day ES,6200-01-KC-070N,kitchen - left,42718,2.6,BA
+6200,Day ES,6200-01-KC-071N,Kitchen - right,42718,3.5,BA
+6200,Day ES,6200-01-DW-072N,Teacher's Lounge,42718,0.22,BA
+6200,Day ES,6200-01-CF-073N,Room 1 - head start,42718,0.11,BA
+4270,Dick ES,4270-00-KC-002,Kitchen Cold,42719,1.3,BA
+4270,Dick ES,4270-01-DW-005,Main Lobby - right,42719,3.9,BA
+4270,Dick ES,4270-01-HS-016,Across from Room 109 - left,42719,0.064,BA
+4270,Dick ES,4270-01-DW-025,Inside of gymnasium,42719,2.9,BA
+4270,Dick ES,4270-01-CF-027,Nurse's Office,42719,1.7,BA
+4270,Dick ES,4270-01-DW-031,Room 102,42719,2.2,BA
+4270,Dick ES,4270-01-DW-036,Room 101,42719,2.3,BA
+4270,Dick ES,4270-02-HS-054,Outside Room 209 - left,42719,0.054,BA
+4270,Dick ES,4270-03-HS-069,Outside boy's & girl's bathroom - across from Room 309 - rt,42719,0.054,BA
+4270,Dick ES,4270-03-DW-080,Outside of Room 301,42719,3.9,BA
+4270,Dick ES,4270-02-DW-094,Outside Room 201,42719,2.2,BA
+5170,deBurgos ES,5170-01-DW-001,Hallway at Room 102- Left,42719,0.16,BA
+5170,deBurgos ES,5170-01-DW-002,Hallway at Room 102,42719,0.22,BA
+5170,deBurgos ES,5170-01-DW-003,Hallway at Room 102,42719,0.18,BA
+5170,deBurgos ES,5170-01-DW-004,Hallway at Room 102-Right,42719,0.12,BA
+5170,deBurgos ES,5170-02-DW-007,Across from Room 213-Left,42719,0.28,BA
+5170,deBurgos ES,5170-02-DW-008,Across from Room 213-Right,42719,0.23,BA
+5170,deBurgos ES,5170-03-DW-009,Across from Room 312-Left,42719,0.32,BA
+5170,deBurgos ES,5170-03-DW-010,Across from Room 312-Right,42719,0.35,BA
+5170,deBurgos ES,5170-01-KC-011,Room 102 Teacher's Lounge,42719,0.32,BA
+5170,deBurgos ES,5170-01-IM-012,Cafeteria Kitchen Ice Machine,42719,0.054,BA
+5170,deBurgos ES,5170-01-KC-013,Cafeteria Kitchen at Entrance-Left,42719,6.3,BA
+5170,deBurgos ES,5170-01-KC-014,Cafeteria Kitchen at Entrance-Center Pot Fill,42719,0.76,BA
+5170,deBurgos ES,5170-01-KC-015,Cafeteria Kitchen at Entrance-Right,42719,0.76,BA
+5170,deBurgos ES,5170-01-KC-016,Cafeteria Kitchen-Far Wall,42719,0.36,BA
+5170,deBurgos ES,5170-01-CF-017,Room 151C-Nurse's Exam Room,42719,0.3,BA
+5170,deBurgos ES,5170-01-CF-018,Room120-Kindergarten,42719,0.26,BA
+5170,deBurgos ES,5170-01-CF-019,Room 121-Kindergarten,42719,0.71,BA
+5170,deBurgos ES,5170-01-CF-020,Room 123-Autistic Support,42719,0.42,BA
+5170,deBurgos ES,5170-01-CF-021,Room 125-Kindergarten,42719,1.7,BA
+5170,deBurgos ES,5170-01-CF-022,Room 129-Special Ed Life Skills,42719,0.33,BA
+5170,deBurgos ES,5170-01-CF-023,Room 130-Special Ed Life Skills,42719,0.89,BA
+5170,deBurgos ES,5170-01-CF-024,Room 132-Autistic Support,42719,0.64,BA
+5170,deBurgos ES,5170-01-CF-025,Room 133-Autistic Support,42719,1.7,BA
+5170,deBurgos ES,5170-01-CF-026,Room 135-Kindergarten,42719,0.38,BA
+5170,deBurgos ES,5170-01-CF-027,Room 136-Kindergarten,42719,0.3,BA
+6210,Edmonds ES,6210-00-HS-003,Outside boiler room - left,42720,0.054,BA
+6210,Edmonds ES,6210-00-DW-016,Inside Cafeteria - on column - close to kitchen,42720,3.2,BA
+6210,Edmonds ES,6210-01-DW-018,Outside Room 115A - left,42720,2,BA
+6210,Edmonds ES,6210-01-CF-027,Nurse's Office,42720,3,BA
+6210,Edmonds ES,6210-01-HS-037,Outside Men's Room - left,42720,0.054,BA
+6210,Edmonds ES,6210-01-DW-054,Across from Room 103 - left,42720,2.5,BA
+6210,Edmonds ES,6210-01-DW-055,Across from Room 103 - right,42720,0.93,BA
+6210,Edmonds ES,6210-02-DW-072,"Section B; in hallway, outside bathrooms and Room 205 - left",42720,1.4,BA
+6210,Edmonds ES,6210-02-DW-073,"Section B; in hallway, outside bathrooms and Room 205 - right",42720,0.54,BA
+6210,Edmonds ES,6210-02-HS-087,Outside Room 212 - left,42720,0.054,BA
+6210,Edmonds ES,6210-02-DW-098,Outside Room 217A,42720,6.9,BA
+6210,Edmonds ES,6210-00-WC-108N,Outside Room 126 - left,42720,0.054,BA
+4460,Duckrey ES,4460-00-HS-002,"In hallway, outside creative arts room; across from Room 029",42720,0.054,BA
+4460,Duckrey ES,4460-01-DW-010,Room 119,42720,0.8,BA
+4460,Duckrey ES,4460-01-DW-014,Room 111,42720,1,BA
+4460,Duckrey ES,4460-01-KC-016,Kitchen - on wall - left,42720,0.15,BA
+4460,Duckrey ES,4460-01-KC-018,Kitchen - on wall - right,42720,0.15,BA
+4460,Duckrey ES,4460-01-KC-020,Kitchen rinse sink,42720,0.089,BA
+4460,Duckrey ES,4460-01-KC-022,Kitchen island sink,42720,0.074,BA
+4460,Duckrey ES,4460-01-HS-024,Outside of Kitchen,42720,0.054,BA
+4460,Duckrey ES,4460-01-CF-028,Nurse's Office,42720,1.4,BA
+4460,Duckrey ES,4460-01-DW-035,Inside Gymnasium,42720,0.53,BA
+4460,Duckrey ES,4460-01-WC-045,"In hallway, outside of Gymnasium",42720,0.1,BA
+4460,Duckrey ES,4460-01-DW-049,Room 120,42720,1.2,BA
+4460,Duckrey ES,4460-01-DW-053,Room 124,42720,1.3,BA
+4460,Duckrey ES,4460-01-DW-056,Room 126,42720,1.7,BA
+4460,Duckrey ES,4460-01-DW-058,Room 130,42720,1.6,BA
+4460,Duckrey ES,4460-01-DW-062,Room 128,42720,0.89,BA
+4460,Duckrey ES,4460-02-DW-066,Room 222,42720,19.6,AA
+4460,Duckrey ES,4460-02-DW-075,Room 212,42720,6.1,BA
+4460,Duckrey ES,4460-02-WC-081,Outside of IMC - across from Room 204,42720,5.2,BA
+4460,Duckrey ES,4460-02-HS-095,Outside Room 201,42720,0.054,BA
+4460,Duckrey ES,4460-02-DW-099,Room 207,42720,3.4,BA
+4460,Duckrey ES,4460-02-DW-100,Room 209,42720,2.5,BA
+4460,Duckrey ES,4460-02-DW-102,Room 211,42720,1.7,BA
+4460,Duckrey ES,4460-02-DW-107,Room 215,42720,17.2,AA
+4460,Duckrey ES,4460-02-DW-110,Room 223,42720,9.9,BA
+5260,Elkin ES & LSH,5260-01-HS-004,Outside of the Lunch Room,42724,0.054,BA
+5260,Elkin ES & LSH,5260-01-DW-007,Room B02,42724,2.8,BA
+5260,Elkin ES & LSH,5260-01-DW-008,Outside Room B01,42724,2.7,BA
+5260,Elkin ES & LSH,5260-01-DW-013,Lunch Room,42724,0.24,BA
+5260,Elkin ES & LSH,5260-01-KC-024,Kitchen - left,42724,2.5,BA
+5260,Elkin ES & LSH,5260-01-KC-025,Kitchen - right,42724,1.4,BA
+5260,Elkin ES & LSH,5260-01-WC-026,Teachers Lounge,42724,10.2,AA
+5260,Elkin ES & LSH,5260-01-DW-030,Gymnasium,42724,0.76,BA
+5260,Elkin ES & LSH,5260-02-DW-037,Security Office,42724,15.2,AA
+5260,Elkin ES & LSH,5260-02-HS-045,Outside of Room 111,42724,0.054,BA
+5260,Elkin ES & LSH,5260-02-DW-049,Room 114,42724,6.3,BA
+5260,Elkin ES & LSH,5260-02-DW-054,Room 109,42724,5,BA
+5260,Elkin ES & LSH,5260-02-DW-058,Room 110,42724,3.3,BA
+5260,Elkin ES & LSH,5260-02-WC-059,Outside Room 107,42724,0.37,BA
+5260,Elkin ES & LSH,5260-02-DW-064,Room 108,42724,5.4,BA
+5260,Elkin ES & LSH,5260-02-CF-078,Nurse's Office,42724,1.8,BA
+5260,Elkin ES & LSH,5260-03-HS-092,Outside Room 213,42724,0.054,BA
+5260,Elkin ES & LSH,5260-03-DW-103,Outside Room 209,42724,1.1,BA
+5260,Elkin ES & LSH,5260-03-DW-104,Room 209,42724,3,BA
+5260,Elkin ES & LSH,5260-03-DW-108,Room 207,42724,5.2,BA
+5260,Elkin ES & LSH,5260-03-DW-113,Room 205,42724,13.5,AA
+5260,Elkin ES & LSH,5260-02-DW-126,Room 115,42724,56.2,AA
+5260,Elkin ES & LSH,5260-02-DW-129,Room 105,42724,10.4,AA
+5260,Elkin ES & LSH,5260-02-DW-130,Room 104,42724,4.7,BA
+5260,Elkin ES & LSH,5260-02-DW-131,Room 103,42724,16.4,AA
+5260,Elkin ES & LSH,5260-02-DW-132,Room 102,42724,5.7,BA
+5260,Elkin ES & LSH,5260-01-HS-137N,Across from Multi-Purpose Room - left,42724,0.054,BA
+5260,Elkin ES & LSH,5260-01-WC-138N,Across from Multi-Purpose Room - right,42724,0.07,BA
+5260,Elkin ES & LSH,5260-01-DW-139N,Little School House - Classroom 1,42724,2.6,BA
+5260,Elkin ES & LSH,5260-01-DW-140N,Little School House - Classroom 2,42724,0.45,BA
+5260,Elkin ES & LSH,5260-01-DW-141N,Little School House - Classroom 3,42724,0.68,BA
+5260,Elkin ES & LSH,5260-01-DW-142N,Little School House - Classroom 4,42724,8.8,BA
+5260,Elkin ES & LSH,5260-01-DW-143N,Little School House - Classroom 5,42724,0.25,BA
+5260,Elkin ES & LSH,5260-01-DW-144N,Little School House - Classroom 6,42724,0.38,BA
+5260,Elkin ES & LSH,5260-01-DW-145N,Little School House - Classroom 7,42724,36.3,AA
+5260,Elkin ES & LSH,5260-01-DW-146N,Little School House - Classroom 8,42724,0.41,BA
+5260,Elkin ES & LSH,5260-01-KC-147N,Little School House - Kitchen - left,42724,1.2,BA
+5260,Elkin ES & LSH,5260-01-KC-148N,Little School House - Kitchen - right,42724,1.2,BA
+6220,Emlen ES,6220-00-DW-007,Outside Boy's Room - center,42724,2.6,BA
+6220,Emlen ES,6220-00-DW-008,Outside Boy's Room - right,42724,2.2,BA
+6220,Emlen ES,6220-01-HS-014,Outside Food Services (Portable),42724,0.074,BA
+6220,Emlen ES,6220-00-DW-026,Outside Girl's Room - immediately left of 027,42724,5.2,BA
+6220,Emlen ES,6220-00-DW-027,Outside Girl's Room - immediately left of 028,42724,2,BA
+6220,Emlen ES,6220-00-DW-028,Outside Girl's Room - furthest right,42724,2.4,BA
+6220,Emlen ES,6220-01-WC-032,Room 107 - classroom,42724,1.9,BA
+6220,Emlen ES,6220-01-HS-034,Outside Room 105 - daycare rooom,42724,0.074,BA
+6220,Emlen ES,6220-01-KC-035,Room 106,42724,1.2,BA
+6220,Emlen ES,6220-01-WC-039,Inside of Main Office,42724,1.3,BA
+6220,Emlen ES,6220-01-WC-041,Room 109 - Kindergarten,42724,1.2,BA
+6220,Emlen ES,6220-01-CF-043,Nurse's Office,42724,6.6,BA
+6220,Emlen ES,6220-01-CF-044,Nurse's Exam Room,42724,3.1,BA
+6220,Emlen ES,6220-01-WC-045,Outside Nurse's Office; near daycare room,42724,0.43,BA
+6220,Emlen ES,6220-01-CF-049,Room 101 - Head Start,42724,5.8,BA
+6220,Emlen ES,6220-02-WC-057,Outside Room 204,42724,0.4,BA
+6220,Emlen ES,6220-02-CF-059,Teacher's Lounge - between Rooms 204 & 205,42724,3.6,BA
+6220,Emlen ES,6220-02-HS-060,Outside Room 206,42724,0.054,BA
+6220,Emlen ES,6220-03-HS-065,Outside Room 306,42724,0.054,BA
+6220,Emlen ES,6220-03-WC-068,Outside Room 304,42724,0.6,BA
+6220,Emlen ES,6220-01-CF-076N,Room 103 - Head Start,42724,0.57,BA
+6220,Emlen ES,6220-01-KC-077N,Room 102,42724,1.2,BA
+6450,Dobsen ES,6450-00-KC-012,Kitchen/Lunch Room,42725,3,
+6450,Dobsen ES,6450-01-HS-027,Outside Room 101,42725,0.054,
+6450,Dobsen ES,6450-01-CF-028,Nurse's Office,42725,0.75,
+6450,Dobsen ES,6450-01-KC-033,Room 106 - special needs,42725,1,
+6450,Dobsen ES,6450-01-WC-037,Outside Room 108,42725,0.34,
+6450,Dobsen ES,6450-02-WC-039,Outside Room 209,42725,0.62,
+6450,Dobsen ES,6450-02-HS-042,Outside Room 202,42725,0.054,
+6450,Dobsen ES,6450-03-HS-043,Outside Room 302,42725,0.054,
+6450,Dobsen ES,6450-03-KC-047,Teacher's Lounge,42725,1.2,
+6450,Dobsen ES,6450-03-WC-049,Outside Room 308,42725,0.18,
+6450,Dobsen ES,6450-00-DW-058,Outside Building Engineer's Office - right,42725,1.7,
+6450,Dobsen ES,6450-00-DW-060,Outside Basement boy's room - right,42725,1.1,
+6450,Dobsen ES,6450-00-DW-057,Outside Building Engineer's Office - left,42725,1.8,
+6450,Dobsen ES,6450-00-DW-059,Outside Basement boy's room - left,42725,0.76,
+8380,Farrell ES,8380-01-KC-003,Room 113 - Special Education,42725,0.99,
+8380,Farrell ES,8380-01-KC-009,Kitchen - Backwall - Left,42725,4.6,
+8380,Farrell ES,8380-01-KC-011,Kitchen - Backwall - Right,42725,1.9,
+8380,Farrell ES,8380-01-DW-013,In Gymnasium,42725,0.25,
+8380,Farrell ES,8380-01-DW-016,Outside of the Main Office - left,42725,1,
+8380,Farrell ES,8380-01-DW-017,Outside of the Main Office - right,42725,0.92,
+8380,Farrell ES,8380-01-BF-021,Nurse's Bathroom,42725,0.92,
+8380,Farrell ES,8380-01-DW-029,Outside Girl's Room; Across from Room 105,42725,1.1,
+8380,Farrell ES,8380-01-DW-038,Room 100 - Kindergarten,42725,1.4,
+8380,Farrell ES,8380-01-DW-041,Room 101 - Kindergarten,42725,2.1,
+8380,Farrell ES,8380-01-WC-044,Room A2,42725,92.4,
+8380,Farrell ES,8380-01-WC-046,Inside of IMC,42725,0.17,
+8380,Farrell ES,8380-01-WC-049,Room A4 - Learning Support,42725,17,
+8380,Farrell ES,8380-01-WC-051,Room A6,42725,2.4,
+8380,Farrell ES,8380-01-WC-053,Room A3,42725,1.4,
+8380,Farrell ES,8380-02-DW-057,Across from Room 205,42725,2.5,
+8380,Farrell ES,8380-02-DW-063,Outside Room 209 - left side (see outlet 076),42725,0.94,
+8380,Farrell ES,8380-03-DW-066,Outside Room 309 - left (see outlet 077),42725,0.62,
+8380,Farrell ES,8380-03-DW-072,Outside Room 305,42725,0.83,
+8380,Farrell ES,8380-02-DW-076,Outside Room 209 - right side (see outlet 063),42725,0.86,
+8380,Farrell ES,8380-03-DW-077,Outside Room 309 - right  (see outlet 066),42725,0.56,
+8380,Farrell ES,8380-01-CF-078,Room 110 - Teacher's Lounge,42725,1.1,
+8380,Farrell ES,8380-01-DW-086,Inside of Lunchroom,42725,2.1,
+8380,Farrell ES,8380-01-KC-090N,Room 112 - Special Education,42725,1.5,
+2190,Fell ES,2190-00-KC-012,Lunchroom kitchennette,42726,0.65,BA
+2190,Fell ES,2190-01-DW-020,Room 107 - kindergarten,42726,5.3,BA
+2190,Fell ES,2190-01-DW-022,Outside Room 107,42726,3.9,BA
+2190,Fell ES,2190-01-DW-027,Outside Girl's Room,42726,2.5,BA
+2190,Fell ES,2190-02-DW-034,Outside Girl's Room,42726,2.1,BA
+2190,Fell ES,2190-02-DW-039,Outside Room 207,42726,2.6,BA
+2190,Fell ES,2190-02-BF-040,Nurse's Office bathroom,42726,3.5,BA
+2190,Fell ES,2190-03-DW-042,Outside Room 302,42726,2.6,BA
+2190,Fell ES,2190-01-DW-046,Room 100 - kindergarten,42726,2.1,BA
+2190,Fell ES,2190-00-DW-058,Outside Girl's Room - Left,42726,0.7,BA
+2190,Fell ES,2190-00-DW-059,Outside Girl's Room - Right,42726,1.1,BA
+2190,Fell ES,2190-00-DW-060,Outside Boy's Room - Left,42726,0.36,BA
+2190,Fell ES,2190-00-DW-061,Outside Boy's Room - Right,42726,0.68,BA
+4370,Overbrook ES,4370-00-HS-005,Outside boy's room,42726,0.054,BA
+4370,Overbrook ES,4370-00-WC-007,Outside girl's room,42726,0.7,BA
+4370,Overbrook ES,4370-00-KC-011,In Cafeteria,42726,3.6,BA
+4370,Overbrook ES,4370-01-WC-014,Outside main office,42726,0.5,BA
+4370,Overbrook ES,4370-01-HS-018,Outside Room 006,42726,0.054,BA
+4370,Overbrook ES,4370-02-HS-026,Outside Teachers Room - Room 20C,42726,0.054,BA
+4370,Overbrook ES,4370-02-BF-028,Nurse's Office - mezzanine level on stairwell,42726,3.7,BA
+6230,Fitler ES,6230-00-WC-001,Outside Boy's Room,42727,9.9,BA
+6230,Fitler ES,6230-01-HS-003,Across from the Main Office,42727,0.054,BA
+6230,Fitler ES,6230-01-WC-004,Across from Room 104 (Library),42727,0.13,BA
+6230,Fitler ES,6230-01-WC-005,In Room 105,42727,0.58,BA
+6230,Fitler ES,6230-02-HS-008,Across from Rooms 204 and 205,42727,0.15,BA
+6230,Fitler ES,6230-02-KC-009,Teacher's Lounge,42727,1.6,BA
+6230,Fitler ES,6230-02-WC-010,Across from Room 201,42727,0.99,BA
+6230,Fitler ES,6230-03-WC-011,Across from Room 301,42727,0.85,BA
+7270,Finletter,7270-00-KC-013,Cafeteria Kitchen,42727,0.35,BA
+7270,Finletter,7270-01-DW-032,Outside Boy's Room,42727,1.8,BA
+7270,Finletter,7270-01-HS-035,Outside Room 104,42727,0.054,BA
+7270,Finletter,7270-01-CF-038,Room 102 - Special Education,42727,2.2,BA
+7270,Finletter,7270-01-DW-042,Room 101,42727,3.7,BA
+7270,Finletter,7270-02-CF-044,Nurse's Office,42727,3.6,BA
+7270,Finletter,7270-02-HS-048,Outside Room 204,42727,0.054,BA
+7270,Finletter,7270-02-WC-049,Outside Room 207,42727,0.76,BA
+7270,Finletter,7270-02-CF-052,Room 210 - Special Education,42727,6.6,BA
+7270,Finletter,7270-03-HS-055,Outside Room 307,42727,0.074,BA
+7270,Finletter,7270-01-WC-060,Portable,42727,30.4,AA
+7270,Finletter,7270-00-WC-062,"In the hallway, outside of the Girl's Room - right",42727,0.13,BA
+7270,Finletter,7270-00-WC-063,"In the hallway, outside of the Girl's Room - left",42727,0.27,BA
+7270,Finletter,7270-00-WC-064,"In the hallway, outside of the Boy's Room - right",42727,0.39,BA
+7270,Finletter,7270-00-WC-065,"In the hallway, outside of the Boy's Room - left",42727,0.47,BA
+7270,Finletter,7270-01-DW-068N,Room K-2; Kindergarten,42727,0.23,BA
+7270,Finletter,7270-01-DW-069N,Room K-3; Kindergarten,42727,2.9,BA
+7270,Finletter,7270-01-DW-070N,Room K-4; Kindergarten,42727,0.19,BA
+7270,Finletter,7270-01-WC-071N,Outside Multi-Purpose Room - left,42727,0.099,BA
+7270,Finletter,7270-01-HS-072N,Outside Multi-Purpose Room - right,42727,0.074,BA
+7270,Finletter,7270-01-KC-073N,Multi-Purpose Room Kitchen- left,42727,1.5,BA
+7270,Finletter,7270-01-KC-074N,Multi-Purpose Room Kitchen- right,42727,10.8,AA
+7270,Finletter,7270-01-DW-075N,Room A-5; 1st Grade,42727,0.13,BA
+7270,Finletter,7270-01-DW-076N,Room A-6; 1st Grade,42727,0.18,BA
+7270,Finletter,7270-01-DW-077N,Room A-7; 1st Grade,42727,0.33,BA
+7270,Finletter,7270-01-DW-078N,Room A-8; 1st Grade,42727,0.28,BA
+7270,Finletter,7270-01-DW-079N,Room A-9; 2nd Grade,42727,0.13,BA
+7270,Finletter,7270-01-DW-080N,Room A-10; Second Grade,42727,0.13,BA
+7270,Finletter,7270-01-DW-081N,Room A-11; Second Grade,42727,0.18,BA
+7270,Finletter,7270-01-DW-082N,Room A-12; Second Grade,42727,0.2,BA
+8390,Fitzpatrick,8390-00-WC-006,Kindergarten Room B1,42745,1.8,BA
+8390,Fitzpatrick,8390-00-DW-007,Kindergarten Room B2,42745,8.1,BA
+8390,Fitzpatrick,8390-00-WC-011,Across from Room B6,42745,3.4,BA
+8390,Fitzpatrick,8390-00-WC-015,Inside of Cafeteria - Right,42745,1.3,BA
+8390,Fitzpatrick,8390-00-KC-019,Kitchen - left,42745,1.7,BA
+8390,Fitzpatrick,8390-00-KC-021,Kitchen - right,42745,1.1,BA
+8390,Fitzpatrick,8390-00-DW-032,Far side of Gymnasium - Left,42745,1.5,BA
+8390,Fitzpatrick,8390-00-DW-033,Far side of Gymnasium - Right,42745,1.3,BA
+8390,Fitzpatrick,8390-01-WC-037,Across from Room 106,42745,0.73,BA
+8390,Fitzpatrick,8390-01-DW-039,Outside of the Auditorium,42745,0.89,BA
+8390,Fitzpatrick,8390-01-CF-046,Nurse's Office,42745,1.1,BA
+8390,Fitzpatrick,8390-01-CF-047,Room 109 - Special Needs,42745,0.5,BA
+8390,Fitzpatrick,8390-02-DW-053,Across from Room 212,42745,1.3,BA
+8390,Fitzpatrick,8390-03-DW-064,Across from Room 312,42745,1.9,BA
+8390,Fitzpatrick,8390-03-DW-067,Across from Room 304,42745,0.99,BA
+8390,Fitzpatrick,8390-01-WC-072,Education Office,42745,0.4,BA
+8390,Fitzpatrick,8390-01-WC-078,Main Office,42745,1.5,BA
+8390,Fitzpatrick,8390-01-WC-081,Conference Room,42745,0.19,BA
+8390,Fitzpatrick,8390-01-WC-085,Room 9 - kindergarten,42745,0.53,BA
+8390,Fitzpatrick,8390-01-WC-087,Room 10 - kindergarten,42745,4.3,BA
+8390,Fitzpatrick,8390-01-WC-090,Room 11 - kindergarten,42745,0.35,BA
+8390,Fitzpatrick,8390-01-WC-093,Room 12 - kindergarten,42745,1.6,BA
+8250,Forrest ES,8250-00-WC-001,Outside girl's room - left,42745,1.5,BA
+8250,Forrest ES,8250-00-WC-002,Outside girl's room - right,42745,0.36,BA
+8250,Forrest ES,8250-00-DW-003,Inside Room B-1,42745,3.1,BA
+8250,Forrest ES,8250-00-WC-008,Outside Boy's Room; Across from B-3,42745,1.1,BA
+8250,Forrest ES,8250-01-WC-009,Between Boy's Room and Room 107,42745,3,BA
+8250,Forrest ES,8250-01-HS-010,Between Girl's Room and Room 104,42745,0.054,BA
+8250,Forrest ES,8250-01-WC-011,Room 103,42745,2.2,BA
+8250,Forrest ES,8250-02-WC-013,"Teacher's Lounge, Room 213",42745,0.25,BA
+8250,Forrest ES,8250-02-HS-016,Between Girl's Room and Room 204,42745,0.054,BA
+8250,Forrest ES,8250-02-WC-017,Between Boy's Room and Room 207,42745,0.8,BA
+8250,Forrest ES,8250-03-WC-018,Between Boy's Room and Room 307,42745,0.7,BA
+8250,Forrest ES,8250-03-HS-019,Between Girl's Room and Room 304,42745,0.054,BA
+8250,Forrest ES,8250-01-DW-020,Within Modular Building - near bathroom,42745,1.6,BA
+8250,Forrest ES,8025-02-CF-055,Nurse's Office,42745,2.4,BA
+8250,Forrest ES,8250-01-WC-070N,In PEC Bldg - all purpose room - left,42745,0.057,BA
+8250,Forrest ES,8250-01-WC-071N,In PEC Bldg - all purpose room - right,42745,0.13,BA
+8250,Forrest ES,8250-01-HS-072N,In PEC Bldg - outside bathroom - left,42745,0.054,BA
+8250,Forrest ES,8250-01-WC-074N,In PEC Bldg - between P9 & P11 - left,42745,0.082,BA
+8250,Forrest ES,8250-01-WC-075N,In PEC Bldg - between P9 & P11 - right,42745,0.09,BA
+8250,Forrest ES,8250-01-WC-076N,In PEC Bldg - Room P1,42745,0.11,BA
+8250,Forrest ES,8250-01-WC-077N,In PEC Bldg - Room P2,42745,0.16,BA
+8250,Forrest ES,8250-01-WC-078N,In PEC Bldg - Room P3,42745,0.36,BA
+8250,Forrest ES,8250-01-WC-079N,In PEC Bldg - Room P4,42745,0.18,BA
+8250,Forrest ES,8250-01-WC-080N,In PEC Bldg - Room P5,42745,0.061,BA
+8250,Forrest ES,8250-01-KC-081N,In PEC Bldg - Kitchen left,42745,0.62,BA
+8250,Forrest ES,8250-01-KC-082N,In PEC Bldg - Kitchen right,42745,8.2,BA
+8250,Forrest ES,8250-01-KC-083N,In PEC Bldg - Teacher's Lounge,42745,0.37,BA
+8260,Fox Chase ES,8260-00-WC-004,In Element 2 - Laboratory A,42746,0.83,BA
+8260,Fox Chase ES,8260-00-KC-013,Kitchen - right side,42746,7.2,BA
+8260,Fox Chase ES,8260-00-DW-015,Inside Cafeteria,42746,1.7,BA
+8260,Fox Chase ES,8260-00-WC-023,In Element 3 - outside of Room A4,42746,1.1,BA
+8260,Fox Chase ES,8260-00-WC-024,In Element 3 - outside of Room A5,42746,1.2,BA
+8260,Fox Chase ES,8260-00-DW-035,Outside of the Gym office and Boy's Room,42746,2,BA
+8260,Fox Chase ES,8260-01-CF-048,Nurse's Office,42746,4.6,BA
+8260,Fox Chase ES,8260-01-DW-050,Across from the main Office,42746,1.1,BA
+8260,Fox Chase ES,8260-01-KC-054,Teacher's Lounge,42746,4.2,BA
+8260,Fox Chase ES,8260-01-DW-058,Room 102 at door to Room 101,42746,2.2,BA
+8260,Fox Chase ES,8260-01-CF-063,Room 103 - kindergarten,42746,6.9,BA
+8260,Fox Chase ES,8260-01-CF-065,Room 104 - kindergarten,42746,3.7,BA
+8260,Fox Chase ES,8260-02-DW-077,Outside Room 205,42746,1.2,BA
+8260,Fox Chase ES,8260-00-DW-085N,Inside IMC/Music Room,42746,3.6,BA
+8400,Ann Frank ES,8400-01-CF-008,Nurse's Office,42746,1.3,BA
+8400,Ann Frank ES,8400-01-WC-009,"Teacher's Lounge, Room 125",42746,0.6,BA
+8400,Ann Frank ES,8400-01-DW-015,Room 109,42746,2.4,BA
+8400,Ann Frank ES,8400-01-DW-025,Hallway adjacent to Boy's Room,42746,1.6,BA
+8400,Ann Frank ES,8400-01-KC-028,Kitchen,42746,2.2,BA
+8400,Ann Frank ES,8400-01-KC-029,Kitchen - prep table,42746,4.1,BA
+8400,Ann Frank ES,8400-01-DW-031,"Cafeteria, Room 105 - left",42746,2.4,BA
+8400,Ann Frank ES,8400-01-DW-032,"Cafeteria, Room 105",42746,3.4,BA
+8400,Ann Frank ES,8400-01-DW-033,Cafeteria Room 105,42746,2.5,BA
+8400,Ann Frank ES,8400-01-DW-034,Cafeteria Room 105 - right,42746,2.5,BA
+8400,Ann Frank ES,8400-01-DW-037,Gymnasium Boy's Room,42746,0.83,BA
+8400,Ann Frank ES,8400-03-DW-051,Adjacent to the Boy's Room,42746,2,BA
+8400,Ann Frank ES,8400-03-DW-056,Adjacent to the service closet,42746,1.1,BA
+8400,Ann Frank ES,8400-01-WC-063,"Element 3, Room 007",42746,31.7,AA
+8400,Ann Frank ES,8400-01-WC-066,"Element 3, Room 008",42746,31.6,AA
+8400,Ann Frank ES,8400-01-DW-073,Outside of the Nurse's Office,42746,2.9,BA
+8400,Ann Frank ES,8400-01-DW-074,Across from the Main Office,42746,1.8,BA
+8400,Ann Frank ES,8400-01-WC-075N,"Between the bathrooms, across from Cafeteria - left",42746,0.074,BA
+8400,Ann Frank ES,8400-01-WC-076N,"Between the bathrooms, across from Cafeteria - right",42746,0.11,BA
+8400,Ann Frank ES,8400-01-DW-077N,Room 1,42746,1.3,BA
+8400,Ann Frank ES,8400-01-DW-078N,Room 2,42746,0.17,BA
+8400,Ann Frank ES,8400-01-DW-079N,Room 3,42746,0.25,BA
+8400,Ann Frank ES,8400-01-DW-080N,Room 4,42746,0.3,BA
+8400,Ann Frank ES,8400-01-DW-081N,Room 5,42746,0.16,BA
+8400,Ann Frank ES,8400-01-DW-082N,Room 6,42746,1,BA
+8400,Ann Frank ES,8400-01-DW-083N,Room 7,42746,0.36,BA
+8400,Ann Frank ES,8400-01-DW-084N,Room 8,42746,0.23,BA
+8400,Ann Frank ES,8400-01-DW-085N,Room 9,42746,1,BA
+8400,Ann Frank ES,8400-01-DW-086N,Room 10,42746,0.22,BA
+8400,Ann Frank ES,8400-01-DW-087N,Room 11,42746,0.22,BA
+8400,Ann Frank ES,8400-01-DW-088N,Room 12,42746,0.87,BA
+8400,Ann Frank ES,8400-01-KC-089N,Kitchen - left,42746,1.2,BA
+8400,Ann Frank ES,8400-01-KC-090N,Kitchen - right,42746,0.85,BA
+7280,Franklin ES,7280-02-CF-046,Nurse's Office,42747,0.62,BA
+7280,Franklin ES,7280-00-DW-048N,Across from Building Engineer's office and Boy's Room - furthest left,42747,0.59,BA
+7280,Franklin ES,7280-00-DW-049N,Across from Building Engineer's office and Boy's Room - right,42747,0.39,BA
+7280,Franklin ES,7280-00-DW-050N,Across from Building Engineer's office and Boy's Room - right,42747,0.4,BA
+7280,Franklin ES,7280-00-DW-051N,Across from Building Engineer's office and Boy's Room - furthest right,42747,0.38,BA
+7280,Franklin ES,7280-00-DW-052N,Outside Girl's Room - left,42747,0.56,BA
+7280,Franklin ES,7280-00-DW-053N,Outside Girl's Room,42747,0.56,BA
+7280,Franklin ES,7280-00-DW-054N,Outside Girl's Room,42747,0.72,BA
+7280,Franklin ES,7280-00-DW-055N,Outside Girl's Room  - left of the last DW on the right,42747,0.88,BA
+7280,Franklin ES,7280-00-WC-062N,Outside bathrooms at Cafeteria - left,42747,0.054,BA
+7280,Franklin ES,7280-00-WC-063N,Outside bathrooms at Cafeteria - right,42747,0.054,BA
+7280,Franklin ES,7280-01-WC-064N,Outside bathrooms at Room 110 - left,42747,0.054,BA
+7280,Franklin ES,7280-01-WC-065N,Outside bathrooms at Room 110 - right,42747,0.054,BA
+7280,Franklin ES,7280-00-IM-068N,Kitchen - ice maker,42747,0.054,BA
+7280,Franklin ES,7280-00-KC-069N,Kitchen - back wall,42747,0.42,BA
+4530,Gideon,4530-01-DW-009,Outside Bathroom - Left,42747,5.9,BA
+4530,Gideon,4530-01-DW-010,Outside Bathroom - Right,42747,5.4,BA
+4530,Gideon,4530-01-DW-017,"Inside Room 103, Head-Start Room (room not currently used)",42747,58.9,AA
+4530,Gideon,4530-01-KC-022,Teacher's Dining Room - single lever faucet,42747,3.6,BA
+4530,Gideon,4530-01-CF-029,Front Room of Nurse's Office,42747,2.1,BA
+4530,Gideon,4530-01-HS-039,"In hallway, outside Girl's Bathroom",42747,0.054,BA
+4530,Gideon,4530-02-HS-048,"In hallway, across from Room 207",42747,0.054,BA
+4530,Gideon,4530-03-WC-065,Outside Room 308,42747,3.3,BA
+4530,Gideon,4530-03-HS-074,"In hallway, outside Men's and Women's bathroom",42747,0.054,BA
+4530,Gideon,4530-03-KC-079,"Room 316 A, Kitchen",42747,2.2,BA
+4530,Gideon,4530-01-DW-086N,"Room 104, kindergarten",42747,12.8,AA
+8180,Hancock,8180-00-WC-007,Within cafeteria,42748,0.76,BA
+8180,Hancock,8180-00-KC-010,Cafeteria Sink - left,42748,8.3,BA
+8180,Hancock,8180-00-KC-012,Cafeteria Sink - right,42748,5.2,BA
+8180,Hancock,8180-00-KC-015,Cafeteria Prep Sink,42748,31.5,AA
+8180,Hancock,8180-00-WC-022,Between Rooms A5 and A6,42748,0.11,BA
+8180,Hancock,8180-00-WC-030,Between Rooms T4 and T5,42748,0.49,BA
+8180,Hancock,8180-00-WC-037,Across from Room 108,42748,0.32,BA
+8180,Hancock,8180-01-DW-038,Inside gymnasium,42748,0.72,BA
+8180,Hancock,8180-01-DW-047,Room 219 - kindergarten,42748,2.1,BA
+8180,Hancock,8180-01-WC-048,Outside of Room 218,42748,8.3,BA
+8180,Hancock,8180-01-DW-051,Room 217 - kindergarten,42748,2.9,BA
+8180,Hancock,8180-01-CF-053,Room 218- Nurse's Suite,42748,2.9,BA
+8180,Hancock,8180-01-CF-055,Room 213 - Special Education,42748,2.4,BA
+8180,Hancock,8180-01-CF-056,Room 212 - Special Education,42748,5.3,BA
+8180,Hancock,8180-01-WC-067,Outside of Room B11,42748,5.5,BA
+8180,Hancock,8180-01-WC-077,Room B3 - Teacher's Lounge,42748,3.6,BA
+8180,Hancock,8180-01-CF-080,Room 200 - Kindergarten,42748,3.7,BA
+8180,Hancock,8180-01-WC-084,Across From IMC,42748,2.8,BA
+8180,Hancock,8180-01-DW-090N,Gymnasium - cup filler - companion to 038,42748,1.2,BA
+8430,Greenburg,8430-00-KC-011,Double sink in Kitchen - left,42748,7.5,BA
+8430,Greenburg,8430-00-KC-013,Double sink in Kitchen - right,42748,7,BA
+8430,Greenburg,8430-00-WC-015,Cafeteria - left unit,42748,1.7,BA
+8430,Greenburg,8430-00-WC-016,Cafeteria - right unit,42748,5.8,BA
+8430,Greenburg,8430-01-WC-018,Outside kindergarten Room 108,42748,7.8,BA
+8430,Greenburg,8430-01-WC-019,In kindergarten Room 108,42748,0.29,BA
+8430,Greenburg,8430-01-DW-028,Gymnasium,42748,0.8,BA
+8430,Greenburg,8430-01-WC-033,Across from bathrooms - left,42748,3.3,BA
+8430,Greenburg,8430-01-CF-046,Teacher's Lounge,42748,2.5,BA
+8430,Greenburg,8430-01-CF-047,Nurse's Sink,42748,0.86,BA
+8430,Greenburg,8430-01-WC-048,Across from Room 103,42748,4.3,BA
+8430,Greenburg,8430-02-WC-049,Across from Room 203,42748,2.9,BA
+8430,Greenburg,8430-02-WC-060,Across from Room 211,42748,0.37,BA
+8430,Greenburg,8430-02-WC-063,Across from Room 217,42748,13.7,AA
+8430,Greenburg,8430-03-WC-064,Across from Room 321,42748,1.6,BA
+8430,Greenburg,8430-03-WC-075,Across from Room 303,42748,9.8,BA
+5300,Hackett ES,5300-01-KC-007,Kitchen - left,42753,1.2,BA
+5300,Hackett ES,5300-01-KC-008,Kitchen - right,42753,1.6,BA
+5300,Hackett ES,5300-01-WC-009,Outside Music Room,42753,1.3,BA
+5300,Hackett ES,5300-01-DW-014,Gymnasium,42753,3.4,BA
+5300,Hackett ES,5300-01-WC-021,"Room 108, Teacher's Lounge",42753,37.3,AA
+5300,Hackett ES,5300-01-WC-023,Outside Room 109,42753,1.5,BA
+5300,Hackett ES,5300-01-WC-026,Room 110 - pew-kindergarten,42753,1.8,BA
+5300,Hackett ES,5300-01-WC-029,Room 111 - special education,42753,2.9,BA
+5300,Hackett ES,5300-01-WC-034,Room 112 - special education,42753,31.1,AA
+5300,Hackett ES,5300-01-HS-035,"Outside Bathrooms, across from Main Office",42753,0.054,BA
+5300,Hackett ES,5300-01-CF-039,Nurse's Office,42753,4.4,BA
+5300,Hackett ES,5300-01-WC-043,"Cafeteria/Auditorium - rear wall, opposite stage, left side",42753,0.32,BA
+5300,Hackett ES,5300-01-WC-044,"Cafeteria/Auditorium - rear wall, opposite stage, right side",42753,0.83,BA
+5300,Hackett ES,5300-01-WC-045,"Cafeteria/Auditorium - standing on stage, immediately to the right",42753,11.3,AA
+5300,Hackett ES,5300-02-WC-046,Outside Room 205,42753,1.1,BA
+5300,Hackett ES,5300-02-HS-054,Outside Room 208,42753,0.054,BA
+5300,Hackett ES,5300-02-DW-060,Outside Room 201,42753,6.6,BA
+5300,Hackett ES,5300-02-HS-073,Outside Boy's Room and Room 216,42753,0.074,BA
+5300,Hackett ES,5300-03-WC-081,Across from Room 306,42753,0.44,BA
+5300,Hackett ES,5300-03-WC-087,Outside Room 309,42753,0.66,BA
+2470,Greenfield ES,2470-03-DW-002,Room 305 - classroom,42753,4.8,BA
+2470,Greenfield ES,2470-03-DW-006,Room 306- classroom,42753,109,AA
+2470,Greenfield ES,2470-03-WC-021,Across from Room 316,42753,0.054,BA
+2470,Greenfield ES,2470-03-HS-022,Outside Room 315A,42753,0.054,BA
+2470,Greenfield ES,2470-02-DW-038,Room215 - classroom,42753,6.3,BA
+2470,Greenfield ES,2470-02-HS-039,Across from Room 214,42753,0.054,BA
+2470,Greenfield ES,2470-02-DW-043,Room 209 - classroom,42753,99,AA
+2470,Greenfield ES,2470-02-DW-054,Room 203 - classroom,42753,6.5,BA
+2470,Greenfield ES,2470-02-DW-058,Room 205 - classroom,42753,6.6,BA
+2470,Greenfield ES,2470-02-DW-060,Room 206 - classroom,42753,51.4,AA
+2470,Greenfield ES,2470-01-CF-064,Nurse's office,42753,51.6,AA
+2470,Greenfield ES,2470-01-HS-065,Hall outside of the Main office,42753,0.054,BA
+2470,Greenfield ES,2470-01-DW-069,Room 110 - classroom - kindergarten,42753,2.3,BA
+2470,Greenfield ES,2470-01-KC-071,Room 113 - classroom - special needs,42753,0.73,BA
+2470,Greenfield ES,2470-01-DW-075,Room 111 - classroom - kindergarten,42753,5.5,BA
+2470,Greenfield ES,2470-00-HS-090,Outside Cafeteria,42753,0.054,BA
+2470,Greenfield ES,2470-00-DW-092,Gymnasium,42753,1.1,BA
+2470,Greenfield ES,2470-00-KC-106,Kitchen left,42753,2.1,BA
+2470,Greenfield ES,2470-00-KC-107,Kitchen right,42753,3.2,BA
+2470,Greenfield ES,2470-01-DW-118N,Room 112 - classroom - kindergarten,42753,4.5,BA
+2470,Greenfield ES,2470-02-WC-119N,Hallway across from library,42753,0.054,BA
+2470,Greenfield ES,2470-03--DW-120N,Room 301 - classroom,42753,23.8,AA
+2470,Greenfield ES,2470-03--DW-121N,Room 311 - classroom,42753,6.7,BA
+2470,Greenfield ES,2470-03--DW-122N,Room 313 - classroom,42753,3.6,BA
+8320,LaBrum ES,8320-01-KC-003,Kitchen - left,42754,2.5,BA
+8320,LaBrum ES,8320-01-KC-004,Kitchen - right,42754,4.3,BA
+8320,LaBrum ES,8320-01-WC-006,Cafeteria - left,42754,2.4,BA
+8320,LaBrum ES,8320-01-WC-007,Cafeteria - right,42754,0.56,BA
+8320,LaBrum ES,8320-01-WC-008,Classroom 107,42754,8.9,BA
+8320,LaBrum ES,8320-01-WC-011,Outside Women's Bathroom,42754,0.33,BA
+8320,LaBrum ES,8320-01-CF-014,Nurses' Suite - left,42754,10.7,AA
+8320,LaBrum ES,8320-01-CF-015,Nurses' Suite - right,42754,27.6,AA
+8320,LaBrum ES,8320-01-EC-028,Home Economics - far left,42754,9.5,BA
+8320,LaBrum ES,8320-01-EC-030,Home Economics 2nd from left,42754,6.9,BA
+8320,LaBrum ES,8320-01-EC-036,Home Economics - far right,42754,12.1,AA
+8320,LaBrum ES,8320-01-DW-041,Gym - Girl's Side,42754,0.65,BA
+8320,LaBrum ES,8320-01-DW-042,Gym - Boy's Side,42754,1.5,BA
+8320,LaBrum ES,8320-02-WC-068,Outside Room 203,42754,0.054,BA
+8320,LaBrum ES,8320-02-DW-072,Room 213,42754,5.3,BA
+8320,LaBrum ES,8320-02-DW-074,Room 214,42754,6.5,BA
+1290,Hamilton ES,1290-01-DW-014,Inside Gymnasium - Boy's Locker Room Side,42754,0.42,BA
+1290,Hamilton ES,1290-01-DW-015,Inside Gymnasium - Girl's Locker Room Side,42754,0.9,BA
+1290,Hamilton ES,1290-01-HS-016,Across from Room 104,42754,0.054,BA
+1290,Hamilton ES,1290-01-KC-022,Within the Cafeteria/Kitchen; Room 108,42754,3.2,BA
+1290,Hamilton ES,1290-01-KC-024,"Kitchen, Room 109S - left",42754,14.4,AA
+1290,Hamilton ES,1290-01-KC-025,"Kitchen, Room 109S - right",42754,2.8,BA
+1290,Hamilton ES,1290-01-WC-035,Across from Room 130,42754,0.72,BA
+1290,Hamilton ES,1290-02-DW-045,Room 227 - classroom,42754,1.7,BA
+1290,Hamilton ES,1290-02-WC-046,Across from Room 227,42754,0.73,BA
+1290,Hamilton ES,1290-02-HS-069,Across from Room 201,42754,0.054,BA
+1290,Hamilton ES,1290-03-HS-084,Across from Room 306,42754,0.054,BA
+1290,Hamilton ES,1290-03-DW-090,Room 303 - classroom; learning support,42754,7.9,BA
+1290,Hamilton ES,1290-03-WC-114,Across from Room 336,42754,0.55,BA
+1290,Hamilton ES,1290-03-DW-123,Room 322 - classroom,42754,3.3,BA
+1290,Hamilton ES,1290-02-CF-135,Nurse's area - Site Map Room NP2,42754,7.5,BA
+1290,Hamilton ES,1290-02-CF-136,Room 217 - Nurse's office,42754,4.1,BA
+7110,Harding MS,7110-01-DW-002,Outside Boy's Room - Left,42755,2.1,BA
+7110,Harding MS,7110-01-DW-003,Outside Boy's Room - Middle,42755,1.6,BA
+7110,Harding MS,7110-01-DW-004,Outside Boy's Room - Right,42755,1.8,BA
+7110,Harding MS,7110-01-HS-015,Outside Room 105,42755,0.054,BA
+7110,Harding MS,7110-01-EC-040,Room 108 - Special Ed - by stove,42755,1.1,BA
+7110,Harding MS,7110-01-DW-043,Outside Room 108,42755,4.3,BA
+7110,Harding MS,7110-01-KC-044,Room 109 - Teacher's Lounge,42755,21.9,AA
+7110,Harding MS,7110-01-KC-045,Room 110 - Music Room,42755,214,AA
+7110,Harding MS,7110-01-IM-054,Kitchen,42755,2.6,BA
+7110,Harding MS,7110-01-KC-057,Kitchen - left,42755,3.2,BA
+7110,Harding MS,7110-01-KC-059,Kitchen,42755,4.2,BA
+7110,Harding MS,7110-01-KC-061,Kitchen,42755,4.3,BA
+7110,Harding MS,7110-01-KC-063,Kitchen - right,42755,1.8,BA
+7110,Harding MS,7110-01-DW-065,Outside Girl's Room and Cafeteria - Left,42755,2.7,BA
+7110,Harding MS,7110-01-DW-066,Outside Girl's Room and Cafeteria - Center,42755,1.5,BA
+7110,Harding MS,7110-01-DW-067,Outside Girl's Room and Cafeteria - Right,42755,1.4,BA
+7110,Harding MS,7110-02-WC-072,Outside Room 223,42755,0.84,BA
+7110,Harding MS,7110-02-CF-077,Nurse's Office,42755,1.6,BA
+7110,Harding MS,7110-02-HS-078,Outside Nurse's Office,42755,0.054,BA
+7110,Harding MS,7110-02-DW-082,Outside Room 211,42755,1.7,BA
+7110,Harding MS,7110-02-DW-090,Outside Room 218,42755,0.76,BA
+7110,Harding MS,7110-03-DW-093,Outside Room 320,42755,1.1,BA
+7110,Harding MS,7110-03-HS-109,Outside Room 307A,42755,0.054,BA
+7110,Harding MS,7110-03-DW-112,Outside Room 325,42755,0.6,BA
+2320,Girard ES,2320-01-KC-008,Cafeteria,42755,1.1,BA
+2320,Girard ES,2320-01-HS-024,"In hallway, between girl's room and elevator - left",42755,0.074,BA
+2320,Girard ES,2320-01-DW-030,Across from IMC - left - between Nurse's office and Room 105,42755,1.1,BA
+2320,Girard ES,2320-01-DW-031,Across from IMC - right - - between Nurse's office and Room 105,42755,4,BA
+2320,Girard ES,2320-01-DW-033,Room 100 - kindergarten,42755,3.1,BA
+2320,Girard ES,2320-01-DW-037,Room 101 - kindergarten,42755,2.5,BA
+2320,Girard ES,2320-02-DW-040,Outside Room 204 - left,42755,1.9,BA
+2320,Girard ES,2320-02-DW-041,Outside Room 204 - right,42755,3.3,BA
+2320,Girard ES,2320-02-HS-042,Outside Boy's Room - left,42755,0.054,BA
+2320,Girard ES,2320-03-HS-060,Outside Women's Room - left,42755,0.054,BA
+2320,Girard ES,2320-03-DW-064,Outside Room 303,42755,4.2,BA
+2320,Girard ES,2320-01-DW-067,"Inside Gymnasium, in the corner - left",42755,0.59,BA
+2320,Girard ES,2320-01-CF-068N,Room 105 - kindergarten,42755,5.2,BA
+2320,Girard ES,2320-01-DW-069N,"Inside Gymnasium, in the corner - right",42755,0.63,BA
+1300,Harrington ES,1300-00-KC-002,Faculty Lounge,42759,4.4,BA
+1300,Harrington ES,1300-00-WC-003,Inside Faculty Lounge,42759,0.54,BA
+1300,Harrington ES,1300-00-CF-021,Nurse's Office,42759,2.3,BA
+1300,Harrington ES,1300-01-WC-033,Outside Room 101,42759,0.28,BA
+1300,Harrington ES,1300-01-HS-043,Outside Room 107,42759,0.054,BA
+1300,Harrington ES,1300-02-HS-044,Outside Room 208,42759,0.054,BA
+1300,Harrington ES,1300-02-WC-052,Outside Room 202,42759,0.2,BA
+1300,Harrington ES,1300-03-HS-059,Outside Room 307,42759,0.054,BA
+1300,Harrington ES,1300-00-WC-061,Outside of the Faculty Lounge,42759,0.27,BA
+1300,Harrington ES,1300-00-CF-064N,Basement Gym/Kitchen/café beside storage closet,42759,2.6,BA
+1300,Harrington Annex,1301-00-CF-002,Teacher Dining,42759,0.087,BA
+1300,Harrington Annex,1301-00-HS-006,Outside of Women's Bathroom,42759,0.054,BA
+1300,Harrington Annex,1301-01-WC-008,Outside Room A-4,42759,1.8,BA
+1300,Harrington Annex,1301-01-WC-016,Room A-1 - Classroom,42759,2.5,BA
+1300,Harrington Annex,1301-02-WC-024,Outside Room A-5,42759,1.2,BA
+1300,Harrington Annex,1301-00-CF-030,Sink in Lunchroom,42759,0.74,BA
+5320,Hartrant ES,5320-01-CF-007,Nurse's Office,42759,1.1,BA
+5320,Hartrant ES,5320-01-HS-014,Across from Room 102,42759,0.094,BA
+5320,Hartrant ES,5320-01-DW-047,Outside Room 108,42759,169,AA
+5320,Hartrant ES,5320-01-DW-064,Room 118 - kindergarten,42759,779,AA
+5320,Hartrant ES,5320-01-DW-066,Outside Parent's Room/Room 121,42759,5.8,BA
+5320,Hartrant ES,5320-02-DW-071,Outside Room 202,42759,4.6,BA
+5320,Hartrant ES,5320-02-HS-093,Outside Room 208,42759,0.091,BA
+5320,Hartrant ES,5320-02-DW-104,Gymnasium,42759,4.5,BA
+5320,Hartrant ES,5320-02-HS-105,Outside of the Cafeteria; across from Room 200,42759,0.054,BA
+5320,Hartrant ES,5320-02-KC-110,"Kitchen, along back wall, left",42759,2,BA
+5320,Hartrant ES,5320-02-KC-112,"Kitchen, along back wall, center",42759,1.9,BA
+5320,Hartrant ES,5320-02-KC-114,"Kitchen, along back wall, right",42759,1.4,BA
+5320,Hartrant ES,5320-02-DW-116,"Outside the Gymnasium, near boy's and girl's room",42759,9.1,BA
+5320,Hartrant ES,5320-01-KC-129N,"Teacher's Lounge, Room 118A",42759,1.3,BA
+5320,Hartranft Community Ctr,5322-02-HS-019,Outside Room 209 and Room 210,42759,0.054,BA
+5320,Hartranft Community Ctr,5322-02-HS-027,Outside of All Purpose Room,42759,0.054,BA
+6250,Henry ES,6250-00-HS-001,Outside IMC - near Boiler Room,42760,0.054,BA
+6250,Henry ES,6250-00-WC-007,Outside IMC Near Room 005 - Left,42760,0.66,BA
+6250,Henry ES,6250-00-KC-013,Kitchen,42760,0.054,BA
+6250,Henry ES,6250-01-WC-015,Room 109 - classroom,42760,0.43,BA
+6250,Henry ES,6250-01-WC-016,Room 110 - classroom,42760,0.37,BA
+6250,Henry ES,6250-01-WC-018,Outside Room 108A,42760,1.3,BA
+6250,Henry ES,6250-01-DW-020,Room 102 - classroom,42760,0.95,BA
+6250,Henry ES,6250-01-WC-021,Outside Room 102,42760,0.7,BA
+6250,Henry ES,6250-01-WC-022,Inside Faculty Room,42760,0.054,BA
+6250,Henry ES,6250-02-HS-023,Outside Room 203,42760,0.054,BA
+6250,Henry ES,6250-01-HS-025,Portable - outside Girl's Room,42760,0.054,BA
+6250,Henry ES,6250-01-HS-083N,Across from Room 105,42760,0.054,BA
+6250,Henry ES,6250-02-HS-084N,Across from Room 208,42760,0.46,BA
+4300,Heston ES,4300-01-KC-011,Room 110 - special education,42760,2.7,BA
+4300,Heston ES,4300-01-DW-016,Room 108 - special education,42760,163,AA
+4300,Heston ES,4300-01-CF-022,Nurse's office - left,42760,2.1,BA
+4300,Heston ES,4300-01-CF-023,Nurse's office - right,42760,3,BA
+4300,Heston ES,4300-01-WC-026,"Rear of ""Cafetorium""",42760,4.2,BA
+4300,Heston ES,4300-01-KC-030,Kitchen - closest to door,42760,2.3,BA
+4300,Heston ES,4300-01-KC-031,Kitchen - furthest from door,42760,4.1,BA
+4300,Heston ES,4300-01-WC-032,Room 127,42760,166,AA
+4300,Heston ES,4300-01-HS-037,Outside Room 109 - near Day Care,42760,0.054,BA
+4300,Heston ES,4300-02-HS-051,Outside Room 224,42760,0.054,BA
+4300,Heston ES,4300-02-DW-057,Room 200,42760,759,AA
+4300,Heston ES,4300-02-DW-061,Room 204,42760,26.3,AA
+4300,Heston ES,4300-02-DW-065,Room 208,42760,7.8,BA
+4300,Heston ES,4300-02-DW-067,Room 210,42760,12,AA
+4300,Heston ES,4300-02-DW-071,Room 214,42760,7.3,BA
+4300,Heston ES,4300-02-DW-075,Room 218,42760,7.8,BA
+4300,Heston ES,4300-02-DW-081,Room 224,42760,7.7,BA
+4300,Heston ES,4300-03-HS-091,Hallway - next to bathrooms,42760,0.054,BA
+4300,Heston ES,4300-03-DW-093,Room 300,42760,88.9,AA
+4300,Heston ES,4300-03-DW-107,Room 318,42760,1.8,BA
+4300,Heston ES,4300-03-DW-109,Room 322,42760,3.8,BA
+4300,Heston ES,4300-02-KC-118,IMC Inner Office - SM 201,42760,9.3,BA
+4300,Heston ES,4300-03-DW-123,Room 314,42760,5.4,BA
+4300,Heston ES,4300-01-DW-128,Room 110 - special education,42760,7.2,BA
+7320,Howe ES,7320-00-DW-001,Outside boy's bathroom - left,42761,1.7,BA
+7320,Howe ES,7320-00-DW-002,Outside boy's bathroom - center,42761,1.5,BA
+7320,Howe ES,7320-00-DW-003,Outside boy's bathroom - right,42761,1.9,BA
+7320,Howe ES,7320-00-DW-008,Outside girl's bathroom - left,42761,2.7,BA
+7320,Howe ES,7320-00-DW-009,Outside girl's bathroom,42761,3.3,BA
+7320,Howe ES,7320-00-DW-012,Outside girl's bathroom,42761,1.5,BA
+7320,Howe ES,7320-00-DW-013,Outside girl's bathroom - right,42761,1.5,BA
+7320,Howe ES,7320-01-DW-015,Outside Room 4,42761,1.7,BA
+7320,Howe ES,7320-01-HS-016,Outside Main Office,42761,0.054,BA
+7320,Howe ES,7320-02-HS-017,Outside Teacher's Lounge,42761,0.054,BA
+7320,Howe ES,7320-02-DW-018,Outside Room 12,42761,1.8,BA
+7320,Howe ES,7320-03-DW-019,Outside Room 20,42761,2.3,BA
+7320,Howe ES,7320-03-HS-020,Outside Room 24,42761,0.054,BA
+7320,Howe ES,7320-00-KC-037,Room B1 - next to stove,42761,0.38,BA
+7320,Howe ES,7320-01-CF-042,Nurse's Office,42761,4.8,BA
+7320,Howe ES,7320-01-KC-044,Cafeteria kitchen area,42761,1.8,BA
+7320,Howe ES,7320-02-KC-047,Teacher's Lounge - across from Room 15,42761,2.7,BA
+5330,Hunter ES,5330-01-HS-001,Outside Cafeteria - Left,42761,0.054,BA
+5330,Hunter ES,5330-01-DW-002,Outside Cafeteria - Right,42761,0.054,BA
+5330,Hunter ES,5330-01-CF-003,Classroom 102 (Special Ed),42761,0.3,BA
+5330,Hunter ES,5330-01-DW-004,Room 101A - Kindergarten,42761,0.054,BA
+5330,Hunter ES,5330-01-DW-005,Room 101C - Kindergarten,42761,0.73,BA
+5330,Hunter ES,5330-01-DW-008,Outside Gym - Left,42761,0.054,BA
+5330,Hunter ES,5330-01-DW-009,Outside Gym - Right,42761,0.5,BA
+5330,Hunter ES,5330-01-DW-010,Inside Gym - Left,42761,0.24,BA
+5330,Hunter ES,5330-01-DW-011,Inside Gym - Right,42761,0.074,BA
+5330,Hunter ES,5330-01-CF-012,"Room 113 - ""Community Center""",42761,0.59,BA
+5330,Hunter ES,5330-01-CF-013,Nurse's Office,42761,0.24,BA
+5330,Hunter ES,5330-01-KC-014,Main Office Kitchen,42761,0.28,BA
+5330,Hunter ES,5330-01-IM-015,Kitchen Ice Maker,42761,0.074,BA
+5330,Hunter ES,5330-01-CF-016,"""Staff Kitchen"" Behind Kitchen",42761,0.27,BA
+5330,Hunter ES,5330-01-KC-017,Facing Kitchen - Left Wall - Farthest Left,42761,0.81,BA
+5330,Hunter ES,5330-01-KC-018,Facing Kitchen - Left Wall - Second from Left,42761,1.4,BA
+5330,Hunter ES,5330-01-KC-019,Facing Kitchen - Left Wall - Third from Left,42761,0.67,BA
+5330,Hunter ES,5330-01-KC-021,Facing Kitchen - Right Wall - Left,42761,0.12,BA
+5330,Hunter ES,5330-01-KC-022,Facing Kitchen - Right Wall - Middle,42761,0.18,BA
+5330,Hunter ES,5330-01-KC-023,Facing Kitchen - Right Wall - Right,42761,3,BA
+5330,Hunter ES,5330-01-KC-024,Facing Kitchen - Center of Room - Left,42761,0.29,BA
+5330,Hunter ES,5330-01-KC-025,Facing Kitchen - Center of Room  - Middle,42761,0.57,BA
+5330,Hunter ES,5330-01-KC-026,Facing Kitchen - Center of Room - Right,42761,0.35,BA
+5330,Hunter ES,5330-02-HS-027,Outside Boy's Restroom (205) - Left,42761,0.054,BA
+5330,Hunter ES,5330-02-DW-028,Outside Boy's Restroom (205) - Right,42761,0.054,BA
+5330,Hunter ES,5330-02-DW-029,Outside Classroom 214 - Left,42761,0.054,BA
+5330,Hunter ES,5330-02-DW-030,Outside Classroom 214 - Right,42761,0.12,BA
+5330,Hunter ES,5330-03-HS-031,Outside Restroom (305) - Left,42761,0.054,BA
+5330,Hunter ES,5330-03-DW-032,Outside Restroom (305) - Right,42761,0.17,BA
+5330,Hunter ES,5330-03-DW-033,Outside Classroom 314 - Left,42761,0.054,BA
+2510,Jackson ES,2510-01-CF-016,Nurse's office,42762,2.3,BA
+2510,Jackson ES,2510-01-DW-022,Room 101 - classroom,42762,2.4,BA
+2510,Jackson ES,2510-01-KC-025,Room 101 - classroom,42762,0.91,BA
+2510,Jackson ES,2510-00-WC-028,Outside Girl's Room,42762,0.37,BA
+2510,Jackson ES,2510-00-KC-031,Café Kitchen,42762,0.76,BA
+2510,Jackson ES,2510-00-WC-041,Outside Boy's Room,42762,1.6,BA
+2510,Jackson ES,2510-01-WC-048,Outside Room 104,42762,0.054,BA
+2510,Jackson ES,2510-01-WC-049,Room 109 - classroom,42762,2.3,BA
+2510,Jackson ES,2510-01-WC-050,Outside Room 106,42762,0.87,BA
+2510,Jackson ES,2510-02-WC-051,Outside Room 206,42762,0.86,BA
+2510,Jackson ES,2510-02-WC-052,Outside Room 204,42762,0.2,BA
+2510,Jackson ES,2510-03-WC-053,Outside Room 304,42762,0.75,BA
+2510,Jackson ES,2510-03-WC-054,Outside Room 306,42762,0.52,BA
+2520,A. S. Jenks ES,2520-00-DW-005,Outside lunch room - left,42762,1.8,BA
+2520,A. S. Jenks ES,2520-00-DW-006,Outside lunch room - 2nd from left,42762,1.3,BA
+2520,A. S. Jenks ES,2520-00-DW-007,Outside lunch room - 3rd from left,42762,0.97,BA
+2520,A. S. Jenks ES,2520-00-DW-008,Outside lunch room - right,42762,1.5,BA
+2520,A. S. Jenks ES,2520-00-KC-009,Inside 2nd lunch room,42762,0.48,BA
+2520,A. S. Jenks ES,2520-00-DW-010,Outside Girl's room and library - left,42762,1.5,BA
+2520,A. S. Jenks ES,2520-00-HS-013,Outside Girl's room and library - right,42762,0.054,BA
+2520,A. S. Jenks ES,2520-01-HS-016,"Outside Main Office, near Room 105",42762,0.054,BA
+2520,A. S. Jenks ES,2520-01-DW-017,Across from Room 103,42762,1.9,BA
+2520,A. S. Jenks ES,2520-02-HS-019,Outside Room 205,42762,0.054,BA
+2520,A. S. Jenks ES,2520-02-DW-020,Outside Room 203,42762,0.63,BA
+2520,A. S. Jenks ES,2520-01-CF-027,Teacher's Lounge,42762,2.4,BA
+2520,A. S. Jenks ES,2520-02-CF-029,Nurse's Office,42762,2.3,BA
+2520,A. S. Jenks ES,2520-00-KC-032N,Kitchen,42762,1.3,BA
+6270,J. S. Jenks,6270-00-DW-001,Outside Girl's Room - left,42766,0.89,BA
+6270,J. S. Jenks,6270-00-DW-002,Outside Girl's Room - middle,42766,0.43,BA
+6270,J. S. Jenks,6270-00-DW-003,Outside Girl's Room - right,42766,3.8,BA
+6270,J. S. Jenks,6270-00-DW-006,Outside Boy's Room - left,42766,0.3,BA
+6270,J. S. Jenks,6270-00-DW-007,Outside Boy's Room - middle,42766,0.24,BA
+6270,J. S. Jenks,6270-00-DW-008,Outside Boy's Room - right,42766,0.35,BA
+6270,J. S. Jenks,6270-01-CF-035,"Room 119, Kindergarten",42766,5.3,BA
+6270,J. S. Jenks,6270-01-HS-051N,Outside Teacher's lounge and Room 5,42766,0.054,BA
+6270,J. S. Jenks,6270-01-WC-052N,Outside Music Room and Room 3,42766,0.64,BA
+6270,J. S. Jenks,6270-02-WC-053N,Outside Rooms 209A and 209B,42766,5.5,BA
+6270,J. S. Jenks,6270-02-HS-054N,Outside Rooms 212 and 213,42766,0.054,BA
+6270,J. S. Jenks,6270-03-HS-055N,Outside Rooms 320 and 321,42766,0.054,BA
+6270,J. S. Jenks,6270-03-WC-056N,Outside Rooms 317 and 318,42766,1.1,BA
+6270,J. S. Jenks,6270-01-KC-057N,Teacher's Lounge,42766,5,BA
+6270,J. S. Jenks,6270-01-KC-058N,Kitchen Sink,42766,0.62,BA
+7150,Juanita Park Academy,7150-01-KC - 001,Teacher's Lounge,42766,7.8,BA
+7150,Juanita Park Academy,7150-01-KC-002,"Main Office ""Work Room""",42766,0.31,BA
+7150,Juanita Park Academy,7150-01-KC-003,Special Ed. Room 102,42766,0.54,BA
+7150,Juanita Park Academy,7150-01-DW-004,Special Ed. Room 102,42766,0.054,BA
+7150,Juanita Park Academy,7150-01-HS-005,Across from Health Suite - Left,42766,0.054,BA
+7150,Juanita Park Academy,7150-01-CF-007,Nurse's Office/ Health Suite,42766,0.28,BA
+7150,Juanita Park Academy,7150-01-HS-008,Across From Classroom 117 - Left,42766,0.054,BA
+7150,Juanita Park Academy,7150-01-DW-010,Gym Entrance - Left,42766,0.054,BA
+7150,Juanita Park Academy,7150-01-DW-011,Gym Entrance - Right,42766,0.058,BA
+7150,Juanita Park Academy,7150-01-DW-012,Boy's Locker Room - Left,42766,0.054,BA
+7150,Juanita Park Academy,7150-01-DW-013,Boy's Locker Room - Right,42766,0.064,BA
+7150,Juanita Park Academy,7150-01-DW-014,Girl's Locker Room - Left,42766,0.12,BA
+7150,Juanita Park Academy,7150-01-IM-016,Kitchen Ice Machine,42766,0.61,BA
+7150,Juanita Park Academy,7150-01-KC-018,By Freezer,42766,0.52,BA
+7150,Juanita Park Academy,7150-01-KC-019,Dishwasher's Station in Rear - Left,42766,7.3,BA
+7150,Juanita Park Academy,7150-01-KC-020,Dishwasher's Station in Rear - Right,42766,1.8,BA
+7150,Juanita Park Academy,7150-01-KC-021,Across from Food Service Office,42766,1.9,BA
+7150,Juanita Park Academy,7150-01-KC-022,Center of Kitchen by Oven,42766,0.21,BA
+7150,Juanita Park Academy,7150-01-DW-023,Classroom 6 - 1st Grade,42766,0.14,BA
+7150,Juanita Park Academy,7150-01-DW-024,Classroom 5 - 1st Grade,42766,0.054,BA
+7150,Juanita Park Academy,7150-01-DW-025,Classroom 4 - Kindergarten,42766,0.054,BA
+7150,Juanita Park Academy,7150-01-DW-026,Classroom 3 - Kindergarten,42766,0.066,BA
+7150,Juanita Park Academy,7150-01-DW-027,Classroom 2 - Kindergarten,42766,0.15,BA
+7150,Juanita Park Academy,7150-01-DW-028,Classroom 1 - Kindergarten,42766,0.054,BA
+7150,Juanita Park Academy,7150-02-WC-029,Across from Stairwell 3 - Left,42766,0.054,BA
+7150,Juanita Park Academy,7150-02-WC-030,Across from Stairwell 3 - Right,42766,0.054,BA
+7150,Juanita Park Academy,7150-02-HS-031,Across from Classroom 200 - Left,42766,0.054,BA
+5480,Kearny ES,5480-02-CF-022,Room 206 - Nurse's Office,42767,6,BA
+5480,Kearny ES,5480-02-CF-023,Faculty Room at Stove,42767,23.9,
+5480,Kearny ES,5480-01-HS-038,Outside of the Auditorium,42767,0.054,BA
+5480,Kearny ES,5480-01-WC-039,Behind Auditorium,42767,23.9,BA
+5480,Kearny ES,5480-02-HS-040,Outside Rooms 207 and 207A,42767,0.054,BA
+5480,Kearny ES,5480-03-WC-041,Outside Room 315,42767,4.2,BA
+5480,Kearny ES,5480-03-WC-042,Outside Room 306A,42767,0.054,BA
+5480,Kearny ES,5480-00-WC-046,Outside Restroms,42767,1.1,BA
+5480,Kearny ES,5480-00-KC-049,Cafeteria,42767,2.6,BA
+5480,Kearny ES,5480-01-WC-051N,Room 100 - kindergarten,42767,0.64,BA
+5480,Kearny ES - new building,5480-01-WC-052N,Outside multi-purpose room - left,42767,1,BA
+5480,Kearny ES - new building,5480-01-WC-053N,Outside multi-purpose room - right,42767,1.1,BA
+5480,Kearny ES - new building,5480-01-WC-054N,Outside Rooms 3 & 4 - left,42767,0.73,BA
+5480,Kearny ES - new building,5480-01-WC-055N,Outside Rooms 3 & 4 - right,42767,0.85,BA
+4310,Kenderton ES,4310-00-WC-005,Inside of Cafeteria,42767,0.6,BA
+4310,Kenderton ES,4310-00-KC-008,Kitchen Sink - left,42767,4.6,BA
+4310,Kenderton ES,4310-00-KC-009,Kitchen Sink - right,42767,1.3,BA
+4310,Kenderton ES,4310-01-CF-011,Room 108 - Teacher's Lounge - single handle faucet,42767,3,BA
+4310,Kenderton ES,4310-01-CF-016,Nurse's Office,42767,1.9,BA
+4310,Kenderton ES,4310-01-HS-019,Outside of Office,42767,0.054,BA
+4310,Kenderton ES,4310-01-KC-031,Room 100 - Teacher's Lounge - by window,42767,101,AA
+4310,Kenderton ES,4310-01-KC-033,Room 100 - Teacher's Lounge - against wall - left,42767,7.5,BA
+4310,Kenderton ES,4310-01-KC-034,Room 100 - Teacher's Lounge - against wall - right,42767,2.5,BA
+4310,Kenderton ES,4310-01-DW-037,Room 101 - Kindergarten,42767,3.6,BA
+4310,Kenderton ES,4310-01-DW-042,Outside Room 103,42767,3.1,BA
+4310,Kenderton ES,4310-02-DW-047,Room 213 - IMC,42767,13.9,AA
+4310,Kenderton ES,4310-02-HS-057,Outside Room 203,42767,0.054,BA
+4310,Kenderton ES,4310-03-DW-063,Outside Room 300,42767,7.4,BA
+4310,Kenderton ES,4310-03-DW-073,Outside Room 317,42767,25.8,AA
+4310,Kenderton ES,4310-04-DW-074,Outside Room 417,42767,3.6,BA
+4310,Kenderton ES,4310-04-DW-083,Outside Room 407,42767,0.84,BA
+4310,Kenderton ES,4310-04-DW-088,Outside Room 400,42767,1.5,BA
+2540,Key ES,2540-00-KC-013,Cafeteria,42768,2,BA
+2540,Key ES,2540-00-WC-025,Outside Girl's Room - left,42768,1.6,BA
+2540,Key ES,2540-00-WC-026,Outside Girl's Room - right,42768,1.9,BA
+2540,Key ES,2540-00-WC-027,Outside Boy's Room - left,42768,0.34,BA
+2540,Key ES,2540-00-WC-028,Outside Boy's Room - right,42768,0.26,BA
+2540,Key ES,2540-01-WC-029,Inside Main Office,42768,7.7,BA
+2540,Key ES,2540-01-WC-030,Outside Room 11,42768,5,BA
+2540,Key ES,2540-01-WC-031,Room 10 - kindergarten,42768,2.1,BA
+2540,Key ES,2540-01-WC-032,Across from Room 3,42768,0.42,BA
+2540,Key ES,2540-02-WC-033,Outside Health Room,42768,1.1,BA
+2540,Key ES,2540-03-WC-034,Across from Room 25,42768,0.82,BA
+2540,Key ES,2540-03-WC-035,Outside Room 32,42768,1.3,BA
+2540,Key ES,2540-02-WC-037,Outside Rooms 21 and 22,42768,1.9,BA
+2540,Key ES,2540-03-CF-041N,Room 15 - health room,42768,2.9,BA
+2540,Key ES,2540-02-CF-042N,Room 27B; Teacher's Lounge,42768,4.9,BA
+2580,Kirkbride ES,2580-00-DW-002,Outside custodian's office - left,42768,1,BA
+2580,Kirkbride ES,2580-00-DW-007,Gymnasium - right,42768,2.1,BA
+2580,Kirkbride ES,2580-01-CF-013,Nurse's office,42768,3.7,BA
+2580,Kirkbride ES,2580-01-HS-014,Outside Room 106,42768,0.054,BA
+2580,Kirkbride ES,2580-02-DW-020,Outside of Library,42768,0.96,BA
+2580,Kirkbride ES,2580-02-HS-021,Outside of Room 205,42768,0.054,BA
+2580,Kirkbride ES,2580-03-HS-026,Outside of Room 305,42768,0.054,BA
+2580,Kirkbride ES,2580-03-DW-027,Outside of Room 307,42768,2,BA
+2580,Kirkbride ES,2580-01-DW-029,Outside of Main Office,42768,1.2,BA
+2580,Kirkbride ES,2580-00-KC-034,Cafeteria - left,42768,1.7,BA
+2580,Kirkbride ES,2580-00-KC-035,Cafeteria - right,42768,4.4,BA
+2580,Kirkbride ES,2580-00-DW-040,Gymnasium - left,42768,4.1,BA
+1340,Lea ES,1340-00-DW-002,Hallway - Outside of Boy's Room - left,42773,1.1,BA
+1340,Lea ES,1340-00-WC-007,Cafeteria A,42773,0.43,BA
+1340,Lea ES,1340-00-KC-008,"Cafeteria, Kitchen",42773,1.2,BA
+1340,Lea ES,1340-00-WC-011,Cafeteria B,42773,1,BA
+1340,Lea ES,1340-01-DW-026,"Hallway, outside of Room 108 - used for Pre-K",42773,250,AA
+1340,Lea ES,1340-01-DW-028,"Hallway, near Room 106",42773,9.1,BA
+1340,Lea ES,1340-01-CF-029,Health Suite,42773,1.7,BA
+1340,Lea ES,1340-02-WC-037,Hallway - across from Room 206,42773,0.14,BA
+1340,Lea ES,1340-03-WC-046,Across from Room 307,42773,11.8,AA
+1340,Lea ES,1340-01-HS-050,"Across from Exit ""H"" and Auditorium Doorway",42773,0.074,BA
+1340,Lea ES,1340-01-DW-052,Room 102 - Kindergarten,42773,3,BA
+1340,Lea ES,1340-01-DW-056,Room 101 - Kindergarten,42773,1.3,BA
+1340,Lea ES,1340-02-HS-061,Element #1  center - Across from Teacher's Restroom,42773,0.08,BA
+1340,Lea ES,1340-01-DW-068,Element #1 south - in Hallway; proximate to Pre-K; Room L-4,42773,0.85,BA
+1340,Lea ES,1340-00-DW-079,Hallway - Outside of Girl's Room - left,42773,0.57,BA
+1340,Lea ES,1340-00-DW-080,Hallway - Outside of Girl's Room - center,42773,0.61,BA
+1340,Lea ES,1340-00-DW-081,Hallway - Outside of Girl's Room - right,42773,1.3,BA
+1340,Lea ES,1340-00-DW-094,"In Hallway, Outside Room 06B - left",42773,1.1,BA
+1340,Lea ES,1340-00-DW-095,"In Hallway, Outside Room 06B - right",42773,1.3,BA
+4320,Lamberton ES (INC accel),4320-00-KC-005,Kitchen,42769,2.5,BA
+4320,Lamberton ES (INC accel),4320-00-IM-006,Kitchen,42769,0.074,BA
+4320,Lamberton ES (INC accel),4320-00-DW-007,Cafeteria,42769,0.16,BA
+4320,Lamberton ES (INC accel),4320-01-DW-014,Between Rooms 117 and 118,42733,2.9,BA
+4320,Lamberton ES (INC accel),4320-01-HS-015,"Across from Rooms 110 and 111, betweeen the restrooms",42769,0.074,BA
+4320,Lamberton ES (INC accel),4320-01-HS-018,Hallway between Rooms 101 and 102,42769,0.074,BA
+4320,Lamberton ES (INC accel),4320-02-WC-020,Hallway between Rooms 201 and 202,42769,17.8,AA
+4320,Lamberton ES (INC accel),4320-02-HS-021,Between Rooms 211 and 212,42769,0.074,BA
+4320,Lamberton ES (INC accel),4320-01-CF-070,Room 120A - teacher's lounge,42769,2.8,BA
+7330,Lawton ES,7330-011-KC-007,Kitchen - large basin,42769,6.8,BA
+7330,Lawton ES,7330-01-DW-008,Gymnasium,42769,9.8,BA
+7330,Lawton ES,7330-01-HS-024,Outside Bathrooms,42769,0.074,BA
+7330,Lawton ES,7330-01-WC-033,Outside Main Office,42769,1.1,BA
+7330,Lawton ES,7330-01-WC-038,Room 104,42769,0.91,BA
+7330,Lawton ES,7330-01-CF-039,Nurse's office - front room,42769,4.9,BA
+7330,Lawton ES,7330-01-CF-040,Nurse's office - back room,42769,6,BA
+7330,Lawton ES,7330-01-WC-044,Room 101,42769,1.5,BA
+7330,Lawton ES,7330-01-WC-047,Room 102,42769,11.3,AA
+7330,Lawton ES,7330-02-DW-049,Room 201,42769,55,AA
+7330,Lawton ES,7330-02-DW-057,Room 205,42769,8.7,BA
+7330,Lawton ES,7330-02-DW-059,Room 206,42769,4.4,BA
+7330,Lawton ES,7330-02-HS-071,Outside IMC,42769,0.12,BA
+7330,Lawton ES,7330-01-KC-091N,Kitchen - left,42769,1.2,BA
+7330,Lawton ES,7330-01-KC-092N,Kitchem - middle,42769,0.63,BA
+7330,Lawton ES,7330-01-KC-093N,Kitchen - right,42769,1.4,BA
+7330,Lawton ES,7330-01-KC-094N,Teacher's lounge,42769,7,BA
+7330,Lawton ES,7330-01-DW-095N,Classroom 108,42769,0.054,BA
+7330,Lawton ES,7330-01-DW-097N,Classroom 111,42769,0.12,BA
+7330,Lawton ES,7330-01-DW-098N,Classroom 112,42769,0.75,BA
+7330,Lawton ES,7330-01-DW-099N,Classroom 113,42769,0.11,BA
+7330,Lawton ES,7330-01-DW-100N,Classroom 114,42769,0.38,BA
+7330,Lawton ES,7330-01-DW-102N,Classroom 117,42769,0.1,BA
+7330,Lawton ES,7330-01-DW-103N,Classroom 119,42769,0.67,BA
+7330,Lawton ES,7330-01-DW-105N,Classroom 123,42769,0.074,BA
+7330,Lawton ES,7330-01-WC-106N,Outside Room 121 - left,42769,0.074,BA
+7330,Lawton ES,7330-01-WC-107N,Outside Room 121 - right,42769,0.26,BA
+7330,Lawton ES,7330-02-DW-108N,Classroom 207,42769,0.098,BA
+7330,Lawton ES,7330-02-DW-110N,Classroom 211,42769,0.074,BA
+7330,Lawton ES,7330-02-DW-117N,Classroom 222,42769,1.5,BA
+7330,Lawton ES,7330-02-WC-120N,Outside Room 217 - left,42769,0.074,BA
+7330,Lawton ES,7330-02-WC-121N,Outside Room 217 - right,42769,0.074,BA
+6440,Lingelbach,6440-00-DW-001,Across from Room 106,42773,2.6,BA
+6440,Lingelbach,6440-00-HS-003,Across from Room 104,42773,0.054,BA
+6440,Lingelbach,6440-00-DW-005,Across from Room 101,42773,3.1,BA
+6440,Lingelbach,6440-01-DW-007,Outside Room 200 and Room 201 - left,42773,4,BA
+6440,Lingelbach,6440-01-DW-008,Outside Room 200 and Room 201 - right,42773,4.8,BA
+6440,Lingelbach,6440-01-DW-009,Room 200A,42773,4.7,BA
+6440,Lingelbach,6440-01-DW-010,Room 200 - Kindergarten,42773,1.9,BA
+6440,Lingelbach,6440-01-HS-011,Across from Room 204 - left,42773,0.054,BA
+6440,Lingelbach,6440-01-DW-014,Outside bathrooms near Cafeteria,42773,2.2,BA
+6440,Lingelbach,6440-01-KC-015,Kitchen Back Wall,42773,10,AA
+6440,Lingelbach,6440-02-HS-018,Outside Room 306,42773,0.081,BA
+6440,Lingelbach,6440-01-BF-049,Nurse's Office Bathroom,42773,1.4,BA
+8440,Loesche,8440-01-DW-007,Across from Room 100,42774,2.1,BA
+8440,Loesche,8440-01-CF-012,Room 101 - Special Education,42774,1.8,BA
+8440,Loesche,8440-01-KC-018,Room 104 - Special Education,42774,2.9,BA
+8440,Loesche,8440-01-DW-022,Gymnasium,42774,0.69,BA
+8440,Loesche,8440-01-WC-031,Main Office,42774,3,BA
+8440,Loesche,8440-01-CF-034,Room 123 - Nurse's Office,42774,2,BA
+8440,Loesche,8440-01-DW-040,Outside Room 109A - left,42774,3.3,BA
+8440,Loesche,8440-01-DW-041,Outside Room 109A - right,42774,2.5,BA
+8440,Loesche,8440-01-DW-056,"Lunchroom, side near kitchen area, left",42774,0.86,BA
+8440,Loesche,8440-01-DW-057,"Lunchroom, side near kitchen area, right",42774,2,BA
+8440,Loesche,8440-01-DW-058,"Lunchroom, side near Room 111, left",42774,2.9,BA
+8440,Loesche,8440-01-DW-059,"Lunchroom, side near Room 111, right",42774,1.8,BA
+8440,Loesche,8440-01-DW-063,Across from Room 110,42774,2.7,BA
+8440,Loesche,8440-02-DW-074,Outside Room 203,42774,0.85,BA
+8440,Loesche,8440-02-DW-087,Across from Room 212 - left,42774,1.7,BA
+8440,Loesche,8440-02-DW-092,Room 214 - classroom,42774,10.6,AA
+8440,Loesche,8440-02-DW-117,Across from Room 224,42774,1.1,BA
+8440,Loesche,8440-01-WC-118,Room B8,42774,0.069,BA
+8440,Loesche,8440-01-CF-127,Room B5 - Kindergarten,42774,1.4,BA
+8440,Loesche,8440-01-WC-130,Room B4 - Classroom,42774,0.071,BA
+8440,Loesche,8440-01-WC-134,Room B3 - Classroom,42774,0.54,BA
+8440,Loesche,8440-01-CF-145,Room A1 - Pre-kindergarten,42774,9.3,BA
+8440,Loesche,8440-01-KC-148,Room A2 - Pre-kindergarten,42774,6.3,BA
+8440,Loesche,8440-01-WC-150,Outside Room A1,42774,2.7,BA
+8440,Loesche,8440-01-DW-156,Gymnasium - cup filler companion to outlet 022,42774,0.41,BA
+8440,Loesche,8440-01-WC-161,room 104 - teacher's lounge,42774,5.2,BA
+8440,Loesche,8440-02-DW-162,Room 215 - classroom,42774,4.1,BA
+8440,Loesche,8440-01-KC-164,Cafeteria Kitchen - Main Island Sink,42774,4.4,BA
+8440,Loesche,8440-01-KC-167,Cafeteria Kitchen - Island Preparation Sink,42774,5.1,BA
+8440,Loesche,8440-01-KC-169,Cafeteria Kitchen - left,42774,5,BA
+8440,Loesche,8440-01-KC-171,Cafeteria Kitchen - left,42774,4.3,BA
+8440,Loesche,8440-01-KC-172,Room 103 - Special Education,42774,1.1,BA
+6300,Logan,6300-00-DW-001,Outside Lunchroom - left,42774,1.8,BA
+6300,Logan,6300-00-DW-002,Outside Lunchroom - center,42774,2,BA
+6300,Logan,6300-00-DW-003,Outside Lunchroom - right,42774,2.1,BA
+6300,Logan,6300-00-DW-005,Across from the Gymnasium - left,42774,3.1,BA
+6300,Logan,6300-00-DW-006,Across from the Gymnasium,42774,2,BA
+6300,Logan,6300-00-DW-008,Across from the Gymnasium,42774,2,BA
+6300,Logan,6300-00-DW-009,Across from the Gymnasium - right,42774,1.4,BA
+6300,Logan,6300-01-HS-014,Outside Room 103 - left,42774,0.074,BA
+6300,Logan,6300-02-HS-016,Outside Room 203,42774,0.054,BA
+6300,Logan,6300-02-DW-017,Between Rooms 207 and 208,42774,0.81,BA
+6300,Logan,6300-03-HS-019,Outside Room 303,42774,0.054,BA
+6300,Logan,6300-01-DW-021,Room 108 - kindergarten,42774,3.5,BA
+6300,Logan,6300-00-KC-026,Kitchen Area - main building,42774,1.9,BA
+6300,Logan,6300-02-CF-042,Nurse's Suite - Room 204A,42774,2.1,BA
+6300,Logan,6300-01-KC-063,Room 105 - Teacher's lounge,42774,1.7,BA
+6310,McCloskey ES,6310-01-WC-006,IMC,42780,0.88,BA
+6310,McCloskey ES,6310-01-KC-007,Cafeteria Kitchen,42780,5.1,BA
+6310,McCloskey ES,6310-01-DW-008,Gymnasium,42780,1.4,BA
+6310,McCloskey ES,6310-01-HS-010,Hall outside of Gymnasium,42780,0.083,BA
+6310,McCloskey ES,6310-01-CF-015,Nurse's Office,42780,3.4,BA
+6310,McCloskey ES,6310-01-HS-017,Hallway across from Main Office - left,42780,0.054,BA
+6310,McCloskey ES,6310-01-KC-029,Room 105 - special education room,42780,0.78,BA
+6310,McCloskey ES,6310-01-DW-032,Room 104 - kindergarten,42780,3.4,BA
+6310,McCloskey ES,6310-01-DW-033,Outside Room 104 - left,42780,2.4,BA
+6310,McCloskey ES,6310-01-DW-034,Outside Room 104 - right,42780,2.3,BA
+6310,McCloskey ES,6310-01-WC-040,"Hallway, betweeen bathrooms in portable",42780,0.81,BA
+6310,McCloskey ES,6310-02-HS-045,Across from Room Teacher's Lounge,42780,0.054,BA
+2340,McCall ES,2340-00-HS-024,In Between Gym and Men's Room,42780,0.074,BA
+2340,McCall ES,2340-00-DW-027,In Gym - left,42780,2.6,BA
+2340,McCall ES,2340-00-DW-076,In Gym,42780,3.4,BA
+2340,McCall ES,2340-00-DW-077,In Gym,42780,2.1,BA
+2340,McCall ES,2340-00-DW-078,In Gym - right,42780,2.3,BA
+2340,McCall ES,2340-00-KC-029,In Gym,42780,3.2,BA
+2340,McCall ES,2340-03-DW-039,Outside Room 326,42780,0.15,BA
+2340,McCall ES,2340-02-DW-047,Outside Room 217 - left,42780,1.3,BA
+2340,McCall ES,2340-02-DW-081,Outside Room 217 - right,42780,1.2,BA
+2340,McCall ES,2340-01-DW-060,Outside Room 104 - Main office,42780,3.7,BA
+2340,McCall ES,2340-01-HS-062,Outside Room 108,42780,0.074,BA
+2340,McCall ES,2340-01-CF-065,Nurses Office - Room 110A,42780,4.6,BA
+2340,McCall ES,2340-00-DW-074,Outside Music Room #2 - set of bubblers on right - center,42780,5.8,BA
+2340,McCall ES,2340-00-DW-075,Outside Music Room #2 - set of bubblers on right - right,42780,7.5,BA
+2340,McCall ES,2340-02-KC-085N,Room 216A - Teacher's Lounge,42780,5.6,BA
+5350,McKinley ES,5350-01-HS-014,"Outside ""B"" classrooms",42781,0.054,BA
+5350,McKinley ES,5350-01-HS-015,"Outside ""A"" classrooms",42781,0.054,BA
+5350,McKinley ES,5350-01-DW-033,Gymnasium,42781,1.5,BA
+5350,McKinley ES,5350-01-KC-034,Cafeteria kitchen - left,42781,1.6,BA
+5350,McKinley ES,5350-01-KC-035,Cafeteria kitchen - right,42781,0.76,BA
+5350,McKinley ES,5350-01-CF-048,Room 8 - Special Education,42781,3.4,BA
+5350,McKinley ES,5350-01-CF-059,Room 5 - Special Education,42781,1.3,BA
+5350,McKinley ES,5350-01-HS-060,Hallway next to Room 5,42781,0.054,BA
+5350,McKinley ES,5350-01-CF-061,Nurse's Office,42781,2.2,BA
+5350,McKinley ES,5350-01-WC-066,Room 4 - kindergarten,42781,1.1,BA
+5350,McKinley ES,5350-01-WC-070,Room 3; kindergarten,42781,3.7,BA
+5350,McKinley ES,5350-01-WC-075,Room 2 - kindergarten,42781,3.3,BA
+5350,McKinley ES,5350-01-WC-078,Room 1 - kindergarten,42781,1.8,BA
+7380,McClure ES,7380-00-DW-003,Room 11 - Pre-kindergarten/Bright Futures,42781,0.96,BA
+7380,McClure ES,7380-00-DW-005,Outside Boy's and Girl's Room - left,42781,0.42,BA
+7380,McClure ES,7380-00-DW-006,Outside Boy's and Girl's Room - right,42781,0.29,BA
+7380,McClure ES,7380-00-DW-017,West End of Hallway - left - outside of Room 007,42781,0.66,BA
+7380,McClure ES,7380-00-DW-018,West End of Hallway - right - outside of Room 007,42781,1,BA
+7380,McClure ES,7380-01-HS-029,Outside Main Office,42781,0.054,BA
+7380,McClure ES,7380-01-DW-032,Outside Room 107,42781,6.7,BA
+7380,McClure ES,7380-01-DW-034,Room 101 - Outside Corner Bathroom,42781,29,AA
+7380,McClure ES,7380-02-HS-041,Outside Room 207 - kindergarten,42781,0.074,BA
+7380,McClure ES,7380-02-CF-043,Nurse's Office,42781,3.3,BA
+7380,McClure ES,7380-03-HS-048,Hallway Near Room 307,42781,0.074,BA
+7380,McClure ES,7380-01-DW-051,Inside Portable Building,42781,1.4,BA
+2380,Meredith ES,2380-03-HS-009,Across From Room 308 - Left,42782,0.074,BA
+2380,Meredith ES,2380-02-HS-023,Across From Room 208,42782,0.074,BA
+2380,Meredith ES,2380-01-HS-033,Across From Room 108,42782,0.074,BA
+2380,Meredith ES,2380-01-CF-036,Nurse's Office,42782,0.48,BA
+2380,Meredith ES,2380-00-KC-043,Café Kitchen - Left Sink,42782,0.82,BA
+2380,Meredith ES,2380-00-HS-045,Outside Café - Left,42782,0.054,BA
+2380,Meredith ES,2380-00-DW-046,Outside Café,42782,0.57,BA
+2380,Meredith ES,2380-00-DW-047,Outside Café,42782,2.3,BA
+2380,Meredith ES,2380-00-DW-048,Outside Café,42782,1.2,BA
+2380,Meredith ES,2380-00-DW-049,Outside Café - next to last on right,42782,1.6,BA
+2380,Meredith ES,2380-00-DW-055,Room B-5,42782,5.9,BA
+2380,Meredith ES,2380-01-DW-067,Room 105 - kindergarten,42782,5.5,BA
+1370,Mitchell ES,1370-03-HS-003,Outside Room 331,42783,0.054,BA
+1370,Mitchell ES,1370-03-WC-004,Across From Room 326,42783,1.5,BA
+1370,Mitchell ES,1370-02-WC-009,Across From Room 216,42783,0.34,BA
+1370,Mitchell ES,1370-02-HS-014,Next to Women's Room,42783,0.054,BA
+1370,Mitchell ES,1370-02-CF-016,Nurse's Office - Room 225,42783,1.4,BA
+1370,Mitchell ES,1370-01-HS-021,Outside Principal's bathroom Room 109,42783,0.054,BA
+1370,Mitchell ES,1370-01-WC-022,Outside Women's Room and Room 105,42783,0.58,BA
+1370,Mitchell ES,1370-00-WC-027,Across From BE's Office,42783,0.18,BA
+1370,Mitchell ES,1370-00-WC-029,Outside Café,42783,0.2,BA
+1370,Mitchell ES,1370-00-KC-037,Café Kitchen - Left,42783,2,BA
+1370,Mitchell ES,1370-00-KC-038,Café Kitchen - right,42783,75.7,AA
+1370,Mitchell ES,1370-01-DW-050,Room 101 - kindergarten,42783,28.8,AA
+1370,Mitchell ES,1370-00-CF-055,IMC Kitchenette,42783,18.4,AA
+1370,Mitchell ES,1370-02-KC-073,Room 224 - Teacher's Lounge,42783,4.6,BA
+5370,Moffet ES,5370-01-DW-010,Outside Room 113,42788,6,BA
+5370,Moffet ES,5370-01-CF-011,Room 114 - kindergarten,42788,5.7,BA
+5370,Moffet ES,5370-01-CF-015,Room 115 - kindergarten,42788,8.2,BA
+5370,Moffet ES,5370-01-DW-022,Gym - Left,42788,7.9,BA
+5370,Moffet ES,5370-01-DW-023,Gym - Right,42788,5.2,BA
+5370,Moffet ES,5370-01-CF-028,Room 19A - Nurse's Health Suite,42788,12.4,AA
+5370,Moffet ES,5370-01-CF-030,Room 19A - Nurse's Exam Room,42788,9.3,BA
+5370,Moffet ES,5370-01-WC-033,Outside Room 119,42788,0.32,BA
+5370,Moffet ES,5370-01-DW-037,Room 104 - Art Room,42788,4.6,BA
+5370,Moffet ES,5370-01-DW-041,Room 107 - 2nd Grade,42788,13.1,AA
+5370,Moffet ES,5370-01-DW-042,Room 108 - 2nd Grade,42788,8.1,BA
+5370,Moffet ES,5370-02-KC-046,Kitchen - Left,42788,1.3,BA
+5370,Moffet ES,5370-02-KC-047,Kitchen - Right,42788,2.4,BA
+5370,Moffet ES,5370-02-DW-049,Room 214 - classroom,42788,1.5,BA
+5370,Moffet ES,5370-02-DW-051,Room 215 - classroom,42788,2.8,BA
+5370,Moffet ES,5370-02-DW-052,Room 219 West Cafeteria - Left,42788,0.31,BA
+5370,Moffet ES,5370-02-DW-053,Room 219 West Cafeteria - Right,42788,1.4,BA
+5370,Moffet ES,5370-02-DW-055,Room 216 - classroom,42788,1.1,BA
+5370,Moffet ES,5370-02-DW-057,Room 217 - classroom,42788,4.8,BA
+5370,Moffet ES,5370-02-DW-064,Outside Girl's Room,42788,7.7,BA
+5370,Moffet ES,5370-02-DW-071,Room 201 - classroom,42788,3.7,BA
+5370,Moffet ES,5370-02-DW-073,Room 202 - classroom,42788,1.7,BA
+5370,Moffet ES,5370-02-DW-075,Room 203 - classroom,42788,2.8,BA
+5370,Moffet ES,5370-02-DW-076,Room 208 - East Cafeteria - Left,42788,0.37,BA
+5370,Moffet ES,5370-02-DW-077,Room 208 - East Cafeteria - Right,42788,0.37,BA
+5370,Moffet ES,5370-02-DW-079,Room 204 - classroom,42788,2.3,BA
+5370,Moffet ES,5370-02-DW-081,Room 205 - Special Education,42788,0.92,BA
+5370,Moffet ES,5370-02-DW-083,Room 206 - Special Education,42788,0.28,BA
+5370,Moffet ES,5370-02-DW-091,Outside Room 209,42788,3.2,BA
+8310,Moore ES,8310-01-CF-007,Room 109 - Special Education,42788,0.46,BA
+8310,Moore ES,8310-01-HS-010,Outside IMC - Right,42788,0.054,BA
+8310,Moore ES,8310-01-CF-016,Nurse's Office,42788,1.8,BA
+8310,Moore ES,8310-01-WC-018,Main Office,42788,1.6,BA
+8310,Moore ES,8310-01-HS-020,Hallway Across From Auditorium - Left,42788,0.054,BA
+8310,Moore ES,8310-01-KC-024,Kitchen,42788,2.3,BA
+8310,Moore ES,8310-01-DW-034,Outside Room 113 - Left,42788,2.1,BA
+8310,Moore ES,8310-01-CF-041,Room 102 - left - kindergarten,42788,10.6,AA
+8310,Moore ES,8310-01-CF-042,Room 102 - right - kindergarten,42788,3.2,BA
+8310,Moore ES,8310-02-HS-057,Outside Room 216 - Left,42788,0.054,BA
+8310,Moore ES,8310-02-DW-065,Outside Room 214 - Left,42788,1.8,BA
+8310,Moore ES,8310-02-DW-066,Outside Room 214 - Right,42788,1.6,BA
+8310,Moore ES,8310-02-HS-074,Outside Room 212 - Left,42788,0.054,BA
+8310,Moore ES,8310-01-DW-083N,Classroom P110,42788,0.1,BA
+8310,Moore ES,8310-01-DW-084N,Classroom P111,42788,0.084,BA
+8310,Moore ES,8310-01-DW-085N,Classroom P112,42788,0.14,BA
+8310,Moore ES,8310-01-DW-086N,Classroom P113,42788,0.094,BA
+8310,Moore ES,8310-01-DW-087N,Classroom P114,42788,0.082,BA
+8310,Moore ES,8310-01-DW-088N,Classroom P115,42788,0.064,BA
+8310,Moore ES,8310-01-DW-089N,Classroom P116,42788,0.1,BA
+8310,Moore ES,8310-01-DW-090N,Classroom P117,42788,0.12,BA
+8310,Moore ES,8310-01-DW-091N,Classroom P124,42788,0.15,BA
+8310,Moore ES,8310-01-DW-092N,Classroom P125,42788,10.6,AA
+8310,Moore ES,8310-01-DW-093N,Classroom P126,42788,0.89,BA
+8310,Moore ES,8310-01-DW-094N,Classroom P127,42788,0.78,BA
+8310,Moore ES,8310-01-WC-095N,Outside Room P104,42788,0.1,BA
+8310,Moore ES,8310-01-KC-096N,Kitchen - Left,42788,2.2,BA
+8310,Moore ES,8310-01-KC-097N,Kitchen - Right,42788,2.6,BA
+8310,Moore ES,8310-01-KC-098N,Teacher's Lounge - P103,42788,1.7,BA
+8310,Moore ES,8310-01-WC-099N,Outside P102A - Left,42788,0.062,BA
+8310,Moore ES,8310-01-WC-100N,Outside P102A - Right,42788,0.06,BA
+8310,Moore ES,8310-01-WC-101N,Outside P121 - Left,42788,0.13,BA
+8310,Moore ES,8310-01-WC-102N,Outside P121 - Right,42788,1.1,BA

@@ -22,7 +22,7 @@ Metalsmith(__dirname)
   .use(csv({
     files:[
       'data/school-conditions.csv',
-      'data/lead-samples-2016.csv',
+      'data/lead-data-from-sd-2016.csv',
       'data/lead-samples-2010.csv'
     ]
   }))
@@ -77,10 +77,11 @@ Metalsmith(__dirname)
     })
     md.ppbThresholds = s.range()
 
-    md['lead-samples-2016'] = md['lead-samples-2016'].map(function (sample) {
+    md['lead-samples-2016'] = md['lead-data-from-sd-2016'].map(function (sample) {
       // Normalize to match old data
       sample.ulcs = sample.ULCS
-      sample.name = md.byUlcs[sample.ULCS]['School Name (ULCS)']
+      sample.name = sample.SCHOOL
+
       sample.id = sample['Outlet ID #']
       var result = sample['Test Result (ppb)']
       if (result.indexOf('<') === 0) {
@@ -145,11 +146,14 @@ Metalsmith(__dirname)
 
     // Add 2016 lead data to each of these schools
     metadata['lead-samples-2016'].forEach(function (sample) {
-      if (metadata.byUlcs[sample.ulcs].lead[2016]) {
-        metadata.byUlcs[sample.ulcs].lead[2016].push(sample)
-      } else {
-        metadata.byUlcs[sample.ulcs].lead[2016] = [sample]
+      if (metadata.byUlcs[sample.ulcs]) {
+        if (metadata.byUlcs[sample.ulcs].lead[2016]) {
+          metadata.byUlcs[sample.ulcs].lead[2016].push(sample)
+        } else {
+          metadata.byUlcs[sample.ulcs].lead[2016] = [sample]
+        }
       }
+
     })
 
     // Add 2010 lead data to each of these schools
